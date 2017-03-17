@@ -1,6 +1,6 @@
 /**
 * This Json is ideal to show the routes and the stops for the Cutitba's busses
-* Basically, each point hast the same info given by the URBS API. However we need
+* Basically, each point has the same info given by the URBS API. However we need
 * to add some fields:
 *   stop: Indicates that the point is an bus stop (e.g. Terminal Cabral)
 *   disNext: The distance in meters between that point and the next point
