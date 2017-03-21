@@ -23,12 +23,14 @@ var routeLine = [];
  * Route line setting
  *****************************************************/
 var routePath;
+var routePath342;
+var routePath225;
 
 /*****************************************************
  * When the document is ready,
  * we get the array from the files/alvaras.csv
  *****************************************************/
-$(document).ready(function() {
+/*$(document).ready(function() {
     $.ajax({
         url: 'https://raw.githubusercontent.com/AlvarDev/HostJson/master/shape225.json', //url a pedir, este sería el servlet
         type: 'GET', //tipo de peticion [GET, POST.DELETE,PUT]
@@ -72,12 +74,12 @@ $(document).ready(function() {
     });
 
 });
-
+*/
 /*****************************************************
  * Initialize the map, the clusters, the polygons,
  * the Slider for years range and the components
  *****************************************************/
-//google.maps.event.addDomListener(window, 'load', initialize);
+google.maps.event.addDomListener(window, 'load', initialize);
 
 function initialize() {
     var mapCanvas = document.getElementById('map');
@@ -90,7 +92,7 @@ function initialize() {
     }
 
     map = new google.maps.Map(mapCanvas, mapOptions);
-    setPoints();
+    //setPoints();
     $('#linhaSelector').multiselect({
         columns: 1,
         placeholder: 'Selecionar linha',
@@ -176,23 +178,42 @@ function closeSettings(close) {
 }
 
 function showLinhas() {
+
+    if(routePath342 != null){
+      routePath342.setMap(null);
+    }
+
+    if(routePath225 != null){
+      routePath225.setMap(null);
+    }
+
+$( ".rem" ).remove();
+
     var linhas = $('#linhaSelector').val();
     for (var i = 0; i < linhas.length; i++) {
         if (linhas[i] == "342") {
+            var line342 = [];
             var distance = 0;
-            var html = '<div class="btn" onclick="dist2()">[342] Bairro Alto / Boa Vista</div>';
+            var html = '<div class="rem"><div class="btn" onclick="dist2()">[342] Bairro Alto / Boa Vista</div>';
             html += '<div id="r-342">';
             html += '<div class="route-title"><strong>Sentido Terminal Bairro Alto</strong></div><br>';
 
             $.each(route342, function(i, point) {
                 if (point.stop && point.sentido == "Terminal Bairro Alto") {
-                  var space = distance < 100 ? "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" : "&nbsp;&nbsp;&nbsp;";
-                  space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
-                  html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
-                  distance = 0;
+                    var space = distance < 100 ? "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" : "&nbsp;&nbsp;&nbsp;";
+                    space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
+                    html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
+                    distance = 0;
                 } else {
                     distance += point.disnext;
+                    line342.push({
+                        lat: parseFloat(point.lat),
+                        lng: parseFloat(point.lon)
+                    });
                 }
+
+
+
             });
 
             html += '<br>';
@@ -210,13 +231,14 @@ function showLinhas() {
                 }
 
             });
-            html += "</div><br><br>";
+            html += "</div><br><br></div>";
             $("#routes").append(html);
 
-            showPath(route342);
+            showPath(line342, true);
         } else {
+          var line225 = [];
             var distance = 0;
-            var html = '<div class="btn" onclick="dist()">[225] Boa Vista / Barreirinha</div><br>';
+            var html = '<div class="rem"><div class="btn" onclick="dist()">[225] Boa Vista / Barreirinha</div><br>';
             html += '<div id="r-225">';
             html += '<div class="route-title"><strong>Sentido Terminal Barrerinha</strong></div><br>';
 
@@ -229,6 +251,10 @@ function showLinhas() {
                     distance = 0;
                 } else {
                     distance += point.disnext;
+                    line225.push({
+                        lat: parseFloat(point.lat),
+                        lng: parseFloat(point.lon)
+                    });
                 }
 
             });
@@ -250,16 +276,34 @@ function showLinhas() {
                 }
 
             });
-            html += "</div><br><br>";
+            html += "</div><br><br></div>";
             $("#routes").append(html);
-            showPath(route225);
+            showPath(line225, false);
         }
     }
 }
 
 
-function showPath(route) {
-
+function showPath(route, r342) {
+    if (r342) {
+        routePath342 = new google.maps.Polyline({
+            path: route,
+            geodesic: true,
+            strokeColor: '#1565c0',
+            strokeOpacity: 1.0,
+            strokeWeight: 2
+        });
+        routePath342.setMap(map);
+    } else {
+        routePath225 = new google.maps.Polyline({
+            path: route,
+            geodesic: true,
+            strokeColor: '#073855;',
+            strokeOpacity: 1.0,
+            strokeWeight: 2
+        });
+        routePath225.setMap(map);
+    }
 }
 
 var r225 = true;
