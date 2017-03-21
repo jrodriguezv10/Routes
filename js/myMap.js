@@ -5,6 +5,7 @@ var database;
 var database2;
 var back;
 var sentido;
+var markers = [];
 
 var load1 = false;
 var load2 = false;
@@ -148,8 +149,8 @@ function compare(a, b) {
 }
 
 function getMarker(item, number) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = sentido == item.SENTIDO ?
+    var latLng = new google.maps.LatLng(item.lat, item.lon);
+    var iconURL = sentido == item.sentido ?
         "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
         "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
 
@@ -164,6 +165,8 @@ function getMarker(item, number) {
         });
         infowindow.open(map, marker);
     });
+
+    markers.push(marker);
     return marker;
 }
 
@@ -179,15 +182,20 @@ function closeSettings(close) {
 
 function showLinhas() {
 
-    if(routePath342 != null){
-      routePath342.setMap(null);
+    if (routePath342 != null) {
+        routePath342.setMap(null);
     }
 
-    if(routePath225 != null){
-      routePath225.setMap(null);
+    if (routePath225 != null) {
+        routePath225.setMap(null);
     }
 
-$( ".rem" ).remove();
+    $(".rem").remove();
+
+    for (var i = 0; i < markers.length; i++) {
+        markers[i].setMap(null);
+    }
+    markers = [];
 
     var linhas = $('#linhaSelector').val();
     for (var i = 0; i < linhas.length; i++) {
@@ -204,6 +212,8 @@ $( ".rem" ).remove();
                     space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
                     html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
                     distance = 0;
+                    sentido = "Terminal Bairro Alto";
+                    getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
                     line342.push({
@@ -226,6 +236,7 @@ $( ".rem" ).remove();
                     space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
                     html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
                     distance = 0;
+                    getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
                 }
@@ -236,7 +247,7 @@ $( ".rem" ).remove();
 
             showPath(line342, true);
         } else {
-          var line225 = [];
+            var line225 = [];
             var distance = 0;
             var html = '<div class="rem"><div class="btn" onclick="dist()">[225] Boa Vista / Barreirinha</div><br>';
             html += '<div id="r-225">';
@@ -249,6 +260,8 @@ $( ".rem" ).remove();
                     space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
                     html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
                     distance = 0;
+                    sentido = "Terminal Barrerinha";
+                    getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
                     line225.push({
@@ -271,6 +284,7 @@ $( ".rem" ).remove();
                     space = distance < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
                     html += '<div class="route-row"><div class="route-distance">' + distance + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
                     distance = 0;
+                    getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
                 }
