@@ -216,10 +216,12 @@ function showLinhas() {
                     getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
-                    line342.push({
-                        lat: parseFloat(point.lat),
-                        lng: parseFloat(point.lon)
-                    });
+                    if(!point.stop){
+                      line342.push({
+                          lat: parseFloat(point.lat),
+                          lng: parseFloat(point.lon)
+                      });
+                    }
                 }
 
 
@@ -239,6 +241,12 @@ function showLinhas() {
                     getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
+                    if(!point.stop){
+                      line342.push({
+                          lat: parseFloat(point.lat),
+                          lng: parseFloat(point.lon)
+                      });
+                    }
                 }
 
             });
@@ -264,10 +272,12 @@ function showLinhas() {
                     getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
-                    line225.push({
-                        lat: parseFloat(point.lat),
-                        lng: parseFloat(point.lon)
-                    });
+                    if(point.stop != "TRUE"){
+                      line225.push({
+                          lat: parseFloat(point.lat),
+                          lng: parseFloat(point.lon)
+                      });
+                    }
                 }
 
             });
@@ -287,6 +297,12 @@ function showLinhas() {
                     getMarker(point, i).setMap(map);
                 } else {
                     distance += point.disnext;
+                    if(point.stop != "TRUE"){
+                      line225.push({
+                          lat: parseFloat(point.lat),
+                          lng: parseFloat(point.lon)
+                      });
+                    }
                 }
 
             });
