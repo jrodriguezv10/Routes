@@ -109,72 +109,6 @@ function createJson() {
 
 }
 
-/** For test **/
-function printShape(shapeTmp, go) {
-    var routeLine = [];
-    $.each(shapeTmp, function(i, item) {
-        routeLine.push({
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        });
-        //createMarker(item, false).setMap(map);
-    });
-
-    var routePath = new google.maps.Polyline({
-        path: routeLine,
-        geodesic: true,
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 1.0,
-        strokeWeight: 2
-    });
-    routePath.setMap(map);
-}
-
-function printStops(stopsTmp, go) {
-    $.each(stopsTmp, function(i, item) {
-        createMarker(item, go).setMap(map);
-        printArea(item, go);
-    });
-}
-
-function createMarker(item, go) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = go ?
-        "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
-        "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
-
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
-    });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
-            item.SEQ + '<br>' + item.SENTIDO;
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
-
-    return marker;
-}
-
-function printArea(item, go) {
-    var cityCircle = new google.maps.Circle({
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: go ? colorGreen : colorRed,
-        fillOpacity: 0.35,
-        map: map,
-        center: {
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        },
-        radius: radius
-    });
-}
-
 function getReferentShapePoint(shapeTmp, stopsTmp) {
     var stopIndex = 0;
     var recluting = false;
@@ -244,9 +178,7 @@ function getNearestShapePoint(reclutedShapePoints) {
             index = shapePoint.index;
         }
     });
-
     return index;
-
 }
 
 /**
@@ -274,7 +206,6 @@ function distanceBetweenPoints(p1, p2) {
     return Math.round(d);
 };
 
-
 function compare(a, b) {
     if (a.SEQ < b.SEQ)
         return -1;
@@ -283,6 +214,55 @@ function compare(a, b) {
     return 0;
 }
 
+/** For test **/
+function printShape(shapeTmp, go) {
+    var routeLine = [];
+    $.each(shapeTmp, function(i, item) {
+        routeLine.push({
+            lat: parseFloat(item.LAT),
+            lng: parseFloat(item.LON)
+        });
+        //createMarker(item, false).setMap(map);
+    });
+
+    var routePath = new google.maps.Polyline({
+        path: routeLine,
+        geodesic: true,
+        strokeColor: go ? colorGreen : colorRed,
+        strokeOpacity: 1.0,
+        strokeWeight: 2
+    });
+    routePath.setMap(map);
+}
+
+function printStops(stopsTmp, go) {
+    $.each(stopsTmp, function(i, item) {
+        createMarker(item, go).setMap(map);
+        printArea(item, go);
+    });
+}
+
+function createMarker(item, go) {
+    var latLng = new google.maps.LatLng(item.LAT, item.LON);
+    var iconURL = go ?
+        "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
+        "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
+
+    var marker = new google.maps.Marker({
+        position: latLng,
+        icon: iconURL
+    });
+    marker.addListener('click', function() {
+        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
+            item.SEQ + '<br>' + item.SENTIDO;
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+        infowindow.open(map, marker);
+    });
+
+    return marker;
+}
 
 function createMarker2(item) {
     var latLng = new google.maps.LatLng(item.LAT, item.LON);
@@ -304,7 +284,18 @@ function createMarker2(item) {
     return marker;
 }
 
-
-
-
-//
+function printArea(item, go) {
+    var cityCircle = new google.maps.Circle({
+        strokeColor: go ? colorGreen : colorRed,
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: go ? colorGreen : colorRed,
+        fillOpacity: 0.35,
+        map: map,
+        center: {
+            lat: parseFloat(item.LAT),
+            lng: parseFloat(item.LON)
+        },
+        radius: radius
+    });
+}
