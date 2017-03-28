@@ -13,8 +13,6 @@ var jsonResponse = {
     points: []
 }
 
-//google.maps.event.addDomListener(window, 'load', initialize);
-
 function initialize() {
     var mapCanvas = document.getElementById('map');
     var mapOptions = {
@@ -39,7 +37,7 @@ function getJsonFromServer() {
             shape = response;
             loadedShape = true;
             if (loadedShape && loadedStops) {
-                console.log(createJsonResponse());
+                return createJsonResponse();
             }
         },
         error: function(response) {
@@ -55,7 +53,7 @@ function getJsonFromServer() {
             stops = response;
             loadedStops = true;
             if (loadedShape && loadedStops) {
-                console.log(createJsonResponse());
+                return createJsonResponse();
             }
         },
         error: function(response) {
@@ -106,7 +104,8 @@ function createJsonResponse() {
 function getReferentShapePoint(shapeTmp, stopsTmp) {
     var stopIndex = 0;
     var recluting = false;
-    var reclutedShapePoints = [];
+    var distController = radius + 1;
+    var indexController = -1;
 
     $.each(shapeTmp, function(i, shapePoint) {
 
@@ -115,9 +114,11 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
         distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
 
         if (stopIndex == 0) { //begin
-
-            addStop(stopsTmp[stopIndex], 100);
-            addShapePoint(shapeTmp[i], 200);
+            addStop(stopsTmp[stopIndex], distShapeToStop);
+            addShapePoint(shapePoint, distanceBetweenPoints(
+                new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
+                new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
+            console.log("-> added SP [" + i + "]");
             //TODO mark shape as referente with number stop
             //TODO set distance from stop to shape reference
             //TODO set distance to next shape
@@ -128,42 +129,52 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
             //console.log("---------");
             //createMarker2(shapePoint).setMap(map);
             //TODO add shape
-            addShapePoint(shapeTmp[i], 200);
+            addShapePoint(shapePoint, 0);
             //TODO add last stop
-            addStop(stopsTmp[stopIndex], 100);
+            addStop(stopsTmp[stopIndex], distShapeToStop);
+            console.log("-> added SP [" + i + "]");
             //TODO mark shape as referente with number stop
             //TODO set distance from shape reference to stop
         } else {
+            addShapePoint(shapePoint, distanceBetweenPoints(
+                new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
+                new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
+            console.log("-> added SP [" + i + "]");
             if (distShapeToStop <= radius) { //radius in meters
                 recluting = true;
-                reclutedShapePoints.push({
-                    dis: distShapeToStop,
-                    index: i
-                });
+                if (distShapeToStop < distController) {
+                    distController = distShapeToStop;
+                    indexController = i;
+                }
                 //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
             } else {
                 if (recluting) {
+                    if (i == 10) {
+                        console.log("10 is here");
+                    }
                     //make change
                     //TODO determinate nearest shapePoint
                     //TODO add shape
-                    addShapePoint(shapeTmp[getNearestShapePoint(reclutedShapePoints)], 200);
+                    //addShapePoint(shapeTmp[indexController], 200);
                     //TODO add stop
-                    addStop(stopsTmp[stopIndex], 100);
+                    addStop(stopsTmp[stopIndex], distShapeToStop);
                     //TODO mark shape as referente with number stop
                     //TODO set distance from shape reference to stop
                     //TODO set distance to next shape
                     //console.log("-> goes: " + getNearestShapePoint(reclutedShapePoints)); //just index, get object
                     //createMarker2(shapeTmp[getNearestShapePoint(reclutedShapePoints)]).setMap(map);
-                    reclutedShapePoints = [];
+                    distController = radius + 1;
+                    indexController = -1;
                     //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
                     //console.log("---------");
                     stopIndex++; //next stop
                     recluting = false; //
-                } else {
-                    addShapePoint(shapeTmp[i], 200);
                 }
             }
         }
+
+        console.log("added SP [" + i + "]");
+        console.log("-----");
     });
 }
 

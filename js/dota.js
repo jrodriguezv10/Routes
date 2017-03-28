@@ -1,5 +1,5 @@
 $(document).ready(function() {
 
 //TODO learn promises
-getJsonFromServer();
+console.log(getJsonFromServer());
 });
