@@ -1,15 +1,19 @@
-var server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/tmp';
+let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/tmp';
+let colorGreen = "#4caf50";
+let colorRed = "#ff9800";
+let radius = 50; //meters
 var loadedShape = false;
 var loadedStops = false;
 var shape;
 var stops;
 var map;
-let colorGreen = "#4caf50";
-let colorRed = "#ff9800";
-var radius = 50; //meters
 var routeName;
+var jsonResponse = {
+    success: true,
+    points: []
+}
 
-google.maps.event.addDomListener(window, 'load', initialize);
+//google.maps.event.addDomListener(window, 'load', initialize);
 
 function initialize() {
     var mapCanvas = document.getElementById('map');
@@ -22,11 +26,11 @@ function initialize() {
     }
 
     map = new google.maps.Map(mapCanvas, mapOptions);
-    getJsonFromServer("BOA VISTA / BARREIRINHA");
+    //getJsonFromServer("BOA VISTA / BARREIRINHA", createJsonResponse);
 }
 
-function getJsonFromServer(routeNameReceived) {
-    routeName = routeNameReceived.toLowerCase().trim();
+function getJsonFromServer() {
+    //routeName = routeNameReceived.toLowerCase().trim();
     $.ajax({
         url: server + '/linha225.json',
         type: 'GET',
@@ -35,7 +39,7 @@ function getJsonFromServer(routeNameReceived) {
             shape = response;
             loadedShape = true;
             if (loadedShape && loadedStops) {
-                createJson();
+                console.log(createJsonResponse());
             }
         },
         error: function(response) {
@@ -51,7 +55,7 @@ function getJsonFromServer(routeNameReceived) {
             stops = response;
             loadedStops = true;
             if (loadedShape && loadedStops) {
-                createJson();
+                console.log(createJsonResponse());
             }
         },
         error: function(response) {
@@ -60,7 +64,7 @@ function getJsonFromServer(routeNameReceived) {
     });
 }
 
-function createJson() {
+function createJsonResponse() {
     var shapeSHP = shape[0].SHP;
     var stopsWay = stops[0].SENTIDO;
 
@@ -92,50 +96,41 @@ function createJson() {
 
     stopsGo.sort(compare);
     stopsBack.sort(compare);
-    //console.log("shapeGo: " + shapeGo.length + " [" + shapeGo[0].SHP + "]");
-    //console.log("stopsGo: " + stopsGo.length + " [" + stopsGo[0].SENTIDO + "]");
-    //console.log("shapeBack: " + shapeBack.length + " [" + shapeBack[0].SHP + "]");
-    //console.log("stopsBack: " + stopsBack.length + " [" + stopsBack[0].SENTIDO + "]");
-
-    printShape(shapeGo, true);
-    printStops(stopsGo, true);
+    console.log("stops: " + stopsGo.length);
+    console.log("shape: " + shapeGo.length);
     getReferentShapePoint(shapeGo, stopsGo);
 
-    var p1 = new google.maps.LatLng(stops[0].LAT, stops[0].LON);
-    var p2 = new google.maps.LatLng(stops[stops.length - 1].LAT, stops[stops.length - 1].LON);
-    //console.log("distance: " + distanceBetweenPoints(p1, p2));
-    //printShape(shapeBack, false);
-    //printStops(stopsBack, false);
-
+    return jsonResponse;
 }
 
 function getReferentShapePoint(shapeTmp, stopsTmp) {
     var stopIndex = 0;
     var recluting = false;
     var reclutedShapePoints = [];
+
     $.each(shapeTmp, function(i, shapePoint) {
+
         var shapePointLoc = new google.maps.LatLng(shapePoint.LAT, shapePoint.LON);
         var stopLoc = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
         distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
 
         if (stopIndex == 0) { //begin
-            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("---------");
-            createMarker2(shapePoint).setMap(map);
-            //TODO add first stop
-            //TODO add shape
+
+            addStop(stopsTmp[stopIndex], 100);
+            addShapePoint(shapeTmp[i], 200);
             //TODO mark shape as referente with number stop
             //TODO set distance from stop to shape reference
             //TODO set distance to next shape
             stopIndex++; //next stop
         } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
-            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("---------");
-            createMarker2(shapePoint).setMap(map);
+            //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            //console.log("---------");
+            //createMarker2(shapePoint).setMap(map);
             //TODO add shape
+            addShapePoint(shapeTmp[i], 200);
             //TODO add last stop
+            addStop(stopsTmp[stopIndex], 100);
             //TODO mark shape as referente with number stop
             //TODO set distance from shape reference to stop
         } else {
@@ -145,28 +140,31 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
                     dis: distShapeToStop,
                     index: i
                 });
-                console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+                //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
             } else {
                 if (recluting) {
                     //make change
                     //TODO determinate nearest shapePoint
                     //TODO add shape
+                    addShapePoint(shapeTmp[getNearestShapePoint(reclutedShapePoints)], 200);
                     //TODO add stop
+                    addStop(stopsTmp[stopIndex], 100);
                     //TODO mark shape as referente with number stop
                     //TODO set distance from shape reference to stop
                     //TODO set distance to next shape
-                    console.log("-> goes: " + getNearestShapePoint(reclutedShapePoints));//just index, get object
-                    createMarker2(shapeTmp[getNearestShapePoint(reclutedShapePoints)]).setMap(map);
+                    //console.log("-> goes: " + getNearestShapePoint(reclutedShapePoints)); //just index, get object
+                    //createMarker2(shapeTmp[getNearestShapePoint(reclutedShapePoints)]).setMap(map);
                     reclutedShapePoints = [];
-                    console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                    console.log("---------");
+                    //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+                    //console.log("---------");
                     stopIndex++; //next stop
                     recluting = false; //
+                } else {
+                    addShapePoint(shapeTmp[i], 200);
                 }
             }
         }
     });
-
 }
 
 function getNearestShapePoint(reclutedShapePoints) {
@@ -179,6 +177,32 @@ function getNearestShapePoint(reclutedShapePoints) {
         }
     });
     return index;
+}
+
+function addStop(stop, distance) {
+    jsonResponse.points.push({
+        stop: true,
+        nome: stop.NOME,
+        num: stop.NUM,
+        lat: stop.LAT,
+        lng: stop.LON,
+        seq: stop.SEQ,
+        grupo: stop.GRUPO,
+        sentido: stop.SENTIDO,
+        tipo: stop.TIPO,
+        disNext: 500
+    });
+}
+
+function addShapePoint(shapePoint, distance) {
+    jsonResponse.points.push({
+        stop: false,
+        shp: shapePoint.SHP,
+        lat: shapePoint.LAT,
+        lng: shapePoint.LON,
+        cod: shapePoint.COD,
+        disNext: distance
+    });
 }
 
 /**
