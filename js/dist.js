@@ -112,7 +112,7 @@ function createJson() {
 function getReferentShapePoint(shapeTmp, stopsTmp) {
     var stopIndex = 0;
     var recluting = false;
-    var distController = radius + 1;;
+    var distController = radius + 1;
     var indexController = -1;
 
     $.each(shapeTmp, function(i, shapePoint) {
@@ -153,7 +153,7 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
                 if (recluting) {
                     //make change
                     //TODO determinate nearest shapePoint
-                    //TODO add shape
+                    //TODO update shape
                     //TODO add stop
                     //TODO mark shape as referente with number stop
                     //TODO set distance from shape reference to stop
