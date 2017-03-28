@@ -6,7 +6,7 @@ var stops;
 var map;
 let colorGreen = "#4caf50";
 let colorRed = "#ff9800";
-var radius = 50; //meters
+var radius = 50; //meters -> could be the longest distance beetwen shapePoint / 2
 var routeName;
 
 google.maps.event.addDomListener(window, 'load', initialize);
@@ -109,6 +109,103 @@ function createJson() {
 
 }
 
+function getReferentShapePoint(shapeTmp, stopsTmp) {
+    var stopIndex = 0;
+    var recluting = false;
+    var distController = radius + 1;;
+    var indexController = -1;
+
+    $.each(shapeTmp, function(i, shapePoint) {
+        var shapePointLoc = new google.maps.LatLng(shapePoint.LAT, shapePoint.LON);
+        var stopLoc = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
+        distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
+
+        if (stopIndex == 0) { //begin
+            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            console.log("---------");
+            createMarker2(shapePoint).setMap(map);
+            //TODO add first stop
+            //TODO add shape
+            //TODO mark shape as referente with number stop
+            //TODO set distance from stop to shape reference
+            //TODO set distance to next shape
+            stopIndex++; //next stop
+        } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
+            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            console.log("---------");
+            createMarker2(shapePoint).setMap(map);
+            //TODO add shape
+            //TODO add last stop
+            //TODO mark shape as referente with number stop
+            //TODO set distance from shape reference to stop
+        } else {
+            if (distShapeToStop <= radius) { //radius in meters
+                recluting = true;
+                if(distShapeToStop < distController){
+                  distController = distShapeToStop;
+                  indexController = i;
+                }
+                //TODO add shapePoint
+                console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+            } else {
+                if (recluting) {
+                    //make change
+                    //TODO determinate nearest shapePoint
+                    //TODO add shape
+                    //TODO add stop
+                    //TODO mark shape as referente with number stop
+                    //TODO set distance from shape reference to stop
+                    //TODO set distance to next shape
+                    console.log("-> goes: " + indexController); //just index, get object
+                    createMarker2(shapeTmp[indexController]).setMap(map);
+                    distController = radius + 1;
+                    indexController = -1;
+                    console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+                    console.log("---------");
+                    stopIndex++; //next stop
+                    recluting = false; //
+                }
+            }
+        }
+    });
+
+}
+
+/**
+ * Calculates the distance between two latlng locations in km.
+ * @see http://www.movable-type.co.uk/scripts/latlong.html
+ *
+ * @param {google.maps.LatLng} p1 The first lat lng point.
+ * @param {google.maps.LatLng} p2 The second lat lng point.
+ * @return {number} The distance between the two points in km.
+ * @private
+ */
+function distanceBetweenPoints(p1, p2) {
+    if (!p1 || !p2) {
+        return 0;
+    }
+
+    var R = 6371000; // Radius of the Earth in km
+    var dLat = (p2.lat() - p1.lat()) * Math.PI / 180;
+    var dLon = (p2.lng() - p1.lng()) * Math.PI / 180;
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(p1.lat() * Math.PI / 180) * Math.cos(p2.lat() * Math.PI / 180) *
+        Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    var d = R * c;
+    return Math.round(d);
+};
+
+function compare(a, b) {
+    if (a.SEQ < b.SEQ)
+        return -1;
+    if (a.SEQ > b.SEQ)
+        return 1;
+    return 0;
+}
+
 /** For test **/
 function printShape(shapeTmp, go) {
     var routeLine = [];
@@ -175,115 +272,6 @@ function printArea(item, go) {
     });
 }
 
-function getReferentShapePoint(shapeTmp, stopsTmp) {
-    var stopIndex = 0;
-    var recluting = false;
-    var reclutedShapePoints = [];
-    $.each(shapeTmp, function(i, shapePoint) {
-        var shapePointLoc = new google.maps.LatLng(shapePoint.LAT, shapePoint.LON);
-        var stopLoc = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
-        distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
-
-        if (stopIndex == 0) { //begin
-            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("---------");
-            createMarker2(shapePoint).setMap(map);
-            //TODO add first stop
-            //TODO add shape
-            //TODO mark shape as referente with number stop
-            //TODO set distance from stop to shape reference
-            //TODO set distance to next shape
-            stopIndex++; //next stop
-        } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
-            console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            console.log("---------");
-            createMarker2(shapePoint).setMap(map);
-            //TODO add shape
-            //TODO add last stop
-            //TODO mark shape as referente with number stop
-            //TODO set distance from shape reference to stop
-        } else {
-            if (distShapeToStop <= radius) { //radius in meters
-                recluting = true;
-                reclutedShapePoints.push({
-                    dis: distShapeToStop,
-                    index: i
-                });
-                console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-            } else {
-                if (recluting) {
-                    //make change
-                    //TODO determinate nearest shapePoint
-                    //TODO add shape
-                    //TODO add stop
-                    //TODO mark shape as referente with number stop
-                    //TODO set distance from shape reference to stop
-                    //TODO set distance to next shape
-                    console.log("-> goes: " + getNearestShapePoint(reclutedShapePoints));//just index, get object
-                    createMarker2(shapeTmp[getNearestShapePoint(reclutedShapePoints)]).setMap(map);
-                    reclutedShapePoints = [];
-                    console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                    console.log("---------");
-                    stopIndex++; //next stop
-                    recluting = false; //
-                }
-            }
-        }
-    });
-
-}
-
-function getNearestShapePoint(reclutedShapePoints) {
-    var min = radius + 1;
-    var index;
-    $.each(reclutedShapePoints, function(i, shapePoint) {
-        if (shapePoint.dis <= min) {
-            min = shapePoint.dis;
-            index = shapePoint.index;
-        }
-    });
-
-    return index;
-
-}
-
-/**
- * Calculates the distance between two latlng locations in km.
- * @see http://www.movable-type.co.uk/scripts/latlong.html
- *
- * @param {google.maps.LatLng} p1 The first lat lng point.
- * @param {google.maps.LatLng} p2 The second lat lng point.
- * @return {number} The distance between the two points in km.
- * @private
- */
-function distanceBetweenPoints(p1, p2) {
-    if (!p1 || !p2) {
-        return 0;
-    }
-
-    var R = 6371000; // Radius of the Earth in km
-    var dLat = (p2.lat() - p1.lat()) * Math.PI / 180;
-    var dLon = (p2.lng() - p1.lng()) * Math.PI / 180;
-    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-        Math.cos(p1.lat() * Math.PI / 180) * Math.cos(p2.lat() * Math.PI / 180) *
-        Math.sin(dLon / 2) * Math.sin(dLon / 2);
-    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    var d = R * c;
-    return Math.round(d);
-};
-
-
-function compare(a, b) {
-    if (a.SEQ < b.SEQ)
-        return -1;
-    if (a.SEQ > b.SEQ)
-        return 1;
-    return 0;
-}
-
-
 function createMarker2(item) {
     var latLng = new google.maps.LatLng(item.LAT, item.LON);
     var iconURL = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
@@ -303,7 +291,6 @@ function createMarker2(item) {
 
     return marker;
 }
-
 
 
 
