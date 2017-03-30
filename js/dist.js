@@ -315,14 +315,14 @@ function createMarker(item, go) {
 
 function createMarker2(item, name, distance) {
     var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
+    var iconURL = "img/point3.png";
 
     var marker = new google.maps.Marker({
         position: latLng,
         icon: iconURL
     });
     marker.addListener('click', function() {
-        var contentString = '<strong>(' + distance + 'm) -> ' + name + '</strong>';
+        var contentString = '<strong>(' + distance + 'm) -> ' + name + '</strong> <br>SHP: ' +item.SHP ;
         var infowindow = new google.maps.InfoWindow({
             content: contentString
         });
