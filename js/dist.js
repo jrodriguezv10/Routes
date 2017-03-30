@@ -355,6 +355,7 @@ function printLegend(jsonResponse) {
     var html = '<div class="rem"><div class="btn" onclick="hideTouteLegend()">[225] Boa Vista / Barreirinha</div><br>';
     html += '<div id="r-225">';
     html += '<div class="route-title"><strong>Sentido '+jsonResponse.points[0].sentido+'</strong></div><br>';
+    $("#sentido-go").text("S: " + jsonResponse.points[0].sentido);
     console.log(jsonResponse.points[0].sentido);
 
     $.each(jsonResponse.points, function(i, point) {
@@ -362,6 +363,7 @@ function printLegend(jsonResponse) {
           if(point.sentido != jsonResponse.points[0].sentido && firstTime){
             html += '<br>';
             html += '<div class="route-title"><strong>Sentido Terminal '+point.sentido+'</strong></div><br>';
+            $("#sentido-back").text("S: " + point.sentido);
             console.log(point.sentido);
             firstTime = false;
           }

@@ -15,6 +15,18 @@ body {
     height: 300px;
 }
 
+#console {
+    font-family: 'Roboto', Arial, sans-serif;
+    position: absolute;
+    background: #ffffff;
+    padding: 10px;
+    right: 0;
+    color: white;
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
+}
+
 #statistic-container {
     width: 90%;
     position: absolute;
@@ -125,7 +137,28 @@ section {
 .box_legend, .txt-legend {
     display: inline-block;
     color: #8A8989;
+    font-size: 14px;
+    margin-top: 4px;
+    vertical-align: top;
     font-family: 'Roboto', sans-serif;
+}
+
+#box-green {
+    width: 15px;
+    height: 5px;
+    background: #4caf50;
+    margin-right: 10px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#box-orange {
+    width: 15px;
+    height: 5px;
+    background: #ff9800;
+    margin-right: 10px;
+    margin-left: 10px;
+    vertical-align: middle;
 }
 
 #box-yellow {
