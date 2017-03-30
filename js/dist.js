@@ -1,7 +1,7 @@
 let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/tmp';
 let colorGreen = "#4caf50";
 let colorRed = "#ff9800";
-let radius = 50; //meters
+let radius = 60; //meters
 var loadedShape = false;
 var loadedStops = false;
 var shape;
@@ -97,18 +97,21 @@ function createJsonResponse() {
     stopsGo.sort(compare);
     stopsBack.sort(compare);
     console.log("=====================");
-    console.log("stopsGo: " + stopsBack.length);
-    console.log("shapeGo: " + shapeBack.length);
-    getReferentShapePoint(shapeBack, stopsBack);
+    console.log("stopsGo: " + stopsGo.length);
+    console.log("shapeGo: " + shapeGo.length);
+    getReferentShapePoint(shapeGo, stopsGo);
 
-    //console.log("=====================");
-    //console.log("stopsBack: " + stopsBack.length);
-    //console.log("shapeBack: " + shapeBack.length);
-    //console.log("=====================");
-    //getReferentShapePoint(shapeBack, stopsBack);
+    console.log("=====================");
+    console.log("stopsBack: " + stopsBack.length);
+    console.log("shapeBack: " + shapeBack.length);
+    console.log("=====================");
+    getReferentShapePoint(shapeBack, stopsBack);
 
     printShape(shapeGo, true);
     printStops(stopsGo, true);
+    printShape(shapeBack, false);
+    printStops(stopsBack, false);
+    printLegend(jsonResponse);
 
     console.log(jsonResponse);
 }
@@ -133,7 +136,7 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
             //TODO mark shape as referente with number stop
             //TODO set distance from stop to shape reference
             //TODO set distance to next shape
-            createMarker2(shapePoint,stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
+            createMarker2(shapePoint, stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
             stopIndex++; //next stop
         } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
             //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
@@ -142,14 +145,12 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
             //createMarker2(shapePoint).setMap(map);
             //TODO add shape
             addShapePoint(shapePoint, 0);
-            createMarker2(shapePoint,stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
+            createMarker2(shapePoint, stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
             //TODO add last stop
             addStop(stopsTmp[stopIndex], distShapeToStop);
             //TODO mark shape as referente with number stop
             //TODO set distance from shape reference to stop
         } else {
-          console.log("i: " + i + "[" + (shapeTmp.length - 1)+"]");
-          console.log("stopIndex: " + stopIndex + "["+(stopsTmp.length - 1)+"]");
             addShapePoint(shapePoint, distanceBetweenPoints(
                 new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
                 new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
@@ -214,7 +215,7 @@ function addStop(stop, distance) {
         grupo: stop.GRUPO,
         sentido: stop.SENTIDO,
         tipo: stop.TIPO,
-        disNext: distance
+        disStop: distance
     });
 }
 
@@ -321,7 +322,7 @@ function createMarker2(item, name, distance) {
         icon: iconURL
     });
     marker.addListener('click', function() {
-        var contentString = '<strong>(' + distance +'m) -> '+ name + '</strong>';
+        var contentString = '<strong>(' + distance + 'm) -> ' + name + '</strong>';
         var infowindow = new google.maps.InfoWindow({
             content: contentString
         });
@@ -346,3 +347,35 @@ function printArea(item, go) {
         radius: radius
     });
 }
+
+function printLegend(jsonResponse) {
+    var firstTime = true;
+    var distStop = 0;
+
+    console.log(jsonResponse.points[0].sentido);
+    $.each(jsonResponse.points, function(i, point) {
+        if(point.stop){
+          if(point.sentido != jsonResponse.points[0].sentido && firstTime){
+            console.log(point.sentido);
+            firstTime = false;
+          }
+          console.log("-> [" + (distStop + point.disStop) + "m] " + point.nome);
+          distStop = 0;
+        }else{
+          distStop += point.disNext;
+        }
+
+    });
+
+
+}
+
+
+
+
+
+
+
+
+
+//
