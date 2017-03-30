@@ -18,7 +18,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 function initialize() {
     var mapCanvas = document.getElementById('map');
     var mapOptions = {
-        center: new google.maps.LatLng(-25.383948, -49.246980),
+        center: new google.maps.LatLng(-25.383677, -49.260799),
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false,
@@ -352,13 +352,22 @@ function printLegend(jsonResponse) {
     var firstTime = true;
     var distStop = 0;
 
+    var html = '<div class="rem"><div class="btn" onclick="hideTouteLegend()">[225] Boa Vista / Barreirinha</div><br>';
+    html += '<div id="r-225">';
+    html += '<div class="route-title"><strong>Sentido '+jsonResponse.points[0].sentido+'</strong></div><br>';
     console.log(jsonResponse.points[0].sentido);
+
     $.each(jsonResponse.points, function(i, point) {
         if(point.stop){
           if(point.sentido != jsonResponse.points[0].sentido && firstTime){
+            html += '<br>';
+            html += '<div class="route-title"><strong>Sentido Terminal '+point.sentido+'</strong></div><br>';
             console.log(point.sentido);
             firstTime = false;
           }
+          var space = distStop < 100 ? "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" : "&nbsp;&nbsp;&nbsp;";
+          space = distStop < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
+          html += '<div class="route-row"><div class="route-distance">' + (distStop + point.disStop) + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
           console.log("-> [" + (distStop + point.disStop) + "m] " + point.nome);
           distStop = 0;
         }else{
@@ -366,13 +375,34 @@ function printLegend(jsonResponse) {
         }
 
     });
-
+    html += "</div><br><br></div>";
+    $("#routes").append(html);
 
 }
 
+function closeSettings(close) {
+    var distance = (close ? "-" + ($("#setting-container").width() + 20) : "0") + "px";
+    $("#setting-container").animate({
+        left: distance
+    }, 300);
+    $("#open-settings").css("display", close ? "inline-block" : "none");
+    $("#close-settings").css("display", close ? "none" : "inline-block");
+}
 
-
-
+var r225 = true;
+function hideTouteLegend() {
+    if (!r225) {
+        $("#r-225").fadeIn("fast", function() {
+            // Animation complete
+            r225 = true;
+        });
+    } else {
+        $("#r-225").fadeOut("fast", function() {
+            // Animation complete
+            r225 = false;
+        });
+    }
+}
 
 
 
