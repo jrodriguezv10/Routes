@@ -14,6 +14,7 @@ var jsonResponse = {
 function getJsonFromServer(linha, sent, identifier) {
 
     return new Promise(function(resolve, reject) {
+
         /*****/
         $.ajax({
             url: server + '/shapes/Shape' + linha + '.json',
@@ -22,8 +23,12 @@ function getJsonFromServer(linha, sent, identifier) {
             success: function(response) {
                 shape = response;
                 loadedShape = true;
+                console.log(" shape loadedShape["+loadedShape+"] loadedStops["+loadedStops+"]");
                 if (loadedShape && loadedStops) {
-                    console.log("on Shape");
+                  loadedShape = false;
+                  loadedStops = false;
+                    console.log("----------------------");
+                    console.log("on Shape [" + identifier + "]");
                     resolve(createJsonResponse(sent, identifier));
                 }
             },
@@ -39,8 +44,12 @@ function getJsonFromServer(linha, sent, identifier) {
             success: function(response) {
                 stops = response;
                 loadedStops = true;
+                console.log("pontos loadedShape["+loadedShape+"] loadedStops["+loadedStops+"]");
                 if (loadedShape && loadedStops) {
-                    console.log("on Ponto");
+                  loadedShape = false;
+                  loadedStops = false;
+                    console.log("----------------------");
+                    console.log("on Ponto [" + identifier + "]");
                     resolve(createJsonResponse(sent, identifier));
                     //createJsonResponse();
                 }
@@ -79,18 +88,18 @@ function createJsonResponse(sent, identifier) {
         item.LAT = item.LAT.replace(",", ".");
         item.LON = item.LON.replace(",", ".");
         item.SEQ = parseInt(item.SEQ);
-        if(sent){
-          if (stopsWay == item.SENTIDO) { //TODO improve condition
-              stopsGo.push(item);
-          } else {
-              stopsBack.push(item);
-          }
-        }else{
-          if (stopsWay != item.SENTIDO) { //TODO improve condition
-              stopsGo.push(item);
-          } else {
-              stopsBack.push(item);
-          }
+        if (sent) {
+            if (stopsWay == item.SENTIDO) { //TODO improve condition
+                stopsGo.push(item);
+            } else {
+                stopsBack.push(item);
+            }
+        } else {
+            if (stopsWay != item.SENTIDO) { //TODO improve condition
+                stopsGo.push(item);
+            } else {
+                stopsBack.push(item);
+            }
         }
     });
 
