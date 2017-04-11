@@ -23,10 +23,9 @@ function getJsonFromServer(linha, sent, identifier) {
             success: function(response) {
                 shape = response;
                 loadedShape = true;
-                console.log(" shape loadedShape["+loadedShape+"] loadedStops["+loadedStops+"]");
+                console.log(" shape loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
                 if (loadedShape && loadedStops) {
-                  loadedShape = false;
-                  loadedStops = false;
+                    cleanVars();
                     console.log("----------------------");
                     console.log("on Shape [" + identifier + "]");
                     resolve(createJsonResponse(sent, identifier));
@@ -44,10 +43,9 @@ function getJsonFromServer(linha, sent, identifier) {
             success: function(response) {
                 stops = response;
                 loadedStops = true;
-                console.log("pontos loadedShape["+loadedShape+"] loadedStops["+loadedStops+"]");
+                console.log("pontos loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
                 if (loadedShape && loadedStops) {
-                  loadedShape = false;
-                  loadedStops = false;
+                    cleanVars();
                     console.log("----------------------");
                     console.log("on Ponto [" + identifier + "]");
                     resolve(createJsonResponse(sent, identifier));
@@ -63,7 +61,17 @@ function getJsonFromServer(linha, sent, identifier) {
 
 }
 
-
+function cleanVars() {
+    //shape = [];
+    //stops = [];
+    loadedShape = false;
+    loadedStops = false;
+    jsonResponse = {
+        success: true,
+        points: [],
+        identifier: ''
+    }
+}
 
 function createJsonResponse(sent, identifier) {
     var shapeSHP = shape[0].SHP;
