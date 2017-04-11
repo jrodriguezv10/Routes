@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,411621626364",
+        "LON": "-49,294794149869",
+        "NOME": "R. Victório Viezzer, 810 - Vista Alegre",
+        "NUM": "190515",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409013273534",
+        "LON": "-49,296909570694",
+        "NOME": "R. Dep. João Ferreira Neves, 4 - Vista Alegre",
+        "NUM": "190839",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41978198258",
+        "LON": "-49,289545556287",
+        "NOME": "R. Profa. Rosa Saporski, 451 - Mercês",
+        "NUM": "190845",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407681126206",
+        "LON": "-49,2978335917",
+        "NOME": "R. Dep. João Ferreira Neves, 461 - Vista Alegre",
+        "NUM": "190838",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428209687138",
+        "LON": "-49,265846178539",
+        "NOME": "Praça Santos Andrade - 150 - C. da Música / Vista Alegre",
+        "NUM": "110312",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42203017606",
+        "LON": "-49,289019784832",
+        "NOME": "R. Júlio Perneta, 47 - Mercês",
+        "NUM": "110395",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429998811043",
+        "LON": "-49,274660975879",
+        "NOME": "Rua Ébano Pereira, 218 - Centro",
+        "NUM": "110051",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420162140919",
+        "LON": "-49,281326209822",
+        "NOME": "R. Tapajós, 290 - Mercês",
+        "NUM": "110038",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429458629939",
+        "LON": "-49,271108390039",
+        "NOME": "Praça Tiradentes, 70 - Centro",
+        "NUM": "101012",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41076491127",
+        "LON": "-49,296460300684",
+        "NOME": "R. Dep. João Ferreira Neves, 6 - Vista Alegre",
+        "NUM": "190841",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413366392027",
+        "LON": "-49,29079",
+        "NOME": "R. André Zanetti, 100 - Vista Alegre",
+        "NUM": "190632",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420245239288",
+        "LON": "-49,277171865106",
+        "NOME": "R. Solimões, 21 - São Francisco",
+        "NUM": "110452",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428209687138",
+        "LON": "-49,265846178539",
+        "NOME": "Praça Santos Andrade - 150 - C. da Música / Vista Alegre",
+        "NUM": "110312",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411520228346",
+        "LON": "-49,294655560634",
+        "NOME": "R. Victório Viezzer, 805 - Vista Alegre",
+        "NUM": "190516",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422102697856",
+        "LON": "-49,27558735013",
+        "NOME": "Rua Quari, 1-41 - São Francisco",
+        "NUM": "110331",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422217371557",
+        "LON": "-49,275658101701",
+        "NOME": "Rua Quari, 1-41 - São Francisco",
+        "NUM": "110326",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419845741573",
+        "LON": "-49,28842802569",
+        "NOME": "R. Júlio Perneta, 268 - Mercês",
+        "NUM": "110392",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411356340595",
+        "LON": "-49,292004139881",
+        "NOME": "R. André Zanetti, 382 -  Vista Alegre",
+        "NUM": "190631",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421716676263",
+        "LON": "-49,28331842576",
+        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
+        "NUM": "110032",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410909062897",
+        "LON": "-49,296587705612",
+        "NOME": "R. Dep. João Ferreira Neves, 6 - Vista Alegre",
+        "NUM": "190842",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419750929556",
+        "LON": "-49,282769766865",
+        "NOME": "R. Dom Alberto Gonçalves, 256 - Mercês",
+        "NUM": "110031",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419672310199",
+        "LON": "-49,27939273417",
+        "NOME": "R. Solimões, 270 - São Francisco",
+        "NUM": "110454",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420087774905",
+        "LON": "-49,277305305004",
+        "NOME": "R. Solimões, 2 - São Francisco",
+        "NUM": "110455",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4086089",
+        "LON": "-49,29986",
+        "NOME": "R. Dep. José Hoffmann, 80 - Vista Alegre",
+        "NUM": "190836",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414484451367",
+        "LON": "-49,288502515501",
+        "NOME": "R. Dr. Roberto Barroso, 2065 - Vista Alegre",
+        "NUM": "190844",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416686613874",
+        "LON": "-49,287577153391",
+        "NOME": "R. Júlio Perneta, 651 - Mercês",
+        "NUM": "110390",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407773637029",
+        "LON": "-49,297842979431",
+        "NOME": "R. Dep. João Ferreira Neves, 461 - Vista Alegre",
+        "NUM": "190837",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419749225784",
+        "LON": "-49,279531538486",
+        "NOME": "R. Solimões, 257 - São Francisco",
+        "NUM": "110453",
+        "SENTIDO": "Teatro Guaira / Pça Santos Andrade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4086089",
+        "LON": "-49,29986",
+        "NOME": "R. Dep. José Hoffmann, 80 - Vista Alegre",
+        "NUM": "190836",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408933322657",
+        "LON": "-49,29679825902",
+        "NOME": "R. Dep. João Ferreira Neves, 4 - Vista Alegre",
+        "NUM": "190840",
+        "SENTIDO": "Canal da Música / Vista Alegre",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    }
+]

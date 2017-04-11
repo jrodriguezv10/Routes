@@ -1,0 +1,622 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,451248049822",
+        "LON": "-49,267590672916",
+        "NOME": "Rua Vinte e Quatro de Maio, 1700 - Rebouças",
+        "NUM": "150181",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485097552922",
+        "LON": "-49,289134175724",
+        "NOME": "Rua José Palú, 712 - Novo Mundo",
+        "NUM": "150772",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481385761304",
+        "LON": "-49,287610681004",
+        "NOME": "Rua Ildefonso Stockler de França, 547 - Novo Mundo",
+        "NUM": "150109",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470257284291",
+        "LON": "-49,273215265221",
+        "NOME": "Rua Alagoas, 745 - Guaíra",
+        "NUM": "150665",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482753786554",
+        "LON": "-49,288572252935",
+        "NOME": "Rua José Palú, 346 - Novo Mundo",
+        "NUM": "150115",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463050620489",
+        "LON": "-49,274737418837",
+        "NOME": "Rua Minas Gerais, 170 - Guaíra",
+        "NUM": "150656",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470183427863",
+        "LON": "-49,273341329044",
+        "NOME": "Rua Alagoas, 746 - Guaíra",
+        "NUM": "150664",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473237135961",
+        "LON": "-49,281267256683",
+        "NOME": "Rua Alagoas, 1618 - Guaíra",
+        "NUM": "150034",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47724769283",
+        "LON": "-49,286776514",
+        "NOME": "Rua José de Almeida Garrete, 22 - Portão",
+        "NUM": "150769",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479221101938",
+        "LON": "-49,285906137175",
+        "NOME": "Rua Paulo Betes, 104 - Novo Mundo",
+        "NUM": "150770",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474567721691",
+        "LON": "-49,284758151716",
+        "NOME": "Rua Alagoas, 1910 - Guaíra",
+        "NUM": "150767",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479245315346",
+        "LON": "-49,285788119978",
+        "NOME": "Rua Paulo Betes, 105 - Novo Mundo",
+        "NUM": "150069",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492787725652",
+        "LON": "-49,289407823305",
+        "NOME": "Av. Brasília, 5424 - Novo Mundo",
+        "NUM": "150652",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471839738172",
+        "LON": "-49,277623475737",
+        "NOME": "Rua Alagoas, 1182 - Guaíra",
+        "NUM": "150667",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471190777201",
+        "LON": "-49,275988669342",
+        "NOME": "Rua Alagoas, 1038 - Guaíra",
+        "NUM": "150816",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487999880386",
+        "LON": "-49,288092137522",
+        "NOME": "Rua Isidóro Siedeliski, 188-Novo Mundo",
+        "NUM": "150646",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481324018204",
+        "LON": "-49,287937910503",
+        "NOME": "Rua Ildefonso Stockler de França, 587 - Novo Mundo",
+        "NUM": "150110",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45389637276",
+        "LON": "-49,266295165962",
+        "NOME": "Rua 24 de Maio, 2006 - Rebouças",
+        "NUM": "150182",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489787896832",
+        "LON": "-49,286775172895",
+        "NOME": "Rua Isidóro Siedeliski, 267- Novo Mundo",
+        "NUM": "150647",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492493694247",
+        "LON": "-49,281699020272",
+        "NOME": "Rua das Perdizes, 16 - Novo Mundo",
+        "NUM": "150651",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43588731128",
+        "LON": "-49,274486810976",
+        "NOME": "Praça Rui Barbosa - 666 - Novo Mundo",
+        "NUM": "102001",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478215030544",
+        "LON": "-49,284975410646",
+        "NOME": "Av. Santa Bernadethe, 458 - Lindóia",
+        "NUM": "150638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484988597853",
+        "LON": "-49,289025546259",
+        "NOME": "Rua José Palú, 711 - Novo Mundo",
+        "NUM": "150116",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492493694247",
+        "LON": "-49,281699020272",
+        "NOME": "Rua das Perdizes, 16 - Novo Mundo",
+        "NUM": "150651",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43588731128",
+        "LON": "-49,274486810976",
+        "NOME": "Praça Rui Barbosa - 666 - Novo Mundo",
+        "NUM": "102001",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466962759195",
+        "LON": "-49,272961796469",
+        "NOME": "Rua Minas Gerais, 698 - Guaíra",
+        "NUM": "150661",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486982987129",
+        "LON": "-49,289060414976",
+        "NOME": "Rua Isidóro Siedeliski, 79 - Novo Mundo",
+        "NUM": "150643",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47124647175",
+        "LON": "-49,275812984652",
+        "NOME": "Rua Alagoas, 1033 - Guaíra",
+        "NUM": "150666",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475453963526",
+        "LON": "-49,286757738537",
+        "NOME": "Rua Alagoas, 2199 - Guaíra",
+        "NUM": "150067",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464842640389",
+        "LON": "-49,273853630967",
+        "NOME": "Rua Minas Gerais, 322 - Guaíra",
+        "NUM": "150659",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469383111858",
+        "LON": "-49,27181381101",
+        "NOME": "Rua Minas Gerais, 927 - Guaíra",
+        "NUM": "150662",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482721099406",
+        "LON": "-49,288306714243",
+        "NOME": "Rua José Palú, 337 - Novo Mundo",
+        "NUM": "150114",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477121780966",
+        "LON": "-49,286730916447",
+        "NOME": "Rua José de Almeida Garrete, 33 - Portão",
+        "NUM": "150068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466908273457",
+        "LON": "-49,272859872526",
+        "NOME": "Rua Minas Gerais, 697 - Guaíra",
+        "NUM": "150660",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471953548131",
+        "LON": "-49,277636886782",
+        "NOME": "Rua Alagoas, 1181 - Guaíra",
+        "NUM": "150668",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486982987129",
+        "LON": "-49,289060414976",
+        "NOME": "Rua Isidóro Siedeliski, 79 - Novo Mundo",
+        "NUM": "150643",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489756422162",
+        "LON": "-49,286665202326",
+        "NOME": "Rua Isidóro Siedeliski, 268- Novo Mundo",
+        "NUM": "150648",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448215787776",
+        "LON": "-49,269060523457",
+        "NOME": "Rua Vinte e Quatro de Maio, 1316 - Rebouças",
+        "NUM": "150180",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475354685393",
+        "LON": "-49,286861003584",
+        "NOME": "Rua Alagoas, 2200 - Guaíra",
+        "NUM": "150768",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4881294126",
+        "LON": "-49,288113595194",
+        "NOME": "Rua Isidóro Siedeliski, 187 - Novo Mundo",
+        "NUM": "150645",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491186090211",
+        "LON": "-49,284231097645",
+        "NOME": "Rua das Andorinhas, 512 - Novo Mundo",
+        "NUM": "150650",
+        "SENTIDO": "Novo Mundo",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464662228784",
+        "LON": "-49,27384290213",
+        "NOME": "Rua Minas Gerais, 333 - Guaíra",
+        "NUM": "150658",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4691627516",
+        "LON": "-49,271773577875",
+        "NOME": "Rua Minas Gerais, 926 - Guaíra",
+        "NUM": "150663",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473284354451",
+        "LON": "-49,281100959724",
+        "NOME": "Rua Alagoas, 1617 - Guaíra",
+        "NUM": "150766",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474625836109",
+        "LON": "-49,284593195862",
+        "NOME": "Rua Alagoas, 1909 - Guaíra",
+        "NUM": "150066",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    }
+]

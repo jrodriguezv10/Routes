@@ -1,0 +1,492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562347283046",
+        "LON": "-49,326424598694",
+        "NOME": "R. Evelázio Augusto Bley, 152 - Tatuquara",
+        "NUM": "170998",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559133925591",
+        "LON": "-49,324434399605",
+        "NOME": "Rua Evelázio Augusto Bley - Tatuquara",
+        "NUM": "171001",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55752258503",
+        "LON": "-49,322871717297",
+        "NOME": "Estrada Engenheiro Blei - Cidade Industrial",
+        "NUM": "170920",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556374192505",
+        "LON": "-49,321989566088",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170919",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559346861583",
+        "LON": "-49,318222403526",
+        "NOME": "Rua Mateus Luís Dalagassa, 443 - Tatuquara",
+        "NUM": "170914",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557040841436",
+        "LON": "-49,320012778044",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170918",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563085278423",
+        "LON": "-49,327261447906",
+        "NOME": "R. Evelázio Augusto Bley - Tatuquara",
+        "NUM": "171000",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512501999614",
+        "LON": "-49,295013381615",
+        "NOME": "Terminal Pinheirinho - 681 - Dalagassa",
+        "NUM": "105726",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557718375569",
+        "LON": "-49,318345785141",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170915",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559433971652",
+        "LON": "-49,318262636662",
+        "NOME": "Rua Mateus Luís Dalagassa, 442 - Tatuquara",
+        "NUM": "170913",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559288788168",
+        "LON": "-49,324316382408",
+        "NOME": "R. Evelázio Augusto Bley, 621 - Tatuquara",
+        "NUM": "170999",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559770312715",
+        "LON": "-49,316124916077",
+        "NOME": "Rua Mateus Luís Dalagassa, 187 - Tatuquara",
+        "NUM": "170912",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55767361004",
+        "LON": "-49,31806281209",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170916",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556281030743",
+        "LON": "-49,321958720684",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170921",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512501999614",
+        "LON": "-49,295013381615",
+        "NOME": "Terminal Pinheirinho - 681 - Dalagassa",
+        "NUM": "105726",
+        "SENTIDO": "Dalagassa",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559856212619",
+        "LON": "-49,316187947989",
+        "NOME": "Rua Mateus Luís Dalagassa, 188 - Tatuquara",
+        "NUM": "170911",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557120693872",
+        "LON": "-49,320058375597",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170917",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562347283046",
+        "LON": "-49,326424598694",
+        "NOME": "R. Evelázio Augusto Bley, 152 - Tatuquara",
+        "NUM": "170998",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Placa em poste"
+    }
+]

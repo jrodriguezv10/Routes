@@ -1,0 +1,262 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Batel",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435926409936",
+        "LON": "-49,307036395118",
+        "NOME": "Terminal Campina do Siqueira - 801 - Campina do Siqueira / Batel",
+        "NUM": "104507",
+        "SENTIDO": "Batel",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Batel",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43953",
+        "LON": "-49,30052",
+        "NOME": "Rua Jerônimo Durski, 651 - Batel",
+        "NUM": "180055",
+        "SENTIDO": "Batel",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445831339586",
+        "LON": "-49,295767278618",
+        "NOME": "Rua Bispo Dom José, 130 - Batel",
+        "NUM": "180061",
+        "SENTIDO": "Batel",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442260028458",
+        "LON": "-49,287587882227",
+        "NOME": "Av. do Batel, 338 -  Batel",
+        "NUM": "180068",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44367572872",
+        "LON": "-49,290547699875",
+        "NOME": "Avenida do Batel, 744 - Batel",
+        "NUM": "180066",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439144636631",
+        "LON": "-49,279914985285",
+        "NOME": "Rua Emíliano Perneta, 922- Centro",
+        "NUM": "110019",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Batel",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Batel",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435926409936",
+        "LON": "-49,307036395118",
+        "NOME": "Terminal Campina do Siqueira - 801 - Campina do Siqueira / Batel",
+        "NUM": "104507",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444630015144",
+        "LON": "-49,293201745695",
+        "NOME": "Rua Bispo Dom José, 216 - Batel",
+        "NUM": "180065",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Batel",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43743",
+        "LON": "-49,30345",
+        "NOME": "Rua Jerônimo Durski, 998 - Batel",
+        "NUM": "180053",
+        "SENTIDO": "Batel",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438889214658",
+        "LON": "-49,308115006638",
+        "NOME": "Alameda Julia da Costa, 2706 - São Francisco",
+        "NUM": "180051",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43772",
+        "LON": "-49,30163",
+        "NOME": "Rua Gastão Câmara, 133 - Bigorrilho",
+        "NUM": "180054",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44102875376",
+        "LON": "-49,298304635582",
+        "NOME": "Rua Jerônimo Durski, 344 - Batel",
+        "NUM": "180058",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Batel",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439144636631",
+        "LON": "-49,279914985285",
+        "NOME": "Rua Emíliano Perneta, 922- Centro",
+        "NUM": "110019",
+        "SENTIDO": "Batel",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444881522888",
+        "LON": "-49,29584524785",
+        "NOME": "Rua Gabriel de Lara, 35 - Batel",
+        "NUM": "180060",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43971",
+        "LON": "-49,29974",
+        "NOME": "Rua Jerônimo Durski, 592 - Batel",
+        "NUM": "180056",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439714013117",
+        "LON": "-49,281028014889",
+        "NOME": "Rua Benjamin Lins,-228 - Batel",
+        "NUM": "110020",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440975256503",
+        "LON": "-49,298558338623",
+        "NOME": "Rua Jerônimo Durski, 343 - Batel",
+        "NUM": "180057",
+        "SENTIDO": "Batel",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437343044715",
+        "LON": "-49,304121807375",
+        "NOME": "Alameda Julia da Costa, 2543 - São Francisco",
+        "NUM": "180052",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    }
+]

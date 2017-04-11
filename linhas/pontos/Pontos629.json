@@ -1,0 +1,672 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,510634841416",
+        "LON": "-49,261160495701",
+        "NOME": "Rua Francisco Derosso, 2473 - Xaxim",
+        "NUM": "150089",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51965751816",
+        "LON": "-49,25518",
+        "NOME": "Rua Francisco Derosso, 3651 -Xaxim",
+        "NUM": "150097",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491761422167",
+        "LON": "-49,293390841431",
+        "NOME": "Terminal Capão Raso - 629 - Alto Boqueirão",
+        "NUM": "104816",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501604208903",
+        "LON": "-49,265985860119",
+        "NOME": "Rua Francisco Derosso, 1240 - Xaxim",
+        "NUM": "150080",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51595",
+        "LON": "-49,25671",
+        "NOME": "Rua Francisco Derosso, 3140 - Xaxim",
+        "NUM": "150092",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531961529028",
+        "LON": "-49,241815860119",
+        "NOME": "Rua Francisco Derosso, 743 - Alto Boqueirão",
+        "NUM": "160005",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53649",
+        "LON": "-49,24219",
+        "NOME": "Rua Eduardo Pinto da Rocha, 601 - Alto Boqueirão",
+        "NUM": "160011",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531559427571",
+        "LON": "-49,242979358301",
+        "NOME": "Rua Francisco Derosso, 939 - Alto Boqueirão",
+        "NUM": "160154",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50932",
+        "LON": "-49,26318",
+        "NOME": "Rua Francisco Derosso, 2183 - Xaxim",
+        "NUM": "150087",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49597",
+        "LON": "-49,28082",
+        "NOME": "Rua José Gomes de Abreu, 281 - Capão Raso",
+        "NUM": "150073",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51957",
+        "LON": "-49,25534",
+        "NOME": "Rua Francisco Derosso, 3650 - Xaxim",
+        "NUM": "150096",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195796464",
+        "LON": "-49,249836938658",
+        "NOME": "Rua Francisco Derosso, 1830 - Alto Boqueirão",
+        "NUM": "150102",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53351",
+        "LON": "-49,23856",
+        "NOME": "Rua Francisco Derosso, 478 - Alto Boqueirão",
+        "NUM": "160431",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491761422167",
+        "LON": "-49,293390841431",
+        "NOME": "Terminal Capão Raso - 629 - Alto Boqueirão",
+        "NUM": "104816",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49804",
+        "LON": "-49,26781",
+        "NOME": "Rua Francisco Derosso, 901 - Xaxim",
+        "NUM": "150079",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496640338232",
+        "LON": "-49,27637118136",
+        "NOME": "Estação Xaxim",
+        "NUM": "108206",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504317973012",
+        "LON": "-49,264953148479",
+        "NOME": "Rua Francisco Derosso, 1616 - Xaxim",
+        "NUM": "150082",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50938",
+        "LON": "-49,2633",
+        "NOME": "Rua Francisco Derosso, 2180 - Xaxim",
+        "NUM": "150086",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51072",
+        "LON": "-49,26129",
+        "NOME": "Rua Francisco Derosso, 2470 - Xaxim",
+        "NUM": "150088",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535436436268",
+        "LON": "-49,23700682209",
+        "NOME": "Rua Nelso José Lautart, 88 - Alto Boqueirão",
+        "NUM": "160008",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538330706356",
+        "LON": "-49,241851457672",
+        "NOME": "Rua Eduardo Pinto da Rocha, 824 - Alto Boqueirão",
+        "NUM": "160013",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496785843857",
+        "LON": "-49,268812069941",
+        "NOME": "Rua Francisco Derosso, 727 - Xaxim",
+        "NUM": "150077",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50404",
+        "LON": "-49,26487",
+        "NOME": "Rua Francisco Derosso, 1619 - Xaxim",
+        "NUM": "150083",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527795032863",
+        "LON": "-49,249995480986",
+        "NOME": "Rua Francisco Derosso, 1831 - Alto Boqueirão",
+        "NUM": "150103",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533384653291",
+        "LON": "-49,238524139881",
+        "NOME": "Rua Francisco Derosso, 477 - Alto Boqueirão",
+        "NUM": "160007",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538504453294",
+        "LON": "-49,241729271164",
+        "NOME": "Rua Eduardo Pinto da Rocha, 825 - Alto Boqueirão",
+        "NUM": "160014",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49665548028",
+        "LON": "-49,272501224537",
+        "NOME": "Rua Francisco Derosso, 259 - Xaxim",
+        "NUM": "150074",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50725",
+        "LON": "-49,26422",
+        "NOME": "Rua Francisco Derosso, 1932 - Xaxim",
+        "NUM": "150084",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51289",
+        "LON": "-49,25887",
+        "NOME": "Rua Francisco Derosso, 2806 - Xaxim",
+        "NUM": "150090",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526525350481",
+        "LON": "-49,252868804894",
+        "NOME": "Rua Francisco Derosso, 4470 - Xaxim",
+        "NUM": "150100",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51281",
+        "LON": "-49,25874",
+        "NOME": "Rua Francisco Derosso, 2807 - Xaxim",
+        "NUM": "150091",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517679803608",
+        "LON": "-49,255520116568",
+        "NOME": "Rua Francisco Derosso, 3480 - Xaxim",
+        "NUM": "150095",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528701593137",
+        "LON": "-49,248695976686",
+        "NOME": "Rua Francisco Derosso, 1621 - Alto Boqueirão",
+        "NUM": "150105",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53554714131",
+        "LON": "-49,236905014715",
+        "NOME": "Rua Nelso José Lautart, 89 - Alto Boqueirão",
+        "NUM": "160009",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535942925152",
+        "LON": "-49,238945131283",
+        "NOME": "Rua Coronel Américo Valger, 257 - Alto Boqueirão",
+        "NUM": "160010",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496265678061",
+        "LON": "-49,284287324715",
+        "NOME": "Rua José Gomes de Abreu, 702 - Capão Raso",
+        "NUM": "150072",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49792",
+        "LON": "-49,26805",
+        "NOME": "Rua Francisco Derosso, 814 - Xaxim",
+        "NUM": "150078",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496691179013",
+        "LON": "-49,276145875802",
+        "NOME": "Estação Xaxim",
+        "NUM": "108205",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507075532468",
+        "LON": "-49,264079883432",
+        "NOME": "Rua Francisco Derosso, 1935 - Xaxim",
+        "NUM": "150085",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515491270245",
+        "LON": "-49,256904868717",
+        "NOME": "Rua Francisco Derosso, 3142 - Xaxim",
+        "NUM": "150093",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542491529771",
+        "LON": "-49,241711078539",
+        "NOME": "Rua Cidade de Goioerê, 164 - Alto Boqueirão",
+        "NUM": "160016",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49678",
+        "LON": "-49,2695",
+        "NOME": "Rua Francisco Derosso, 686 - Xaxim",
+        "NUM": "150076",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528980637297",
+        "LON": "-49,248502944775",
+        "NOME": "Rua Francisco Derosso, 1620 - Alto Boqueirão",
+        "NUM": "150104",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54036",
+        "LON": "-49,24173",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1048 - Alto Boqueirão",
+        "NUM": "160433",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "33",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542491529771",
+        "LON": "-49,241711078539",
+        "NOME": "Rua Cidade de Goioerê, 164 - Alto Boqueirão",
+        "NUM": "160016",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52353",
+        "LON": "-49,25466",
+        "NOME": "Rua Francisco Derosso, 4016 - Xaxim",
+        "NUM": "150099",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529877898401",
+        "LON": "-49,247130233135",
+        "NOME": "Rua Francisco Derosso, 1435 - Alto Boqueirão",
+        "NUM": "160002",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536359242943",
+        "LON": "-49,242055480985",
+        "NOME": "Rua Eduardo Pinto da Rocha, 602 - Alto Boqueirão",
+        "NUM": "160012",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540900958834",
+        "LON": "-49,241701836805",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1121 - Alto Boqueirão",
+        "NUM": "160015",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531519416977",
+        "LON": "-49,242717434941",
+        "NOME": "Rua Francisco Derosso, 940 - Alto Boqueirão",
+        "NUM": "160153",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495831789059",
+        "LON": "-49,277655860119",
+        "NOME": "Rua Infante Dom Henrique, 72 - Capão Raso",
+        "NUM": "150221",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495989684013",
+        "LON": "-49,286990991402",
+        "NOME": "Rua Bôrtolo Gusso, 24 - Capão Raso",
+        "NUM": "150071",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518144990516",
+        "LON": "-49,255514169312",
+        "NOME": "Rua Francisco Derosso, 3490 - Xaxim",
+        "NUM": "150094",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52401",
+        "LON": "-49,25469",
+        "NOME": "Rua Francisco Derosso, 4170 - Xaxim",
+        "NUM": "150098",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53098",
+        "LON": "-49,24467",
+        "NOME": "Rua Francisco Derosso, 1180 - Alto Boqueirão",
+        "NUM": "160003",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535862234443",
+        "LON": "-49,23895317791",
+        "NOME": "Rua Coronel Américo Valger, 258 - Alto Boqueirão",
+        "NUM": "160432",
+        "SENTIDO": "Alto Boqueirão",
+        "SEQ": "30",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501363053737",
+        "LON": "-49,26599317791",
+        "NOME": "Rua Francisco Derosso, 1253 - Xaxim",
+        "NUM": "150081",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526340891761",
+        "LON": "-49,25293364418",
+        "NOME": "Rua Francisco Derosso, 4479 - Xaxim",
+        "NUM": "150101",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530788028577",
+        "LON": "-49,244726209822",
+        "NOME": "Rua Francisco Derosso, 1183 - Alto Boqueirão",
+        "NUM": "160004",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531981341008",
+        "LON": "-49,241276705522",
+        "NOME": "Rua Francisco Derosso, 744 - Alto Boqueirão",
+        "NUM": "160006",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    }
+]

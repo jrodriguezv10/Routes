@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,43354020745",
+        "LON": "-49,272350252813",
+        "NOME": "Rua José Loureiro - 464 - A. Munhoz / Jd. Botânico",
+        "NUM": "102241",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419211686764",
+        "LON": "-49,298112870401",
+        "NOME": "Rua Alcides Munhoz, 1145 - Mercês",
+        "NUM": "190909",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430111449399",
+        "LON": "-49,282303930468",
+        "NOME": "Rua Professor Fernando Moreira, 447 - Centro",
+        "NUM": "110101",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419090559295",
+        "LON": "-49,298114211506",
+        "NOME": "Rua Alcides Munhoz, 1204 - Mercês",
+        "NUM": "190910",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424680465189",
+        "LON": "-49,286855639166",
+        "NOME": "Rua Desembargador Isaías Bevilacqua, 494 - Mercês",
+        "NUM": "110080",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443424941673",
+        "LON": "-49,243132950014",
+        "NOME": "Rua Doutor Jorge Meyer Filho, 153 - Jardim Botanico",
+        "NUM": "140922",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439727608191",
+        "LON": "-49,24755591268",
+        "NOME": "Rua Santana, 399 - Jardim Botanico",
+        "NUM": "140928",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439920271785",
+        "LON": "-49,250104011244",
+        "NOME": "Rua Brasílio Itiberê, 563 - Jardim Botanico",
+        "NUM": "110170",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419625941787",
+        "LON": "-49,296201796478",
+        "NOME": "Rua Alcides Munhoz, 973 - Mercês",
+        "NUM": "190508",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444053464967",
+        "LON": "-49,247706116385",
+        "NOME": "Rua Maurício Nunes Garcia, 246 - Jardim Botanico",
+        "NUM": "140920",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42525458169",
+        "LON": "-49,288308055347",
+        "NOME": "Rua Desembargador Isaías Bevilacqua, 638 - Mercês",
+        "NUM": "190913",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438346982897",
+        "LON": "-49,25046879167",
+        "NOME": "Rua Engenheiros Rebouças, 381 - Jardim Botanico",
+        "NUM": "130846",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424943323382",
+        "LON": "-49,291435480986",
+        "NOME": "R. Júlia Wanderley, 621 - Mercês",
+        "NUM": "190175",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440891277329",
+        "LON": "-49,252665191889",
+        "NOME": "Rua Brasílio Itiberê, 849 - Jardim Botanico",
+        "NUM": "110169",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420662784379",
+        "LON": "-49,293872297949",
+        "NOME": "Rua Fernando Simas, 1714 - Mercês",
+        "NUM": "190829",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444628700173",
+        "LON": "-49,245974750465",
+        "NOME": "Rua Maurício Nunes Garcia, 431 - Jardim Botanico",
+        "NUM": "140921",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418882900725",
+        "LON": "-49,299594651521",
+        "NOME": "Rua Alcides Munhoz, 1235 - Mercês",
+        "NUM": "190908",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441326311136",
+        "LON": "-49,249190719074",
+        "NOME": "Av. Prefeito Omar Sabag, 750 - Jardim Botanico",
+        "NUM": "140550",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425339366595",
+        "LON": "-49,288156510538",
+        "NOME": "Rua Desembargador Isaías Bevilacqua, 637 - Mercês",
+        "NUM": "190912",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439241968992",
+        "LON": "-49,245564372486",
+        "NOME": "Rua São Joaquim, 391 - Jardim Botanico",
+        "NUM": "140926",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44232542473",
+        "LON": "-49,247905940956",
+        "NOME": "Av. Prefeito Omar Sabag, 213 - Jardim Botanico",
+        "NUM": "140553",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420708812231",
+        "LON": "-49,293988974041",
+        "NOME": "Rua Fernando Simas, 1713 - Mercês",
+        "NUM": "190828",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429167948522",
+        "LON": "-49,271203608459",
+        "NOME": "Praça Tiradentes - 464 - A.Munhoz / J.Botânico",
+        "NUM": "101015",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431282639826",
+        "LON": "-49,264389456457",
+        "NOME": "Rua Conselheiro Laurindo, 341 - Centro",
+        "NUM": "110153",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419530251426",
+        "LON": "-49,296117306894",
+        "NOME": "Rua Alcides Munhoz, 974 - Mercês",
+        "NUM": "190827",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,263431907839",
+        "NOME": "Rua João Negrão, 940 - Centro",
+        "NUM": "110205",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438835151813",
+        "LON": "-49,251793802923",
+        "NOME": "Rua Engenheiros Rebouças, 540 - Jardim Botanico",
+        "NUM": "110171",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426269574212",
+        "LON": "-49,291281284041",
+        "NOME": "Rua Fernando Simas, 1119 - Mercês",
+        "NUM": "190832",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430859946765",
+        "LON": "-49,28164410705",
+        "NOME": "Alameda Augusto Stelfeld, 1018 - Centro",
+        "NUM": "110108",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438044212076",
+        "LON": "-49,248860807365",
+        "NOME": "Rua Hildebrando de Araújo, 209 - Jardim Botanico",
+        "NUM": "130842",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422646811114",
+        "LON": "-49,293149442619",
+        "NOME": "Rua Fernando Simas, 1571 - Mercês",
+        "NUM": "190831",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427882886023",
+        "LON": "-49,284880192226",
+        "NOME": "Rua Brigadeiro Franco, 629 - Mercês",
+        "NUM": "110405",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444053464967",
+        "LON": "-49,247706116385",
+        "NOME": "Rua Maurício Nunes Garcia, 246 - Jardim Botanico",
+        "NUM": "140920",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44122568984",
+        "LON": "-49,24409586305",
+        "NOME": "Rua Carlos Antônio de Azevedo, 1 - Jardim Botanico",
+        "NUM": "140924",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440384005192",
+        "LON": "-49,243086011356",
+        "NOME": "Rua Bento Azambuja, 1 - Jardim Botanico",
+        "NUM": "140925",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439843974606",
+        "LON": "-49,262003631538",
+        "NOME": "Rua João Negrão, 1274 - Centro",
+        "NUM": "110144",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426582064222",
+        "LON": "-49,287290157026",
+        "NOME": "Rua Desembargador Mota, 2524 - Água Verde",
+        "NUM": "190914",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42939928254",
+        "LON": "-49,285593659824",
+        "NOME": "Rua Professor Fernando Moreira, 951 - Centro",
+        "NUM": "180241",
+        "SENTIDO": "Jardim Botânico",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418882900725",
+        "LON": "-49,299594651521",
+        "NOME": "Rua Alcides Munhoz, 1235 - Mercês",
+        "NUM": "190908",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422488138627",
+        "LON": "-49,293083728498",
+        "NOME": "Rua Fernando Simas, 1570 - Mercês",
+        "NUM": "190830",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430488120985",
+        "LON": "-49,283623577303",
+        "NOME": "Rua Brigadeiro Franco, 997 - Mercês",
+        "NUM": "110406",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442384661808",
+        "LON": "-49,243362278885",
+        "NOME": "Rua Dante Alighieri, 25 - Jardim Botanico",
+        "NUM": "140923",
+        "SENTIDO": "Alcides Munhoz",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

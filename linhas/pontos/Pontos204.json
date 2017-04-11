@@ -1,0 +1,192 @@
+[
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406060351332",
+        "LON": "-49,252577007956",
+        "NOME": "Terminal Cabral - 210- CIC/Cabral- 204 -Santa Cândida/Pinheirinho",
+        "NUM": "109085",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26128",
+        "LAT": "-25,441787999713",
+        "LON": "-49,268292114555",
+        "NOME": "Estação Tubo Westphalen / Iguaçu",
+        "NUM": "109073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476162903589",
+        "LON": "-49,292921270176",
+        "NOME": "Terminal Portão - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109090",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393414269488",
+        "LON": "-49,240379880562",
+        "NOME": "Terminal Boa Vista - 204 - Sta. Cândida / Pinheirinho",
+        "NUM": "109082",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512983000614",
+        "LON": "-49,294504885363",
+        "NOME": "Terminal Pinheirinho - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "105706",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26085",
+        "LAT": "-25,427393362505",
+        "LON": "-49,264734607349",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109019",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14567",
+        "LAT": "-25,419830405313",
+        "LON": "-49,268907934775",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109022",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512983000614",
+        "LON": "-49,294504885363",
+        "NOME": "Terminal Pinheirinho - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "105706",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377086350915",
+        "LON": "-49,224813265048",
+        "NOME": "Terminal Santa Cândida - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109080",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26144",
+        "LAT": "-25,448301917892",
+        "LON": "-49,285369401301",
+        "NOME": "Estação Tubo Água Verde / Iguaçu",
+        "NUM": "109003",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26083",
+        "LAT": "-25,426994816036",
+        "LON": "-49,264729242931",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109018",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406600087468",
+        "LON": "-49,252187902972",
+        "NOME": "Terminal Cabral - 204 - Santa Cândida / Pinheirinho - 022 - Inter 2 (Horário)",
+        "NUM": "109086",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14570",
+        "LAT": "-25,419772264442",
+        "LON": "-49,26913860475",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109023",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393294250054",
+        "LON": "-49,241217550926",
+        "NOME": "Terminal Boa Vista - 204 - Sta. Cândida / Pinheirinho",
+        "NUM": "109081",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476438943166",
+        "LON": "-49,292219872519",
+        "NOME": "Terminal Portão - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109092",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377086350915",
+        "LON": "-49,224813265048",
+        "NOME": "Terminal Santa Cândida - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109080",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    }
+]

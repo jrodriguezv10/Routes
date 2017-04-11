@@ -1,0 +1,842 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4478000484",
+        "LON": "-49,270826391742",
+        "NOME": "Rua Brasílio Itiberê, 2731-2839 - Rebouças",
+        "NUM": "150719",
+        "SENTIDO": "Abranches",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405207333944",
+        "LON": "-49,271042675919",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120526",
+        "SENTIDO": "Abranches",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397365591456",
+        "LON": "-49,271369905419",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120521",
+        "SENTIDO": "Abranches",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463056631257",
+        "LON": "-49,286244708195",
+        "NOME": "Rua Monsenhor Manoel Vicente, 646 - Água Verde",
+        "NUM": "150536",
+        "SENTIDO": "Abranches",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46724725203",
+        "LON": "-49,286663132801",
+        "NOME": "Av. dos Estados, 863 - Água Verde",
+        "NUM": "150530",
+        "SENTIDO": "Abranches",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435106145063",
+        "LON": "-49,273320050054",
+        "NOME": "Praça Rui Barbosa - 180 - Água Verde/Abranches",
+        "NUM": "102036",
+        "SENTIDO": "Água Verde",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415889116179",
+        "LON": "-49,271495240822",
+        "NOME": "R. Mateus Leme, 1298 - São Francisco",
+        "NUM": "120535",
+        "SENTIDO": "Água Verde",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391174700988",
+        "LON": "-49,267470586195",
+        "NOME": "R. Mateus Leme, 4303 - Bom Retiro",
+        "NUM": "120515",
+        "SENTIDO": "Água Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45065221655",
+        "LON": "-49,274339723483",
+        "NOME": "Rua Alm. Gonçalves, 2316 - Água Verde",
+        "NUM": "150557",
+        "SENTIDO": "Água Verde",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456002110175",
+        "LON": "-49,281967925921",
+        "NOME": "Rua Prof. Assis Gonçalves, 301 - Água Verde",
+        "NUM": "150550",
+        "SENTIDO": "Água Verde",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458314914967",
+        "LON": "-49,282981800929",
+        "NOME": "Rua Prof. Assis Gonçalves, 571 - Água Verde",
+        "NUM": "150549",
+        "SENTIDO": "Água Verde",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420385698666",
+        "LON": "-49,270935838087",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110086",
+        "SENTIDO": "Abranches",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432385714464",
+        "LON": "-49,271107048935",
+        "NOME": "Marechal Floriano Peixoto - 180 - Água Verde / Abranches",
+        "NUM": "103274",
+        "SENTIDO": "Abranches",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446178041965",
+        "LON": "-49,270925439998",
+        "NOME": "Rua Eng. Rebouças, 2664 - Jardim Botânico",
+        "NUM": "110184",
+        "SENTIDO": "Água Verde",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429998811043",
+        "LON": "-49,274660975879",
+        "NOME": "Rua Ébano Pereira, 218 - Centro",
+        "NUM": "110051",
+        "SENTIDO": "Água Verde",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393070770648",
+        "LON": "-49,269644516602",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120517",
+        "SENTIDO": "Água Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40025860321",
+        "LON": "-49,271489876404",
+        "NOME": "R. Mateus Leme, 3053 - São Lourenço",
+        "NUM": "120523",
+        "SENTIDO": "Água Verde",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413740237598",
+        "LON": "-49,271315532818",
+        "NOME": "R. Mateus Leme, 1517 - São Francisco",
+        "NUM": "120533",
+        "SENTIDO": "Água Verde",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Água Verde",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465572716367",
+        "LON": "-49,287490594283",
+        "NOME": "Rua Monsenhor Manoel Vicente, 941 - Água Verde",
+        "NUM": "150534",
+        "SENTIDO": "Água Verde",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460625253599",
+        "LON": "-49,285323369398",
+        "NOME": "Rua Monsenhor Manoel Vicente, 38 - Água Verde",
+        "NUM": "150545",
+        "SENTIDO": "Água Verde",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Abranches",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421330479546",
+        "LON": "-49,270628725155",
+        "NOME": "Rua Sen. Xavier da Silva, 406 - Centro Cívico",
+        "NUM": "110087",
+        "SENTIDO": "Abranches",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407071686833",
+        "LON": "-49,271422208494",
+        "NOME": "R. Mateus Leme, 2252 - Bom Retiro",
+        "NUM": "120528",
+        "SENTIDO": "Abranches",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402803863146",
+        "LON": "-49,271324307865",
+        "NOME": "R. Mateus Leme, 2794 - São Lourenço",
+        "NUM": "120524",
+        "SENTIDO": "Abranches",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410257616302",
+        "LON": "-49,271434278435",
+        "NOME": "R. Mateus Leme, 1772 - Bom Retiro",
+        "NUM": "120530",
+        "SENTIDO": "Abranches",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39561618219",
+        "LON": "-49,271136553234",
+        "NOME": "R. Mateus Leme, 3573 - Bom Retiro",
+        "NUM": "120518",
+        "SENTIDO": "Abranches",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455785358129",
+        "LON": "-49,281735914841",
+        "NOME": "Rua Prof. Assis Gonçalves, 302 - Água Verde",
+        "NUM": "150551",
+        "SENTIDO": "Abranches",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465507332723",
+        "LON": "-49,284733283416",
+        "NOME": "Av. dos Estados, 611 - Água Verde",
+        "NUM": "150531",
+        "SENTIDO": "Abranches",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450982807634",
+        "LON": "-49,279158311977",
+        "NOME": "Rua Brasílio Itiberê, 3637 - Água Verde",
+        "NUM": "150553",
+        "SENTIDO": "Abranches",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452546679672",
+        "LON": "-49,280763527613",
+        "NOME": "Rua Bento Viana, 76 - Água Verde",
+        "NUM": "150231",
+        "SENTIDO": "Abranches",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Abranches",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3813991",
+        "LON": "-49,2721383",
+        "NOME": "Rua Vitório João Brunor, 607 - Abranches",
+        "NUM": "120947",
+        "SENTIDO": "Água Verde",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468973827661",
+        "LON": "-49,287685782856",
+        "NOME": "Rua Paranaguá, 502 - Água Verde",
+        "NUM": "150526",
+        "SENTIDO": "Água Verde",
+        "SEQ": "40",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381375241408",
+        "LON": "-49,269472855225",
+        "NOME": "R. Mateus Leme, 5412 - Abranches",
+        "NUM": "120506",
+        "SENTIDO": "Água Verde",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384959260638",
+        "LON": "-49,267953383818",
+        "NOME": "R. Mateus Leme, 4917 - Abranches",
+        "NUM": "120509",
+        "SENTIDO": "Água Verde",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405536838306",
+        "LON": "-49,271129119292",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120527",
+        "SENTIDO": "Água Verde",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418497032938",
+        "LON": "-49,271279322996",
+        "NOME": "R. Mateus Leme, 1090 - São Francisco",
+        "NUM": "110083",
+        "SENTIDO": "Água Verde",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470671896491",
+        "LON": "-49,289759750926",
+        "NOME": "Rua Eng. Niepce da Silva, 456 - Portão",
+        "NUM": "150528",
+        "SENTIDO": "Abranches",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436527028414",
+        "LON": "-49,272802383714",
+        "NOME": "Praça Rui Barbosa - 165 - Universidades - 180 - Água Verde/Abranches - 285 - Juvevê/Água Verde",
+        "NUM": "102026",
+        "SENTIDO": "Abranches",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417706063681",
+        "LON": "-49,271222834452",
+        "NOME": "R. Mateus Leme, 1016 - São Francisco",
+        "NUM": "110084",
+        "SENTIDO": "Abranches",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388396571975",
+        "LON": "-49,267448515839",
+        "NOME": "Rua Mateus Leme, 4556 - São Lourenço",
+        "NUM": "120512",
+        "SENTIDO": "Abranches",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Abranches",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458247105616",
+        "LON": "-49,282835620537",
+        "NOME": "Rua Prof. Assis Gonçalves, 572 - Água Verde",
+        "NUM": "150548",
+        "SENTIDO": "Abranches",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Água Verde",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Água Verde",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388946629633",
+        "LON": "-49,26759396781",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120513",
+        "SENTIDO": "Água Verde",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402880183771",
+        "LON": "-49,271456348791",
+        "NOME": "R. Mateus Leme, 2725 - São Lourenço",
+        "NUM": "120525",
+        "SENTIDO": "Água Verde",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410635561286",
+        "LON": "-49,271625327959",
+        "NOME": "R. Mateus Leme, 1771 - Bom Retiro",
+        "NUM": "120531",
+        "SENTIDO": "Água Verde",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44982028552",
+        "LON": "-49,272215413942",
+        "NOME": "Rua Alm. Gonçalves, 2026 - Rebouças",
+        "NUM": "150556",
+        "SENTIDO": "Água Verde",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469735401883",
+        "LON": "-49,28805324549",
+        "NOME": "Rua Amazonas, 1252 - Portão",
+        "NUM": "150527",
+        "SENTIDO": "Água Verde",
+        "SEQ": "41",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393073193721",
+        "LON": "-49,269535274452",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120516",
+        "SENTIDO": "Abranches",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461057529014",
+        "LON": "-49,285367625848",
+        "NOME": "Rua Monsenhor Manoel Vicente, 576 - Água Verde",
+        "NUM": "150537",
+        "SENTIDO": "Abranches",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450080643011",
+        "LON": "-49,276761758223",
+        "NOME": "Rua Brasílio Itiberê, 3381 - Água Verde",
+        "NUM": "150554",
+        "SENTIDO": "Abranches",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469074321833",
+        "LON": "-49,288671494668",
+        "NOME": "Av. dos Estados, 1091 - Portão",
+        "NUM": "150529",
+        "SENTIDO": "Abranches",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Abranches",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415276193047",
+        "LON": "-49,271283184155",
+        "NOME": "R. Mateus Leme, 1290 - São Francisco",
+        "NUM": "120534",
+        "SENTIDO": "Abranches",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38218220025",
+        "LON": "-49,268109009809",
+        "NOME": "R. Mateus Leme, 5242- Abranches",
+        "NUM": "120507",
+        "SENTIDO": "Abranches",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381245594364",
+        "LON": "-49,269425974435",
+        "NOME": "R. Mateus Leme, 5411 - Abranches",
+        "NUM": "120505",
+        "SENTIDO": "Abranches",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464134267991",
+        "LON": "-49,283818650141",
+        "NOME": "Rua Rio Grande do Sul, 663 - Água Verde",
+        "NUM": "150532",
+        "SENTIDO": "Abranches",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470671896491",
+        "LON": "-49,289759750926",
+        "NOME": "Rua Eng. Niepce da Silva, 456 - Portão",
+        "NUM": "150528",
+        "SENTIDO": "Água Verde",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447519099158",
+        "LON": "-49,272013269232",
+        "NOME": "Rua Lamenha Lins, 1283 - Reboucas",
+        "NUM": "110349",
+        "SENTIDO": "Água Verde",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383173322499",
+        "LON": "-49,267976182594",
+        "NOME": "R. Mateus Leme, 5217 - Bom Retiro",
+        "NUM": "120508",
+        "SENTIDO": "Água Verde",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Água Verde",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Água Verde",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458827116509",
+        "LON": "-49,284540164366",
+        "NOME": "Rua Monsenhor Manoel Vicente, 281 - Água Verde",
+        "NUM": "150547",
+        "SENTIDO": "Água Verde",
+        "SEQ": "36",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395348437952",
+        "LON": "-49,271332354493",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120519",
+        "SENTIDO": "Água Verde",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452741835946",
+        "LON": "-49,278116588955",
+        "NOME": "Rua Alferes Ângelo Sampaio, 1 - Água Verde",
+        "NUM": "150223",
+        "SENTIDO": "Água Verde",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3813991",
+        "LON": "-49,2721383",
+        "NOME": "Rua Vitório João Brunor, 607 - Abranches",
+        "NUM": "120947",
+        "SENTIDO": "Abranches",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412732407619",
+        "LON": "-49,271372587627",
+        "NOME": "R. Mateus Leme,  1654 - São Francisco",
+        "NUM": "120532",
+        "SENTIDO": "Abranches",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399998138075",
+        "LON": "-49,271383316463",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120522",
+        "SENTIDO": "Abranches",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390608903185",
+        "LON": "-49,267388166136",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120514",
+        "SENTIDO": "Abranches",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384575177121",
+        "LON": "-49,267779768652",
+        "NOME": "R. Mateus Leme, 5012 - Abranches",
+        "NUM": "120510",
+        "SENTIDO": "Abranches",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407068052645",
+        "LON": "-49,271578389302",
+        "NOME": "R. Mateus Leme, 2309 - Centro Cívico",
+        "NUM": "120529",
+        "SENTIDO": "Água Verde",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42054529215",
+        "LON": "-49,27105133523",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110085",
+        "SENTIDO": "Água Verde",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451484141832",
+        "LON": "-49,276494878426",
+        "NOME": "Rua Alm. Gonçalves, 2562 - Água Verde",
+        "NUM": "150558",
+        "SENTIDO": "Água Verde",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430153840151",
+        "LON": "-49,271732003635",
+        "NOME": "Praça Tiradentes - 180 - Água Verde/ Abranches",
+        "NUM": "101007",
+        "SENTIDO": "Abranches",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Abranches",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458776259716",
+        "LON": "-49,284379231825",
+        "NOME": "Rua Monsenhor Manoel Vicente, 242 - Água Verde",
+        "NUM": "150546",
+        "SENTIDO": "Abranches",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448822445086",
+        "LON": "-49,273453253403",
+        "NOME": "Rua Brasílio Itiberê, 3001 - Água Verde",
+        "NUM": "150555",
+        "SENTIDO": "Abranches",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409001851992",
+        "LON": "-49,271733350699",
+        "NOME": "Rua Mateus Leme, 2081 - São Francisco (Bosque do Papa)",
+        "NUM": "120573",
+        "SENTIDO": "Água Verde",
+        "SEQ": "14",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398860565152",
+        "LON": "-49,271567660466",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120520",
+        "SENTIDO": "Água Verde",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453459184502",
+        "LON": "-49,280857491389",
+        "NOME": "Rua Prof. Assis Gonçalves, 1-55 - Água Verde",
+        "NUM": "150552",
+        "SENTIDO": "Água Verde",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463078426253",
+        "LON": "-49,286392229691",
+        "NOME": "Rua Monsenhor Manoel Vicente, 647 - Água Verde",
+        "NUM": "150535",
+        "SENTIDO": "Água Verde",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    }
+]

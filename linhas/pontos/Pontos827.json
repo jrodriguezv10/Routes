@@ -1,0 +1,492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,434882144322",
+        "LON": "-49,371784519014",
+        "NOME": "Rua Anselmo de Lima Filho, 216 - Cidade Industrial",
+        "NUM": "190379",
+        "SENTIDO": "Riviera",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440179375889",
+        "LON": "-49,355607741365",
+        "NOME": "Rua Padre João Rzemelka, 57 - Cidade Industrial",
+        "NUM": "190348",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442544559361",
+        "LON": "-49,363795184383",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1191 - Cidade Industrial",
+        "NUM": "190742",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Fora do padrão"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446560299566",
+        "LON": "-49,363237284908",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1562- Cidade Industrial",
+        "NUM": "190366",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439192355226",
+        "LON": "-49,365381711016",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 442 - Cidade Industrial",
+        "NUM": "190373",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436192489406",
+        "LON": "-49,370007180462",
+        "NOME": "Rua Silvano Alves da Rocha Loures, 374 - Riviera",
+        "NUM": "190376",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44170543201",
+        "LON": "-49,34632839633",
+        "NOME": "Terminal Campo Comprido - 827 - Riviera",
+        "NUM": "104606",
+        "SENTIDO": "Riviera",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43931",
+        "LON": "-49,36442",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 691 - Cidade Industrial",
+        "NUM": "190741",
+        "SENTIDO": "Riviera",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438158094221",
+        "LON": "-49,358206801901",
+        "NOME": "Rua Padre João Kominek, 378 - Cidade Industrial",
+        "NUM": "190350",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436302699767",
+        "LON": "-49,362220727692",
+        "NOME": "Rua Padre Estanislau Piasecki, 985 - Cidade Industrial",
+        "NUM": "190354",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445046541089",
+        "LON": "-49,366720133314",
+        "NOME": "Rua Samuel da Rocha Coelho, 642 - Cidade Industrial",
+        "NUM": "190369",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439874187541",
+        "LON": "-49,35803379942",
+        "NOME": "Rua Padre João Kominek, 599 - Cidade Industrial",
+        "NUM": "190731",
+        "SENTIDO": "Riviera",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442222486137",
+        "LON": "-49,351466031022",
+        "NOME": "Rua Dep. Heitor Alencar Furtado - Cidade Industrial",
+        "NUM": "190739",
+        "SENTIDO": "Riviera",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44656",
+        "LON": "-49,36338",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1563 - Cidade Industrial",
+        "NUM": "190744",
+        "SENTIDO": "Riviera",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45071",
+        "LON": "-49,36244",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1495 - Cidade Industrial",
+        "NUM": "190746",
+        "SENTIDO": "Riviera",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444903375899",
+        "LON": "-49,366728484044",
+        "NOME": "Rua Samuel da Rocha Coelho, 640 - Cidade Industrial",
+        "NUM": "190749",
+        "SENTIDO": "Riviera",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44170543201",
+        "LON": "-49,34632839633",
+        "NOME": "Terminal Campo Comprido - 827 - Riviera",
+        "NUM": "104606",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44906583078",
+        "LON": "-49,363893085012",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1494 - Cidade Industrial",
+        "NUM": "190367",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438129028209",
+        "LON": "-49,358106219063",
+        "NOME": "Rua Padre João Kominek, 377 - Cidade Industrial",
+        "NUM": "190732",
+        "SENTIDO": "Riviera",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433487954109",
+        "LON": "-49,371773557043",
+        "NOME": "Rua Anselmo de Lima Filho, 16 - Cidade Industrial",
+        "NUM": "190381",
+        "SENTIDO": "Riviera",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432797610193",
+        "LON": "-49,374572303076",
+        "NOME": "Rua Felício Laskoski, 6046 - Riviera",
+        "NUM": "190383",
+        "SENTIDO": "Riviera",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439862076876",
+        "LON": "-49,358163886556",
+        "NOME": "Rua Padre João Kominek, 600 - Cidade Industrial",
+        "NUM": "190349",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437771757914",
+        "LON": "-49,359150939474",
+        "NOME": "Rua Padre José Lopacinski, 960 - Cidade Industrial",
+        "NUM": "190733",
+        "SENTIDO": "Riviera",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436196122716",
+        "LON": "-49,361826442966",
+        "NOME": "Rua Padre Estanislau Piasecki, 920 - Cidade Industrial",
+        "NUM": "190353",
+        "SENTIDO": "Riviera",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43747261892",
+        "LON": "-49,363209121713",
+        "NOME": "Rua Padre Estanislau Piasecki, 985 - Cidade Industrial",
+        "NUM": "190740",
+        "SENTIDO": "Riviera",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433299192323",
+        "LON": "-49,37665465588",
+        "NOME": "Rua Felício Laskoski, 211 - Riviera",
+        "NUM": "190384",
+        "SENTIDO": "Riviera",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44188",
+        "LON": "-49,36732",
+        "NOME": "Rua Benedito Carolo, 721 - Cidade Industrial",
+        "NUM": "190794",
+        "SENTIDO": "Riviera",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43982211067",
+        "LON": "-49,368821807375",
+        "NOME": "Rua Semíramis de Macedo Seiler, 2 - Cidade Industrial",
+        "NUM": "190796",
+        "SENTIDO": "Riviera",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436080033556",
+        "LON": "-49,370006093254",
+        "NOME": "Rua Silvano Alves da Rocha Loures, 375 - Riviera",
+        "NUM": "190377",
+        "SENTIDO": "Riviera",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446663234451",
+        "LON": "-49,364316874037",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1410 - Cidade Industrial",
+        "NUM": "190368",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439710693466",
+        "LON": "-49,368780069838",
+        "NOME": "Rua Semíramis de Macedo Seiler, 1 - Cidade Industrial",
+        "NUM": "190372",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433511276551",
+        "LON": "-49,371904635582",
+        "NOME": "Rua Anselmo de Lima Filho, 17 - Cidade Industrial",
+        "NUM": "190380",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440065535881",
+        "LON": "-49,355602376947",
+        "NOME": "Rua Padre João Rzemelka, 58 - Cidade Industrial",
+        "NUM": "190730",
+        "SENTIDO": "Riviera",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44906",
+        "LON": "-49,36375",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1493- Cidade Industrial",
+        "NUM": "190747",
+        "SENTIDO": "Riviera",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441358788949",
+        "LON": "-49,369703527613",
+        "NOME": "Rua Benedito Carolo, 399 - Cidade Industrial",
+        "NUM": "190795",
+        "SENTIDO": "Riviera",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437890444435",
+        "LON": "-49,361375831852",
+        "NOME": "Rua Padre José Lopacinski, 1225 - Cidade Industrial",
+        "NUM": "190352",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433299192323",
+        "LON": "-49,37665465588",
+        "NOME": "Rua Felício Laskoski, 211 - Riviera",
+        "NUM": "190384",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44261",
+        "LON": "-49,36397",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1192 - Cidade Industrial",
+        "NUM": "190743",
+        "SENTIDO": "Riviera",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446701523016",
+        "LON": "-49,364177026372",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1411 - Cidade Industrial",
+        "NUM": "190748",
+        "SENTIDO": "Riviera",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436027028749",
+        "LON": "-49,367131282244",
+        "NOME": "Rua Silvano Alves da Rocha Loures, 237 - Riviera",
+        "NUM": "190798",
+        "SENTIDO": "Riviera",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4361689829",
+        "LON": "-49,367109053622",
+        "NOME": "Rua Silvano Alves da Rocha Loures, 238 - Riviera",
+        "NUM": "190374",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434994702169",
+        "LON": "-49,371772073994",
+        "NOME": "Rua Anselmo de Lima Filho, 215 - Cidade Industrial",
+        "NUM": "190378",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432860697825",
+        "LON": "-49,374447577486",
+        "NOME": "Rua Felício Laskoski, 6047 - Riviera",
+        "NUM": "190382",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43784",
+        "LON": "-49,36338",
+        "NOME": "Rua Oscar Chanoski, 191-267 - Cidade Industrial",
+        "NUM": "190364",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45071",
+        "LON": "-49,36227",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1494 - Cidade Industrial",
+        "NUM": "190745",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43921",
+        "LON": "-49,36531",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 443- Cidade Industrial",
+        "NUM": "190797",
+        "SENTIDO": "Riviera",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439097891474",
+        "LON": "-49,364303462992",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 690- Cidade Industrial",
+        "NUM": "190365",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441960836881",
+        "LON": "-49,367294126043",
+        "NOME": "Rua Benedito Carolo, 720 - Cidade Industrial",
+        "NUM": "190370",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441420709411",
+        "LON": "-49,369812720308",
+        "NOME": "Rua Benedito Carolo, 398 - Cidade Industrial",
+        "NUM": "190371",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    }
+]

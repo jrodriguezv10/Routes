@@ -1,0 +1,282 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509010855387",
+        "LON": "-49,289992153645",
+        "NOME": "Rua Lotário Boutin, 187 - Pinheirinho",
+        "NUM": "150846",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510403983609",
+        "LON": "-49,287983179092",
+        "NOME": "Rua Lotário Boutin, 19 - Pinheirinho",
+        "NUM": "150847",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511723163991",
+        "LON": "-49,287291169167",
+        "NOME": "Rua Cid Marcondes de Albuquerque, 100 - Pinheirinho",
+        "NUM": "150881",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514543330914",
+        "LON": "-49,283031821251",
+        "NOME": "Rua Cid Marcondes de Albuquerque, 598 - Pinheirinho",
+        "NUM": "150882",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512426029077",
+        "LON": "-49,295138804893",
+        "NOME": "Terminal Pinheirinho - 631 - Piratini / BR 476",
+        "NUM": "105729",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50934733788",
+        "LON": "-49,293175935745",
+        "NOME": "Rua Lotário Boutin, 583 - Pinheirinho",
+        "NUM": "150845",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52141893125",
+        "LON": "-49,287545979023",
+        "NOME": "Rua Engenheiro João Bley Filho, 520 - Pinheirinho",
+        "NUM": "150840",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521616201068",
+        "LON": "-49,284739047289",
+        "NOME": "Rua Engenheiro João Bley Filho, 464 - Pinheirinho",
+        "NUM": "150839",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520560864284",
+        "LON": "-49,290158450603",
+        "NOME": "Rua Jorge Coleraus Barbosa, 2 - Pinheirinho",
+        "NUM": "150843",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51916180259",
+        "LON": "-49,287438690662",
+        "NOME": "Rua Vitor Vasco Garcia, 3 - Pinheirinho",
+        "NUM": "150841",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521907869345",
+        "LON": "-49,291425794363",
+        "NOME": "Rua Engenheiro João Bley Filho, 1089 - Pinheirinho",
+        "NUM": "150858",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518306140039",
+        "LON": "-49,288852214813",
+        "NOME": "Rua Luciano Piuzi, 650 - Pinheirinho",
+        "NUM": "150842",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518358181924",
+        "LON": "-49,288742244244",
+        "NOME": "Rua Luciano Piuzi, 635 - Pinheirinho",
+        "NUM": "150828",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519428276483",
+        "LON": "-49,294448658895",
+        "NOME": "Rua André Ferreira Barbosa, 8391 - Pinheirinho",
+        "NUM": "150272",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516251072672",
+        "LON": "-49,280812293291",
+        "NOME": "R. Helena Carvalho da Silva Corrêa, 683 - Pinheirinho",
+        "NUM": "150883",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514894736949",
+        "LON": "-49,289447665215",
+        "NOME": "Rua Reinaldo Stocco, 1-335 - Pinheirinho",
+        "NUM": "150880",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520027141115",
+        "LON": "-49,283809661865",
+        "NOME": "Rua Helena C. S. Corrêa, 504 - Pinheirinho",
+        "NUM": "150838",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52304",
+        "LON": "-49,29273",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "170122",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51244",
+        "LON": "-49,28931",
+        "NOME": "Rodovia BR476 - Pista Lateral, 18288 - Capão Raso",
+        "NUM": "150279",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520739981731",
+        "LON": "-49,290051162243",
+        "NOME": "Rua Jorge Coleraus Barbosa, 55 - Pinheirinho",
+        "NUM": "150827",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51834002778",
+        "LON": "-49,282484650612",
+        "NOME": "Rua Helena C. S. Corrêa, 196 - Pinheirinho",
+        "NUM": "150837",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512380036302",
+        "LON": "-49,295018629465",
+        "NOME": "Terminal Pinheirinho - 631 - Piratini / BR 476",
+        "NUM": "105727",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512380036302",
+        "LON": "-49,295018629465",
+        "NOME": "Terminal Pinheirinho - 631 - Piratini / BR 476",
+        "NUM": "105727",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52180378863",
+        "LON": "-49,291385561228",
+        "NOME": "Rua Engenheiro João Bley Filho, 1100 - Pinheirinho",
+        "NUM": "150844",
+        "SENTIDO": "Sentido BR 476 - Piratini",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    }
+]

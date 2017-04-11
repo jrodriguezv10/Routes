@@ -1,0 +1,132 @@
+[
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,459129997717",
+        "LON": "-49,302406792031",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109066",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Atendimento Santa Quitéria - Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491786465484",
+        "LON": "-49,293088798846",
+        "NOME": "Terminal Capão Raso - 022 - Inter 2 (Horário)",
+        "NUM": "109095",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491786465484",
+        "LON": "-49,293088798846",
+        "NOME": "Terminal Capão Raso - 022 - Inter 2 (Horário)",
+        "NUM": "109095",
+        "SENTIDO": "Atendimento Santa Quitéria - Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491786465484",
+        "LON": "-49,293088798846",
+        "NOME": "Terminal Capão Raso - 022 - Inter 2 (Horário)",
+        "NUM": "109095",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Atendimento Santa Quitéria - Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,459129997717",
+        "LON": "-49,302406792031",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109066",
+        "SENTIDO": "Atendimento Santa Quitéria - Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Atendimento Santa Quitéria - Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,475997037397",
+        "LON": "-49,292383487269",
+        "NOME": "Terminal Portão - 022 - Inter 2 (Horário)",
+        "NUM": "109091",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    }
+]

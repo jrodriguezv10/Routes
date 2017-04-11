@@ -1,0 +1,172 @@
+[
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435397800008",
+        "LON": "-49,260840039859",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109060",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26084",
+        "LAT": "-25,427237118653",
+        "LON": "-49,264801662574",
+        "NOME": "Estação Tubo Círculo Militar",
+        "NUM": "109020",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14564",
+        "LAT": "-25,417850890302",
+        "LON": "-49,268689037508",
+        "NOME": "Estação Tubo Prefeitura",
+        "NUM": "109058",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14560",
+        "LAT": "-25,415626406879",
+        "LON": "-49,266380996651",
+        "NOME": "Estação Tubo Centro Cívico  - Assembléia",
+        "NUM": "109011",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435356622213",
+        "LON": "-49,260860156427",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109061",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41859",
+        "LAT": "-25,535958509714",
+        "LON": "-49,174490112932",
+        "NOME": "Estação Tubo Aeroporto",
+        "NUM": "441030",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26033",
+        "LAT": "-25,453395779718",
+        "LON": "-49,252650888325",
+        "NOME": "Estação Tubo PUC",
+        "NUM": "109059",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41859",
+        "LAT": "-25,535958509714",
+        "LON": "-49,174490112932",
+        "NOME": "Estação Tubo Aeroporto",
+        "NUM": "441030",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26033",
+        "LAT": "-25,453395779718",
+        "LON": "-49,252650888325",
+        "NOME": "Estação Tubo PUC",
+        "NUM": "109059",
+        "SENTIDO": "Aeroporto",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448149039186",
+        "LON": "-49,257986359674",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109040",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26083",
+        "LAT": "-25,426994816036",
+        "LON": "-49,264729242931",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109018",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14562",
+        "LAT": "-25,417899341803",
+        "LON": "-49,268459708637",
+        "NOME": "Estação Tubo Prefeitura",
+        "NUM": "109057",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    }
+]

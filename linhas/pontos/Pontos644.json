@@ -1,0 +1,372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "CIC",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "CIC",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515806160069",
+        "LON": "-49,297320355472",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 1766 - Capão Raso",
+        "NUM": "170983",
+        "SENTIDO": "CIC",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51505555816",
+        "LON": "-49,320761163377",
+        "NOME": "Rua Padre Gaston, 457 - Cidade Industrial",
+        "NUM": "170083",
+        "SENTIDO": "CIC",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517024715466",
+        "LON": "-49,318824608469",
+        "NOME": "Rua José Rodrigues Pinheiro, 2261 - Cidade Industrial",
+        "NUM": "170075",
+        "SENTIDO": "CIC",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523304253953",
+        "LON": "-49,317406927036",
+        "NOME": "Rua João Chede, 2237 - Cidade Industrial",
+        "NUM": "170158",
+        "SENTIDO": "CIC",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532930637935",
+        "LON": "-49,30820002943",
+        "NOME": "Rua João Chede, 701 - Cidade Industrial",
+        "NUM": "170116",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511734065683",
+        "LON": "-49,324518892031",
+        "NOME": "Terminal CIC - 644 - Pinheirinho / CIC",
+        "NUM": "105204",
+        "SENTIDO": "CIC",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "CIC",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "CIC",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525552833276",
+        "LON": "-49,316285763668",
+        "NOME": "Rua João Chede, 1625 - Cidade Industrial",
+        "NUM": "170160",
+        "SENTIDO": "CIC",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521033848012",
+        "LON": "-49,319598291801",
+        "NOME": "Rua João Chede, 2627 - Cidade Industrial",
+        "NUM": "170155",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516254968822",
+        "LON": "-49,323125530624",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2582 - Cidade Industrial",
+        "NUM": "170072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527825574075",
+        "LON": "-49,314235214876",
+        "NOME": "Rua João Chede, 1599 - Cidade Industrial",
+        "NUM": "170161",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526603915867",
+        "LON": "-49,29493537991",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6339 - Pinheirinho",
+        "NUM": "160362",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512225947186",
+        "LON": "-49,295022449074",
+        "NOME": "Terminal Pinheirinho - 644 - Pinheirinho / CIC",
+        "NUM": "105730",
+        "SENTIDO": "CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534788802708",
+        "LON": "-49,302187668648",
+        "NOME": "Rua João Chede, 2 - Pinheirinho",
+        "NUM": "170682",
+        "SENTIDO": "CIC",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511734065683",
+        "LON": "-49,324518892031",
+        "NOME": "Terminal CIC - 644 - Pinheirinho / CIC",
+        "NUM": "105204",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529714461977",
+        "LON": "-49,312090262566",
+        "NOME": "Rua João Chede, 1325 - Cidade Industrial",
+        "NUM": "170685",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519428276483",
+        "LON": "-49,294448658895",
+        "NOME": "Rua André Ferreira Barbosa, 8391 - Pinheirinho",
+        "NUM": "150272",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529441020651",
+        "LON": "-49,312134402447",
+        "NOME": "Rua João Chede, 1182 - Pinheirinho",
+        "NUM": "170117",
+        "SENTIDO": "CIC",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512225947186",
+        "LON": "-49,295022449074",
+        "NOME": "Terminal Pinheirinho - 644 - Pinheirinho / CIC",
+        "NUM": "105730",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51456901278",
+        "LON": "-49,322571654462",
+        "NOME": "Rua Padre Gaston, 349 - Cidade Industrial",
+        "NUM": "170085",
+        "SENTIDO": "CIC",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518377811594",
+        "LON": "-49,321508158588",
+        "NOME": "Rua José Rodrigues Pinheiro - Cidade Industrial",
+        "NUM": "170449",
+        "SENTIDO": "CIC",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53162",
+        "LON": "-49,30971",
+        "NOME": "Rua João Chede, 821 - Cidade Industrial",
+        "NUM": "170684",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525533470017",
+        "LON": "-49,31649765818",
+        "NOME": "Rua João Chede, 1625 - Cidade Industrial",
+        "NUM": "170159",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519286491621",
+        "LON": "-49,297219650297",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 2152 - Capão Raso",
+        "NUM": "170123",
+        "SENTIDO": "CIC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520557008897",
+        "LON": "-49,320115958141",
+        "NOME": "Rua João Chede, 2675 - Cidade Industrial",
+        "NUM": "170156",
+        "SENTIDO": "CIC",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527706976312",
+        "LON": "-49,314137314247",
+        "NOME": "Rua João Chede, 1599 - Cidade Industrial",
+        "NUM": "170162",
+        "SENTIDO": "CIC",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513966274723",
+        "LON": "-49,323102731847",
+        "NOME": "Rua Padre Gaston, 262 - Cidade Industrial",
+        "NUM": "170086",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53276",
+        "LON": "-49,30814",
+        "NOME": "Rua João Chede, 702 - Pinheirinho",
+        "NUM": "170115",
+        "SENTIDO": "CIC",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53151",
+        "LON": "-49,30956",
+        "NOME": "Rua João Chede, 822 - Pinheirinho",
+        "NUM": "170683",
+        "SENTIDO": "CIC",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515147541642",
+        "LON": "-49,320860405111",
+        "NOME": "Rua Padre Gaston, 458 - Cidade Industrial",
+        "NUM": "170084",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518254327262",
+        "LON": "-49,325014139881",
+        "NOME": "Rua João Chede, 3185 - Cidade Industrial",
+        "NUM": "170073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523517253586",
+        "LON": "-49,317504827666",
+        "NOME": "Rua João Chede, 2237 - Cidade Industrial",
+        "NUM": "170157",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    }
+]

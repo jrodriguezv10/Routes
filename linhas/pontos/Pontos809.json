@@ -1,0 +1,422 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435780511835",
+        "LON": "-49,274628460407",
+        "NOME": "Praça Rui Barbosa - 809 - Mad. Campo Comprido",
+        "NUM": "102044",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429528612393",
+        "LON": "-49,283682256937",
+        "NOME": "Rua Prof. Fernando Moreira, 484 - Mercês",
+        "NUM": "110159",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430245623141",
+        "LON": "-49,292514771223",
+        "NOME": "Rua Padre Anchieta, 1346 - Mercês",
+        "NUM": "190647",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439215163916",
+        "LON": "-49,317597448826",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 842 - Campina do Siqueira",
+        "NUM": "190463",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440953041178",
+        "LON": "-49,342425316572",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 3600 - Campo Comprido",
+        "NUM": "190085",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437959274636",
+        "LON": "-49,314237982035",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 432-600 - Campina do Siqueira",
+        "NUM": "180532",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442222486137",
+        "LON": "-49,351466031022",
+        "NOME": "Rua Dep. Heitor Alencar Furtado - Cidade Industrial",
+        "NUM": "190739",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43130538628",
+        "LON": "-49,278687983751",
+        "NOME": "Rua Professor Fernando Moreira, 1 - Centro",
+        "NUM": "110448",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434898822303",
+        "LON": "-49,304223954678",
+        "NOME": "Rua Padre Anchieta, 2622 - Bigorrilho",
+        "NUM": "190506",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435606112219",
+        "LON": "-49,306109547615",
+        "NOME": "Rua Padre Anchieta, 2851 - Bigorrilho",
+        "NUM": "190665",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43650838528",
+        "LON": "-49,328362494707",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 2378 - Campina do Siqueira",
+        "NUM": "190501",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432013908437",
+        "LON": "-49,29664939642",
+        "NOME": "Rua Padre Anchieta, 1789 - Bigorrilho",
+        "NUM": "180556",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435684834299",
+        "LON": "-49,30604249239",
+        "NOME": "Rua Padre Anchieta, 2851 - Bigorrilho",
+        "NUM": "190671",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436531396183",
+        "LON": "-49,328660219908",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 2368 - Campina do Siqueira",
+        "NUM": "180551",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440073811635",
+        "LON": "-49,337034076452",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 2893 - Campo Comprido",
+        "NUM": "190087",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4287667838",
+        "LON": "-49,287851750851",
+        "NOME": "Rua Prof. Fernando Moreira, 988 - Mercês",
+        "NUM": "110164",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43317781357",
+        "LON": "-49,299855977297",
+        "NOME": "Rua Padre Anchieta, 2140 - Bigorrilho",
+        "NUM": "190505",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449695333916",
+        "LON": "-49,353750944138",
+        "NOME": "Praça Adolfo João Hilário da Veiga - Cidade Industrial",
+        "NUM": "190006",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429428085208",
+        "LON": "-49,284659922123",
+        "NOME": "Rua Prof. Fernando Moreira, 646 - Centro",
+        "NUM": "110160",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428792218536",
+        "LON": "-49,288117289543",
+        "NOME": "Rua Prof. Fernando Moreira, 1010 - Centro",
+        "NUM": "110165",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449695333916",
+        "LON": "-49,353750944138",
+        "NOME": "Praça Adolfo João Hilário da Veiga - Cidade Industrial",
+        "NUM": "190006",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431803168949",
+        "LON": "-49,296406656504",
+        "NOME": "Rua Padre Anchieta, 1764 - Bigorrilho",
+        "NUM": "190504",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43752812737",
+        "LON": "-49,32423055172",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 1872 - Campina do Siqueira",
+        "NUM": "190500",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439909106764",
+        "LON": "-49,336867779493",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 3100 - Campo Comprido",
+        "NUM": "190086",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433730089283",
+        "LON": "-49,277210086584",
+        "NOME": "Rua Visconde de Nácar, 1322 - Centro",
+        "NUM": "110154",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431298119364",
+        "LON": "-49,278988391161",
+        "NOME": "Rua Professor Fernando Moreira, 2 - Centro",
+        "NUM": "110449",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437875709697",
+        "LON": "-49,313945621252",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 432-600 - Campina do Siqueira",
+        "NUM": "190431",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435780511835",
+        "LON": "-49,274628460407",
+        "NOME": "Praça Rui Barbosa - 809 - Mad. Campo Comprido",
+        "NUM": "102044",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433348583304",
+        "LON": "-49,300028979778",
+        "NOME": "Rua Padre Anchieta, 2163 - Bigorrilho",
+        "NUM": "180557",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435076856286",
+        "LON": "-49,304414391518",
+        "NOME": "Rua Padre Anchieta, 2665 - Bigorrilho",
+        "NUM": "180558",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438728311574",
+        "LON": "-49,333234727383",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 3012 - Campina do Siqueira",
+        "NUM": "180552",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441521024895",
+        "LON": "-49,347430318594",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4256 - Cidade Industrial",
+        "NUM": "190088",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433823346117",
+        "LON": "-49,276984781027",
+        "NOME": "Rua Visconde de Nácar, 1322 - Centro",
+        "NUM": "110127",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441521024895",
+        "LON": "-49,347430318594",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4256 - Cidade Industrial",
+        "NUM": "190088",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430438197935",
+        "LON": "-49,292721301317",
+        "NOME": "Rua Padre Anchieta, 1367 - Bigorrilho",
+        "NUM": "180559",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437562037886",
+        "LON": "-49,324510842562",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 1862 - Campina do Siqueira",
+        "NUM": "180542",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44107899089",
+        "LON": "-49,342645257711",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 3515 - Campo Comprido",
+        "NUM": "190084",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438553916227",
+        "LON": "-49,333060383797",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 3002 - Campina do Siqueira",
+        "NUM": "190502",
+        "SENTIDO": "Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296305782",
+        "LON": "-49,317892491817",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 842 - Campina do Siqueira",
+        "NUM": "180525",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "41763",
+        "LAT": "-25,438594547776",
+        "LON": "-49,333182089328",
+        "NOME": "Estação Tubo Mossunguê",
+        "NUM": "108198",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "32",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41766",
+        "LAT": "-25,429512583888",
+        "LON": "-49,283790215912",
+        "NOME": "Estação Tubo Brigadeiro Franco",
+        "NUM": "108178",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26049",
+        "LAT": "-25,438110723495",
+        "LON": "-49,238652241969",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108160",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25420",
+        "LAT": "-25,438885212335",
+        "LON": "-49,22626429576",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108153",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41802",
+        "LAT": "-25,429440666486",
+        "LON": "-49,284535626389",
+        "NOME": "Estação Tubo Brigadeiro Franco",
+        "NUM": "108177",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41756",
+        "LAT": "-25,437968344722",
+        "LON": "-49,31409883613",
+        "NOME": "Estação Tubo Major Heitor Guimarães",
+        "NUM": "108189",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41791",
+        "LAT": "-25,431949158009",
+        "LON": "-49,296483428425",
+        "NOME": "Estação Tubo Bruno Filgueira",
+        "NUM": "108183",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26048",
+        "LAT": "-25,438177333104",
+        "LON": "-49,238731363135",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108159",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41847",
+        "LAT": "-25,45728548614",
+        "LON": "-49,212937013492",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108148",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41759",
+        "LAT": "-25,439215779396",
+        "LON": "-49,317719740852",
+        "NOME": "Estação Tubo Rio Barigui",
+        "NUM": "108192",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41761",
+        "LAT": "-25,43750563285",
+        "LON": "-49,324355190285",
+        "NOME": "Estação Tubo Paulo Gorski",
+        "NUM": "108194",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26042",
+        "LAT": "-25,437027959344",
+        "LON": "-49,243685491076",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108162",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41853",
+        "LAT": "-25,435613478",
+        "LON": "-49,27426829",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 303 - Centenário / Campo Comprido",
+        "NUM": "108030",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440005649011",
+        "LON": "-49,221567080322",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104701",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451939302546",
+        "LON": "-49,214773788885",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105602",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41788",
+        "LAT": "-25,435033422382",
+        "LON": "-49,304303408808",
+        "NOME": "Estação Tubo Gastão Câmara",
+        "NUM": "108187",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41794",
+        "LAT": "-25,430382257228",
+        "LON": "-49,292587519831",
+        "NOME": "Estação Tubo Praça da Ucrânia",
+        "NUM": "108181",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41850",
+        "LAT": "-25,447015365256",
+        "LON": "-49,216953419584",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108149",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,4511728",
+        "LON": "-49,2152244",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105601",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "31",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41843",
+        "LAT": "-25,465055224179",
+        "LON": "-49,209806384656",
+        "NOME": "Estação Tubo Catulo da P. Cearense",
+        "NUM": "108144",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26040",
+        "LAT": "-25,435638778793",
+        "LON": "-49,250571397316",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108163",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41852",
+        "LAT": "-25,442221997638",
+        "LON": "-49,217733858895",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108151",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,436113831389",
+        "LON": "-49,307527818046",
+        "NOME": "Terminal Campina do Siqueira - 303 - Centenário / Campo Comprido",
+        "NUM": "104509",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26124",
+        "LAT": "-25,43759253",
+        "LON": "-49,26672726",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108025",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41845",
+        "LAT": "-25,4604271982",
+        "LON": "-49,21174654785",
+        "NOME": "Estação Tubo Cajuru",
+        "NUM": "108146",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26011",
+        "LAT": "-25,435617512424",
+        "LON": "-49,256634944672",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108166",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26034",
+        "LAT": "-25,435717541034",
+        "LON": "-49,257546557494",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108165",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41844",
+        "LAT": "-25,46521811",
+        "LON": "-49,20987407",
+        "NOME": "Estação Tubo Catulo da P. Cearense",
+        "NUM": "108143",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41758",
+        "LAT": "-25,439305278471",
+        "LON": "-49,3177198183",
+        "NOME": "Estação Tubo Rio Barigui",
+        "NUM": "108191",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41848",
+        "LAT": "-25,457312115745",
+        "LON": "-49,213038907434",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108147",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "32",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "35",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41849",
+        "LAT": "-25,446970598447",
+        "LON": "-49,216856830059",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108150",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41806",
+        "LAT": "-25,433755359256",
+        "LON": "-49,277063235596",
+        "NOME": "Estação Tubo Praça Osório",
+        "NUM": "108173",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41757",
+        "LAT": "-25,437868930461",
+        "LON": "-49,314091466504",
+        "NOME": "Estação Tubo Major Heitor Guimarães",
+        "NUM": "108190",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41762",
+        "LAT": "-25,440968576519",
+        "LON": "-49,342524474014",
+        "NOME": "Estação Tubo U.S. Campo Comprido",
+        "NUM": "108202",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26057",
+        "LAT": "-25,44170960553",
+        "LON": "-49,23077471596",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108156",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41790",
+        "LAT": "-25,433301515379",
+        "LON": "-49,299922020382",
+        "NOME": "Estação Tubo Bigorrilho",
+        "NUM": "108185",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41767",
+        "LAT": "-25,431349971641",
+        "LON": "-49,278870702928",
+        "NOME": "Estação Tubo Visconde de Nacar",
+        "NUM": "108176",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41805",
+        "LAT": "-25,433811007574",
+        "LON": "-49,277131290382",
+        "NOME": "Estação Tubo Praça Osório",
+        "NUM": "108174",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26055",
+        "LAT": "-25,440800424556",
+        "LON": "-49,236691126152",
+        "NOME": "Estação Tubo Urbano Lopes",
+        "NUM": "108157",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41851",
+        "LAT": "-25,442132410438",
+        "LON": "-49,217694966865",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108152",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26031",
+        "LAT": "-25,435644780933",
+        "LON": "-49,26077879082",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108167",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41801",
+        "LAT": "-25,428757407687",
+        "LON": "-49,287950657402",
+        "NOME": "Estação Tubo Pres.Taunay",
+        "NUM": "108180",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41751",
+        "LAT": "-25,441060642695",
+        "LON": "-49,342506505809",
+        "NOME": "Estação Tubo U.S. Campo Comprido",
+        "NUM": "108201",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41800",
+        "LAT": "-25,428815003633",
+        "LON": "-49,287983508056",
+        "NOME": "Estação Tubo Pres.Taunay",
+        "NUM": "108179",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26054",
+        "LAT": "-25,440751982263",
+        "LON": "-49,236597228836",
+        "NOME": "Estaçaõ Tubo Urbano Lopes",
+        "NUM": "108158",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41796",
+        "LAT": "-25,430287060502",
+        "LON": "-49,292623233103",
+        "NOME": "Estação Tubo Praça da Ucrânia",
+        "NUM": "108182",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41765",
+        "LAT": "-25,433217232278",
+        "LON": "-49,299960331971",
+        "NOME": "Estação Tubo Bigorrilho",
+        "NUM": "108186",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41789",
+        "LAT": "-25,434940199485",
+        "LON": "-49,304336607865",
+        "NOME": "Estação Tubo Gastão Câmara",
+        "NUM": "108188",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41755",
+        "LAT": "-25,436480047889",
+        "LON": "-49,328490570391",
+        "NOME": "Estação Tubo São Grato",
+        "NUM": "108196",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41753",
+        "LAT": "-25,439949184101",
+        "LON": "-49,336961573285",
+        "NOME": "Estação Tubo Imperial",
+        "NUM": "108200",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26062",
+        "LAT": "-25,438812743998",
+        "LON": "-49,226358458817",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108154",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26039",
+        "LAT": "-25,435546730475",
+        "LON": "-49,250568710107",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108164",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41807",
+        "LAT": "-25,43592973",
+        "LON": "-49,2749106",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 303 - Centenário / Campo Comprido",
+        "NUM": "108169",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41787",
+        "LAT": "-25,440034875186",
+        "LON": "-49,336916782222",
+        "NOME": "Estação Tubo Imperial",
+        "NUM": "108199",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41760",
+        "LAT": "-25,437596674402",
+        "LON": "-49,324382425493",
+        "NOME": "Estação Tubo Paulo Gorski",
+        "NUM": "108193",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41846",
+        "LAT": "-25,460458700548",
+        "LON": "-49,211855217316",
+        "NOME": "Estação Tubo Cajuru",
+        "NUM": "108145",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26043",
+        "LAT": "-25,437130902377",
+        "LON": "-49,243700245225",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108161",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435723602407",
+        "LON": "-49,306998364944",
+        "NOME": "Terminal Campina do Siqueira - 303 - Centenário / Campo Comprido",
+        "NUM": "104505",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41768",
+        "LAT": "-25,431274052955",
+        "LON": "-49,278832487674",
+        "NOME": "Estação Tubo Visconde de Nacar",
+        "NUM": "108175",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41793",
+        "LAT": "-25,431851374567",
+        "LON": "-49,296536492359",
+        "NOME": "Estação Tubo Bruno Filgueira",
+        "NUM": "108184",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44171989811",
+        "LON": "-49,346978282274",
+        "NOME": "Terminal Campo Comprido - 303 - Centenário / C.Comprido - Embarque",
+        "NUM": "104601",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "35",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41754",
+        "LAT": "-25,436570794314",
+        "LON": "-49,328525097317",
+        "NOME": "Estação Tubo São Grato",
+        "NUM": "108195",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14553",
+        "LAT": "-25,437670038693",
+        "LON": "-49,266681661447",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108026",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41782",
+        "LAT": "-25,438680511373",
+        "LON": "-49,333147884554",
+        "NOME": "Estação Tubo Mossunguê",
+        "NUM": "108197",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26058",
+        "LAT": "-25,441828976264",
+        "LON": "-49,230751377613",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108155",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26032",
+        "LAT": "-25,435735612068",
+        "LON": "-49,260801584596",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108168",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440148554607",
+        "LON": "-49,221592129416",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104702",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44171989811",
+        "LON": "-49,346978282274",
+        "NOME": "Terminal Campo Comprido - 303 - Centenário / C.Comprido - Embarque",
+        "NUM": "104601",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

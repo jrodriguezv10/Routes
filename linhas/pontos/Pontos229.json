@@ -1,0 +1,942 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,39107457596",
+        "LON": "-49,224417930059",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2625 - Bacacheri",
+        "NUM": "130040",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378709634623",
+        "LON": "-49,254610790803",
+        "NOME": "Rua Paula Prevedello Gusso, 1023 - Boa Vista",
+        "NUM": "120902",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387857884111",
+        "LON": "-49,220746209822",
+        "NOME": "Rua Monteiro Tourinho, 530 - Tingui",
+        "NUM": "130092",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412752734896",
+        "LON": "-49,204802513123",
+        "NOME": "Rua Adilio Ramos, 1797 - Bairro Alto",
+        "NUM": "130201",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "57",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382707644463",
+        "LON": "-49,251159913336",
+        "NOME": "Rua Lodovico Geronazzo, 1731 - Boa Vista",
+        "NUM": "120210",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38598",
+        "LON": "-49,24697",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120214",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39171",
+        "LON": "-49,24366",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120223",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392424865256",
+        "LON": "-49,226471341105",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2419 - Bacacheri",
+        "NUM": "130022",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377472502289",
+        "LON": "-49,253759189441",
+        "NOME": "Rua Prof. Maria Balbina Costa Dias, 674 - Barreirinha",
+        "NUM": "120904",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386622116014",
+        "LON": "-49,206820495701",
+        "NOME": "Rua Roaldo Brun, 1296 - Atuba",
+        "NUM": "130426",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "79",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374897626977",
+        "LON": "-49,249485089376",
+        "NOME": "Rua Paolo Batan, 367 - Boa Vista",
+        "NUM": "120913",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396892997924",
+        "LON": "-49,208387434359",
+        "NOME": "Rua Alberico Flores Bueno, 301 - Atuba",
+        "NUM": "130182",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394551499569",
+        "LON": "-49,203163294477",
+        "NOME": "Rua Rio Japurá, 559 - Bairro Alto",
+        "NUM": "130498",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397996673642",
+        "LON": "-49,201539387732",
+        "NOME": "Rua Rio Japurá, 1009 - Bairro Alto",
+        "NUM": "130501",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399656960588",
+        "LON": "-49,20146",
+        "NOME": "Rua Rio Guaporé, 1077 - Bairro Alto",
+        "NUM": "130503",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402952400316",
+        "LON": "-49,20049475215",
+        "NOME": "Rua Rio Jarí, 1278 - Bairro Alto",
+        "NUM": "130507",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "52",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379823685364",
+        "LON": "-49,190497580727",
+        "NOME": "Av. Alan Kardec, 614 - Atuba - Colombo - PR",
+        "NUM": "350003",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "71",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388521834351",
+        "LON": "-49,203526836585",
+        "NOME": "Rodovia BR116 (Pista lateral), 1108 - Atuba",
+        "NUM": "130903",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "65",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38997",
+        "LON": "-49,24512",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1211 - Boa Vista",
+        "NUM": "120220",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377197268479",
+        "LON": "-49,243293705545",
+        "NOME": "Rua Fernando de Noronha, 1420 - Santa Candida",
+        "NUM": "120614",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38773582086",
+        "LON": "-49,22182046627",
+        "NOME": "Rua Monteiro Tourinho, 457 - Tingui",
+        "NUM": "130091",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387786417921",
+        "LON": "-49,213581487102",
+        "NOME": "Rua Monteiro Tourinho, 1278 - Tingui",
+        "NUM": "130484",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380710613432",
+        "LON": "-49,199068279762",
+        "NOME": "Estrada da Ribeira - Atuba - Curitiba - PR",
+        "NUM": "130163",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "75",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383050306903",
+        "LON": "-49,201088046627",
+        "NOME": "BR-476 - Atuba - Curitiba - PR",
+        "NUM": "130164",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "76",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398714229601",
+        "LON": "-49,207538046627",
+        "NOME": "Rua Alberico Flores Bueno, 481 - Atuba",
+        "NUM": "130184",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3801814295",
+        "LON": "-49,237675357815",
+        "NOME": "Rua Fernando de Noronha, 756 - Santa Candida",
+        "NUM": "120721",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385879985642",
+        "LON": "-49,241193985074",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1840 - Boa Vista",
+        "NUM": "120723",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378152753511",
+        "LON": "-49,24164719504",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 2-270 - Santa Candida",
+        "NUM": "120583",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24404",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1385 - Boa Vista",
+        "NUM": "120218",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410161918506",
+        "LON": "-49,207336188501",
+        "NOME": "Rua José de Oliveira Franco, 1324 - Bairro Alto",
+        "NUM": "130297",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38922849905",
+        "LON": "-49,222997055225",
+        "NOME": "Rua Monteiro Tourinho, 220 - Tingui",
+        "NUM": "130090",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387029112927",
+        "LON": "-49,219086938658",
+        "NOME": "Rua Monteiro Tourinho, 69 - Tingui",
+        "NUM": "130093",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387548568613",
+        "LON": "-49,213875889549",
+        "NOME": "Rua Monteiro Tourinho, 1277 - Tingui",
+        "NUM": "130485",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384578775115",
+        "LON": "-49,248784751263",
+        "NOME": "Rua Lodovico Geronazzo, 1370 - Boa Vista",
+        "NUM": "120213",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388619503134",
+        "LON": "-49,20784446711",
+        "NOME": "Av. Mal. Mascarenhas de Moraes - Atuba",
+        "NUM": "130897",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405036983089",
+        "LON": "-49,199550116568",
+        "NOME": "Rua Rio Jarí, 1537- Bairro Alto",
+        "NUM": "130509",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407979019043",
+        "LON": "-49,198617668098",
+        "NOME": "Rua Albino Kaminski, 1061 - Bairro Alto",
+        "NUM": "130541",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39298158623",
+        "LON": "-49,209128630113",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130904",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "64",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393493330649",
+        "LON": "-49,241359680891",
+        "NOME": "Rua João Havro, 13 - Boa Vista",
+        "NUM": "120325",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376341569741",
+        "LON": "-49,191980634128",
+        "NOME": "Rua Huxley, 220 - Atuba - Colombo - PR",
+        "NUM": "350132",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "73",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379797124821",
+        "LON": "-49,25504221448",
+        "NOME": "Rua Lodovico Geronazzo, 2175 - Boa Vista",
+        "NUM": "120206",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378651412589",
+        "LON": "-49,189617515749",
+        "NOME": "Rua Huxley, 565 - Atuba - Colombo - PR",
+        "NUM": "350045",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "72",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38508",
+        "LON": "-49,20234",
+        "NOME": "Rua República Guarani - Atuba",
+        "NUM": "130158",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "66",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373317535142",
+        "LON": "-49,247497572495",
+        "NOME": "Rua Paolo Batan, 278 - Boa Vista",
+        "NUM": "120915",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401237268728",
+        "LON": "-49,206344868717",
+        "NOME": "Rua Alberico Flores Bueno, 801 - Bairro Alto",
+        "NUM": "130186",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383284872513",
+        "LON": "-49,200350675543",
+        "NOME": "Rua República Guarani, 60 - Atuba",
+        "NUM": "130624",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "67",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389539692577",
+        "LON": "-49,203815364418",
+        "NOME": "Estrada da Graciosa, 80 - Atuba",
+        "NUM": "130492",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "44",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396550615975",
+        "LON": "-49,20222475215",
+        "NOME": "Rua Rio Japurá, 720 - Bairro Alto",
+        "NUM": "130500",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411565882356",
+        "LON": "-49,201663316435",
+        "NOME": "R. Alberico Flores Bueno, 2184 - Bairro Alto",
+        "NUM": "130542",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "55",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379527318923",
+        "LON": "-49,24011096531",
+        "NOME": "Rua Fernando de Noronha, 988 - Santa Candida",
+        "NUM": "120185",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24387",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1384 - Boa Vista",
+        "NUM": "120219",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38733",
+        "LON": "-49,24524",
+        "NOME": "Rua Lodovico Geronazzo, 833 - Boa Vista",
+        "NUM": "120216",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391476076532",
+        "LON": "-49,224709154596",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2608 - Bacacheri",
+        "NUM": "130041",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389640307432",
+        "LON": "-49,223107288361",
+        "NOME": "Rua Monteiro Tourinho, 147 - Tingui",
+        "NUM": "130089",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387315750728",
+        "LON": "-49,215657550926",
+        "NOME": "Rua Monteiro Tourinho, 1056 - Tingui",
+        "NUM": "130095",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387075768067",
+        "LON": "-49,216025597553",
+        "NOME": "Rua Monteiro Tourinho, 1047 - Tingui",
+        "NUM": "130096",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405285463033",
+        "LON": "-49,204431224537",
+        "NOME": "Rua Alberico Flores Bueno, 1287 - Bairro Alto",
+        "NUM": "130188",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383015889287",
+        "LON": "-49,198980066736",
+        "NOME": "Rua República Guarani, 200 - Atuba",
+        "NUM": "130625",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "68",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381516215735",
+        "LON": "-49,252794612343",
+        "NOME": "Rua Lodovico Geronazzo, 1945 - Boa Vista",
+        "NUM": "120208",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383864796104",
+        "LON": "-49,239321235573",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2052 - Boa Vista",
+        "NUM": "120722",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38205867882",
+        "LON": "-49,238607212771",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2234 - Boa Vista",
+        "NUM": "120385",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39176",
+        "LON": "-49,24376",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120222",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413104124889",
+        "LON": "-49,203865234862",
+        "NOME": "Rua Jornalista Alceu Chichorro, 425 - Bairro Alto",
+        "NUM": "130384",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387307614598",
+        "LON": "-49,242498251053",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1642 - Boa Vista",
+        "NUM": "120388",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390939658968",
+        "LON": "-49,204326749987",
+        "NOME": "Rua Rio Japurá, 174 - Atuba",
+        "NUM": "130493",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387071808744",
+        "LON": "-49,218003527613",
+        "NOME": "Rua Monteiro Tourinho, 874 - Tingui",
+        "NUM": "130094",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388140053038",
+        "LON": "-49,210451836805",
+        "NOME": "Rua Monteiro Tourinho, 1611 - Tingui",
+        "NUM": "130487",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384585800575",
+        "LON": "-49,202685364418",
+        "NOME": "BR-476 - Atuba - Curitiba - PR",
+        "NUM": "130159",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "77",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37813",
+        "LON": "-49,19685",
+        "NOME": "Estrada da Ribeira - Atuba - Curitiba - PR",
+        "NUM": "130035",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "74",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389546473807",
+        "LON": "-49,206915081686",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130488",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382565159296",
+        "LON": "-49,196725670059",
+        "NOME": "Rua República Guarani, 440 - Atuba",
+        "NUM": "130626",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "69",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395245461824",
+        "LON": "-49,239574023314",
+        "NOME": "Rua Marcelino Nogueira, 507 - Bacacheri",
+        "NUM": "130480",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39521",
+        "LON": "-49,23951",
+        "NOME": "Rua Marcelino Nogueira, 508 - Bacacheri",
+        "NUM": "130700",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "94",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407452595858",
+        "LON": "-49,208607398005",
+        "NOME": "Rua José de Oliveira Franco, 961 - Bairro Alto",
+        "NUM": "130298",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "59",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393493330649",
+        "LON": "-49,241359680891",
+        "NOME": "Rua João Havro, 13 - Boa Vista",
+        "NUM": "120325",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "95",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39021",
+        "LON": "-49,24517",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1210 - Boa Vista",
+        "NUM": "120221",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378037264678",
+        "LON": "-49,242315265856",
+        "NOME": "Rua Fernando de Noronha, 1302 - Santa Candida",
+        "NUM": "120169",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392630982063",
+        "LON": "-49,204063893503",
+        "NOME": "Rua Rio Japurá, 237 - Bairro Alto",
+        "NUM": "130495",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "46",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388217594522",
+        "LON": "-49,210943527613",
+        "NOME": "Rua Monteiro Tourinho, 1592 - Tingui",
+        "NUM": "130486",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39726",
+        "LON": "-49,23801",
+        "NOME": "Rua Marcelino Nogueira, 239 - Bacacheri",
+        "NUM": "130481",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397075195282",
+        "LON": "-49,237951107969",
+        "NOME": "Rua Marcelino Nogueira, 240 - Bacacheri",
+        "NUM": "130482",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401093061579",
+        "LON": "-49,201370116568",
+        "NOME": "Rua Rio Jarí, 1039 - Bairro Alto",
+        "NUM": "130505",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "51",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380447693559",
+        "LON": "-49,192933026512",
+        "NOME": "Av. Alan Kardec, 866 - Atuba - Colombo - PR",
+        "NUM": "350007",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "70",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3935672341",
+        "LON": "-49,241425395012",
+        "NOME": "Rua João Havro, 13 - Boa Vista",
+        "NUM": "120363",
+        "SENTIDO": "Mad. Penha / F. Noronha",
+        "SEQ": "27",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

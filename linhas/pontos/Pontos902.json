@@ -1,0 +1,92 @@
+[
+    {
+        "GRUPO": "26076",
+        "LAT": "-25,428269645747",
+        "LON": "-49,284841447163",
+        "NOME": "Estação Tubo Praça 29 de Março",
+        "NUM": "109016",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,401281017147",
+        "LON": "-49,329734107491",
+        "NOME": "Terminal Santa Felicidade - 307 - Santa Felicidade/ Bairro Alto",
+        "NUM": "109121",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,401281017147",
+        "LON": "-49,329734107491",
+        "NOME": "Terminal Santa Felicidade - 307 - Santa Felicidade/ Bairro Alto",
+        "NUM": "109121",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422359689289",
+        "LON": "-49,291559774807",
+        "NOME": "Estação Tubo Mêrces",
+        "NUM": "109046",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41864",
+        "LAT": "-25,428361303918",
+        "LON": "-49,27237305159",
+        "NOME": "Estação Tubo Nestor de Castro - 307 - Bairro Alto/ Santa Felicidade",
+        "NUM": "109055",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41865",
+        "LAT": "-25,429243252498",
+        "LON": "-49,271788330025",
+        "NOME": "Praça Tiradentes - 307- Bairro Alto / Santa Felicidade",
+        "NUM": "109053",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26075",
+        "LAT": "-25,428447321831",
+        "LON": "-49,28487356633",
+        "NOME": "Estação Tubo Praça 29 de Março",
+        "NUM": "109044",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41864",
+        "LAT": "-25,428361303918",
+        "LON": "-49,27237305159",
+        "NOME": "Estação Tubo Nestor de Castro - 307 - Bairro Alto/ Santa Felicidade",
+        "NUM": "109055",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    }
+]

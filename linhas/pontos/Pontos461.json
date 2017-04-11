@@ -1,0 +1,642 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,434760976981",
+        "LON": "-49,272469789796",
+        "NOME": "Praça Rui Barbosa - 461 - Santa Bárbara",
+        "NUM": "102040",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442238229692",
+        "LON": "-49,247399003452",
+        "NOME": "Av. Prefeito Omar Sabag, 212 - Jardim Botanico",
+        "NUM": "140552",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459533098414",
+        "LON": "-49,232400090641",
+        "NOME": "Rua Doutor Hugo de Barros, 19 -Jardim das Américas",
+        "NUM": "140561",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459927840952",
+        "LON": "-49,228744239754",
+        "NOME": "Rua Pedro Demeterco, 683 - Jardim das Américas",
+        "NUM": "140567",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440891277329",
+        "LON": "-49,252665191889",
+        "NOME": "Rua Brasílio Itiberê, 849 - Jardim Botanico",
+        "NUM": "110169",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438835151813",
+        "LON": "-49,251793802923",
+        "NOME": "Rua Engenheiros Rebouças, 540 - Jardim Botanico",
+        "NUM": "110171",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471621538551",
+        "LON": "-49,220214486122",
+        "NOME": "Rua Professor Paulo D'Assumpç¿o, 874 - Uberaba",
+        "NUM": "140583",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439920271785",
+        "LON": "-49,250104011244",
+        "NOME": "Rua Brasílio Itiberê, 563 - Jardim Botanico",
+        "NUM": "110170",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441326311136",
+        "LON": "-49,249190719074",
+        "NOME": "Av. Prefeito Omar Sabag, 750 - Jardim Botanico",
+        "NUM": "140550",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444224323235",
+        "LON": "-49,242752076334",
+        "NOME": "Av. Prof. Lothário Meissner - Jardim Botânico",
+        "NUM": "140556",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468274041845",
+        "LON": "-49,224620343393",
+        "NOME": "Rua Monsenhor Lamartine, 3 - Jardim das Américas",
+        "NUM": "140576",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443621232439",
+        "LON": "-49,244156212753",
+        "NOME": "Av. Prof. Lothário Meissner, 70 - Jardim Botanico",
+        "NUM": "140555",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448844286063",
+        "LON": "-49,229103655762",
+        "NOME": "Rodovia BR277 - Jardim da Américas",
+        "NUM": "140528",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459441072359",
+        "LON": "-49,23233437652",
+        "NOME": "Rua Doutor Hugo de Barros, 18 - Jardim das Américas",
+        "NUM": "140560",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443818629959",
+        "LON": "-49,244377494997",
+        "NOME": "Av. Prof. Lothário Meissner, 71 - Jardim Botanico",
+        "NUM": "140554",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460004125404",
+        "LON": "-49,231223941988",
+        "NOME": "Rua Doutor Hugo de Barros, 142 - Jardim das Américas",
+        "NUM": "140563",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470049033262",
+        "LON": "-49,22499719376",
+        "NOME": "Rua Francisco Castellano, 411 - Jardim das Américas",
+        "NUM": "140578",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440551235487",
+        "LON": "-49,24865695948",
+        "NOME": "Rua Coronel João da Silva Sampaio, 27 - Jardim Botanico",
+        "NUM": "140551",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47430622144",
+        "LON": "-49,218318734359",
+        "NOME": "Rua Professor Paulo D'Assumpção, 1250 - Uberaba",
+        "NUM": "140584",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461314273045",
+        "LON": "-49,227145643181",
+        "NOME": "Rua Desembargador Joaquim de Oliveira Sobrinho, 80 - Jardim das Américas",
+        "NUM": "140568",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463624554092",
+        "LON": "-49,226556898302",
+        "NOME": "Rua Eduardo Couture, 213 - Jardim das Américas",
+        "NUM": "140570",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466968813164",
+        "LON": "-49,224718244022",
+        "NOME": "Rua José de Melo Braga Júnior, 624- Jardim das Américas",
+        "NUM": "140574",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460377070917",
+        "LON": "-49,229964644855",
+        "NOME": "Rua Frei Francisco Sampaio, 49- Jardim das Américas",
+        "NUM": "140565",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459892725871",
+        "LON": "-49,228868962473",
+        "NOME": "Rua Pedro Demeterco, 681 - Jardim das Américas",
+        "NUM": "140660",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465216781717",
+        "LON": "-49,225809903091",
+        "NOME": "Rua André Petreli, 88 Jardim das Américas",
+        "NUM": "140573",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449268126987",
+        "LON": "-49,230067909903",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 610 - Guabirotuba",
+        "NUM": "140559",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472101258767",
+        "LON": "-49,223410667128",
+        "NOME": "Rua Francisco Castellano, 186 -Jardim das Américas",
+        "NUM": "140580",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471705080066",
+        "LON": "-49,220264106989",
+        "NOME": "Rua Professor Paulo D'Assumpç¿o, 875 - Uberaba",
+        "NUM": "140661",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47430622144",
+        "LON": "-49,218318734359",
+        "NOME": "Rua Professor Paulo D'Assumpção, 1250 - Uberaba",
+        "NUM": "140584",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4551",
+        "LON": "-49,23077",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 791 - Guabirotuba",
+        "NUM": "140171",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457753108305",
+        "LON": "-49,232024581379",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1071 - Jardim das Américas",
+        "NUM": "140173",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451123359031",
+        "LON": "-49,226159387732",
+        "NOME": "Rua Procópio Ferreira Martins, 96 - Cajuru",
+        "NUM": "140291",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,263431907839",
+        "NOME": "Rua João Negrão, 940 - Centro",
+        "NUM": "110205",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45246",
+        "LON": "-49,22982",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 519 - Guabirotuba",
+        "NUM": "140169",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469959436779",
+        "LON": "-49,224948913998",
+        "NOME": "Rua Francisco Castellano, 410-Jardim das Américas",
+        "NUM": "140579",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472016506784",
+        "LON": "-49,22336372847",
+        "NOME": "Rua Francisco Castellano, 185 - Jardim das Américas",
+        "NUM": "140581",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465302749301",
+        "LON": "-49,225768328852",
+        "NOME": "Rua André Petreli, 89- Jardim das Américas",
+        "NUM": "140572",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44232542473",
+        "LON": "-49,247905940956",
+        "NOME": "Av. Prefeito Omar Sabag, 213 - Jardim Botanico",
+        "NUM": "140553",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444048724821",
+        "LON": "-49,237115414089",
+        "NOME": "Av. Prof. Lothário Meissner, 840 - Jardim Botânico",
+        "NUM": "140557",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460555067231",
+        "LON": "-49,229807735628",
+        "NOME": "Rua Frei Francisco Sampaio, 51 -Jardim das Américas",
+        "NUM": "140564",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443869493072",
+        "LON": "-49,237796695179",
+        "NOME": "Av. Prof. Lothário Meissner, 767 - Jardim Botânico",
+        "NUM": "140558",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45991452144",
+        "LON": "-49,231148840136",
+        "NOME": "Rua Doutor Hugo de Barros, 140 - Jardim das Américas",
+        "NUM": "140562",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46134575516",
+        "LON": "-49,227020920462",
+        "NOME": "Rua Desembargador Joaquim de Oliveira Sobrinho, 79- Jardim das Américas",
+        "NUM": "140569",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463595494228",
+        "LON": "-49,226472408718",
+        "NOME": "Rua Eduardo Couture, 212- Jardim das Américas",
+        "NUM": "140571",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466859841669",
+        "LON": "-49,224661917633",
+        "NOME": "Rua José de Melo Braga Júnior, 623- Jardim das Américas",
+        "NUM": "140575",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468366061143",
+        "LON": "-49,224608273453",
+        "NOME": "Rua Monsenhor Lamartine, 1- Jardim das Américas",
+        "NUM": "140577",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473800863424",
+        "LON": "-49,220411628485",
+        "NOME": "Rua Ivo Ferro, 172 - Jd. das Américas",
+        "NUM": "140585",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434760976981",
+        "LON": "-49,272469789796",
+        "NOME": "Praça Rui Barbosa - 461 - Santa Bárbara",
+        "NUM": "102040",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439843974606",
+        "LON": "-49,262003631538",
+        "NOME": "Rua João Negrão, 1274 - Centro",
+        "NUM": "110144",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Santa Bárbara",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    }
+]

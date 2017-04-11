@@ -1,0 +1,132 @@
+[
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47741174514",
+        "LON": "-49,326335480986",
+        "NOME": "Terminal Fazendinha - 705 - Fazendinha / Guadalupe",
+        "NUM": "109131",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483918818859",
+        "LON": "-49,349952985191",
+        "NOME": "Terminal Caiuá - 705 - Fazendinha / Guadalupe",
+        "NUM": "109132",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477228836528",
+        "LON": "-49,327813294477",
+        "NOME": "Terminal Fazendinha - 705 - Fazendinha / Guadalupe",
+        "NUM": "109130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483918818859",
+        "LON": "-49,349952985191",
+        "NOME": "Terminal Caiuá - 705 - Fazendinha / Guadalupe",
+        "NUM": "109132",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26128",
+        "LAT": "-25,441787999713",
+        "LON": "-49,268292114555",
+        "NOME": "Estação Tubo Westphalen / Iguaçu",
+        "NUM": "109073",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,459129997717",
+        "LON": "-49,302406792031",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109066",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26144",
+        "LAT": "-25,448301917892",
+        "LON": "-49,285369401301",
+        "NOME": "Estação Tubo Água Verde / Iguaçu",
+        "NUM": "109003",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41922",
+        "LAT": "-25,432801293553",
+        "LON": "-49,265299734359",
+        "NOME": "Terminal Guadalupe - 705-Fazendinha / Guadalupe",
+        "NUM": "109028",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41922",
+        "LAT": "-25,432801293553",
+        "LON": "-49,265299734359",
+        "NOME": "Terminal Guadalupe - 705-Fazendinha / Guadalupe",
+        "NUM": "109028",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    }
+]

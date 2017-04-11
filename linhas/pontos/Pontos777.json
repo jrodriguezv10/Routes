@@ -1,0 +1,522 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,453020743049",
+        "LON": "-49,298570187038",
+        "NOME": "Avenida Iguaçu, 3922 - Rebouças",
+        "NUM": "180643",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451533706681",
+        "LON": "-49,294584424442",
+        "NOME": "Avenida Iguaçu, 3480 - Rebouças",
+        "NUM": "180642",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461105799415",
+        "LON": "-49,32572717116",
+        "NOME": "Rua Renato Polati, 3 - Campo Comprido",
+        "NUM": "180276",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462360734113",
+        "LON": "-49,337683320867",
+        "NOME": "Rua Aírton Greifo, 138- Campo Comprido",
+        "NUM": "180778",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457069433419",
+        "LON": "-49,307369173712",
+        "NOME": "Rua Curupaitis, 332- Santa Quitéria",
+        "NUM": "180796",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456753389811",
+        "LON": "-49,302464754528",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4557 - Rebouças",
+        "NUM": "180637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455639359749",
+        "LON": "-49,299622954077",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4272 - Rebouças",
+        "NUM": "180638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458842694168",
+        "LON": "-49,316230810143",
+        "NOME": "Rua João Alencar Guimarães, 1284 - Santa Quitéria",
+        "NUM": "180790",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460832988268",
+        "LON": "-49,336754206594",
+        "NOME": "Rua Renato Polati, 1145 - Campo Comprido",
+        "NUM": "180268",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462036572705",
+        "LON": "-49,332292351898",
+        "NOME": "Rua Luís Ronaldo Canale, 214 - Campo Comprido",
+        "NUM": "180271",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450067365812",
+        "LON": "-49,290571839756",
+        "NOME": "Av. Iguaçu, 3064 - Água Verde",
+        "NUM": "180641",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457059061168",
+        "LON": "-49,310616946674",
+        "NOME": "Rua João Alencar Guimarães, 740 -Sta Quiteria",
+        "NUM": "180795",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458061013159",
+        "LON": "-49,314022734761",
+        "NOME": "Rua João Alencar Guimarães, 1070 - Santa Quitéria)",
+        "NUM": "180793",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458245731008",
+        "LON": "-49,314248657681",
+        "NOME": "Rua João Alencar Guimarães, 1071 - Santa Quitéria",
+        "NUM": "180792",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457232218822",
+        "LON": "-49,310776538111",
+        "NOME": "Rua João Alencar Guimarães, 741 - Sta Quiteria",
+        "NUM": "180794",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461270106342",
+        "LON": "-49,334273163256",
+        "NOME": "Rua Luís Ronaldo Canale, 478 - Campo Comprido",
+        "NUM": "180270",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457569531378",
+        "LON": "-49,304900200314",
+        "NOME": "Rua Major França Gomes, 174 - Santa Quitéria",
+        "NUM": "180636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442215155252",
+        "LON": "-49,269662524418",
+        "NOME": "Av. Iguaçu, 832 - Rebouças",
+        "NUM": "110207",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456232018023",
+        "LON": "-49,307820743776",
+        "NOME": "Rua João Alencar Guimarães, 404 - Santa Quitéria",
+        "NUM": "180797",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460966182309",
+        "LON": "-49,334265116629",
+        "NOME": "Rua Luís Ronaldo Canale, 477 - Campo Comprido",
+        "NUM": "180269",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461882795485",
+        "LON": "-49,33228698748",
+        "NOME": "Rua Luís Ronaldo Canale, 213 - Campo Comprido",
+        "NUM": "180272",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454671235033",
+        "LON": "-49,297057421154",
+        "NOME": "Avenida Presidente Getúlio Vargas, 3969 - Rebouças",
+        "NUM": "180639",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46099076834",
+        "LON": "-49,328591770388",
+        "NOME": "Rua Renato Polati, 222 - Campo Comprido",
+        "NUM": "180273",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459909470858",
+        "LON": "-49,319819605804",
+        "NOME": "Rua João Alencar Guimarães, 1658- Santa Quitéria",
+        "NUM": "180788",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453747906833",
+        "LON": "-49,300549657291",
+        "NOME": "Avenida Iguaçu, 4123 - Rebouças",
+        "NUM": "180644",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460702215793",
+        "LON": "-49,336283478912",
+        "NOME": "Rua Renato Polati, 1086 - Campo Comprido",
+        "NUM": "180267",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453362226006",
+        "LON": "-49,293697954363",
+        "NOME": "Av. Pres. Getúlio Vargas, 3605 - Água Verde",
+        "NUM": "180640",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455564283439",
+        "LON": "-49,305581481403",
+        "NOME": "Rua João Alencar Guimarães, 182 - Santa Quitéria",
+        "NUM": "180646",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462360734113",
+        "LON": "-49,337683320867",
+        "NOME": "Rua Aírton Greifo, 138- Campo Comprido",
+        "NUM": "180778",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435279334289",
+        "LON": "-49,273338825517",
+        "NOME": "Praça Rui Barbosa - 777 - V. Velha / 788-Mad. V. Velha",
+        "NUM": "102009",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454510788346",
+        "LON": "-49,302656532473",
+        "NOME": "Avenida Iguaçu, 4378 - Rebouças",
+        "NUM": "180645",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459834397211",
+        "LON": "-49,320054299093",
+        "NOME": "Rua João Alencar Guimarães, 1657 - Santa Quitéria",
+        "NUM": "180789",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435279334289",
+        "LON": "-49,273338825517",
+        "NOME": "Praça Rui Barbosa - 777 - V. Velha / 788-Mad. V. Velha",
+        "NUM": "102009",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461258366777",
+        "LON": "-49,325508571125",
+        "NOME": "Rua Renato Polati, 2 - Campo Comprido",
+        "NUM": "180277",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460863628602",
+        "LON": "-49,328575677134",
+        "NOME": "Rua Renato Polati, 223 - Campo Comprido",
+        "NUM": "180274",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    }
+]

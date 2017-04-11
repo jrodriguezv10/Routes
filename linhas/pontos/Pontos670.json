@@ -1,0 +1,632 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "São Jorge",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "São Jorge",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47493072996",
+        "LON": "-49,310809106773",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 230 - Portão",
+        "NUM": "180707",
+        "SENTIDO": "São Jorge",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46735021262",
+        "LON": "-49,298107505983",
+        "NOME": "Rua Tamoios, 1495 - Vila Izabel",
+        "NUM": "180634",
+        "SENTIDO": "São Jorge",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456020317137",
+        "LON": "-49,293000580019",
+        "NOME": "Rua Bororós, 193 - Vila Izabel",
+        "NUM": "180465",
+        "SENTIDO": "São Jorge",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461308218791",
+        "LON": "-49,288212836927",
+        "NOME": "Rua Guilherme Pugsley, 1660 - Água Verde",
+        "NUM": "150865",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473107381311",
+        "LON": "-49,310193539804",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 33 - Portão",
+        "NUM": "180712",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471701713184",
+        "LON": "-49,300442368931",
+        "NOME": "Rua Engenheiro Heitor Soares Gomes, 79 - Portão",
+        "NUM": "180691",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468964184867",
+        "LON": "-49,298134328074",
+        "NOME": "Rua Capitão Tenente Máris de Barros, 65 - Portão",
+        "NUM": "180833",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464010807444",
+        "LON": "-49,292777956671",
+        "NOME": "Rua Vital Brasil, 185 - Portão",
+        "NUM": "180836",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436437152371",
+        "LON": "-49,274620921426",
+        "NOME": "Praça Rui Barbosa - 670 - São Jorge",
+        "NUM": "102033",
+        "SENTIDO": "São Jorge",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476992468525",
+        "LON": "-49,314395860119",
+        "NOME": "R. Carlos Klemtz, 148 - Fazendinha",
+        "NUM": "180047",
+        "SENTIDO": "São Jorge",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "São Jorge",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491691123",
+        "LON": "-49,289798022455",
+        "NOME": "Rua Castro Alves, 748 - Batel",
+        "NUM": "180533",
+        "SENTIDO": "São Jorge",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478492596903",
+        "LON": "-49,319455207533",
+        "NOME": "Rua Edvino Antônio Deboni, 20 - Fazendinha",
+        "NUM": "180830",
+        "SENTIDO": "São Jorge",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476922337499",
+        "LON": "-49,316248626656",
+        "NOME": "Rua Professor Elevir Dionysio, 242 - Fazendinha",
+        "NUM": "180826",
+        "SENTIDO": "São Jorge",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463675408836",
+        "LON": "-49,297308207697",
+        "NOME": "Rua Tamoios, 1061 - Vila Izabel",
+        "NUM": "180631",
+        "SENTIDO": "São Jorge",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463439297342",
+        "LON": "-49,295635850376",
+        "NOME": "Rua Vital Brasil, 363 - Portão",
+        "NUM": "180598",
+        "SENTIDO": "São Jorge",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453944809765",
+        "LON": "-49,292434633917",
+        "NOME": "Av. Água Verde, 2148 - Água Verde",
+        "NUM": "180536",
+        "SENTIDO": "São Jorge",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477083679245",
+        "LON": "-49,314597201223",
+        "NOME": "R. Carlos Klemtz, 505 - Fazendinha",
+        "NUM": "180048",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467958027666",
+        "LON": "-49,297668964809",
+        "NOME": "Av. Pres. Arthur da S. Bernardes, 1961 - Portão",
+        "NUM": "180834",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466374311919",
+        "LON": "-49,29908248896",
+        "NOME": "Rua Tabajaras, 1317 - Vila Izabel",
+        "NUM": "180635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462515430991",
+        "LON": "-49,294384599871",
+        "NOME": "Rua Bororós, 923 - Vila Izabel",
+        "NUM": "180468",
+        "SENTIDO": "São Jorge",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4582217205",
+        "LON": "-49,293468625492",
+        "NOME": "Rua Bororós, 445 - Vila Izabel",
+        "NUM": "180466",
+        "SENTIDO": "São Jorge",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47691628403",
+        "LON": "-49,316122562832",
+        "NOME": "Rua Prof. Elevir Dionysio, 243 - Fazendinha",
+        "NUM": "180827",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477300073323",
+        "LON": "-49,31129592771",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 486 - Portão",
+        "NUM": "180697",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475061486968",
+        "LON": "-49,305063815063",
+        "NOME": "Rua Alberto Klemtz, 120 - Portão",
+        "NUM": "180699",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473436699979",
+        "LON": "-49,304033846802",
+        "NOME": "Rua Prof. Fábio de Souza, 2311 - Santa Quitéria",
+        "NUM": "180695",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463524055368",
+        "LON": "-49,295500398821",
+        "NOME": "Rua Vital Brasil, 374 - Portão",
+        "NUM": "180630",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "São Jorge",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "São Jorge",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473717588718",
+        "LON": "-49,307705790943",
+        "NOME": "Rua Alberto Klemtz, 225 - Portão",
+        "NUM": "180708",
+        "SENTIDO": "São Jorge",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460567175815",
+        "LON": "-49,293979586309",
+        "NOME": "Rua Bororós, 715 - Vila Izabel",
+        "NUM": "180467",
+        "SENTIDO": "São Jorge",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "São Jorge",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478887277229",
+        "LON": "-49,317391247696",
+        "NOME": "Rua Professor Elevir Dionysio, 440 - Fazendinha",
+        "NUM": "180828",
+        "SENTIDO": "São Jorge",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474967051366",
+        "LON": "-49,305024923033",
+        "NOME": "Rua Alberto Klemtz, 105 - Portão",
+        "NUM": "180698",
+        "SENTIDO": "São Jorge",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468688128134",
+        "LON": "-49,299502254671",
+        "NOME": "R. Padre Leonardo Nunes, 180 - Portão",
+        "NUM": "180105",
+        "SENTIDO": "São Jorge",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452732667844",
+        "LON": "-49,284369231409",
+        "NOME": "Rua Guilherme Pugsley, 750 - Água Verde",
+        "NUM": "150868",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459678402567",
+        "LON": "-49,287424267477",
+        "NOME": "Rua Guilherme Pugsley, 1431 - Água Verde",
+        "NUM": "150866",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473820500376",
+        "LON": "-49,307784916109",
+        "NOME": "Rua Alberto Klemtz, 226 - Portão",
+        "NUM": "180709",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473466968193",
+        "LON": "-49,304159910625",
+        "NOME": "Rua Prof. Fábio de Souza, 2310 - Santa Quitéria",
+        "NUM": "180694",
+        "SENTIDO": "São Jorge",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471620593161",
+        "LON": "-49,300516129679",
+        "NOME": "Rua Engenheiro Heitor Soares Gomes, 80 - Portão",
+        "NUM": "180690",
+        "SENTIDO": "São Jorge",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436437152371",
+        "LON": "-49,274620921426",
+        "NOME": "Praça Rui Barbosa - 670 - São Jorge",
+        "NUM": "102033",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46404834297",
+        "LON": "-49,28949895615",
+        "NOME": "Rua Guilherme Pugsley, 2017 - Água Verde",
+        "NUM": "150864",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478803740704",
+        "LON": "-49,320808381981",
+        "NOME": "Rua Angelina Ançai, 2 - Fazendinha",
+        "NUM": "180832",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472395468758",
+        "LON": "-49,30243256802",
+        "NOME": "Rua Engenheiro Heitor Soares Gomes, 283 - Portão",
+        "NUM": "180693",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478803740704",
+        "LON": "-49,320808381981",
+        "NOME": "Rua Angelina Ançai, 2 - Fazendinha",
+        "NUM": "180832",
+        "SENTIDO": "São Jorge",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473065005682",
+        "LON": "-49,310322285837",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 36 - Portão",
+        "NUM": "180713",
+        "SENTIDO": "São Jorge",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455611030885",
+        "LON": "-49,285462231583",
+        "NOME": "Rua Guilherme Pugsley, 1056 - Água Verde",
+        "NUM": "150867",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478887277229",
+        "LON": "-49,317271889395",
+        "NOME": "Rua Professor Elevir Dionysio, 415 - Fazendinha",
+        "NUM": "180829",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "São Jorge",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477344868838",
+        "LON": "-49,311455519146",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 487 - Portão",
+        "NUM": "180689",
+        "SENTIDO": "São Jorge",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472233229593",
+        "LON": "-49,302334667391",
+        "NOME": "Rua Engenheiro Heitor Soares Gomes, 284 - Portão",
+        "NUM": "180692",
+        "SENTIDO": "São Jorge",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478475647412",
+        "LON": "-49,319354624695",
+        "NOME": "Rua Edvino Antônio Deboni, 15 - Fazendinha",
+        "NUM": "180831",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474877458546",
+        "LON": "-49,310665608591",
+        "NOME": "Rua Desembargador Lauro Sodré Lopes, 201 - Portão",
+        "NUM": "180710",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465019419285",
+        "LON": "-49,298745871729",
+        "NOME": "Rua Tabajaras, 1061 - Vila Izabel",
+        "NUM": "180632",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    }
+]

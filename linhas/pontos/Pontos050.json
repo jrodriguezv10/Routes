@@ -1,0 +1,972 @@
+[
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476371144031",
+        "LON": "-49,292429269499",
+        "NOME": "Terminal Portão - 050 - Interbairros V",
+        "NUM": "105811",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466782195459",
+        "LON": "-49,279901195106",
+        "NOME": "Av. Pres. Kennedy, 2511 - Água Verde",
+        "NUM": "150015",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476497893021",
+        "LON": "-49,321787201223",
+        "NOME": "R. Carlos Klemtz, 1201 - Fazendinha",
+        "NUM": "180003",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458000312928",
+        "LON": "-49,248388163195",
+        "NOME": "Rua Plácido de Castro, 186 - Guabirotuba",
+        "NUM": "140274",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454265781569",
+        "LON": "-49,245716122684",
+        "NOME": "Rua Plácido de Castro, 742 - Guabirotuba",
+        "NUM": "140275",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451123359031",
+        "LON": "-49,226159387732",
+        "NOME": "Rua Procópio Ferreira Martins, 96 - Cajuru",
+        "NUM": "140291",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464509686549",
+        "LON": "-49,277767055225",
+        "NOME": "Av. Pres. Kennedy, 2192 - Portão",
+        "NUM": "150012",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466311567991",
+        "LON": "-49,279762915344",
+        "NOME": "Av. Pres. Kennedy, 2416 - Água Verde",
+        "NUM": "150014",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471857578511",
+        "LON": "-49,285907084656",
+        "NOME": "Av. Pres. Kennedy, 3298 - Água Verde",
+        "NUM": "150020",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457329297257",
+        "LON": "-49,237316579765",
+        "NOME": "Rua Doutor Ovande do Amaral, 573 - Jardim das Américas",
+        "NUM": "140282",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475747264233",
+        "LON": "-49,318977930059",
+        "NOME": "R. Carlos Klemtz, 1000 - Fazendinha",
+        "NUM": "180007",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476992468525",
+        "LON": "-49,314395860119",
+        "NOME": "R. Carlos Klemtz, 148 - Fazendinha",
+        "NUM": "180047",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45143",
+        "LON": "-49,24045",
+        "NOME": "Rua Prof. Luiz C. P. da Silva,  176 - Jardim Botânico",
+        "NUM": "140284",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45284",
+        "LON": "-49,21839",
+        "NOME": "R. Luiz França, 1741 - Cajuru",
+        "NUM": "140293",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450823397422",
+        "LON": "-49,219904139881",
+        "NOME": "R. Vicente de Carvalho, 621 - Cajuru",
+        "NUM": "140234",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475118207189",
+        "LON": "-49,298606472387",
+        "NOME": "Rua João Bettega, 396 - Portão",
+        "NUM": "170024",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728851113",
+        "LON": "-49,286652099371",
+        "NOME": "Av. Pres. Kennedy, 3399 - Água Verde",
+        "NUM": "150021",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457340195274",
+        "LON": "-49,236047894901",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140285",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476308521809",
+        "LON": "-49,305894139881",
+        "NOME": "R. João Bettega, 1113 - Portão",
+        "NUM": "170017",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47505",
+        "LON": "-49,29648",
+        "NOME": "Rua João Bettega, 179 - Portão",
+        "NUM": "170025",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45398906219",
+        "LON": "-49,252730991402",
+        "NOME": "Rua Imaculada Conceição, 1477 - Prado Velho",
+        "NUM": "140272",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476431678975",
+        "LON": "-49,292254925912",
+        "NOME": "Terminal Portão - 050 - Interbairros V",
+        "NUM": "105804",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452896406332",
+        "LON": "-49,264882623348",
+        "NOME": "Av. Pres. Kennedy, 330 - Rebouças",
+        "NUM": "150003",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469951703947",
+        "LON": "-49,283786676092",
+        "NOME": "Av. Pres. Kennedy, 3046 - Água Verde",
+        "NUM": "150018",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476534260933",
+        "LON": "-49,322947317791",
+        "NOME": "R. Carlos Klemtz, 1249 - Fazendinha",
+        "NUM": "180004",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452238019421",
+        "LON": "-49,224005114418",
+        "NOME": "Rua Vicente de Carvalho, 230 - Cajuru",
+        "NUM": "140256",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477266996889",
+        "LON": "-49,32417002943",
+        "NOME": "R. Carlos Klemtz, 1361 - Fazendinha",
+        "NUM": "180001",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455206303226",
+        "LON": "-49,2169708548",
+        "NOME": "R. Roraima, 568 - Cajuru",
+        "NUM": "140245",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462720313308",
+        "LON": "-49,275764139881",
+        "NOME": "Av. Pres. Kennedy, 1840 - Água Verde",
+        "NUM": "150010",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475087310777",
+        "LON": "-49,301688892031",
+        "NOME": "Rua João Bettega, 736 - Portão",
+        "NUM": "170022",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449009924282",
+        "LON": "-49,261531233788",
+        "NOME": "Rua Chile, 1164 - Rebouças",
+        "NUM": "150052",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45312035175",
+        "LON": "-49,264788279762",
+        "NOME": "Av. Pres. Kennedy, 333 - Rebouças",
+        "NUM": "150002",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468860313802",
+        "LON": "-49,282199067459",
+        "NOME": "Av. Pres. Kennedy, 2731 - Guaíra",
+        "NUM": "150017",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474786053576",
+        "LON": "-49,288743906746",
+        "NOME": "Av. Pres. Kennedy, 3683 - Portão",
+        "NUM": "150023",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475752608398",
+        "LON": "-49,318800204859",
+        "NOME": "R. Carlos Klemtz, 951 - Fazendinha",
+        "NUM": "180005",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476095946904",
+        "LON": "-49,316968955507",
+        "NOME": "R. Carlos Klemtz, 350 - Fazendinha",
+        "NUM": "180275",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457054424722",
+        "LON": "-49,235838682598",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140286",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454414647706",
+        "LON": "-49,231274903959",
+        "NOME": "Rua Sen. Batista de Oliveira, 14 - Jardim das Américas",
+        "NUM": "140289",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477165738987",
+        "LON": "-49,308866705523",
+        "NOME": "R. João Bettega, 1630 - Portão",
+        "NUM": "180043",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455155469048",
+        "LON": "-49,217262798777",
+        "NOME": "R. Roraima, 567 - Cajuru",
+        "NUM": "140246",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458339175983",
+        "LON": "-49,23772561664",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 970 - Jardim das Américas",
+        "NUM": "140281",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45246",
+        "LON": "-49,22982",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 519 - Guabirotuba",
+        "NUM": "140169",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475789418016",
+        "LON": "-49,294408658895",
+        "NOME": "Rua Luiz Parigot de Souza, 1 - Portão",
+        "NUM": "170048",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477083679245",
+        "LON": "-49,314597201223",
+        "NOME": "R. Carlos Klemtz, 505 - Fazendinha",
+        "NUM": "180048",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475743411215",
+        "LON": "-49,303650787697",
+        "NOME": "Rua João Bettega, 947 - Portão",
+        "NUM": "170019",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47515",
+        "LON": "-49,30127",
+        "NOME": "Rua João Bettega, 775 - Portão",
+        "NUM": "170021",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45043",
+        "LON": "-49,25676",
+        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
+        "NUM": "140267",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450995507057",
+        "LON": "-49,220000495701",
+        "NOME": "R. Vicente de Carvalho, 620 - Cajuru",
+        "NUM": "140233",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449217492473",
+        "LON": "-49,26025226263",
+        "NOME": "Rua Rockefeller, 1315 - Prado Velho",
+        "NUM": "140210",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4684",
+        "LON": "-49,282072449074",
+        "NOME": "Av. Pres. Kennedy, 2760 - Água Verde",
+        "NUM": "150016",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473616904179",
+        "LON": "-49,287850495701",
+        "NOME": "Av. Pres. Kennedy, 3568 - Portão",
+        "NUM": "150022",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477293050342",
+        "LON": "-49,327368658895",
+        "NOME": "Terminal Fazendinha - 050 - Interbairros V",
+        "NUM": "105312",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "50",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475895471553",
+        "LON": "-49,31705",
+        "NOME": "R. Carlos Klemtz - Fazendinha",
+        "NUM": "180049",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475747846229",
+        "LON": "-49,304249883432",
+        "NOME": "Rua João Bettega, 1090 - Portão",
+        "NUM": "170020",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45034",
+        "LON": "-49,25677",
+        "NOME": "Rua Comendador Roseira, 257 - Prado Velho",
+        "NUM": "140268",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449879375454",
+        "LON": "-49,244520290842",
+        "NOME": "Rua Professor Luiz Carlos Pereira da Silva - Jardim Botânico",
+        "NUM": "140283",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477920629064",
+        "LON": "-49,310922565641",
+        "NOME": "R. João Bettega, 1755 - Fazendinha",
+        "NUM": "180046",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477222783075",
+        "LON": "-49,308423790178",
+        "NOME": "R. João Bettega, 1523 - Portão",
+        "NUM": "180044",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475180314311",
+        "LON": "-49,299173411045",
+        "NOME": "Rua João Bettega, 513 - Portão",
+        "NUM": "170023",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450261873841",
+        "LON": "-49,259898163195",
+        "NOME": "Rua Rockefeller, 1424 - Prado Velho",
+        "NUM": "140265",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451306328549",
+        "LON": "-49,215011224537",
+        "NOME": "Terminal Oficinas - 050 - Interbairros V",
+        "NUM": "105607",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "47",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477771258083",
+        "LON": "-49,310913906746",
+        "NOME": "R. João Bettega, 1764 - Portão",
+        "NUM": "180045",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476222421401",
+        "LON": "-49,306137201223",
+        "NOME": "R. João Bettega, 1240 - Portão",
+        "NUM": "170018",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450492536974",
+        "LON": "-49,259268192625",
+        "NOME": "Rua Comendador Roseira, 31 - Prado Velho",
+        "NUM": "140266",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453714257947",
+        "LON": "-49,245857907553",
+        "NOME": "Rodovia BR476 - Pista Lateral, 10362 - Prado Velho",
+        "NUM": "140276",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451906718414",
+        "LON": "-49,223389154596",
+        "NOME": "Rua Vicente de Carvalho, 261 - Cajuru",
+        "NUM": "140255",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465042464796",
+        "LON": "-49,277976705523",
+        "NOME": "Av. Pres. Kennedy, 2159 - Guaíra",
+        "NUM": "150013",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477293050342",
+        "LON": "-49,327368658895",
+        "NOME": "Terminal Fazendinha - 050 - Interbairros V",
+        "NUM": "105312",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4524339453",
+        "LON": "-49,218709271164",
+        "NOME": "R. Luiz França, 1692 - Cajuru",
+        "NUM": "140292",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47614",
+        "LON": "-49,29057",
+        "NOME": "Av. Pres. Kennedy, 3860 - Portão",
+        "NUM": "150024",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455101237483",
+        "LON": "-49,234112681097",
+        "NOME": "Rua Amoroso Costa, 82 - Jardim das Américas",
+        "NUM": "140288",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463483675138",
+        "LON": "-49,276244868717",
+        "NOME": "Av. Pres. Kennedy, 2043 - Portão",
+        "NUM": "150011",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470490313933",
+        "LON": "-49,28399635582",
+        "NOME": "Av. Pres. Kennedy, 3145 - Guaíra",
+        "NUM": "150019",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4551",
+        "LON": "-49,23077",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 791 - Guabirotuba",
+        "NUM": "140171",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455029793579",
+        "LON": "-49,233951748556",
+        "NOME": "Rua Amoroso Costa, 120 - Jardim das Américas",
+        "NUM": "140287",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47726",
+        "LON": "-49,32447",
+        "NOME": "R. Carlos Klemtz, 1360 - Fazendinha",
+        "NUM": "180002",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "49",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450837573719",
+        "LON": "-49,226250582838",
+        "NOME": "Rua Procópio Ferreira Martins, 97 - Cajuru",
+        "NUM": "140290",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451306328549",
+        "LON": "-49,215011224537",
+        "NOME": "Terminal Oficinas - 050 - Interbairros V",
+        "NUM": "105607",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

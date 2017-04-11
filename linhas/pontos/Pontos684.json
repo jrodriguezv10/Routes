@@ -1,0 +1,682 @@
+[
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513097859449",
+        "LON": "-49,295303119049",
+        "NOME": "Terminal Pinheirinho - 684 - Rio Bonito",
+        "NUM": "105742",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574903738494",
+        "LON": "-49,329331101126",
+        "NOME": "Rua Presidente João Goulart, 1150 - Tatuquara",
+        "NUM": "170522",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578259414148",
+        "LON": "-49,333218963093",
+        "NOME": "Rua Presidente João Goulart, 1753 - Tatuquara",
+        "NUM": "170525",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568611630429",
+        "LON": "-49,319995343685",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170516",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59258",
+        "LON": "-49,33211",
+        "NOME": "Rua Joana Roncáglio Bertoldi, 1450 - Campo de Santana",
+        "NUM": "170538",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58861",
+        "LON": "-49,33547",
+        "NOME": "Rua Lydia Girardi Bertholdi, 426 - Campo de Santana",
+        "NUM": "170541",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58603",
+        "LON": "-49,33481",
+        "NOME": "Rua Lydia Girardi Bertholdi, 110 - Campo de Santana",
+        "NUM": "170542",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58523",
+        "LON": "-49,33721",
+        "NOME": "Rua Humberto Bertoldi, 280 - Campo de Santana",
+        "NUM": "170543",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567370401067",
+        "LON": "-49,315093606711",
+        "NOME": "Rua Antônio Zanon, 355 - Tatuquara",
+        "NUM": "170513",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568548722428",
+        "LON": "-49,320102632046",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170515",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,580145277093",
+        "LON": "-49,335190386719",
+        "NOME": "Rua Presidente João Goulart, 2069 - Tatuquara",
+        "NUM": "170527",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567449036837",
+        "LON": "-49,315097630024",
+        "NOME": "Rua Antônio Zanon, 220 - Tatuquara",
+        "NUM": "170514",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59309",
+        "LON": "-49,33967",
+        "NOME": "Rua Belmira Carvalho Bertoldi, 1459 - Campo de Santana",
+        "NUM": "170535",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59082",
+        "LON": "-49,33491",
+        "NOME": "Rua Lucas Carvalho, 526 - Campo de Santana",
+        "NUM": "170540",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566688082371",
+        "LON": "-49,317321181297",
+        "NOME": "Rua Antônio Zanon, 55 - Tatuquara",
+        "NUM": "170710",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585126256901",
+        "LON": "-49,340285584331",
+        "NOME": "Rua Adolpho Bertholdi, 310 - Campo de Santana",
+        "NUM": "170532",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577301350521",
+        "LON": "-49,332163513845",
+        "NOME": "Rua Presidente João Goulart, 1549 - Tatuquara",
+        "NUM": "170523",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570775970398",
+        "LON": "-49,325104635582",
+        "NOME": "Rua Presidente João Goulart, 545 - Tatuquara",
+        "NUM": "170519",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59345",
+        "LON": "-49,33388",
+        "NOME": "Rua Joana Roncáglio Bertoldi, 1161 - Campo de Santana",
+        "NUM": "170537",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,591652725342",
+        "LON": "-49,332540350857",
+        "NOME": "Rua Lucas Carvalho, 302 - Campo de Santana",
+        "NUM": "170539",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57493277142",
+        "LON": "-49,329607368654",
+        "NOME": "Rua Presidente João Goulart, 1151 - Tatuquara",
+        "NUM": "170521",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,580048504862",
+        "LON": "-49,335227937645",
+        "NOME": "Rua Presidente João Goulart, 2070 - Tatuquara",
+        "NUM": "170526",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565768000596",
+        "LON": "-49,314858584461",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1010 - Tatuquara",
+        "NUM": "170511",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570792985193",
+        "LON": "-49,325175597553",
+        "NOME": "Rua Presidente João Goulart, 566 - Tatuquara",
+        "NUM": "170733",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57314217637",
+        "LON": "-49,327252186508",
+        "NOME": "Rua Presidente João Goulart, 837 - Tatuquara",
+        "NUM": "170520",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577323124779",
+        "LON": "-49,332367361731",
+        "NOME": "Rua Presidente João Goulart, 1550 - Tatuquara",
+        "NUM": "170735",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578361026508",
+        "LON": "-49,333446950859",
+        "NOME": "Rua Presidente João Goulart, 1754 - Tatuquara",
+        "NUM": "170524",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564127503731",
+        "LON": "-49,315480856953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 668 - Tatuquara",
+        "NUM": "170509",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582787257754",
+        "LON": "-49,337485860119",
+        "NOME": "Rua Marcos Bertoldi, 2 - Campo de Santana",
+        "NUM": "170528",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59211",
+        "LON": "-49,34212",
+        "NOME": "Rua Adolfo Bertoldi, 1061 - Campo de Santana",
+        "NUM": "170534",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593616305529",
+        "LON": "-49,336631573086",
+        "NOME": "Rua Belmira Carvalho Bertoldi, 1008 - Campo de Santana",
+        "NUM": "170536",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573204273608",
+        "LON": "-49,32746682209",
+        "NOME": "Rua Presidente João Goulart, 846 - Tatuquara",
+        "NUM": "170734",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569741549285",
+        "LON": "-49,323425889015",
+        "NOME": "Rua Presidente João Goulart, 264 - Tatuquara",
+        "NUM": "170980",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56980419514",
+        "LON": "-49,323362069941",
+        "NOME": "Rua Presidente João Goulart, 263 - Tatuquara",
+        "NUM": "170518",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582806934758",
+        "LON": "-49,337222682209",
+        "NOME": "Rua Marcos Bertoldi, 3 - Campo de Santana",
+        "NUM": "170529",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,584870086097",
+        "LON": "-49,338033528274",
+        "NOME": "Rua Marcos Bertoldi, 344 - Campo de Santana",
+        "NUM": "170531",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585126256901",
+        "LON": "-49,340285584331",
+        "NOME": "Rua Adolpho Bertholdi, 310 - Campo de Santana",
+        "NUM": "170532",
+        "SENTIDO": "Rio Bonito",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513097859449",
+        "LON": "-49,295303119049",
+        "NOME": "Terminal Pinheirinho - 684 - Rio Bonito",
+        "NUM": "105742",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566809061147",
+        "LON": "-49,316865205765",
+        "NOME": "Rua Antônio Zanon, 2 - Tatuquara",
+        "NUM": "170711",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58845",
+        "LON": "-49,34119",
+        "NOME": "Rua Adolfo Bertoldi, 660 - Campo de Santana",
+        "NUM": "170533",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

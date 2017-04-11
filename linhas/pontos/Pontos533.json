@@ -1,0 +1,842 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,534333973701",
+        "LON": "-49,251460880041",
+        "NOME": "R. Jorge Simão, 827A - Sítio Cercado",
+        "NUM": "160778",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525220251445",
+        "LON": "-49,228466302157",
+        "NOME": "R. Januário Alves de Souza, 1673 - Boqueirão",
+        "NUM": "160776",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527795032863",
+        "LON": "-49,249995480986",
+        "NOME": "Rua Francisco Derosso, 1831 - Alto Boqueirão",
+        "NUM": "150103",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519719743443",
+        "LON": "-49,231317171793",
+        "NOME": "Rua Januário Alves de Souza, 971 - Boqueirão",
+        "NUM": "150133",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532778349065",
+        "LON": "-49,230854868717",
+        "NOME": "Rua Angelina Legati Pasine - Alto Boqueirão",
+        "NUM": "160504",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528980637297",
+        "LON": "-49,248502944775",
+        "NOME": "Rua Francisco Derosso, 1620 - Alto Boqueirão",
+        "NUM": "150104",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51678724605",
+        "LON": "-49,230840495701",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104317",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529877898401",
+        "LON": "-49,247130233135",
+        "NOME": "Rua Francisco Derosso, 1435 - Alto Boqueirão",
+        "NUM": "160002",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516545991197",
+        "LON": "-49,230654665012",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104306",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528701593137",
+        "LON": "-49,248695976686",
+        "NOME": "Rua Francisco Derosso, 1621 - Alto Boqueirão",
+        "NUM": "150105",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529877898401",
+        "LON": "-49,247130233135",
+        "NOME": "Rua Francisco Derosso, 1435 - Alto Boqueirão",
+        "NUM": "160002",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534333973701",
+        "LON": "-49,251460880041",
+        "NOME": "R. Jorge Simão, 827A - Sítio Cercado",
+        "NUM": "160778",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532069493123",
+        "LON": "-49,253635480985",
+        "NOME": "Rua Capitão Amin Mosse, 793 - Alto Boqueirão",
+        "NUM": "160213",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5363365",
+        "LON": "-49,2322354",
+        "NOME": "Rua Maria Marques de Camargo - Alto Boqueirão",
+        "NUM": "160217",
+        "SENTIDO": "Pantanal",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516545991197",
+        "LON": "-49,230654665012",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104306",
+        "SENTIDO": "Pantanal",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525334010843",
+        "LON": "-49,228545427322",
+        "NOME": "R. Januário Alves de Souza, 1722 - Boqueirão",
+        "NUM": "160777",
+        "SENTIDO": "Pantanal",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531975478335",
+        "LON": "-49,251788046627",
+        "NOME": "Rua Capitão Amin Mosse, 536 - Alto Boqueirão",
+        "NUM": "160501",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527795032863",
+        "LON": "-49,249995480986",
+        "NOME": "Rua Francisco Derosso, 1831 - Alto Boqueirão",
+        "NUM": "150103",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530789427439",
+        "LON": "-49,247635480986",
+        "NOME": "Rua Capitão Amin Mosse, 83 - Alto Boqueirão",
+        "NUM": "160210",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519719743443",
+        "LON": "-49,231317171793",
+        "NOME": "Rua Januário Alves de Souza, 971 - Boqueirão",
+        "NUM": "150133",
+        "SENTIDO": "Pantanal",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528218854",
+        "LON": "-49,229416705523",
+        "NOME": "Rua Nair Ferraz Cazelato, 210 - Alto Boqueirão",
+        "NUM": "160503",
+        "SENTIDO": "Pantanal",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5363365",
+        "LON": "-49,2322354",
+        "NOME": "Rua Maria Marques de Camargo - Alto Boqueirão",
+        "NUM": "160217",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528254522117",
+        "LON": "-49,229322069941",
+        "NOME": "Rua Nair Ferraz Cazelato, 211 - Alto Boqueirão",
+        "NUM": "160215",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5363365",
+        "LON": "-49,2322354",
+        "NOME": "Rua Maria Marques de Camargo - Alto Boqueirão",
+        "NUM": "160217",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51678724605",
+        "LON": "-49,230840495701",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104317",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531282485487",
+        "LON": "-49,249250728836",
+        "NOME": "Rua Capitão Amin Mosse, 237 - Alto Boqueirão",
+        "NUM": "160211",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532069493123",
+        "LON": "-49,253635480985",
+        "NOME": "Rua Capitão Amin Mosse, 793 - Alto Boqueirão",
+        "NUM": "160213",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533363457546",
+        "LON": "-49,253219738603",
+        "NOME": "R. Campína da Lagoa, 667 - Sítio Cercado",
+        "NUM": "160779",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531975436381",
+        "LON": "-49,253426268697",
+        "NOME": "R. Cap. Amin Mosse, 708-762 - Alto Boqueirão",
+        "NUM": "160781",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "38",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531205289771",
+        "LON": "-49,249296006117",
+        "NOME": "Rua Capitão Amin Mosse, 236 - Alto Boqueirão",
+        "NUM": "160500",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533399761284",
+        "LON": "-49,253292158246",
+        "NOME": "R. Campína da Lagoa, 667 - Sítio Cercado",
+        "NUM": "160780",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531282485487",
+        "LON": "-49,249250728836",
+        "NOME": "Rua Capitão Amin Mosse, 237 - Alto Boqueirão",
+        "NUM": "160211",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533363457546",
+        "LON": "-49,253219738603",
+        "NOME": "R. Campína da Lagoa, 667 - Sítio Cercado",
+        "NUM": "160779",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532778349065",
+        "LON": "-49,230854868717",
+        "NOME": "Rua Angelina Legati Pasine - Alto Boqueirão",
+        "NUM": "160504",
+        "SENTIDO": "Pantanal",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51678724605",
+        "LON": "-49,230840495701",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104317",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195796464",
+        "LON": "-49,249836938658",
+        "NOME": "Rua Francisco Derosso, 1830 - Alto Boqueirão",
+        "NUM": "150102",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528980637297",
+        "LON": "-49,248502944775",
+        "NOME": "Rua Francisco Derosso, 1620 - Alto Boqueirão",
+        "NUM": "150104",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516545991197",
+        "LON": "-49,230654665012",
+        "NOME": "Terminal Boqueirão - 533 - Érico Veríssimo / Pantanal",
+        "NUM": "104306",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532100956703",
+        "LON": "-49,251909883432",
+        "NOME": "Rua Capitão Amin Mosse, 535 - Alto Boqueirão",
+        "NUM": "160212",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531205289771",
+        "LON": "-49,249296006117",
+        "NOME": "Rua Capitão Amin Mosse, 236 - Alto Boqueirão",
+        "NUM": "160500",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "35",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532100956703",
+        "LON": "-49,251909883432",
+        "NOME": "Rua Capitão Amin Mosse, 535 - Alto Boqueirão",
+        "NUM": "160212",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532774333999",
+        "LON": "-49,230757434359",
+        "NOME": "Rua Angelina Legati Pasine - Alto Boqueirão",
+        "NUM": "160216",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533399761284",
+        "LON": "-49,253292158246",
+        "NOME": "R. Campína da Lagoa, 667 - Sítio Cercado",
+        "NUM": "160780",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "39",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528701593137",
+        "LON": "-49,248695976686",
+        "NOME": "Rua Francisco Derosso, 1621 - Alto Boqueirão",
+        "NUM": "150105",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532774333999",
+        "LON": "-49,230757434359",
+        "NOME": "Rua Angelina Legati Pasine - Alto Boqueirão",
+        "NUM": "160216",
+        "SENTIDO": "Pantanal-Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530789427439",
+        "LON": "-49,247635480986",
+        "NOME": "Rua Capitão Amin Mosse, 83 - Alto Boqueirão",
+        "NUM": "160210",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531975478335",
+        "LON": "-49,251788046627",
+        "NOME": "Rua Capitão Amin Mosse, 536 - Alto Boqueirão",
+        "NUM": "160501",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "36",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532069493123",
+        "LON": "-49,253635480985",
+        "NOME": "Rua Capitão Amin Mosse, 793 - Alto Boqueirão",
+        "NUM": "160213",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528218854",
+        "LON": "-49,229416705523",
+        "NOME": "Rua Nair Ferraz Cazelato, 210 - Alto Boqueirão",
+        "NUM": "160503",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195796464",
+        "LON": "-49,249836938658",
+        "NOME": "Rua Francisco Derosso, 1830 - Alto Boqueirão",
+        "NUM": "150102",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532069493123",
+        "LON": "-49,253635480985",
+        "NOME": "Rua Capitão Amin Mosse, 793 - Alto Boqueirão",
+        "NUM": "160213",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534333973701",
+        "LON": "-49,251460880041",
+        "NOME": "R. Jorge Simão, 827A - Sítio Cercado",
+        "NUM": "160778",
+        "SENTIDO": "Érico Veríssimo",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "E.Veríssimo-Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528254522117",
+        "LON": "-49,229322069941",
+        "NOME": "Rua Nair Ferraz Cazelato, 211 - Alto Boqueirão",
+        "NUM": "160215",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534333973701",
+        "LON": "-49,251460880041",
+        "NOME": "R. Jorge Simão, 827A - Sítio Cercado",
+        "NUM": "160778",
+        "SENTIDO": "Atendimento E.Veríssimo- Pantanal Circular",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    }
+]

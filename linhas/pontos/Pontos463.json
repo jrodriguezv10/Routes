@@ -1,0 +1,492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,459543996232",
+        "LON": "-49,221026183313",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140963",
+        "SENTIDO": "Solitude",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48171174617",
+        "LON": "-49,19560420627",
+        "NOME": "Marginal Rodovia Br 277, 6462- Uberaba",
+        "NUM": "140974",
+        "SENTIDO": "Solitude",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47874683898",
+        "LON": "-49,198720933146",
+        "NOME": "Rua Alfredo Barcik, 185 - Cajuru",
+        "NUM": "140416",
+        "SENTIDO": "Solitude",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476962290382",
+        "LON": "-49,192518324799",
+        "NOME": "Rua Antônio Moreira Lopes, 1301 - Cajuru",
+        "NUM": "140385",
+        "SENTIDO": "Solitude",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478284360135",
+        "LON": "-49,202973575539",
+        "NOME": "BR-277, 1534 - Cajuru",
+        "NUM": "140972",
+        "SENTIDO": "Solitude",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4796642994",
+        "LON": "-49,194003433443",
+        "NOME": "Rua Antônio Moreira Lopes, 1545 - Cajuru",
+        "NUM": "140386",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46392847141",
+        "LON": "-49,217155755705",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140966",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477998639332",
+        "LON": "-49,202854217237",
+        "NOME": "BR-277, 1539 - Cajuru",
+        "NUM": "140973",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Solitude",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443818629959",
+        "LON": "-49,244377494997",
+        "NOME": "Av. Prof. Lothário Meissner, 71 - Jardim Botanico",
+        "NUM": "140554",
+        "SENTIDO": "Solitude",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444224323235",
+        "LON": "-49,242752076334",
+        "NOME": "Av. Prof. Lothário Meissner - Jardim Botânico",
+        "NUM": "140556",
+        "SENTIDO": "Solitude",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468856425955",
+        "LON": "-49,213611216492",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140968",
+        "SENTIDO": "Solitude",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453013200327",
+        "LON": "-49,226234704256",
+        "NOME": "Rodovia BR-277 - Jardim da Américas",
+        "NUM": "140103",
+        "SENTIDO": "Solitude",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443869493072",
+        "LON": "-49,237796695179",
+        "NOME": "Av. Prof. Lothário Meissner, 767 - Jardim Botânico",
+        "NUM": "140558",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459334515788",
+        "LON": "-49,220830382055",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140964",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,263431907839",
+        "NOME": "Rua João Negrão, 940 - Centro",
+        "NUM": "110205",
+        "SENTIDO": "Solitude",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44232542473",
+        "LON": "-49,247905940956",
+        "NOME": "Av. Prefeito Omar Sabag, 213 - Jardim Botanico",
+        "NUM": "140553",
+        "SENTIDO": "Solitude",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478269831975",
+        "LON": "-49,197694988197",
+        "NOME": "Rua Rivadávia F. de Macedo, 389 - Cajuru",
+        "NUM": "140975",
+        "SENTIDO": "Solitude",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474003319693",
+        "LON": "-49,20905548448",
+        "NOME": "BR-277 - Cajuru",
+        "NUM": "140971",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Solitude",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474216406758",
+        "LON": "-49,209291518873",
+        "NOME": "BR-277 - Cajuru",
+        "NUM": "140970",
+        "SENTIDO": "Solitude",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480604000508",
+        "LON": "-49,198122800535",
+        "NOME": "Marginal Rodovia Br 277, 6089 - Uberaba",
+        "NUM": "140418",
+        "SENTIDO": "Solitude",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432814738347",
+        "LON": "-49,270181686825",
+        "NOME": "Praça Carlos Gomes - 463-Solitude",
+        "NUM": "103207",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443621232439",
+        "LON": "-49,244156212753",
+        "NOME": "Av. Prof. Lothário Meissner, 70 - Jardim Botanico",
+        "NUM": "140555",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468659069493",
+        "LON": "-49,21335774774",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140969",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432814738347",
+        "LON": "-49,270181686825",
+        "NOME": "Praça Carlos Gomes - 463-Solitude",
+        "NUM": "103207",
+        "SENTIDO": "Solitude",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450284110955",
+        "LON": "-49,228406176002",
+        "NOME": "Rodovia BR-277 - Jardim da Américas",
+        "NUM": "140525",
+        "SENTIDO": "Solitude",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438835151813",
+        "LON": "-49,251793802923",
+        "NOME": "Rua Engenheiros Rebouças, 540 - Jardim Botanico",
+        "NUM": "110171",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442238229692",
+        "LON": "-49,247399003452",
+        "NOME": "Av. Prefeito Omar Sabag, 212 - Jardim Botanico",
+        "NUM": "140552",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448844286063",
+        "LON": "-49,229103655762",
+        "NOME": "Rodovia BR277 - Jardim da Américas",
+        "NUM": "140528",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439843974606",
+        "LON": "-49,262003631538",
+        "NOME": "Rua João Negrão, 1274 - Centro",
+        "NUM": "110144",
+        "SENTIDO": "Solitude",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Solitude",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440551235487",
+        "LON": "-49,24865695948",
+        "NOME": "Rua Coronel João da Silva Sampaio, 27 - Jardim Botanico",
+        "NUM": "140551",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431968150347",
+        "LON": "-49,267909855789",
+        "NOME": "Rua José Loureiro, 274 - Centro",
+        "NUM": "110200",
+        "SENTIDO": "Solitude",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444048724821",
+        "LON": "-49,237115414089",
+        "NOME": "Av. Prof. Lothário Meissner, 840 - Jardim Botânico",
+        "NUM": "140557",
+        "SENTIDO": "Solitude",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464014439915",
+        "LON": "-49,217449457592",
+        "NOME": "BR-277 - Jardim das Américas",
+        "NUM": "140967",
+        "SENTIDO": "Solitude",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476301250055",
+        "LON": "-49,194147766775",
+        "NOME": "Rua Doutor Amílton Portugal Pereira, 383 -Cajuru",
+        "NUM": "140976",
+        "SENTIDO": "Solitude",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4796642994",
+        "LON": "-49,194003433443",
+        "NOME": "Rua Antônio Moreira Lopes, 1545 - Cajuru",
+        "NUM": "140386",
+        "SENTIDO": "Solitude",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Solitude",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439920271785",
+        "LON": "-49,250104011244",
+        "NOME": "Rua Brasílio Itiberê, 563 - Jardim Botanico",
+        "NUM": "110170",
+        "SENTIDO": "Solitude",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441326311136",
+        "LON": "-49,249190719074",
+        "NOME": "Av. Prefeito Omar Sabag, 750 - Jardim Botanico",
+        "NUM": "140550",
+        "SENTIDO": "Solitude",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47881161009",
+        "LON": "-49,195494906253",
+        "NOME": "Rua Doutor Amílton Portugal Pereira, 198 - Cajuru",
+        "NUM": "140387",
+        "SENTIDO": "Solitude",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    }
+]

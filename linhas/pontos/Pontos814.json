@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,430324876295",
+        "LON": "-49,322211836805",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190002",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "4",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "3",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43673",
+        "LON": "-49,34088",
+        "NOME": "Rua José Isidóro Biazeto, 653 - Mossunguê",
+        "NUM": "190142",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43663",
+        "LON": "-49,33635",
+        "NOME": "Rua Pedro Nico, 2 - Mossunguê",
+        "NUM": "190146",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442066954622",
+        "LON": "-49,335133236771",
+        "NOME": "Rua Jeremias Maciel Perreto, 1080 - Campo Comprido",
+        "NUM": "180011",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44343",
+        "LON": "-49,33253",
+        "NOME": "Rua Isabel Maria Sikorski Moscalevski, 396 - Mossunguê",
+        "NUM": "180013",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436521589724",
+        "LON": "-49,336366938658",
+        "NOME": "Rua Pedro Nico, 4- Mossunguê",
+        "NUM": "190147",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430515466075",
+        "LON": "-49,329654519014",
+        "NOME": "Marginal Rodovia BR- 277, 1530 - Santo Inácio",
+        "NUM": "190003",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "5",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43627",
+        "LON": "-49,33851",
+        "NOME": "Rua Pedro Nico, 212 - Mossunguê",
+        "NUM": "190144",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43671",
+        "LON": "-49,34081",
+        "NOME": "Rua José Isidóro Biazeto, 654 - Mossunguê",
+        "NUM": "190143",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44408",
+        "LON": "-49,32961",
+        "NOME": "Rua Harry Delmonte Janz, 77 - Mossunguê",
+        "NUM": "180016",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43495",
+        "LON": "-49,33981",
+        "NOME": "Rua José Isidóro Biazeto, 471 - Mossunguê",
+        "NUM": "190140",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43634",
+        "LON": "-49,31221",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 224 - Campina do Siqueira",
+        "NUM": "190011",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432534171253",
+        "LON": "-49,338889038029",
+        "NOME": "Rua José Isidóro Biazeto, 51 - Mossunguê",
+        "NUM": "190139",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442776331122",
+        "LON": "-49,329170961971",
+        "NOME": "Rua Constante Lunardon, 87 - Mossunguê",
+        "NUM": "180017",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435932465466",
+        "LON": "-49,307541991517",
+        "NOME": "Terminal Campina do Siqueira - 814 - Mossunguê",
+        "NUM": "104502",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440325155753",
+        "LON": "-49,335864955854",
+        "NOME": "Rua Doutor Brasílio Vicente de Castro, 270 - Campo Comprido",
+        "NUM": "180018",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430900031837",
+        "LON": "-49,333544580183",
+        "NOME": "Marginal Rodovia BR- 277, 1976 - Santo Inácio",
+        "NUM": "190008",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43615248938",
+        "LON": "-49,338530116568",
+        "NOME": "Rua Pedro Nico, 211 - Mossunguê",
+        "NUM": "190145",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441997337319",
+        "LON": "-49,335132215939",
+        "NOME": "Rua Jeremias Maciel Perreto, 1081- Campo Comprido",
+        "NUM": "180012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444188680315",
+        "LON": "-49,32969186739",
+        "NOME": "Rua Harry Delmonte Janz, 76 - Mossunguê",
+        "NUM": "180015",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435932465466",
+        "LON": "-49,307541991517",
+        "NOME": "Terminal Campina do Siqueira - 814 - Mossunguê",
+        "NUM": "104502",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43467",
+        "LON": "-49,31044",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 80 - Campina do Siqueira",
+        "NUM": "190012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44335",
+        "LON": "-49,33268",
+        "NOME": "Rua Isabel Maria Sikorski Moscalevski, 397 - Mossunguê",
+        "NUM": "180014",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432279883097",
+        "LON": "-49,339003148479",
+        "NOME": "Rua José Isidóro Biazeto, 50 - Mossunguê",
+        "NUM": "190138",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442776331122",
+        "LON": "-49,329170961971",
+        "NOME": "Rua Constante Lunardon, 87 - Mossunguê",
+        "NUM": "180017",
+        "SENTIDO": "Mossunguê",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430758509895",
+        "LON": "-49,338132682209",
+        "NOME": "Marginal Rodovia BR277, 2440 - Santo Inácio",
+        "NUM": "190007",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430992143422",
+        "LON": "-49,329823527613",
+        "NOME": "Marginal Rodovia BR- 277, 1630 - Santo Inácio",
+        "NUM": "190009",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435071700502",
+        "LON": "-49,339819504299",
+        "NOME": "Rua José Isidóro Biazeto, 472 - Mossunguê",
+        "NUM": "190141",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44034",
+        "LON": "-49,33571",
+        "NOME": "Rua Doutor Brasílio Vicente de Castro, 271 - Campo Comprido",
+        "NUM": "180019",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

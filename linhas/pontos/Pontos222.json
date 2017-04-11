@@ -1,0 +1,532 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,376220335744",
+        "LON": "-49,189323921426",
+        "NOME": "Rua Darwin, 421 - Atuba - Colombo - PR",
+        "NUM": "350029",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391476076532",
+        "LON": "-49,224709154596",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2608 - Bacacheri",
+        "NUM": "130041",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387071808744",
+        "LON": "-49,218003527613",
+        "NOME": "Rua Monteiro Tourinho, 874 - Tingui",
+        "NUM": "130094",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388217594522",
+        "LON": "-49,210943527613",
+        "NOME": "Rua Monteiro Tourinho, 1592 - Tingui",
+        "NUM": "130486",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381398845478",
+        "LON": "-49,192825738152",
+        "NOME": "Rua Roger Bacon, 301 - Atuba - Colombo - PR",
+        "NUM": "350692",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39726",
+        "LON": "-49,23801",
+        "NOME": "Rua Marcelino Nogueira, 239 - Bacacheri",
+        "NUM": "130481",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382927439717",
+        "LON": "-49,198990795573",
+        "NOME": "Rua República Guarani, 199 - Atuba",
+        "NUM": "130428",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381432771777",
+        "LON": "-49,192957166393",
+        "NOME": "Rua Roger Bacon, 302 - Atuba - Colombo - PR",
+        "NUM": "350693",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39521",
+        "LON": "-49,23951",
+        "NOME": "Rua Marcelino Nogueira, 508 - Bacacheri",
+        "NUM": "130700",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376486910698",
+        "LON": "-49,19134228371",
+        "NOME": "Rua Einstein, 842 - Guarani - Colombo - PR",
+        "NUM": "350030",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387786417921",
+        "LON": "-49,213581487102",
+        "NOME": "Rua Monteiro Tourinho, 1278 - Tingui",
+        "NUM": "130484",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383284872513",
+        "LON": "-49,200350675543",
+        "NOME": "Rua República Guarani, 60 - Atuba",
+        "NUM": "130624",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37761",
+        "LON": "-49,18863",
+        "NOME": "Avenida Confúcio, 349 - Atuba - Colombo - PR",
+        "NUM": "350008",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37871563168",
+        "LON": "-49,189738215155",
+        "NOME": "Rua Huxley, 534 - Atuba - Colombo - PR",
+        "NUM": "350031",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387029112927",
+        "LON": "-49,219086938658",
+        "NOME": "Rua Monteiro Tourinho, 69 - Tingui",
+        "NUM": "130093",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387075768067",
+        "LON": "-49,216025597553",
+        "NOME": "Rua Monteiro Tourinho, 1047 - Tingui",
+        "NUM": "130096",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388140053038",
+        "LON": "-49,210451836805",
+        "NOME": "Rua Monteiro Tourinho, 1611 - Tingui",
+        "NUM": "130487",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38324",
+        "LON": "-49,20045",
+        "NOME": "Rua República Guarani, 53 - Atuba",
+        "NUM": "130427",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387857884111",
+        "LON": "-49,220746209822",
+        "NOME": "Rua Monteiro Tourinho, 530 - Tingui",
+        "NUM": "130092",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376220335744",
+        "LON": "-49,189323921426",
+        "NOME": "Rua Darwin, 421 - Atuba - Colombo - PR",
+        "NUM": "350029",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "1",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39107457596",
+        "LON": "-49,224417930059",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2625 - Bacacheri",
+        "NUM": "130040",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392424865256",
+        "LON": "-49,226471341105",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2419 - Bacacheri",
+        "NUM": "130022",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38922849905",
+        "LON": "-49,222997055225",
+        "NOME": "Rua Monteiro Tourinho, 220 - Tingui",
+        "NUM": "130090",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387315750728",
+        "LON": "-49,215657550926",
+        "NOME": "Rua Monteiro Tourinho, 1056 - Tingui",
+        "NUM": "130095",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389640307432",
+        "LON": "-49,223107288361",
+        "NOME": "Rua Monteiro Tourinho, 147 - Tingui",
+        "NUM": "130089",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384585800575",
+        "LON": "-49,202685364418",
+        "NOME": "BR-476 - Atuba - Curitiba - PR",
+        "NUM": "130159",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397075195282",
+        "LON": "-49,237951107969",
+        "NOME": "Rua Marcelino Nogueira, 240 - Bacacheri",
+        "NUM": "130482",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393203307563",
+        "LON": "-49,241172069941",
+        "NOME": "Terminal Boa Vista - 222 - Vila Esperança",
+        "NUM": "104205",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383015889287",
+        "LON": "-49,198980066736",
+        "NOME": "Rua República Guarani, 200 - Atuba",
+        "NUM": "130625",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382565159296",
+        "LON": "-49,196725670059",
+        "NOME": "Rua República Guarani, 440 - Atuba",
+        "NUM": "130626",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380447693559",
+        "LON": "-49,192933026512",
+        "NOME": "Av. Alan Kardec, 866 - Atuba - Colombo - PR",
+        "NUM": "350007",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38773582086",
+        "LON": "-49,22182046627",
+        "NOME": "Rua Monteiro Tourinho, 457 - Tingui",
+        "NUM": "130091",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378651412589",
+        "LON": "-49,189617515749",
+        "NOME": "Rua Huxley, 565 - Atuba - Colombo - PR",
+        "NUM": "350045",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393203307563",
+        "LON": "-49,241172069941",
+        "NOME": "Terminal Boa Vista - 222 - Vila Esperança",
+        "NUM": "104205",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382473074468",
+        "LON": "-49,196690801342",
+        "NOME": "Rua República Guarani, 439 - Atuba",
+        "NUM": "130429",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387548568613",
+        "LON": "-49,213875889549",
+        "NOME": "Rua Monteiro Tourinho, 1277 - Tingui",
+        "NUM": "130485",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380377417069",
+        "LON": "-49,19297996517",
+        "NOME": "Av. Alan Kardec, 865 - Atuba - Colombo - PR",
+        "NUM": "350005",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386475767947",
+        "LON": "-49,20648682209",
+        "NOME": "Rua Roaldo Brun, 1295 - Atuba",
+        "NUM": "130425",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38508",
+        "LON": "-49,20234",
+        "NOME": "Rua República Guarani - Atuba",
+        "NUM": "130158",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395245461824",
+        "LON": "-49,239574023314",
+        "NOME": "Rua Marcelino Nogueira, 507 - Bacacheri",
+        "NUM": "130480",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379823685364",
+        "LON": "-49,190497580727",
+        "NOME": "Av. Alan Kardec, 614 - Atuba - Colombo - PR",
+        "NUM": "350003",
+        "SENTIDO": "Vila Esperança",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386622116014",
+        "LON": "-49,206820495701",
+        "NOME": "Rua Roaldo Brun, 1296 - Atuba",
+        "NUM": "130426",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379717058399",
+        "LON": "-49,190532449444",
+        "NOME": "Av. Alan Kardec, 659 - Atuba - Colombo - PR",
+        "NUM": "350004",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    }
+]

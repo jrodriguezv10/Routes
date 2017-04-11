@@ -1,0 +1,2116 @@
+[
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "464",
+        "NOME": "A. MUNHOZ / J. BOTÂNICO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "226",
+        "NOME": "ABAETÉ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "182",
+        "NOME": "ABRANCHES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "332",
+        "NOME": "ACRÓPOLE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "208",
+        "NOME": "AEROPORTO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "334",
+        "NOME": "AGRÍCOLA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "180",
+        "NOME": "ÁGUA VERDE/ ABRANCHES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "265",
+        "NOME": "AHÚ / LOS ANGELES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "560",
+        "NOME": "ALFERES POLI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "232",
+        "NOME": "ALIANÇA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "629",
+        "NOME": "ALTO BOQUEIRÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "373",
+        "NOME": "ALTO TARUMÃ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "311",
+        "NOME": "ARAGUAIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "823",
+        "NOME": "AUGUSTA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "361",
+        "NOME": "AUGUSTO STRESSER",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "342",
+        "NOME": "B. ALTO / BOA VISTA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "341",
+        "NOME": "B. ALTO / STA. CÂNDIDA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "307",
+        "NOME": "B. ALTO / STA. FELICIDADE",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "506",
+        "NOME": "BAIRRO NOVO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "541",
+        "NOME": "BAIRRO NOVO A",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "542",
+        "NOME": "BAIRRO NOVO B",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "547",
+        "NOME": "BAIRRO NOVO C",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "231",
+        "NOME": "BANESTADO / CALIFÓRNIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "205",
+        "NOME": "BARREIRINHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "256",
+        "NOME": "BARREIRINHA/GUADALUPE",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "875",
+        "NOME": "BIGORRILHO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "225",
+        "NOME": "BOA VISTA / BARREIRINHA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "201",
+        "NOME": "BOM RETIRO / CABRAL",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "175",
+        "NOME": "BOM RETIRO / PUC",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "503",
+        "NOME": "BOQUEIRÃO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "505",
+        "NOME": "BOQUEIRÃO / C. CÍVICO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "540",
+        "NOME": "BOQUEIRAO / MONDELEZ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "627",
+        "NOME": "BOSCH",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "170",
+        "NOME": "BRACATINGA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "913",
+        "NOME": "BUTIATUVINHA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "516",
+        "NOME": "C. BELEM / S. FILHO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "828",
+        "NOME": "C. COMPRIDO / C. RASO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "826",
+        "NOME": "C. COMPRIDO / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "393",
+        "NOME": "C. IMBUIA / PQ. BARIGUI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "150",
+        "NOME": "C. MÚSICA / V. ALEGRE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "658",
+        "NOME": "C. RASO / CAIUÁ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "024",
+        "NOME": "C. RASO / CAMP. SIQUEIRA",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "207",
+        "NOME": "CABRAL / OSÓRIO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "216",
+        "NOME": "CABRAL / PORTÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "703",
+        "NOME": "CAIUÁ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "732",
+        "NOME": "CAIUA / C.COMPRIDO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "706",
+        "NOME": "CAIUA/FAZ/CENTRO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "386",
+        "NOME": "CAJURU",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "322",
+        "NOME": "CAMARGO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "801",
+        "NOME": "CAMP. SIQUEIRA / BATEL",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "816",
+        "NOME": "CAMP. SIQUEIRA / STA.FELICIDADE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "654",
+        "NOME": "CAMPO ALEGRE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "475",
+        "NOME": "CANAL BELÉM",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "628",
+        "NOME": "CARBOMAFRA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "776",
+        "NOME": "CARMELA DUTRA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "668",
+        "NOME": "CASA DE CUSTÓDIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "224",
+        "NOME": "CASSIOPÉIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "659",
+        "NOME": "CAXIMBA / OLARIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "305",
+        "NOME": "CENTENÁRIO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "335",
+        "NOME": "CENTENÁRIO / BOQUEIRÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "303",
+        "NOME": "CENTENÁRIO / C. COMPRIDO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "338",
+        "NOME": "CENTENÁRIO / HAUER",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "302",
+        "NOME": "CENTENÁRIO / RUI BARBOSA",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "469",
+        "NOME": "CENTRO POLITÉCNICO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "X32",
+        "NOME": "CIC / CAPAO RASO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "210",
+        "NOME": "CIC/CABRAL",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CIRCULAR CENTRO",
+        "COD": "002",
+        "NOME": "CIRCULAR CENTRO (ANTI-HORÁRIO)",
+        "NOME_COR": "BRANCA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CIRCULAR CENTRO",
+        "COD": "001",
+        "NOME": "CIRCULAR CENTRO (HORÁRIO)",
+        "NOME_COR": "BRANCA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "602",
+        "NOME": "CIRCULAR SUL  (ANTI-HORÁRIO)",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "502",
+        "NOME": "CIRCULAR SUL (HORÁRIO)",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "211",
+        "NOME": "COLINA VERDE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "607",
+        "NOME": "COLOMBO / CIC",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "778",
+        "NOME": "COTOLENGO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "385",
+        "NOME": "CRISTO REI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "681",
+        "NOME": "DALAGASSA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "340",
+        "NOME": "DETRAN / B. ALTO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "380",
+        "NOME": "DETRAN / VIC. MACHADO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "662",
+        "NOME": "DOM ÁTICO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "533",
+        "NOME": "E. VERÍSSIMO / PANTANAL",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "465",
+        "NOME": "ERASTO  GAERTNER",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "X25",
+        "NOME": "ESP. UNIANDRADE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "X12",
+        "NOME": "ESPECIAL BOQUEIRAO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "X19",
+        "NOME": "ESPECIAL HASDRUBAL BELLEGARD",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "266",
+        "NOME": "ESTRIBO AHÚ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "466",
+        "NOME": "ESTUDANTES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "621",
+        "NOME": "FANNY",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "701",
+        "NOME": "FAZENDINHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "720",
+        "NOME": "FAZENDINHA / C. COMPRIDO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "831",
+        "NOME": "FAZENDINHA / C.RASO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "611",
+        "NOME": "FAZENDINHA / PORTÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "614",
+        "NOME": "FAZENDINHA / PUC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "719",
+        "NOME": "FAZENDINHA/CAIUÁ-FORUM",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "705",
+        "NOME": "FAZENDINHA/GUADALUPE",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "270",
+        "NOME": "FERNANDO DE NORONHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "821",
+        "NOME": "FERNÃO DIAS",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "673",
+        "NOME": "FORMOSA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "716",
+        "NOME": "FORUM/B.VISTA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "167",
+        "NOME": "FREDOLIN WOLF",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "639",
+        "NOME": "FUTURAMA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "683",
+        "NOME": "FUTURAMA / S. CERCADO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "822",
+        "NOME": "GABINETO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "642",
+        "NOME": "GANCHINHO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "625",
+        "NOME": "GRAMADOS",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "470",
+        "NOME": "GUABIROTUBA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "561",
+        "NOME": "GUILHERMINA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "513",
+        "NOME": "HAUER / BOQUEIRÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "371",
+        "NOME": "HIGIENÓPOLIS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "374",
+        "NOME": "HUGO LANGE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "523",
+        "NOME": "IGUAPE I",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "515",
+        "NOME": "IGUAPE II",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "023",
+        "NOME": "INTER 2 ( ANTI-HORÁRIO)",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "022",
+        "NOME": "INTER 2 (HORÁRIO)",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "011",
+        "NOME": "INTERBAIRROS I (ANTI-HORÁRIO)",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "010",
+        "NOME": "INTERBAIRROS I (HORÁRIO)",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "021",
+        "NOME": "INTERBAIRROS II (ANTI-HORÁRIO)",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "020",
+        "NOME": "INTERBAIRROS II (HORÁRIO)",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "030",
+        "NOME": "INTERBAIRROS III",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "040",
+        "NOME": "INTERBAIRROS IV",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "050",
+        "NOME": "INTERBAIRROS V",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "INTERBAIRROS",
+        "COD": "060",
+        "NOME": "INTERBAIRROS VI",
+        "NOME_COR": "VERDE",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "378",
+        "NOME": "INTER-HOSPITAIS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "512",
+        "NOME": "ITAMARATI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "711",
+        "NOME": "ITATIAIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "366",
+        "NOME": "ITUPAVA / HOSP. MILITAR",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "468",
+        "NOME": "JD. CENTAURO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "183",
+        "NOME": "JD. CHAPARRAL",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "655",
+        "NOME": "JD. DA ORDEM",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "244",
+        "NOME": "JD. DO ARROIO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "865",
+        "NOME": "JD. ESPLANADA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "712",
+        "NOME": "JD. INDEPENDÊNCIA / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "917",
+        "NOME": "JD. IPÊ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "972",
+        "NOME": "JD. ITÁLIA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "474",
+        "NOME": "JD. ITIBERÊ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "169",
+        "NOME": "JD. KOSMOS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "617",
+        "NOME": "JD. LUDOVICA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "160",
+        "NOME": "JD. MERCÊS / GUANABARA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "532",
+        "NOME": "JD. PARANAENSE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "365",
+        "NOME": "JD. SOCIAL / BATEL",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "912",
+        "NOME": "JOSÉ CULPI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "967",
+        "NOME": "JÚLIO GRAF",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "285",
+        "NOME": "JUVEVÊ / ÁGUA VERDE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "656",
+        "NOME": "KAMYR",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "271",
+        "NOME": "LARANJEIRAS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "LIGEIRÃO",
+        "COD": "550",
+        "NOME": "LIGEIRÃO - PINHEIRINHO / C. GOMES",
+        "NOME_COR": "AZUL",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LIGEIRÃO",
+        "COD": "500",
+        "NOME": "LIGEIRAO BOQUEIRAO",
+        "NOME_COR": "AZUL",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "661",
+        "NOME": "LINDÓIA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "635",
+        "NOME": "LONDRINA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "641",
+        "NOME": "LUIZ NICHELE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "189",
+        "NOME": "MAD. ABRANCHES",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "549",
+        "NOME": "MAD. BAIRRO NOVO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "509",
+        "NOME": "MAD. BOQUEIRÃO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "789",
+        "NOME": "MAD. CAIUÁ",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "809",
+        "NOME": "MAD. CAMPO COMPRIDO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "309",
+        "NOME": "MAD. CENTENÁRIO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "308",
+        "NOME": "MAD. CENTENÁRIO / RUI BARBOSA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "609",
+        "NOME": "MAD. CIC",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "229",
+        "NOME": "MAD. PENHA / F. NORONHA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "489",
+        "NOME": "MAD. PETRÓPOLIS / SOLITUDE",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "188",
+        "NOME": "MAD. PILARZINHO / UBERABA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "608",
+        "NOME": "MAD. PINHEIRINHO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "209",
+        "NOME": "MAD. S. CÂNDIDA / C. RASO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "519",
+        "NOME": "MAD. S. FRANCISCO / IGUAPE",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "689",
+        "NOME": "MAD. S. PEDRO / R. NEGRO",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "889",
+        "NOME": "MAD. SÃO BRÁZ",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "989",
+        "NOME": "MAD. STA. FELICIDADE",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "389",
+        "NOME": "MAD. TARUMÃ / AUGUSTA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "679",
+        "NOME": "MAD. TATUQUARA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "MADRUGUEIRO",
+        "COD": "788",
+        "NOME": "MAD. V. VELHA",
+        "NOME_COR": "MADRUGUEIRO",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "260",
+        "NOME": "MAL. HERMES / STA. EFIGÊNIA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "633",
+        "NOME": "MARIA ANGÉLICA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "522",
+        "NOME": "MARINGÁ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "721",
+        "NOME": "MÁRIO JORGE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "181",
+        "NOME": "MATEUS LEME",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "594",
+        "NOME": "MENONITAS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "331",
+        "NOME": "MERCÚRIO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "812",
+        "NOME": "MONTANA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "814",
+        "NOME": "MOSSUNGUÊ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "176",
+        "NOME": "NILO PEÇANHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "521",
+        "NOME": "NIVALDO BRAGA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "280",
+        "NOME": "NOSSA SRA. DE NAZARÉ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "360",
+        "NOME": "NOVENA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "666",
+        "NOME": "NOVO MUNDO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "674",
+        "NOME": "NSA. SRA. DA LUZ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "233",
+        "NOME": "OLARIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "535",
+        "NOME": "OSTERNACK / BOQUEIRÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "548",
+        "NOME": "OSTERNACK / S. CERCADO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "915",
+        "NOME": "OURO VERDE (VIA VL.BÁDIA)",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "272",
+        "NOME": "PAINEIRAS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "640",
+        "NOME": "PALMEIRA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "387",
+        "NOME": "PALOTINOS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "343",
+        "NOME": "PARAÍSO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "534",
+        "NOME": "PARIGOT DE SOUZA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "623",
+        "NOME": "PARQUE INDUSTRIAL",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "911",
+        "NOME": "PASSAÚNA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "462",
+        "NOME": "PETRÓPOLIS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "304",
+        "NOME": "PINHAIS / C. COMPRIDO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "638",
+        "NOME": "PINHEIRINHO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "644",
+        "NOME": "PINHEIRINHO / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "688",
+        "NOME": "PINHEIRINHO / ZOOLÓGICO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "527",
+        "NOME": "PINHEIRINHO/BOQUEIRAO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "603",
+        "NOME": "PINHEIRINHO/RUI BARBOSA",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "916",
+        "NOME": "PINHEIROS",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "631",
+        "NOME": "PIRATINI / BR 476",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "649",
+        "NOME": "PIRINEUS",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "646",
+        "NOME": "POMPEIA/JANAINA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "671",
+        "NOME": "PORTÃO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "612",
+        "NOME": "PORTÃO / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "616",
+        "NOME": "PORTAO / STA. BERNADETHE - L. VERDE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "X20",
+        "NOME": "PORTAO/SITIO CERCADO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "718",
+        "NOME": "PORTO BELO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "171",
+        "NOME": "PRIMAVERA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "X16",
+        "NOME": "PUC / RODOFERROVIARIA",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "632",
+        "NOME": "QUARTEL GENERAL",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "168",
+        "NOME": "RAPOSO TAVARES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "245",
+        "NOME": "REFORÇO ANITA GARIBALDI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "X33",
+        "NOME": "REFORCO CABRAL",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "X30",
+        "NOME": "REFORÇO C.IMBUIA",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "X14",
+        "NOME": "REFORÇO HAUER",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "X22",
+        "NOME": "REFORÇO PORTÃO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "539",
+        "NOME": "REFORÇO TERMINAL",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "815",
+        "NOME": "REFORÇO TUIUTI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "684",
+        "NOME": "RIO BONITO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "685",
+        "NOME": "RIO BONITO / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "636",
+        "NOME": "RIO NEGRO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "827",
+        "NOME": "RIVIERA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "622",
+        "NOME": "RONDON",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "164",
+        "NOME": "R.PRADO/C.GOMES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "370",
+        "NOME": "RUA XV / BARIGUI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "680",
+        "NOME": "RURBANA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "610",
+        "NOME": "S. CERCADO / C. RASO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "653",
+        "NOME": "SABARÁ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "375",
+        "NOME": "SAGRADO CORAÇÃO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "552",
+        "NOME": "SAMBAQUI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "236",
+        "NOME": "SÃO BENEDITO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "965",
+        "NOME": "SÃO BERNARDO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "870",
+        "NOME": "SÃO BRAZ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "511",
+        "NOME": "SÃO FRANCISCO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "213",
+        "NOME": "SÃO JOÃO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "670",
+        "NOME": "SÃO JORGE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "811",
+        "NOME": "SATURNO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "876",
+        "NOME": "SAVÓIA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "X11",
+        "NOME": "SITIO CERCADO / C. RASO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "508",
+        "NOME": "SÍTIO CERCADO (ANTI-HORÁRIO)",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "507",
+        "NOME": "SÍTIO CERCADO (HORÁRIO)",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "212",
+        "NOME": "SOLAR",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "463",
+        "NOME": "SOLITUDE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "713",
+        "NOME": "STA. AMÉLIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "461",
+        "NOME": "STA. BARBARA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "EXPRESSO",
+        "COD": "203",
+        "NOME": "STA. CÂNDIDA / C. RASO",
+        "NOME_COR": "VERMELHA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "204",
+        "NOME": "STA. CÂNDIDA / PINHEIRINHO",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "620",
+        "NOME": "STA. CRUZ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "901",
+        "NOME": "STA. FELICIDADE",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "924",
+        "NOME": "STA. FELICIDADE / STA. CÂNDIDA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "LINHA DIRETA",
+        "COD": "902",
+        "NOME": "STA. FELICIDADE L.D.",
+        "NOME_COR": "PRATA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "274",
+        "NOME": "STA. GEMA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "531",
+        "NOME": "STA. INÊS",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "637",
+        "NOME": "STA. JOANA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "760",
+        "NOME": "STA. QUITÉRIA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "619",
+        "NOME": "STA. RITA / CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "650",
+        "NOME": "STA. RITA / PINHEIRINHO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "243",
+        "NOME": "STA. TEREZINHA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "710",
+        "NOME": "STA.AMELIA/P.BELO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "TRONCAL",
+        "COD": "372",
+        "NOME": "TARUMÃ",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "667",
+        "NOME": "TERMINAL CIC",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "214",
+        "NOME": "TINGUI",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "545",
+        "NOME": "TRABALHADOR",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "861",
+        "NOME": "TRAMONTINA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "321",
+        "NOME": "TRINDADE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "JARDINEIRA",
+        "COD": "979",
+        "NOME": "TURISMO",
+        "NOME_COR": "TURISMO",
+        "SOMENTE_CARTAO": "M"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "472",
+        "NOME": "UBERABA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "615",
+        "NOME": "UBERLÂNDIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "643",
+        "NOME": "UMBARÁ",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "Z01",
+        "NOME": "UNIBRASIL / TUBO DETRAN",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "165",
+        "NOME": "UNIVERSIDADES",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "829",
+        "NOME": "UNIV.POSITIVO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "323",
+        "NOME": "V. AUTÓDROMO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "663",
+        "NOME": "V. CUBAS",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "222",
+        "NOME": "V. ESPERANÇA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "761",
+        "NOME": "V. IZABEL",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "690",
+        "NOME": "V. JULIANA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "242",
+        "NOME": "V. LEONICE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "467",
+        "NOME": "V. MACEDO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "714",
+        "NOME": "V. MARISA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "825",
+        "NOME": "V. MARQUETO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "166",
+        "NOME": "V. NORI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "F"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "336",
+        "NOME": "V. RENO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "665",
+        "NOME": "V. REX",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "762",
+        "NOME": "V. ROSINHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "860",
+        "NOME": "V. SANDRA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "471",
+        "NOME": "V. SÃO PAULO",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "624",
+        "NOME": "V. SÃO PEDRO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "184",
+        "NOME": "V. SUIÇA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "613",
+        "NOME": "V. URANO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "777",
+        "NOME": "V. VELHA",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "652",
+        "NOME": "V. VERDE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "918",
+        "NOME": "VENEZA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "Z03",
+        "NOME": "VIC. DE CARVALHO / C. IMBUIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "CONVENCIONAL",
+        "COD": "779",
+        "NOME": "VILA VELHA/BURITI",
+        "NOME_COR": "AMARELA",
+        "SOMENTE_CARTAO": "S"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "630",
+        "NOME": "VITÓRIA RÉGIA",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "657",
+        "NOME": "XAXIM / CAPÃO RASO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "551",
+        "NOME": "XAXIM / LINHA VERDE",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    },
+    {
+        "CATEGORIA_SERVICO": "ALIMENTADOR",
+        "COD": "536",
+        "NOME": "ZOOLÓGICO",
+        "NOME_COR": "LARANJA",
+        "SOMENTE_CARTAO": "N"
+    }
+]

@@ -1,0 +1,712 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,554553290406",
+        "LON": "-49,307445287704",
+        "NOME": "Rua Hasdrúbal Belegard, 1270 - Cidade Industrial",
+        "NUM": "170672",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5559761372",
+        "LON": "-49,317193776369",
+        "NOME": "Rua Roberto Osório de Almeida, 157 - Cidade Industrial",
+        "NUM": "170933",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Kamyr",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Kamyr",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555898703795",
+        "LON": "-49,317113310099",
+        "NOME": "Rua Roberto Osório de Almeida, 158 - Cidade Industrial",
+        "NUM": "170934",
+        "SENTIDO": "Kamyr",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554310987493",
+        "LON": "-49,330238139881",
+        "NOME": "Rua Roberto Osório de Almeida, 462 - Cidade Industrial",
+        "NUM": "170945",
+        "SENTIDO": "Kamyr",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557244102078",
+        "LON": "-49,31525722146",
+        "NOME": "Rua Roberto Osório de Almeida, 68 - Cidade Industrial",
+        "NUM": "170932",
+        "SENTIDO": "Kamyr",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51210436029",
+        "LON": "-49,295018309193",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr",
+        "NUM": "105732",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526603915867",
+        "LON": "-49,29493537991",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6339 - Pinheirinho",
+        "NUM": "160362",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554310987493",
+        "LON": "-49,330238139881",
+        "NOME": "Rua Roberto Osório de Almeida, 462 - Cidade Industrial",
+        "NUM": "170945",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557337263091",
+        "LON": "-49,315341711044",
+        "NOME": "Rua Roberto Osório de Almeida, 69 - Cidade Industrial",
+        "NUM": "170931",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Kamyr",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554116511768",
+        "LON": "-49,322289973497",
+        "NOME": "Rua Roberto Osório de Almeida, 192 - Cidade Industrial",
+        "NUM": "170938",
+        "SENTIDO": "Kamyr",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554310987493",
+        "LON": "-49,330238139881",
+        "NOME": "Rua Roberto Osório de Almeida, 462 - Cidade Industrial",
+        "NUM": "170945",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557986968398",
+        "LON": "-49,309843182563",
+        "NOME": "Rua Francisco Sobania, 2 - Cidade Industrial",
+        "NUM": "170925",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51210436029",
+        "LON": "-49,295018309193",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr",
+        "NUM": "105732",
+        "SENTIDO": "Kamyr",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554381482932",
+        "LON": "-49,307392984629",
+        "NOME": "Rua Hasdrúbal Belegard, 1271 - Cidade Industrial",
+        "NUM": "170671",
+        "SENTIDO": "Kamyr",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554873916371",
+        "LON": "-49,319064617157",
+        "NOME": "Rua Roberto Osório de Almeida, 182 - Cidade Industrial",
+        "NUM": "170936",
+        "SENTIDO": "Kamyr",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554168538116",
+        "LON": "-49,327384829521",
+        "NOME": "Rua Roberto Osório de Almeida, 364 - Cidade Industrial",
+        "NUM": "170944",
+        "SENTIDO": "Kamyr",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557337263091",
+        "LON": "-49,315341711044",
+        "NOME": "Rua Roberto Osório de Almeida, 69 - Cidade Industrial",
+        "NUM": "170931",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555005796235",
+        "LON": "-49,319090098143",
+        "NOME": "Rua Roberto Osório de Almeida, 181 - Cidade Industrial",
+        "NUM": "170935",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55417216786",
+        "LON": "-49,325862675905",
+        "NOME": "Rua Roberto Osório de Almeida, 251 - Cidade Industrial",
+        "NUM": "170941",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554191526495",
+        "LON": "-49,322292655706",
+        "NOME": "Rua Roberto Osório de Almeida, 191 - Cidade Industrial",
+        "NUM": "170937",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Kamyr",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Kamyr",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Kamyr",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Kamyr",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558141832458",
+        "LON": "-49,31007117033",
+        "NOME": "Rua Francisco Sobania, 2 - Cidade Industrial",
+        "NUM": "170926",
+        "SENTIDO": "Kamyr",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559955420882",
+        "LON": "-49,311405569315",
+        "NOME": "Rua Roberto Osório de Almeida, 62 - Cidade Industrial",
+        "NUM": "170928",
+        "SENTIDO": "Kamyr",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553999149923",
+        "LON": "-49,324878305197",
+        "NOME": "Rua Roberto Osório de Almeida, 326 - Cidade Industrial",
+        "NUM": "170940",
+        "SENTIDO": "Kamyr",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554105622529",
+        "LON": "-49,32586401701",
+        "NOME": "Rua Roberto Osório de Almeida, 354 - Cidade Industrial",
+        "NUM": "170942",
+        "SENTIDO": "Kamyr",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560059468485",
+        "LON": "-49,311447143555",
+        "NOME": "Rua Roberto Osório de Almeida, 61 - Cidade Industrial",
+        "NUM": "170927",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5559761372",
+        "LON": "-49,317193776369",
+        "NOME": "Rua Roberto Osório de Almeida, 157 - Cidade Industrial",
+        "NUM": "170933",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554133450581",
+        "LON": "-49,324703961611",
+        "NOME": "Rua Roberto Osório de Almeida, 325 - Cidade Industrial",
+        "NUM": "170939",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560059468485",
+        "LON": "-49,311447143555",
+        "NOME": "Rua Roberto Osório de Almeida, 61 - Cidade Industrial",
+        "NUM": "170927",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554133450581",
+        "LON": "-49,324703961611",
+        "NOME": "Rua Roberto Osório de Almeida, 325 - Cidade Industrial",
+        "NUM": "170939",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55417216786",
+        "LON": "-49,325862675905",
+        "NOME": "Rua Roberto Osório de Almeida, 251 - Cidade Industrial",
+        "NUM": "170941",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Kamyr",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554261701519",
+        "LON": "-49,327380806208",
+        "NOME": "Rua Roberto Osório de Almeida, 411 - Cidade Industrial",
+        "NUM": "170943",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526603915867",
+        "LON": "-49,29493537991",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6339 - Pinheirinho",
+        "NUM": "160362",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55889316228",
+        "LON": "-49,313378334045",
+        "NOME": "Rua Roberto Osório de Almeida, 111 - Cidade Industrial",
+        "NUM": "170929",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555005796235",
+        "LON": "-49,319090098143",
+        "NOME": "Rua Roberto Osório de Almeida, 181 - Cidade Industrial",
+        "NUM": "170935",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554261701519",
+        "LON": "-49,327380806208",
+        "NOME": "Rua Roberto Osório de Almeida, 411 - Cidade Industrial",
+        "NUM": "170943",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557986968398",
+        "LON": "-49,309843182563",
+        "NOME": "Rua Francisco Sobania, 2 - Cidade Industrial",
+        "NUM": "170925",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55889316228",
+        "LON": "-49,313378334045",
+        "NOME": "Rua Roberto Osório de Almeida, 111 - Cidade Industrial",
+        "NUM": "170929",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554191526495",
+        "LON": "-49,322292655706",
+        "NOME": "Rua Roberto Osório de Almeida, 191 - Cidade Industrial",
+        "NUM": "170937",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51207849992",
+        "LON": "-49,295016601682",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr (Chegada)",
+        "NUM": "105913",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51210436029",
+        "LON": "-49,295018309193",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr",
+        "NUM": "105732",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Kamyr",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558807261686",
+        "LON": "-49,313307255507",
+        "NOME": "Rua Roberto Osório de Almeida, 64 - Cidade Industrial",
+        "NUM": "170930",
+        "SENTIDO": "Kamyr",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554553290406",
+        "LON": "-49,307445287704",
+        "NOME": "Rua Hasdrúbal Belegard, 1270 - Cidade Industrial",
+        "NUM": "170672",
+        "SENTIDO": "Atendimento Pinheirinho Chegada",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    }
+]

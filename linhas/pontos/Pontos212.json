@@ -1,0 +1,462 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,405733016782",
+        "LON": "-49,247328309193",
+        "NOME": "Av. Munhoz da Rocha, 1361 - Juveve",
+        "NUM": "130004",
+        "SENTIDO": "Solar",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394110923376",
+        "LON": "-49,215548163195",
+        "NOME": "Rua José Gulin, 1393 - Bacacheri",
+        "NUM": "130596",
+        "SENTIDO": "Solar",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "Solar",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406155130757",
+        "LON": "-49,247822419643",
+        "NOME": "Av. Munhoz da Rocha, 1143 - Juveve",
+        "NUM": "130003",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39395",
+        "LON": "-49,22733",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2187  - Bacacheri",
+        "NUM": "130021",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40022028553",
+        "LON": "-49,240394820824",
+        "NOME": "Rua Nicarágua, 820  - Bacacheri",
+        "NUM": "130011",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39565",
+        "LON": "-49,22105",
+        "NOME": "Rua José Gulin, 738 - Bacacheri",
+        "NUM": "130593",
+        "SENTIDO": "Solar",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39507",
+        "LON": "-49,21898",
+        "NOME": "Rua José Gulin, 946 - Bacacheri",
+        "NUM": "130594",
+        "SENTIDO": "Solar",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397700020832",
+        "LON": "-49,217069270587",
+        "NOME": "Av. Luísa Gulin, 82 - Bacacheri",
+        "NUM": "130034",
+        "SENTIDO": "Solar",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401251541831",
+        "LON": "-49,241950728836",
+        "NOME": "Rua Nicarágua, 547 - Bacacheri",
+        "NUM": "130012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397915840531",
+        "LON": "-49,217040420717",
+        "NOME": "Av. Luísa Gulin, 82 - Bacacheri",
+        "NUM": "130905",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "Solar",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39386",
+        "LON": "-49,22565",
+        "NOME": "Rua José Gulin, 106 - Bacacheri",
+        "NUM": "130023",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394295779371",
+        "LON": "-49,2175395043",
+        "NOME": "Rua José Gulin, 1133 - Bacacheri",
+        "NUM": "130030",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39622",
+        "LON": "-49,21595",
+        "NOME": "Av. Luísa Gulin, 268 - Bacacheri",
+        "NUM": "130032",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "Solar",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3953",
+        "LON": "-49,22458",
+        "NOME": "Rua José Gulin, 369 - Bacacheri",
+        "NUM": "130025",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393898212073",
+        "LON": "-49,215632682209",
+        "NOME": "Rua José Gulin, 1393 - Bacacheri",
+        "NUM": "130031",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400487907139",
+        "LON": "-49,238523790178",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130008",
+        "SENTIDO": "Solar",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39386",
+        "LON": "-49,22579",
+        "NOME": "Rua José Gulin, 106 - Bacacheri",
+        "NUM": "130024",
+        "SENTIDO": "Solar",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396038500827",
+        "LON": "-49,222495364418",
+        "NOME": "Rua José Gulin, 596 - Bacacheri",
+        "NUM": "130592",
+        "SENTIDO": "Solar",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401307224713",
+        "LON": "-49,218188746033",
+        "NOME": "Rua Engenheiro Romeu Gonçalves Pereira, 213 - Bacacheri",
+        "NUM": "130039",
+        "SENTIDO": "Solar",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40744876934",
+        "LON": "-49,249701768694",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130001",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394913962321",
+        "LON": "-49,219056588955",
+        "NOME": "Rua José Gulin, 946 - Bacacheri",
+        "NUM": "130898",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40171",
+        "LON": "-49,24042",
+        "NOME": "Av. Prefeito Erasto Gaertner,  683 - Bacacheri",
+        "NUM": "130007",
+        "SENTIDO": "Solar",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "Solar",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39541",
+        "LON": "-49,22455",
+        "NOME": "Rua José Gulin, 369 - Bacacheri",
+        "NUM": "130591",
+        "SENTIDO": "Solar",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396226098222",
+        "LON": "-49,216149387732",
+        "NOME": "Av. Luísa Gulin, 268 - Bacacheri",
+        "NUM": "130033",
+        "SENTIDO": "Solar",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406730758858",
+        "LON": "-49,25269411594",
+        "NOME": "Terminal Cabral - 212 - Solar",
+        "NUM": "104409",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406730758858",
+        "LON": "-49,25269411594",
+        "NOME": "Terminal Cabral - 212 - Solar",
+        "NUM": "104409",
+        "SENTIDO": "Solar",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40751903007",
+        "LON": "-49,249488533077",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130002",
+        "SENTIDO": "Solar",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404285485932",
+        "LON": "-49,244288658895",
+        "NOME": "Av. Prefeito Erasto Gaertner, 193 - Bacacheri",
+        "NUM": "130005",
+        "SENTIDO": "Solar",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "Solar",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394397596693",
+        "LON": "-49,217410845404",
+        "NOME": "Rua José Gulin, 1133 - Bacacheri",
+        "NUM": "130595",
+        "SENTIDO": "Solar",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400205459238",
+        "LON": "-49,217633565641",
+        "NOME": "Rua Moreno Roseira Penteado de Almeida, 176 - Bacacheri",
+        "NUM": "130038",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39552153953",
+        "LON": "-49,221169504299",
+        "NOME": "Rua José Gulin,  738 - Bacacheri",
+        "NUM": "130028",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398718214541",
+        "LON": "-49,219049387732",
+        "NOME": "Rua Francisco M. Albizu, 1157 - Bacacheri",
+        "NUM": "130036",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400205459238",
+        "LON": "-49,217633565641",
+        "NOME": "Rua Moreno Roseira Penteado de Almeida, 176 - Bacacheri",
+        "NUM": "130038",
+        "SENTIDO": "Solar",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398607598172",
+        "LON": "-49,21919",
+        "NOME": "Rua Francisco M. Albizu, 1157 - Bacacheri",
+        "NUM": "130037",
+        "SENTIDO": "Solar",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40335942835",
+        "LON": "-49,245174139881",
+        "NOME": "Rua Nicarágua, 239 - Bacacheri",
+        "NUM": "130013",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395888253611",
+        "LON": "-49,222512158232",
+        "NOME": "Rua José Gulin, 596 - Bacacheri",
+        "NUM": "130027",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    }
+]

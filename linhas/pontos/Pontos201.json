@@ -1,0 +1,152 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,414232095024",
+        "LON": "-49,273642244636",
+        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
+        "NUM": "120065",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40126",
+        "LON": "-49,26492",
+        "NOME": "R. Brasilino Moura, 605 - Ahú",
+        "NUM": "120052",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402083054858",
+        "LON": "-49,255968661255",
+        "NOME": "Rua dos Funcionários, 157 - Cabral",
+        "NUM": "120002",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402382962766",
+        "LON": "-49,25947409834",
+        "NOME": "R. Eça de Queiroz, 1260 - Ahú",
+        "NUM": "120010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403061899352",
+        "LON": "-49,270802618212",
+        "NOME": "R. Brasilino Moura, 90 - São Lourenço",
+        "NUM": "120102",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401762136668",
+        "LON": "-49,268438163195",
+        "NOME": "Rua Brasilino Moura, 330 - São Lourenço",
+        "NUM": "120054",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408220402306",
+        "LON": "-49,276207968194",
+        "NOME": "R. Nilo Peçanha, 1378 - Bom Retiro",
+        "NUM": "120061",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414232095024",
+        "LON": "-49,273642244636",
+        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
+        "NUM": "120065",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404812910545",
+        "LON": "-49,272736490912",
+        "NOME": "Rua Albano Reis, 702 - Bom Retiro",
+        "NUM": "110096",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406362644792",
+        "LON": "-49,275850723943",
+        "NOME": "R. Nilo Peçanha, 1572 - Bom Retiro",
+        "NUM": "120059",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412286976107",
+        "LON": "-49,274096713905",
+        "NOME": "R. Nilo Peçanha, 897 - São Francisco",
+        "NUM": "120066",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409954378395",
+        "LON": "-49,275623290553",
+        "NOME": "R. Nilo Peçanha, 1204 - Bom Retiro",
+        "NUM": "120062",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401900925253",
+        "LON": "-49,262234023313",
+        "NOME": "R. Eça de Queiroz, 940 - Ahú",
+        "NUM": "120050",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406358512665",
+        "LON": "-49,252481460571",
+        "NOME": "Terminal Cabral - 201 - Bom Retiro/Cabral",
+        "NUM": "104910",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406358512665",
+        "LON": "-49,252481460571",
+        "NOME": "Terminal Cabral - 201 - Bom Retiro/Cabral",
+        "NUM": "104910",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

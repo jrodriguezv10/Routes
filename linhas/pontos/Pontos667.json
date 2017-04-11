@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,497997471183",
+        "LON": "-49,306805511171",
+        "NOME": "Rua Pedro Gusso, 1254 - Novo Mundo",
+        "NUM": "170304",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504604096826",
+        "LON": "-49,317968865091",
+        "NOME": "Rua Pedro Gusso, 2509 - Novo Mundo",
+        "NUM": "170315",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505430139068",
+        "LON": "-49,320441869698",
+        "NOME": "Rua Pedro Gusso, 2863 - Novo Mundo",
+        "NUM": "170208",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497406754821",
+        "LON": "-49,303873856718",
+        "NOME": "Rua Pedro Gusso, 885- Novo Mundo",
+        "NUM": "170177",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498818174749",
+        "LON": "-49,309812267477",
+        "NOME": "Rua Pedro Gusso, 1480 - Novo Mundo",
+        "NUM": "170306",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505572424758",
+        "LON": "-49,321053405458",
+        "NOME": "Rua Pedro Gusso, 2944 - Cidade Industrial",
+        "NUM": "170317",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50706",
+        "LON": "-49,32217",
+        "NOME": "Rua Pedro Gusso, 3209 - Cidade Industrial",
+        "NUM": "170318",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501452135342",
+        "LON": "-49,312982638533",
+        "NOME": "Rua Pedro Gusso, 1726 - Novo Mundo",
+        "NUM": "170309",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496998998031",
+        "LON": "-49,297864402447",
+        "NOME": "Rua Pedro Gusso, 232 - Novo Mundo",
+        "NUM": "170172",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49797",
+        "LON": "-49,30096",
+        "NOME": "Rua Pedro Gusso, 601 - Novo Mundo",
+        "NUM": "170176",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50723",
+        "LON": "-49,32196",
+        "NOME": "Rua Pedro Gusso, 3167 - Cidade Industrial",
+        "NUM": "170319",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502836878224",
+        "LON": "-49,314138670618",
+        "NOME": "Rua Pedro Gusso, 2192 - Novo Mundo",
+        "NUM": "170312",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497458805765",
+        "LON": "-49,303577472622",
+        "NOME": "Rua Pedro Gusso, 886 - Novo Mundo",
+        "NUM": "170178",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500275575523",
+        "LON": "-49,311797102148",
+        "NOME": "Rua Pedro Gusso, 1709 - Novo Mundo",
+        "NUM": "170308",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5031685363",
+        "LON": "-49,314245958979",
+        "NOME": "Rua Pedro Gusso, 2101 - Novo Mundo",
+        "NUM": "170313",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49781",
+        "LON": "-49,30083",
+        "NOME": "Rua Pedro Gusso, 600 - Novo Mundo",
+        "NUM": "170175",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497988997813",
+        "LON": "-49,306239565069",
+        "NOME": "Rua Pedro Gusso, 1219 - Novo Mundo",
+        "NUM": "170303",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504485476117",
+        "LON": "-49,318078835661",
+        "NOME": "Rua Pedro Gusso, 2510 - Novo Mundo",
+        "NUM": "170314",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496193631499",
+        "LON": "-49,298134139881",
+        "NOME": "Rua Paulina Ader, 1319 - Novo Mundo",
+        "NUM": "170173",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500246524518",
+        "LON": "-49,311947305853",
+        "NOME": "Rua Pedro Gusso, 1710 - Novo Mundo",
+        "NUM": "170307",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508857419092",
+        "LON": "-49,322686870748",
+        "NOME": "Rua Pedro Gusso, 3382 - Cidade Industrial",
+        "NUM": "170320",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49549089456",
+        "LON": "-49,295826472387",
+        "NOME": "Rua Antônio Gasparin, 5556 -Novo Mundo",
+        "NUM": "170171",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501505394979",
+        "LON": "-49,312856574709",
+        "NOME": "Rua Pedro Gusso, 1727 - Novo Mundo",
+        "NUM": "170311",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508921568786",
+        "LON": "-49,322517891581",
+        "NOME": "Rua Pedro Gusso, 3381 - Cidade Industrial",
+        "NUM": "170321",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493928736722",
+        "LON": "-49,295499154596",
+        "NOME": "Rua Antônio Gasparin, 5452 - Novo Mundo",
+        "NUM": "170170",
+        "SENTIDO": "Capão Raso - CIC",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498757651079",
+        "LON": "-49,309490402395",
+        "NOME": "Rua Pedro Gusso, 1551 - Novo Mundo",
+        "NUM": "170305",
+        "SENTIDO": "CIC - Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    }
+]

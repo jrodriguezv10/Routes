@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "26124",
+        "LAT": "-25,43759253",
+        "LON": "-49,26672726",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41851",
+        "LAT": "-25,442132410438",
+        "LON": "-49,217694966865",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108152",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26062",
+        "LAT": "-25,438812743998",
+        "LON": "-49,226358458817",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108154",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25420",
+        "LAT": "-25,438885212335",
+        "LON": "-49,22626429576",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108153",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14553",
+        "LAT": "-25,437670038693",
+        "LON": "-49,266681661447",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108026",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26048",
+        "LAT": "-25,438177333104",
+        "LON": "-49,238731363135",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108159",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25420",
+        "LAT": "-25,438885212335",
+        "LON": "-49,22626429576",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108153",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41844",
+        "LAT": "-25,46521811",
+        "LON": "-49,20987407",
+        "NOME": "Estação Tubo Catulo da P. Cearense",
+        "NUM": "108143",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41846",
+        "LAT": "-25,460458700548",
+        "LON": "-49,211855217316",
+        "NOME": "Estação Tubo Cajuru",
+        "NUM": "108145",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440148554607",
+        "LON": "-49,221592129416",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104702",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,4511728",
+        "LON": "-49,2152244",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105601",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41849",
+        "LAT": "-25,446970598447",
+        "LON": "-49,216856830059",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108150",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26011",
+        "LAT": "-25,435617512424",
+        "LON": "-49,256634944672",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108166",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26057",
+        "LAT": "-25,44170960553",
+        "LON": "-49,23077471596",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108156",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26049",
+        "LAT": "-25,438110723495",
+        "LON": "-49,238652241969",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108160",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26042",
+        "LAT": "-25,437027959344",
+        "LON": "-49,243685491076",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108162",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451939302546",
+        "LON": "-49,214773788885",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105602",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26055",
+        "LAT": "-25,440800424556",
+        "LON": "-49,236691126152",
+        "NOME": "Estação Tubo Urbano Lopes",
+        "NUM": "108157",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41852",
+        "LAT": "-25,442221997638",
+        "LON": "-49,217733858895",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108151",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26043",
+        "LAT": "-25,437130902377",
+        "LON": "-49,243700245225",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108161",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26048",
+        "LAT": "-25,438177333104",
+        "LON": "-49,238731363135",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108159",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26124",
+        "LAT": "-25,43759253",
+        "LON": "-49,26672726",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108025",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14553",
+        "LAT": "-25,437670038693",
+        "LON": "-49,266681661447",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108026",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26039",
+        "LAT": "-25,435546730475",
+        "LON": "-49,250568710107",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108164",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465166873065",
+        "LON": "-49,209761917591",
+        "NOME": "Rua Filipinas, 206 - Cajuru",
+        "NUM": "140732",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "26054",
+        "LAT": "-25,440751982263",
+        "LON": "-49,236597228836",
+        "NOME": "Estaçaõ Tubo Urbano Lopes",
+        "NUM": "108158",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436513706313",
+        "LON": "-49,274033826003",
+        "NOME": "Praça Rui Barbosa - (Embarque)  Pinhais / Rui Barbosa - Centenário / Rui Barbosa",
+        "NUM": "108171",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26032",
+        "LAT": "-25,435735612068",
+        "LON": "-49,260801584596",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108168",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440148554607",
+        "LON": "-49,221592129416",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104702",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26040",
+        "LAT": "-25,435638778793",
+        "LON": "-49,250571397316",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108163",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26062",
+        "LAT": "-25,438812743998",
+        "LON": "-49,226358458817",
+        "NOME": "Estação Tubo Profª. Maria Aguiar Teixeira",
+        "NUM": "108154",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440005649011",
+        "LON": "-49,221567080322",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104701",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26039",
+        "LAT": "-25,435546730475",
+        "LON": "-49,250568710107",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108164",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41844",
+        "LAT": "-25,46521811",
+        "LON": "-49,20987407",
+        "NOME": "Estação Tubo Catulo da P. Cearense",
+        "NUM": "108143",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14553",
+        "LAT": "-25,437670038693",
+        "LON": "-49,266681661447",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108026",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41848",
+        "LAT": "-25,457312115745",
+        "LON": "-49,213038907434",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108147",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41847",
+        "LAT": "-25,45728548614",
+        "LON": "-49,212937013492",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108148",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41847",
+        "LAT": "-25,45728548614",
+        "LON": "-49,212937013492",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26011",
+        "LAT": "-25,435617512424",
+        "LON": "-49,256634944672",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108166",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26049",
+        "LAT": "-25,438110723495",
+        "LON": "-49,238652241969",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "108160",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41850",
+        "LAT": "-25,447015365256",
+        "LON": "-49,216953419584",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108149",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26043",
+        "LAT": "-25,437130902377",
+        "LON": "-49,243700245225",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108161",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26034",
+        "LAT": "-25,435717541034",
+        "LON": "-49,257546557494",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108165",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41851",
+        "LAT": "-25,442132410438",
+        "LON": "-49,217694966865",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108152",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26054",
+        "LAT": "-25,440751982263",
+        "LON": "-49,236597228836",
+        "NOME": "Estaçaõ Tubo Urbano Lopes",
+        "NUM": "108158",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26031",
+        "LAT": "-25,435644780933",
+        "LON": "-49,26077879082",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108167",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26058",
+        "LAT": "-25,441828976264",
+        "LON": "-49,230751377613",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108155",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451939302546",
+        "LON": "-49,214773788885",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105602",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41843",
+        "LAT": "-25,465055224179",
+        "LON": "-49,209806384656",
+        "NOME": "Estação Tubo Catulo da P. Cearense",
+        "NUM": "108144",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26031",
+        "LAT": "-25,435644780933",
+        "LON": "-49,26077879082",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108167",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46900229",
+        "LON": "-49,20829802",
+        "NOME": "Terminal Centenário - 303 - Centenário / Campo Comprido",
+        "NUM": "105101",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440005649011",
+        "LON": "-49,221567080322",
+        "NOME": "Terminal Capão da Imbuia - 303 - Centenário / Campo Comprido",
+        "NUM": "104701",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26034",
+        "LAT": "-25,435717541034",
+        "LON": "-49,257546557494",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "108165",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26040",
+        "LAT": "-25,435638778793",
+        "LON": "-49,250571397316",
+        "NOME": "Estação Tubo Viaduto Capanema",
+        "NUM": "108163",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41852",
+        "LAT": "-25,442221997638",
+        "LON": "-49,217733858895",
+        "NOME": "Estação Tubo Germânia",
+        "NUM": "108151",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436513706313",
+        "LON": "-49,274033826003",
+        "NOME": "Praça Rui Barbosa - (Embarque)  Pinhais / Rui Barbosa - Centenário / Rui Barbosa",
+        "NUM": "108171",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26058",
+        "LAT": "-25,441828976264",
+        "LON": "-49,230751377613",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108155",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26032",
+        "LAT": "-25,435735612068",
+        "LON": "-49,260801584596",
+        "NOME": "Estação Tubo Mariano Torres",
+        "NUM": "108168",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41845",
+        "LAT": "-25,4604271982",
+        "LON": "-49,21174654785",
+        "NOME": "Estação Tubo Cajuru",
+        "NUM": "108146",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26042",
+        "LAT": "-25,437027959344",
+        "LON": "-49,243685491076",
+        "NOME": "Estação Tubo Hospital Cajuru",
+        "NUM": "108162",
+        "SENTIDO": "Atendimento Term. Centenário - Tubo Eufrásio Correia",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41845",
+        "LAT": "-25,4604271982",
+        "LON": "-49,21174654785",
+        "NOME": "Estação Tubo Cajuru",
+        "NUM": "108146",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41849",
+        "LAT": "-25,446970598447",
+        "LON": "-49,216856830059",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108150",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26057",
+        "LAT": "-25,44170960553",
+        "LON": "-49,23077471596",
+        "NOME": "Estação Tubo Del. Amazor Prestes",
+        "NUM": "108156",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41848",
+        "LAT": "-25,457312115745",
+        "LON": "-49,213038907434",
+        "NOME": "Estação Tubo Teófilo Otoni",
+        "NUM": "108147",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,4511728",
+        "LON": "-49,2152244",
+        "NOME": "Terminal Oficinas - 303 - Centenário / Campo Comprido",
+        "NUM": "105601",
+        "SENTIDO": "Term. Centenário",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26055",
+        "LAT": "-25,440800424556",
+        "LON": "-49,236691126152",
+        "NOME": "Estação Tubo Urbano Lopes",
+        "NUM": "108157",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41850",
+        "LAT": "-25,447015365256",
+        "LON": "-49,216953419584",
+        "NOME": "Estação Tubo Antônio Meirelles Sobrinho",
+        "NUM": "108149",
+        "SENTIDO": "Atendimento Tubo Eufrásio Correia-Term. Centenário",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    }
+]

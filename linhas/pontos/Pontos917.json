@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374280799112",
+        "LON": "-49,328238100952",
+        "NOME": "Rua Wanda Wolf, 1289 - Santa Felicidade",
+        "NUM": "190453",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38210580881",
+        "LON": "-49,32689251416",
+        "NOME": "Rua Édson Campos Matesich, 373 - Santa Felicidad",
+        "NUM": "190458",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400687403142",
+        "LON": "-49,330530260136",
+        "NOME": "Terminal Santa Felicidade - 917 - Jardim Ipê",
+        "NUM": "106003",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380610627612",
+        "LON": "-49,327379335096",
+        "NOME": "Rua Édson Campos Matesich, 481 - Santa Felicidade",
+        "NUM": "190457",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384749592818",
+        "LON": "-49,325896073511",
+        "NOME": "Rua Édson Campos Matesich, 104 - Santa Felicidade",
+        "NUM": "190808",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374176590706",
+        "LON": "-49,328204573339",
+        "NOME": "Rua Wanda Wolf, 1315 - Santa Felicidade",
+        "NUM": "190802",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388343204566",
+        "LON": "-49,328354318073",
+        "NOME": "Av. Fredolin Wolf, 4766 - Pilarzinho",
+        "NUM": "190461",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376894404215",
+        "LON": "-49,328547437122",
+        "NOME": "Rua Édson Campos Matesich, 975 - Santa Felicidade",
+        "NUM": "190455",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372273111417",
+        "LON": "-49,330314811045",
+        "NOME": "Rua Vanda Wolf, 1575 - Santa Felicidade",
+        "NUM": "190451",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382067036112",
+        "LON": "-49,326805342367",
+        "NOME": "Rua Édson Campos Matesich, 372 - Santa Felicidade",
+        "NUM": "190807",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378873092333",
+        "LON": "-49,327787030866",
+        "NOME": "Rua Édson Campos Matesich, 698 - Santa Felicidade",
+        "NUM": "190805",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384777460077",
+        "LON": "-49,32602079623",
+        "NOME": "Rua Édson Campos Matesich, 65 - Santa Felicidade",
+        "NUM": "190459",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375361595364",
+        "LON": "-49,327524174383",
+        "NOME": "Rua Wanda Wolf, 1137 - Santa Felicidade",
+        "NUM": "190454",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388373494163",
+        "LON": "-49,328201432159",
+        "NOME": "Av. Fredolin Wolf, 4766 - Pilarzinho",
+        "NUM": "190460",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391072872551",
+        "LON": "-49,332692791154",
+        "NOME": "Av. Fredolin Wolf, 5263 - Pilarzinho",
+        "NUM": "190464",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375084170202",
+        "LON": "-49,327495129055",
+        "NOME": "Rua Wanda Wolf, 1138 - Santa Felicidade",
+        "NUM": "190803",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368758499469",
+        "LON": "-49,326577945404",
+        "NOME": "Rua Doutor Eugênio Bertolli, 28 - Santa Felicidade",
+        "NUM": "190450",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39100017913",
+        "LON": "-49,332782645156",
+        "NOME": "Av. Fredolin Wolf, 5250 - Pilarzinho",
+        "NUM": "190462",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372498338295",
+        "LON": "-49,330154539293",
+        "NOME": "Rua Wanda Wolf, 1457 - Santa Felicidade",
+        "NUM": "190452",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368758499469",
+        "LON": "-49,326577945404",
+        "NOME": "Rua Doutor Eugênio Bertolli, 28 - Santa Felicidade",
+        "NUM": "190450",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400687403142",
+        "LON": "-49,330530260136",
+        "NOME": "Terminal Santa Felicidade - 917 - Jardim Ipê",
+        "NUM": "106003",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380580336068",
+        "LON": "-49,327251930168",
+        "NOME": "Rua Édson Campos Matesich, 482 - Santa Felicidade",
+        "NUM": "190806",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370679498348",
+        "LON": "-49,328946204132",
+        "NOME": "Rua Doutor Eugênio Bertolli, 286 - Santa Felicidade",
+        "NUM": "190800",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376793833163",
+        "LON": "-49,328477699687",
+        "NOME": "Rua Édson Campos Matesich, 910 - Santa Felicidade",
+        "NUM": "190804",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370723121745",
+        "LON": "-49,328884513325",
+        "NOME": "Rua Doutor Eugênio Bertolli, 507 - Santa Felicidade",
+        "NUM": "190801",
+        "SENTIDO": "Jardim Ipê",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379040303928",
+        "LON": "-49,327852744987",
+        "NOME": "Rua Édson Campos Matesich, 697 - Santa Felicidade",
+        "NUM": "190456",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    }
+]

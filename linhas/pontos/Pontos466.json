@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44131086437",
+        "LON": "-49,253258959598",
+        "NOME": "Rua Sérgio Venci, 276 - Rebouças",
+        "NUM": "140532",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449268126987",
+        "LON": "-49,230067909903",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 610 - Guabirotuba",
+        "NUM": "140559",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457329297257",
+        "LON": "-49,237316579765",
+        "NOME": "Rua Doutor Ovande do Amaral, 573 - Jardim das Américas",
+        "NUM": "140282",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457329297257",
+        "LON": "-49,237316579765",
+        "NOME": "Rua Doutor Ovande do Amaral, 573 - Jardim das Américas",
+        "NUM": "140282",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433502662412",
+        "LON": "-49,262257100291",
+        "NOME": "Rua Tibagi, 776 - Centro",
+        "NUM": "110408",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42424321429",
+        "LON": "-49,267011315769",
+        "NOME": "Rua Luíz Leão, 396 - Centro",
+        "NUM": "110407",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443376338969",
+        "LON": "-49,250064790249",
+        "NOME": "Av. Comendador Franco, 701 - Jardim Botânico",
+        "NUM": "140107",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426720140945",
+        "LON": "-49,264158786482",
+        "NOME": "Rua Mariano Torres, 2 - Centro",
+        "NUM": "110411",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455029793579",
+        "LON": "-49,233951748556",
+        "NOME": "Rua Amoroso Costa, 120 - Jardim das Américas",
+        "NUM": "140287",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443376338969",
+        "LON": "-49,250064790249",
+        "NOME": "Av. Comendador Franco, 701 - Jardim Botânico",
+        "NUM": "140107",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457340195274",
+        "LON": "-49,236047894901",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140285",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425189992512",
+        "LON": "-49,269543321079",
+        "NOME": "Praça 19 de dezembro - 466 - Estudantes",
+        "NUM": "103004",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455029793579",
+        "LON": "-49,233951748556",
+        "NOME": "Rua Amoroso Costa, 120 - Jardim das Américas",
+        "NUM": "140287",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451350980699",
+        "LON": "-49,231803299135",
+        "NOME": "Rua Evaristo F. F. da Costa, 380 - Centro Politécnico",
+        "NUM": "140936",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4500028",
+        "LON": "-49,2312375",
+        "NOME": "Rua Evaristo F. F. da Costa, 407I - Centro Politécnico",
+        "NUM": "140962",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434052514387",
+        "LON": "-49,260807366318",
+        "NOME": "Rua Mariano Torres, 927 - Centro",
+        "NUM": "110409",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431427978071",
+        "LON": "-49,261991561598",
+        "NOME": "Rua Mariano Torres, 555 - Centro",
+        "NUM": "110410",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433502662412",
+        "LON": "-49,262257100291",
+        "NOME": "Rua Tibagi, 776 - Centro",
+        "NUM": "110408",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425189992512",
+        "LON": "-49,269543321079",
+        "NOME": "Praça 19 de dezembro - 466 - Estudantes",
+        "NUM": "103004",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450178168957",
+        "LON": "-49,245062128848",
+        "NOME": "Av. Comendador Franco - Pista Lateral  - Jardim Botânico",
+        "NUM": "140601",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45835310111",
+        "LON": "-49,239111648149",
+        "NOME": "Av. Comendador Franco, 2857 - Jardim das Américas",
+        "NUM": "140280",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44131086437",
+        "LON": "-49,253258959598",
+        "NOME": "Rua Sérgio Venci, 276 - Rebouças",
+        "NUM": "140532",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434052514387",
+        "LON": "-49,260807366318",
+        "NOME": "Rua Mariano Torres, 927 - Centro",
+        "NUM": "110409",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457054424722",
+        "LON": "-49,235838682598",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140286",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458339175983",
+        "LON": "-49,23772561664",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 970 - Jardim das Américas",
+        "NUM": "140281",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4500028",
+        "LON": "-49,2312375",
+        "NOME": "Rua Evaristo F. F. da Costa, 407I - Centro Politécnico",
+        "NUM": "140962",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429352046834",
+        "LON": "-49,262943745798",
+        "NOME": "Rua Mariano Torres, 257 - Centro",
+        "NUM": "110403",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454414647706",
+        "LON": "-49,231274903959",
+        "NOME": "Rua Sen. Batista de Oliveira, 14 - Jardim das Américas",
+        "NUM": "140289",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425189992512",
+        "LON": "-49,269543321079",
+        "NOME": "Praça 19 de dezembro - 466 - Estudantes",
+        "NUM": "103004",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428170975247",
+        "LON": "-49,264558435626",
+        "NOME": "Rua Tibagi, 79 - Centro",
+        "NUM": "110048",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43661",
+        "LON": "-49,26094",
+        "NOME": "Rua Tibagi, 960 - Rebouças",
+        "NUM": "110040",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426720140945",
+        "LON": "-49,264158786482",
+        "NOME": "Rua Mariano Torres, 2 - Centro",
+        "NUM": "110411",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457054424722",
+        "LON": "-49,235838682598",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140286",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429352046834",
+        "LON": "-49,262943745798",
+        "NOME": "Rua Mariano Torres, 257 - Centro",
+        "NUM": "110403",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431427978071",
+        "LON": "-49,261991561598",
+        "NOME": "Rua Mariano Torres, 555 - Centro",
+        "NUM": "110410",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43661",
+        "LON": "-49,26094",
+        "NOME": "Rua Tibagi, 960 - Rebouças",
+        "NUM": "110040",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42424321429",
+        "LON": "-49,267011315769",
+        "NOME": "Rua Luíz Leão, 396 - Centro",
+        "NUM": "110407",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430387594599",
+        "LON": "-49,263602228112",
+        "NOME": "Rua Tibagi, 386 - Centro",
+        "NUM": "110049",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457340195274",
+        "LON": "-49,236047894901",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140285",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455101237483",
+        "LON": "-49,234112681097",
+        "NOME": "Rua Amoroso Costa, 82 - Jardim das Américas",
+        "NUM": "140288",
+        "SENTIDO": "Praça 19 de Dezembro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450178168957",
+        "LON": "-49,245062128848",
+        "NOME": "Av. Comendador Franco - Pista Lateral  - Jardim Botânico",
+        "NUM": "140601",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455029793579",
+        "LON": "-49,233951748556",
+        "NOME": "Rua Amoroso Costa, 120 - Jardim das Américas",
+        "NUM": "140287",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428170975247",
+        "LON": "-49,264558435626",
+        "NOME": "Rua Tibagi, 79 - Centro",
+        "NUM": "110048",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458339175983",
+        "LON": "-49,23772561664",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 970 - Jardim das Américas",
+        "NUM": "140281",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453218252637",
+        "LON": "-49,232658923811",
+        "NOME": "Rua Evaristo F. F. da Costa, 350 - Centro Politécnico",
+        "NUM": "140937",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425189992512",
+        "LON": "-49,269543321079",
+        "NOME": "Praça 19 de dezembro - 466 - Estudantes",
+        "NUM": "103004",
+        "SENTIDO": "Praça 19 de Dezembro (Final de Semana)",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430387594599",
+        "LON": "-49,263602228112",
+        "NOME": "Rua Tibagi, 386 - Centro",
+        "NUM": "110049",
+        "SENTIDO": "Centro Politécnico (Final de Semana)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

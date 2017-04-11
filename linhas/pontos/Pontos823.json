@@ -1,0 +1,1242 @@
+[
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452584889467",
+        "LON": "-49,353454889006",
+        "NOME": "Rua Robert Redzimski, 908 - Cidade Industrial",
+        "NUM": "180234",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452750787938",
+        "LON": "-49,356808991378",
+        "NOME": "Rua Salvador José Corrêa Coelho, 446 - Cidade Industrial",
+        "NUM": "180253",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453376840689",
+        "LON": "-49,35496765489",
+        "NOME": "Rua Ignês Cole Munhoz, 220 - Cidade Industrial",
+        "NUM": "180730",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464808472186",
+        "LON": "-49,353013336658",
+        "NOME": "R. Theodoro Locker, 702 - Cidade Industrial",
+        "NUM": "181002",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45753026101",
+        "LON": "-49,350158454126",
+        "NOME": "Rua Deputado Paulo Wright, 32 - Cidade Industrial",
+        "NUM": "180731",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45993990564",
+        "LON": "-49,352686436123",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 91 - Cidade Industrial",
+        "NUM": "180732",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452715670763",
+        "LON": "-49,357950271315",
+        "NOME": "Rua Isaltino Dias Ferraz, 95 - Cidade Industrial",
+        "NUM": "180232",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454226910973",
+        "LON": "-49,352918447203",
+        "NOME": "Rua Robert Redzimski, 699 - Cidade Industrial",
+        "NUM": "180254",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455893881815",
+        "LON": "-49,357598901933",
+        "NOME": "Rua Maria Homan Wisniewski - Cidade Industrial",
+        "NUM": "180233",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456123199974",
+        "LON": "-49,352090985722",
+        "NOME": "Rua Robert Redzimski, 505 - Cidade Industrial",
+        "NUM": "180257",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45753026101",
+        "LON": "-49,350158454126",
+        "NOME": "Rua Deputado Paulo Wright, 32 - Cidade Industrial",
+        "NUM": "180731",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456005742328",
+        "LON": "-49,352023930496",
+        "NOME": "Rua Robert Redzimski, 504 - Cidade Industrial",
+        "NUM": "180256",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456005742328",
+        "LON": "-49,352023930496",
+        "NOME": "Rua Robert Redzimski, 504 - Cidade Industrial",
+        "NUM": "180256",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456123199974",
+        "LON": "-49,352090985722",
+        "NOME": "Rua Robert Redzimski, 505 - Cidade Industrial",
+        "NUM": "180257",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460283775015",
+        "LON": "-49,352349818891",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 2 - Cidade Industrial",
+        "NUM": "180258",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452662389511",
+        "LON": "-49,358092428392",
+        "NOME": "Rua Isaltino Dias Ferraz, 96 - Cidade Industrial",
+        "NUM": "180231",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45753026101",
+        "LON": "-49,350158454126",
+        "NOME": "Rua Deputado Paulo Wright, 32 - Cidade Industrial",
+        "NUM": "180731",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453364125917",
+        "LON": "-49,356760711616",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 937 - Cidade Industrial",
+        "NUM": "180729",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452584889467",
+        "LON": "-49,353454889006",
+        "NOME": "Rua Robert Redzimski, 908 - Cidade Industrial",
+        "NUM": "180234",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462932904228",
+        "LON": "-49,352877885103",
+        "NOME": "R. José de Souza Pereira, 53 - Cidade Industrial de Curitiba",
+        "NUM": "181011",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452750787938",
+        "LON": "-49,356808991378",
+        "NOME": "Rua Salvador José Corrêa Coelho, 446 - Cidade Industrial",
+        "NUM": "180253",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453364125917",
+        "LON": "-49,356760711616",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 937 - Cidade Industrial",
+        "NUM": "180729",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45993990564",
+        "LON": "-49,352686436123",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 91 - Cidade Industrial",
+        "NUM": "180732",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452715670763",
+        "LON": "-49,357950271315",
+        "NOME": "Rua Isaltino Dias Ferraz, 95 - Cidade Industrial",
+        "NUM": "180232",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452306373273",
+        "LON": "-49,355112494177",
+        "NOME": "Rua Salvador José Corrêa Coelho, 288 - Cidade Industrial",
+        "NUM": "180252",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453376840689",
+        "LON": "-49,35496765489",
+        "NOME": "Rua Ignês Cole Munhoz, 220 - Cidade Industrial",
+        "NUM": "180730",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455893881815",
+        "LON": "-49,357598901933",
+        "NOME": "Rua Maria Homan Wisniewski - Cidade Industrial",
+        "NUM": "180233",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45993990564",
+        "LON": "-49,352686436123",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 91 - Cidade Industrial",
+        "NUM": "180732",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457290504784",
+        "LON": "-49,349505336232",
+        "NOME": "Rua Robert Redzimski, 190 - Cidade Industrial",
+        "NUM": "180262",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460283775015",
+        "LON": "-49,352349818891",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 2 - Cidade Industrial",
+        "NUM": "180258",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459548780073",
+        "LON": "-49,351594777053",
+        "NOME": "Rua Casemiro Mitczuk, 377 - Cidade Industrial",
+        "NUM": "180260",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462932904228",
+        "LON": "-49,352877885103",
+        "NOME": "R. José de Souza Pereira, 53 - Cidade Industrial de Curitiba",
+        "NUM": "181011",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "1",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459548780073",
+        "LON": "-49,351594777053",
+        "NOME": "Rua Casemiro Mitczuk, 377 - Cidade Industrial",
+        "NUM": "180260",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453376840689",
+        "LON": "-49,35496765489",
+        "NOME": "Rua Ignês Cole Munhoz, 220 - Cidade Industrial",
+        "NUM": "180730",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456005742328",
+        "LON": "-49,352023930496",
+        "NOME": "Rua Robert Redzimski, 504 - Cidade Industrial",
+        "NUM": "180256",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459548780073",
+        "LON": "-49,351594777053",
+        "NOME": "Rua Casemiro Mitczuk, 377 - Cidade Industrial",
+        "NUM": "180260",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453376840689",
+        "LON": "-49,35496765489",
+        "NOME": "Rua Ignês Cole Munhoz, 220 - Cidade Industrial",
+        "NUM": "180730",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454476360658",
+        "LON": "-49,352939904874",
+        "NOME": "Rua Robert Redzimski, 698 - Cidade Industrial",
+        "NUM": "180255",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456123199974",
+        "LON": "-49,352090985722",
+        "NOME": "Rua Robert Redzimski, 505 - Cidade Industrial",
+        "NUM": "180257",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459548780073",
+        "LON": "-49,351594777053",
+        "NOME": "Rua Casemiro Mitczuk, 377 - Cidade Industrial",
+        "NUM": "180260",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464802418108",
+        "LON": "-49,352988526225",
+        "NOME": "R. Theodoro Locker, 702 - Cidade Industrial",
+        "NUM": "180950",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442222486137",
+        "LON": "-49,351466031022",
+        "NOME": "Rua Dep. Heitor Alencar Furtado - Cidade Industrial",
+        "NUM": "190739",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454476360658",
+        "LON": "-49,352939904874",
+        "NOME": "Rua Robert Redzimski, 698 - Cidade Industrial",
+        "NUM": "180255",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454476360658",
+        "LON": "-49,352939904874",
+        "NOME": "Rua Robert Redzimski, 698 - Cidade Industrial",
+        "NUM": "180255",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454476360658",
+        "LON": "-49,352939904874",
+        "NOME": "Rua Robert Redzimski, 698 - Cidade Industrial",
+        "NUM": "180255",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456005742328",
+        "LON": "-49,352023930496",
+        "NOME": "Rua Robert Redzimski, 504 - Cidade Industrial",
+        "NUM": "180256",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45830884433",
+        "LON": "-49,349293441719",
+        "NOME": "Rua Casemiro Mitczuk, 136 - Cidade Industrial",
+        "NUM": "180261",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452750787938",
+        "LON": "-49,356808991378",
+        "NOME": "Rua Salvador José Corrêa Coelho, 446 - Cidade Industrial",
+        "NUM": "180253",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453364125917",
+        "LON": "-49,356760711616",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 937 - Cidade Industrial",
+        "NUM": "180729",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452306373273",
+        "LON": "-49,355112494177",
+        "NOME": "Rua Salvador José Corrêa Coelho, 288 - Cidade Industrial",
+        "NUM": "180252",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452584889467",
+        "LON": "-49,353454889006",
+        "NOME": "Rua Robert Redzimski, 908 - Cidade Industrial",
+        "NUM": "180234",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452306373273",
+        "LON": "-49,355112494177",
+        "NOME": "Rua Salvador José Corrêa Coelho, 288 - Cidade Industrial",
+        "NUM": "180252",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460283775015",
+        "LON": "-49,352349818891",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 2 - Cidade Industrial",
+        "NUM": "180258",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45830884433",
+        "LON": "-49,349293441719",
+        "NOME": "Rua Casemiro Mitczuk, 136 - Cidade Industrial",
+        "NUM": "180261",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46315227081",
+        "LON": "-49,353401139253",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 201 - Cidade Industrial",
+        "NUM": "180259",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454226910973",
+        "LON": "-49,352918447203",
+        "NOME": "Rua Robert Redzimski, 699 - Cidade Industrial",
+        "NUM": "180254",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45830884433",
+        "LON": "-49,349293441719",
+        "NOME": "Rua Casemiro Mitczuk, 136 - Cidade Industrial",
+        "NUM": "180261",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45993990564",
+        "LON": "-49,352686436123",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 91 - Cidade Industrial",
+        "NUM": "180732",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452662389511",
+        "LON": "-49,358092428392",
+        "NOME": "Rua Isaltino Dias Ferraz, 96 - Cidade Industrial",
+        "NUM": "180231",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464802418108",
+        "LON": "-49,352988526225",
+        "NOME": "R. Theodoro Locker, 702 - Cidade Industrial",
+        "NUM": "180950",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452306373273",
+        "LON": "-49,355112494177",
+        "NOME": "Rua Salvador José Corrêa Coelho, 288 - Cidade Industrial",
+        "NUM": "180252",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457290504784",
+        "LON": "-49,349505336232",
+        "NOME": "Rua Robert Redzimski, 190 - Cidade Industrial",
+        "NUM": "180262",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460283775015",
+        "LON": "-49,352349818891",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 2 - Cidade Industrial",
+        "NUM": "180258",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45830884433",
+        "LON": "-49,349293441719",
+        "NOME": "Rua Casemiro Mitczuk, 136 - Cidade Industrial",
+        "NUM": "180261",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462911109205",
+        "LON": "-49,35290068388",
+        "NOME": "R. José de Souza Pereira, 1-53 - Cidade Industrial de Curitiba",
+        "NUM": "181010",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457290504784",
+        "LON": "-49,349505336232",
+        "NOME": "Rua Robert Redzimski, 190 - Cidade Industrial",
+        "NUM": "180262",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464808472186",
+        "LON": "-49,353013336658",
+        "NOME": "R. Theodoro Locker, 702 - Cidade Industrial",
+        "NUM": "181002",
+        "SENTIDO": "Campo Comprido(original)",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456123199974",
+        "LON": "-49,352090985722",
+        "NOME": "Rua Robert Redzimski, 505 - Cidade Industrial",
+        "NUM": "180257",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463056409279",
+        "LON": "-49,353488758206",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 202 - Cidade Industrial",
+        "NUM": "181003",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455893881815",
+        "LON": "-49,357598901933",
+        "NOME": "Rua Maria Homan Wisniewski - Cidade Industrial",
+        "NUM": "180233",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453364125917",
+        "LON": "-49,356760711616",
+        "NOME": "Rua Leandro Dacheux do Nascimento Júnior, 937 - Cidade Industrial",
+        "NUM": "180729",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46315227081",
+        "LON": "-49,353401139253",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 201 - Cidade Industrial",
+        "NUM": "180259",
+        "SENTIDO": "Atendimento  Trianon - Sentido Campo Comprido(original)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452662389511",
+        "LON": "-49,358092428392",
+        "NOME": "Rua Isaltino Dias Ferraz, 96 - Cidade Industrial",
+        "NUM": "180231",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(provisório)",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454226910973",
+        "LON": "-49,352918447203",
+        "NOME": "Rua Robert Redzimski, 699 - Cidade Industrial",
+        "NUM": "180254",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441529447527",
+        "LON": "-49,346594927578",
+        "NOME": "Terminal Campo Comprido - 823 - Augusta",
+        "NUM": "104614",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452584889467",
+        "LON": "-49,353454889006",
+        "NOME": "Rua Robert Redzimski, 908 - Cidade Industrial",
+        "NUM": "180234",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454226910973",
+        "LON": "-49,352918447203",
+        "NOME": "Rua Robert Redzimski, 699 - Cidade Industrial",
+        "NUM": "180254",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452662389511",
+        "LON": "-49,358092428392",
+        "NOME": "Rua Isaltino Dias Ferraz, 96 - Cidade Industrial",
+        "NUM": "180231",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Augusta (original)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442222486137",
+        "LON": "-49,351466031022",
+        "NOME": "Rua Dep. Heitor Alencar Furtado - Cidade Industrial",
+        "NUM": "190739",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463056409279",
+        "LON": "-49,353488758206",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 202 - Cidade Industrial",
+        "NUM": "181003",
+        "SENTIDO": "Atendimento Trianon - Sentido Augusta(original)",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452715670763",
+        "LON": "-49,357950271315",
+        "NOME": "Rua Isaltino Dias Ferraz, 95 - Cidade Industrial",
+        "NUM": "180232",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452750787938",
+        "LON": "-49,356808991378",
+        "NOME": "Rua Salvador José Corrêa Coelho, 446 - Cidade Industrial",
+        "NUM": "180253",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455893881815",
+        "LON": "-49,357598901933",
+        "NOME": "Rua Maria Homan Wisniewski - Cidade Industrial",
+        "NUM": "180233",
+        "SENTIDO": "Atendimento Trianon - Sentido Campo Comprido(provisório)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452715670763",
+        "LON": "-49,357950271315",
+        "NOME": "Rua Isaltino Dias Ferraz, 95 - Cidade Industrial",
+        "NUM": "180232",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457290504784",
+        "LON": "-49,349505336232",
+        "NOME": "Rua Robert Redzimski, 190 - Cidade Industrial",
+        "NUM": "180262",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462911109205",
+        "LON": "-49,35290068388",
+        "NOME": "R. José de Souza Pereira, 1-53 - Cidade Industrial de Curitiba",
+        "NUM": "181010",
+        "SENTIDO": "Campo Comprido(provisório)",
+        "SEQ": "1",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45753026101",
+        "LON": "-49,350158454126",
+        "NOME": "Rua Deputado Paulo Wright, 32 - Cidade Industrial",
+        "NUM": "180731",
+        "SENTIDO": "Augusta(provisório)",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44738262892",
+        "LON": "-49,256007553286",
+        "NOME": "Rua Francisco Nunes, 695 - Rebouças",
+        "NUM": "140724",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463343641785",
+        "LON": "-49,245014519638",
+        "NOME": "Rua Alcides Terézio de Carvalho, 87 - Guabirotuba",
+        "NUM": "140885",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460087674987",
+        "LON": "-49,245428920931",
+        "NOME": "Rua Senador Nereu Ramos, 261 - Guabirotuba",
+        "NUM": "140889",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456981771083",
+        "LON": "-49,241777093357",
+        "NOME": "Rua Roberto Simonsen, 103 - Guabirotuba",
+        "NUM": "140709",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458092156071",
+        "LON": "-49,240963042921",
+        "NOME": "Rua Roberto Simonsen, 105 - Guabirotuba",
+        "NUM": "140711",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435068600512",
+        "LON": "-49,271877021603",
+        "NOME": "Praça Rui Barbosa - 470 - Guabirotuba",
+        "NUM": "102018",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461083816703",
+        "LON": "-49,24806878643",
+        "NOME": "Av. Sen. Salgado Filho, 899 - Prado Velho",
+        "NUM": "140834",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456835252779",
+        "LON": "-49,242946536488",
+        "NOME": "Rua João Ferreira Leite, 326 - Guabirotuba",
+        "NUM": "140707",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458082469005",
+        "LON": "-49,240832955784",
+        "NOME": "Rua Roberto Simonsen, 103- Guabirotuba",
+        "NUM": "140710",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460207550374",
+        "LON": "-49,239908934778",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 94 - Guabirotuba",
+        "NUM": "140715",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464042288854",
+        "LON": "-49,237119437403",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 497 - Guabirotuba",
+        "NUM": "140718",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460668493384",
+        "LON": "-49,24881846385",
+        "NOME": "Av. Sen. Salgado Filho, 890 - Prado Velho",
+        "NUM": "140681",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44399907281",
+        "LON": "-49,256293208546",
+        "NOME": "Rua Francisco Nunes, 255 - Rebouças",
+        "NUM": "140938",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461918486051",
+        "LON": "-49,244231314606",
+        "NOME": "Rua Alcides Terézio de Carvalho, 169 - Guabirotuba",
+        "NUM": "140887",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459049960845",
+        "LON": "-49,241247357077",
+        "NOME": "Rua Henrique Dias, 3 - Guabirotuba",
+        "NUM": "140712",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442291515556",
+        "LON": "-49,258567721791",
+        "NOME": "Rua Francisco Nunes, 3 - Rebouças",
+        "NUM": "140726",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435068600512",
+        "LON": "-49,271877021603",
+        "NOME": "Praça Rui Barbosa - 470 - Guabirotuba",
+        "NUM": "102018",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462620773909",
+        "LON": "-49,238282175011",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 341- Guabirotuba",
+        "NUM": "140717",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456388431394",
+        "LON": "-49,254706681913",
+        "NOME": "Rua Francisco Nunes, 1653 - Prado Velho",
+        "NUM": "140522",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445750202122",
+        "LON": "-49,256832332558",
+        "NOME": "Rua Francisco Nunes, 473 - Rebouças",
+        "NUM": "140725",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465335441184",
+        "LON": "-49,236137748903",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 704 - Guabirotuba",
+        "NUM": "140720",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463088972673",
+        "LON": "-49,246180511284",
+        "NOME": "Av. Senador Salgado Filho, 1202 - Prado Velho",
+        "NUM": "140682",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466829342709",
+        "LON": "-49,235387012269",
+        "NOME": "Rua Raul F. Leite, 1 - Guabirotuba",
+        "NUM": "140722",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461943913787",
+        "LON": "-49,244338602966",
+        "NOME": "Rua Alcides Terézio de Carvalho, 168 - Guabirotuba",
+        "NUM": "140886",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456224959742",
+        "LON": "-49,245376617855",
+        "NOME": "Rua Padre Osvaldo Gomes, 181-Guabirotuba",
+        "NUM": "140702",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446212806029",
+        "LON": "-49,255276651329",
+        "NOME": "Rua Iapó, 579 - Rebouças",
+        "NUM": "140186",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463392074988",
+        "LON": "-49,244934053368",
+        "NOME": "Rua Alcides Terézio de Carvalho, 88 - Guabirotuba",
+        "NUM": "140884",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465409300588",
+        "LON": "-49,236253083891",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 705 - Guabirotuba",
+        "NUM": "140721",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453002706512",
+        "LON": "-49,255031229204",
+        "NOME": "Rua Francisco Nunes, 1259 - Prado Velho",
+        "NUM": "140940",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460122790012",
+        "LON": "-49,245627404398",
+        "NOME": "Rua Senador Nereu Ramos, 260 - Guabirotuba",
+        "NUM": "140888",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45897973016",
+        "LON": "-49,241138727612",
+        "NOME": "Rua Henrique Dias, 2 - Guabirotuba",
+        "NUM": "140713",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456244334171",
+        "LON": "-49,245223731941",
+        "NOME": "Rua Padre Osvaldo Gomes, 182 - Guabirotuba",
+        "NUM": "140703",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464393427097",
+        "LON": "-49,236996055788",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 584 - Guabirotuba",
+        "NUM": "140719",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457658659116",
+        "LON": "-49,253818870729",
+        "NOME": "Rua Thomas Edison, 251 - Prado Velho",
+        "NUM": "140723",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451535045108",
+        "LON": "-49,255180091804",
+        "NOME": "Rua Francisco Nunes, 1029  - Prado Velho",
+        "NUM": "140939",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456923648141",
+        "LON": "-49,241696627087",
+        "NOME": "Rua Roberto Simonsen, 101 - Guabirotuba",
+        "NUM": "140708",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466829342709",
+        "LON": "-49,235387012269",
+        "NOME": "Rua Raul F. Leite, 1 - Guabirotuba",
+        "NUM": "140722",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45398906219",
+        "LON": "-49,252730991402",
+        "NOME": "Rua Imaculada Conceição, 1477 - Prado Velho",
+        "NUM": "140272",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458437257279",
+        "LON": "-49,245761514849",
+        "NOME": "Rua Senador Nereu Ramos, 340 - Guabirotuba",
+        "NUM": "140701",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460322582197",
+        "LON": "-49,23998671884",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 95 - Guabirotuba",
+        "NUM": "140714",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449416367089",
+        "LON": "-49,254227813492",
+        "NOME": "Rua Iapó, 842 - Prado Velho",
+        "NUM": "140187",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462772944874",
+        "LON": "-49,246283776331",
+        "NOME": "Av. Senador Salgado Filho, 1207 - Prado Velho",
+        "NUM": "140833",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44391551206",
+        "LON": "-49,257771105713",
+        "NOME": "Rua Francisco Nunes, 296 - Rebouças",
+        "NUM": "140727",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462689791632",
+        "LON": "-49,238099784798",
+        "NOME": "Rua Doutor Joaquim Ignácio Silveira da Motta, 340- Guabirotuba",
+        "NUM": "140716",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456689679804",
+        "LON": "-49,251424670219",
+        "NOME": "R. Thomas Edison, 44 - Prado Velho",
+        "NUM": "141000",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45687884502",
+        "LON": "-49,243096740192",
+        "NOME": "Rua João Ferreira Leite, 327 - Guabirotuba",
+        "NUM": "140706",
+        "SENTIDO": "Guabirotuba",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    }
+]

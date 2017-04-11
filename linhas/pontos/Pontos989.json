@@ -1,0 +1,932 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435052433136",
+        "LON": "-49,275875855623",
+        "NOME": "Rua Visconde de Nácar, 1224 - Centro",
+        "NUM": "110158",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393518980635",
+        "LON": "-49,341773409774",
+        "NOME": "Av. Napoleão Manosso, 570 - Butiatuvinha",
+        "NUM": "190154",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383102989871",
+        "LON": "-49,334704447916",
+        "NOME": "Rua João Refo, 1045 - Santa Felicidade",
+        "NUM": "190474",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382067036112",
+        "LON": "-49,326805342367",
+        "NOME": "Rua Édson Campos Matesich, 372 - Santa Felicidade",
+        "NUM": "190807",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "34",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376793833163",
+        "LON": "-49,328477699687",
+        "NOME": "Rua Édson Campos Matesich, 910 - Santa Felicidade",
+        "NUM": "190804",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412837802334",
+        "LON": "-49,318179817146",
+        "NOME": "Av. Manoel Ribas, 4354 - Cascatinha",
+        "NUM": "190564",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419102734923",
+        "LON": "-49,293355392273",
+        "NOME": "Av. Manoel Ribas, 1363 - Mercês",
+        "NUM": "190448",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423419040233",
+        "LON": "-49,282409650297",
+        "NOME": "Rua Visconde de Nacar, 132 - Centro",
+        "NUM": "110137",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427651211189",
+        "LON": "-49,280378192625",
+        "NOME": "R. Visc. de Nacar, 549 - São Francisco",
+        "NUM": "110139",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435160423167",
+        "LON": "-49,273102283478",
+        "NOME": "Praça Rui Barbosa - 989 - Madrugueiro Santa Felicidade",
+        "NUM": "102042",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "94",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400772226172",
+        "LON": "-49,312413067764",
+        "NOME": "Rua José Valle, 1180 - Santa Felicidade",
+        "NUM": "190677",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413640916827",
+        "LON": "-49,313042045778",
+        "NOME": "Av. Manoel Ribas, 3914 - Cascatinha",
+        "NUM": "190693",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407821538641",
+        "LON": "-49,338895858473",
+        "NOME": "Av. Vereador Toaldo Túlio, 1159 - Santa Felicidade",
+        "NUM": "190248",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411111624917",
+        "LON": "-49,349199564404",
+        "NOME": "Av. Vereador Toaldo Túlio, 2268 - São Braz",
+        "NUM": "190253",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410601643194",
+        "LON": "-49,346396655983",
+        "NOME": "Av. Vereador Toaldo Túlio, 1977 - São Braz",
+        "NUM": "190252",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435160423167",
+        "LON": "-49,273102283478",
+        "NOME": "Praça Rui Barbosa - 989 - Madrugueiro Santa Felicidade",
+        "NUM": "102042",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372273111417",
+        "LON": "-49,330314811045",
+        "NOME": "Rua Vanda Wolf, 1575 - Santa Felicidade",
+        "NUM": "190451",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409392662421",
+        "LON": "-49,312203855461",
+        "NOME": "Rua Ângelo Domingos Durigan, 602 - Cascatinha",
+        "NUM": "190669",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378873092333",
+        "LON": "-49,327787030866",
+        "NOME": "Rua Édson Campos Matesich, 698 - Santa Felicidade",
+        "NUM": "190805",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414075783529",
+        "LON": "-49,310983450359",
+        "NOME": "Av. Manoel Ribas, 3651 - Cascatinha",
+        "NUM": "190694",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415665086969",
+        "LON": "-49,300608085449",
+        "NOME": "Av. Manoel Ribas, 2261 - Mercês",
+        "NUM": "190499",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416982984733",
+        "LON": "-49,294747458751",
+        "NOME": "Av. Manoel Ribas, 1495 - Mercês",
+        "NUM": "190495",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401036303155",
+        "LON": "-49,33440538161",
+        "NOME": "Rua Domingos Strapasson, 1 - Santa Felicidade",
+        "NUM": "190242",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401104202424",
+        "LON": "-49,333695055193",
+        "NOME": "Av. Manoel Ribas, 6241 - Santa Felicidade",
+        "NUM": "190300",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975489925",
+        "LON": "-49,344752461857",
+        "NOME": "Av. Manoel Ribas, 7406 - Butiatuvinha",
+        "NUM": "190482",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412068600179",
+        "LON": "-49,303052928272",
+        "NOME": "Rua José Casagrande, 361 - Vista Alegre",
+        "NUM": "190523",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384749592818",
+        "LON": "-49,325896073511",
+        "NOME": "Rua Édson Campos Matesich, 104 - Santa Felicidade",
+        "NUM": "190808",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375084170202",
+        "LON": "-49,327495129055",
+        "NOME": "Rua Wanda Wolf, 1138 - Santa Felicidade",
+        "NUM": "190803",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "38",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374176590706",
+        "LON": "-49,328204573339",
+        "NOME": "Rua Wanda Wolf, 1315 - Santa Felicidade",
+        "NUM": "190802",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413224218572",
+        "LON": "-49,315060408062",
+        "NOME": "Av. Manoel Ribas, 4095 - Cascatinha",
+        "NUM": "190690",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421023802045",
+        "LON": "-49,29224763995",
+        "NOME": "Av. Manoel Ribas, 1141 - Mercês",
+        "NUM": "190446",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410445377579",
+        "LON": "-49,346344352907",
+        "NOME": "Av. Vereador Toaldo Túlio, 1868 - São Braz",
+        "NUM": "190251",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395239401668",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8177 - Butiatuvinha",
+        "NUM": "190484",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39403272687",
+        "LON": "-49,34911507482",
+        "NOME": "Av. Manoel Ribas, 7931 - Butiatuvinha",
+        "NUM": "190485",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388774585437",
+        "LON": "-49,320748032278",
+        "NOME": "Rua Ari José Vale, 1068 - São João",
+        "NUM": "190814",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "31",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42127816551",
+        "LON": "-49,292316036279",
+        "NOME": "Av. Manoel Ribas, 1140 - Mercês",
+        "NUM": "190447",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395727641154",
+        "LON": "-49,318315268702",
+        "NOME": "Rua Ari José Valle, 516 - São João",
+        "NUM": "190679",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380522234007",
+        "LON": "-49,334224791473",
+        "NOME": "Rua João Refo, 1315 - Santa Felicidade",
+        "NUM": "190471",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433730089283",
+        "LON": "-49,277210086584",
+        "NOME": "Rua Visconde de Nácar, 1322 - Centro",
+        "NUM": "110154",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "92",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379237599347",
+        "LON": "-49,335682243109",
+        "NOME": "Av. Dr. Eugênio Bertolli, 2264 - Santa Felicidade",
+        "NUM": "190095",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "43",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430217696146",
+        "LON": "-49,279159152809",
+        "NOME": "R. Visc. de Nacar, 866 - Centro",
+        "NUM": "110423",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "90",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398572232931",
+        "LON": "-49,31469696874",
+        "NOME": "Rua José Vale, 1332 - Santa Felicidade",
+        "NUM": "190408",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392132979961",
+        "LON": "-49,335193951061",
+        "NOME": "Rua João Refo, 93 - Santa Felicidade",
+        "NUM": "190480",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373239865011",
+        "LON": "-49,331741948059",
+        "NOME": "Rua Doutor Eugênio Bertolli, 750 - Santa Felicidade",
+        "NUM": "190465",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413143059151",
+        "LON": "-49,294074233595",
+        "NOME": "Rua Victório Viezzer, 560 - Vista Alegre",
+        "NUM": "190513",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405013515683",
+        "LON": "-49,32716924066",
+        "NOME": "Av. Manoel Ribas, 5370 - Santa Felicidade",
+        "NUM": "190720",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414255059596",
+        "LON": "-49,308200658507",
+        "NOME": "Av. Manoel Ribas, 3400 - Cascatinha",
+        "NUM": "190552",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414683867486",
+        "LON": "-49,308120192236",
+        "NOME": "Av. Manoel Ribas, 3401 - Cascatinha",
+        "NUM": "190608",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414966104615",
+        "LON": "-49,303415597624",
+        "NOME": "Av. Manoel Ribas, 2262 - Mercês",
+        "NUM": "190551",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415972759243",
+        "LON": "-49,296807395275",
+        "NOME": "Av. Manoel Ribas, 1821 - Mercês",
+        "NUM": "190496",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41851284247",
+        "LON": "-49,293422447499",
+        "NOME": "Av. Manoel Ribas, 1414 - Mercês",
+        "NUM": "190449",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404399259887",
+        "LON": "-49,344898183277",
+        "NOME": "Rua Acelino Grande, 542- São Braz",
+        "NUM": "190386",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "61",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395058885824",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8178 - Butiatuvinha",
+        "NUM": "190483",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392744866864",
+        "LON": "-49,350799502081",
+        "NOME": "Av. Manoel Ribas, 8151 - Butiatuvinha",
+        "NUM": "190487",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432753900975",
+        "LON": "-49,270962209648",
+        "NOME": "Marechal Floriano Peixoto - 160 - Marechal Hermes / Santa Efigênia",
+        "NUM": "103271",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428421853753",
+        "LON": "-49,273006265878",
+        "NOME": "Nestor de Castro - 901 - Santa Felicidade",
+        "NUM": "101121",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386243568887",
+        "LON": "-49,321701557583",
+        "NOME": "Rua Ari José Vale, 1178 - São João",
+        "NUM": "109419",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404889905998",
+        "LON": "-49,313630790657",
+        "NOME": "Rua Ângelo Domingos Durigan, 1088 - Cascatinha",
+        "NUM": "190673",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392343788782",
+        "LON": "-49,335560072591",
+        "NOME": "Rua Francisco Dalalibera, 1596 - Santa Felicidade",
+        "NUM": "190151",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38590062643",
+        "LON": "-49,335136283567",
+        "NOME": "Rua João Refo, 705 - Santa Felicidade",
+        "NUM": "190475",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381922850031",
+        "LON": "-49,334456343582",
+        "NOME": "Rua João Refo, 1155 - Santa Felicidade",
+        "NUM": "190473",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380580336068",
+        "LON": "-49,327251930168",
+        "NOME": "Rua Édson Campos Matesich, 482 - Santa Felicidade",
+        "NUM": "190806",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408283085028",
+        "LON": "-49,324291230387",
+        "NOME": "Av. Manoel Ribas, 5287 - Santa Felicidade",
+        "NUM": "170697",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414494257108",
+        "LON": "-49,304343641943",
+        "NOME": "Av. Manoel Ribas, 2551 - Mercês",
+        "NUM": "190550",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401062955198",
+        "LON": "-49,346844125917",
+        "NOME": "Rua Acelino Grande, 970 - São Braz",
+        "NUM": "190388",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "60",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409166172373",
+        "LON": "-49,342752875036",
+        "NOME": "Av. Vereador Toaldo Túlio, 1577 - São Braz",
+        "NUM": "190250",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "65",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425269379413",
+        "LON": "-49,281517201223",
+        "NOME": "Av. Manoel Ribas, 200 - São Francisco",
+        "NUM": "110138",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411520228346",
+        "LON": "-49,294655560634",
+        "NOME": "R. Victório Viezzer, 805 - Vista Alegre",
+        "NUM": "190516",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394212032723",
+        "LON": "-49,31905555839",
+        "NOME": "Rua Ari José Vale, 434 - São João",
+        "NUM": "190416",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397776287047",
+        "LON": "-49,317050607151",
+        "NOME": "Rua José Vale, 1610 - Santa Felicidade",
+        "NUM": "190406",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416258572641",
+        "LON": "-49,293816741529",
+        "NOME": "Rua Victório Viezzer, 174 - Vista Alegre",
+        "NUM": "190512",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392306230916",
+        "LON": "-49,338247646024",
+        "NOME": "Av. Napoleão Manosso, 940 - Butiatuvinha",
+        "NUM": "190152",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "52",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402474314455",
+        "LON": "-49,312256158537",
+        "NOME": "Rua Ângelo Domingos Durigan, 1430 - Cascatinha",
+        "NUM": "190675",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407558630188",
+        "LON": "-49,313103736586",
+        "NOME": "Rua Ângelo Domingos Durigan, 820 - Cascatinha",
+        "NUM": "109671",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41281595313",
+        "LON": "-49,311365665144",
+        "NOME": "Rua Ângelo Domingos Durigan, 2 - Cascatinha",
+        "NUM": "190667",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3901302778",
+        "LON": "-49,335230160882",
+        "NOME": "Rua João Refo, 265 - Santa Felicidade",
+        "NUM": "190479",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388278990594",
+        "LON": "-49,335256982973",
+        "NOME": "Rua João Refo, 351 - Santa Felicidade",
+        "NUM": "190477",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375766307258",
+        "LON": "-49,334440250328",
+        "NOME": "Rua Doutor Eugênio Bertolli, 1136 - Santa Felicidade",
+        "NUM": "190809",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411185525831",
+        "LON": "-49,320215613789",
+        "NOME": "Av. Manoel Ribas, 4627 - Santa Felicidade",
+        "NUM": "190562",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40709591475",
+        "LON": "-49,336839945263",
+        "NOME": "Av. Vereador Toaldo Túlio, 895 - Santa Felicidade",
+        "NUM": "190246",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404229718282",
+        "LON": "-49,335376800245",
+        "NOME": "Av. Vereador Toaldo Túlio, 641 - São Braz",
+        "NUM": "190244",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394216878824",
+        "LON": "-49,349068136162",
+        "NOME": "Av. Manoel Ribas, 7930 - Butiatuvinha",
+        "NUM": "190486",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43130538628",
+        "LON": "-49,278687983751",
+        "NOME": "Rua Professor Fernando Moreira, 1 - Centro",
+        "NUM": "110448",
+        "SENTIDO": "Mad. Santa Felicidade (Circular)",
+        "SEQ": "91",
+        "TIPO": "Sem demarcação"
+    }
+]

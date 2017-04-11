@@ -1,0 +1,1482 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,3823287964",
+        "LON": "-49,312169317876",
+        "NOME": "Rua Justo Manfron, 1 - São João",
+        "NUM": "190425",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "57",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372809349252",
+        "LON": "-49,227301036862",
+        "NOME": "Rua Teodoro Makiolka, 308 - Santa Candida",
+        "NUM": "120432",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375441626209",
+        "LON": "-49,275094152636",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1351 - Taboão",
+        "NUM": "120277",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377179637566",
+        "LON": "-49,224049008598",
+        "NOME": "Terminal Santa Cândida - 924 - Santa Cândida / Santa Felicidade",
+        "NUM": "105905",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363758590876",
+        "LON": "-49,254875365947",
+        "NOME": "Rua Teodoro Makiolka, 4011 - Barreirinha",
+        "NUM": "120475",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380027082405",
+        "LON": "-49,279672683424",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 651 - Pilarzinho",
+        "NUM": "120272",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398619480695",
+        "LON": "-49,323978753036",
+        "NOME": "Rua Marcos Mocelin, 848 - Santa Felicidade",
+        "NUM": "190402",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "70",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383768513854",
+        "LON": "-49,318359387732",
+        "NOME": "Av. Fredolin Wolf, 3384 - São João",
+        "NUM": "190422",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "59",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394808863175",
+        "LON": "-49,289404553415",
+        "NOME": "R. Raposo Tavares, 171 - Pilarzinho",
+        "NUM": "190444",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360585191161",
+        "LON": "-49,250480396038",
+        "NOME": "Rua Teodoro Makiolka, 3191 - Barreirinha",
+        "NUM": "120451",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "60",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369777944614",
+        "LON": "-49,269185246176",
+        "NOME": "Rua Carmelina Cavassim, 754 - Barreirinha",
+        "NUM": "120406",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "51",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377878357453",
+        "LON": "-49,278032512611",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1019 - Pilarzinho",
+        "NUM": "120274",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "44",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386243568887",
+        "LON": "-49,321701557583",
+        "NOME": "Rua Ari José Vale, 1178 - São João",
+        "NUM": "109419",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394998309977",
+        "LON": "-49,317565591282",
+        "NOME": "Rua Onofre Pedro dos Santos, 434 - São João",
+        "NUM": "190415",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399242180267",
+        "LON": "-49,322111935562",
+        "NOME": "Rua Doutor Leão Mocelin, 505 - Santa Felicidade",
+        "NUM": "190769",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392907435754",
+        "LON": "-49,295914557498",
+        "NOME": "R. Raposo Tavares, 1084 - Pilarzinho",
+        "NUM": "190439",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393425442425",
+        "LON": "-49,283993630137",
+        "NOME": "R. Amauri Lange Silvério, 00511 - Pilarzinho",
+        "NUM": "120041",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366552169039",
+        "LON": "-49,272461564487",
+        "NOME": "Rua Guilherme de Souza Valente, 577 - Abranches",
+        "NUM": "120285",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364959849878",
+        "LON": "-49,241461933798",
+        "NOME": "Rua Teodoro Makiolka, 2110 - Santa Candida",
+        "NUM": "120483",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36642977691",
+        "LON": "-49,264308990187",
+        "NOME": "Rua Carmelina Cavassim, 1401 - Barreirinha",
+        "NUM": "120411",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377652983081",
+        "LON": "-49,278013737148",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas,  1019 - Pilarzinho",
+        "NUM": "120275",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395504723123",
+        "LON": "-49,315305830187",
+        "NOME": "Rua Onofre Pedro dos Santos, 1 - São João",
+        "NUM": "190413",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "64",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398572232931",
+        "LON": "-49,31469696874",
+        "NOME": "Rua José Vale, 1332 - Santa Felicidade",
+        "NUM": "190408",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400519067783",
+        "LON": "-49,330857278055",
+        "NOME": "Terminal Santa Felicidade -  924 - Santa Felicidade/ Santa Cândida",
+        "NUM": "106018",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "74",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383394604044",
+        "LON": "-49,315745364418",
+        "NOME": "Av. Fredolin Wolf, 3254 - São João",
+        "NUM": "190424",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377379693553",
+        "LON": "-49,317041457672",
+        "NOME": "Rua Justo Manfron, 583 - Santa Felicidade",
+        "NUM": "190430",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381081503084",
+        "LON": "-49,313015364418",
+        "NOME": "Rua Justo Manfron, 129 - Santa Felicidade",
+        "NUM": "190816",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "56",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393157691452",
+        "LON": "-49,295895909104",
+        "NOME": "R. Raposo Tavares, 1017 - Pilarzinho",
+        "NUM": "190438",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391078661264",
+        "LON": "-49,297163279063",
+        "NOME": "R. Raposo Tavares, 1341 - Pilarzinho",
+        "NUM": "190436",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371156931338",
+        "LON": "-49,273939461655",
+        "NOME": "Rua José Bajerski, 101 - Abranches",
+        "NUM": "120281",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "47",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364132174935",
+        "LON": "-49,24212309832",
+        "NOME": "Rua Teodoro Makiolka, 2251 - Santa Candida",
+        "NUM": "120482",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "64",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383383354705",
+        "LON": "-49,281567664093",
+        "NOME": "Rua Desembargador José Carlos Ribeiro Ribas, 226 - Pilarzinho",
+        "NUM": "120271",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383940542345",
+        "LON": "-49,303551049179",
+        "NOME": "Rua Prof. Alberto Krause, 800 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250056",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395418705728",
+        "LON": "-49,315379590935",
+        "NOME": "Rua Onofre Pedro dos Santos, 2 - São João",
+        "NUM": "190412",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37731",
+        "LON": "-49,31695",
+        "NOME": "Rua Justo Manfron, 590 - Santa Felicidade",
+        "NUM": "190819",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371622244923",
+        "LON": "-49,229967327065",
+        "NOME": "Rua Teodoro Makiolka, 864 - Santa Candida",
+        "NUM": "120495",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366977511018",
+        "LON": "-49,238481999582",
+        "NOME": "Rua Teodoro Makiolka, 1758 - Santa Candida",
+        "NUM": "120487",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38413924921",
+        "LON": "-49,303360612339",
+        "NOME": "Rua Prof. Alberto Krause, 798 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250057",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "46",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394374376983",
+        "LON": "-49,319121272511",
+        "NOME": "Rua Ari José Vale, 371 - São João",
+        "NUM": "190417",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "62",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36267070285",
+        "LON": "-49,243507118172",
+        "NOME": "Rua Teodoro Makiolka, 2494 - Santa Candida",
+        "NUM": "120481",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398228171732",
+        "LON": "-49,318934858984",
+        "NOME": "Rua Doutor Leão Mocelin, 131 - Santa Felicidade",
+        "NUM": "190405",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400519067783",
+        "LON": "-49,330857278055",
+        "NOME": "Terminal Santa Felicidade -  924 - Santa Felicidade/ Santa Cândida",
+        "NUM": "106018",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40123",
+        "LON": "-49,32676",
+        "NOME": "Rua Marcos Mocelin, 381 - Santa Felicidade",
+        "NUM": "190766",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37932138522",
+        "LON": "-49,315545293888",
+        "NOME": "Rua Justo Manfron, 493 - Santa Felicidade",
+        "NUM": "190818",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "55",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394948890099",
+        "LON": "-49,28534879971",
+        "NOME": "R. Amauri Lange Silvério, 231 - Pilarzinho",
+        "NUM": "120033",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370508639891",
+        "LON": "-49,234435887283",
+        "NOME": "Rua Teodoro Makiolka, 1194-1232 - Santa Candida",
+        "NUM": "120490",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,362167446756",
+        "LON": "-49,252578053925",
+        "NOME": "Rua Teodoro Makiolka, 3571 - Barreirinha",
+        "NUM": "120477",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375464648763",
+        "LON": "-49,307008416599",
+        "NOME": "Rua Afonso Matuzcevski, 903 - Almirante Tamandaré - PR",
+        "NUM": "250485",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386035172628",
+        "LON": "-49,321835668034",
+        "NOME": "Rua Ari José Vale, 1177 - São João",
+        "NUM": "109420",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "60",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395073424022",
+        "LON": "-49,31758302564",
+        "NOME": "Rua Onofre Pedro dos Santos, 355 - São João",
+        "NUM": "190414",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "63",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396029306748",
+        "LON": "-49,313756854481",
+        "NOME": "Rua Prof. Antônio Carlos Raimundo, 299 - São João",
+        "NUM": "190410",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "65",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397776287047",
+        "LON": "-49,317050607151",
+        "NOME": "Rua José Vale, 1610 - Santa Felicidade",
+        "NUM": "190406",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "67",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399176760619",
+        "LON": "-49,321996600574",
+        "NOME": "Rua Doutor Leão Mocelin, 504 - Santa Felicidade",
+        "NUM": "190403",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "69",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399560797677",
+        "LON": "-49,326200963205",
+        "NOME": "Rua Marcos Mocelin, 636 - Santa Felicidade",
+        "NUM": "190400",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "71",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374355926046",
+        "LON": "-49,274085642046",
+        "NOME": "Rodovia dos Minérios, 708 - Abranches",
+        "NUM": "120278",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377179637566",
+        "LON": "-49,224049008598",
+        "NOME": "Terminal Santa Cândida - 924 - Santa Cândida / Santa Felicidade",
+        "NUM": "105905",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "74",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36863887517",
+        "LON": "-49,270936728662",
+        "NOME": "Rua Guilherme de Souza Valente, 340 - Abranches",
+        "NUM": "120286",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "50",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366022610125",
+        "LON": "-49,239926369137",
+        "NOME": "Rua Teodoro Makiolka, 1951 - Santa Candida",
+        "NUM": "120674",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "66",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363670127206",
+        "LON": "-49,2547721009",
+        "NOME": "Rua Teodoro Makiolka, 4012 - Barreirinha",
+        "NUM": "120474",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "58",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368545567942",
+        "LON": "-49,267311723179",
+        "NOME": "Rua Carmelina Cavassim, 990- Barreirinha",
+        "NUM": "120408",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "52",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381863385571",
+        "LON": "-49,305600256866",
+        "NOME": "Rua Prof. Alberto Krause, 1 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250054",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37701199668",
+        "LON": "-49,306489409155",
+        "NOME": "Rua Prof. Alberto Krause, 1311 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250050",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381013632083",
+        "LON": "-49,312936041317",
+        "NOME": "Rua Justo Manfron, 130 - Santa Felicidade",
+        "NUM": "190427",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366877877922",
+        "LON": "-49,272480010986",
+        "NOME": "Rua Manoel Aranha, 136 - Abranches",
+        "NUM": "120993",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386699571272",
+        "LON": "-49,303207499135",
+        "NOME": "Rua Raposo Tavares, 2409 - Pilarzinho",
+        "NUM": "120226",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391496465081",
+        "LON": "-49,296797573537",
+        "NOME": "R. Raposo Tavares, 1282 - Pilarzinho",
+        "NUM": "190437",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394472380008",
+        "LON": "-49,289496703689",
+        "NOME": "R. Raposo Tavares, 292 - Pilarzinho",
+        "NUM": "190445",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373998189322",
+        "LON": "-49,274369717055",
+        "NOME": "Rodovia dos Minérios, 701 - Abranches",
+        "NUM": "120279",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365268187323",
+        "LON": "-49,260806093254",
+        "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
+        "NUM": "120038",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368189303317",
+        "LON": "-49,273449958509",
+        "NOME": "Rua José Bajerski, 421 - Abranches",
+        "NUM": "120282",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381796744854",
+        "LON": "-49,305502356237",
+        "NOME": "Rua Prof. Alberto Krause, 86 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250055",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377021690262",
+        "LON": "-49,306364686436",
+        "NOME": "Rua Prof. Alberto Krause, 1307 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250051",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "49",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375727590254",
+        "LON": "-49,311313362068",
+        "NOME": "Rua Afonso Matuzcevski, 58 - Planta Almirante - Almirante Tamandaré - PR",
+        "NUM": "250003",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401871051602",
+        "LON": "-49,328622997946",
+        "NOME": "Rua Via Veneto, 1104 - Santa Felicidade",
+        "NUM": "190325",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38224902218",
+        "LON": "-49,312070301483",
+        "NOME": "Rua Justo Manfron, 2 - Santa Felicidade",
+        "NUM": "190815",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389350850227",
+        "LON": "-49,298409395683",
+        "NOME": "R. Raposo Tavares, 1561 - Pilarzinho",
+        "NUM": "190435",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36052518977",
+        "LON": "-49,247375091649",
+        "NOME": "Rua Teodoro Makiolka, 2953 - Santa Candida",
+        "NUM": "120450",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "61",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372827138295",
+        "LON": "-49,227507204395",
+        "NOME": "Rua Teodoro Makiolka, 469 - Santa Candida",
+        "NUM": "120433",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "72",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371253871816",
+        "LON": "-49,232166738457",
+        "NOME": "Rua Teodoro Makiolka, 1051 - Santa Candida",
+        "NUM": "120493",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "70",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37064678079",
+        "LON": "-49,234223992771",
+        "NOME": "Rua Teodoro Makiolka, 1093 - Santa Candida",
+        "NUM": "120491",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "69",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361052542736",
+        "LON": "-49,245707575534",
+        "NOME": "Rua Teodoro Makiolka, 2801 - Santa Candida",
+        "NUM": "120479",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "62",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,362236521992",
+        "LON": "-49,252494905446",
+        "NOME": "Rua Teodoro Makiolka, 3572 - Barreirinha",
+        "NUM": "120476",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "59",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364694120519",
+        "LON": "-49,257516000722",
+        "NOME": "Rua Teodoro Makiolka, 4163 - Barreirinha",
+        "NUM": "120472",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "57",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364864987197",
+        "LON": "-49,261790100787",
+        "NOME": "Rua Carmelina Cavassim, 1704 - Barreirinha",
+        "NUM": "120413",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "55",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379941053983",
+        "LON": "-49,279340089506",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 652 - Pilarzinho",
+        "NUM": "120273",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375812409967",
+        "LON": "-49,311303974337",
+        "NOME": "Rua Afonso Matuzcevski, 588 - Planta Almirante - Almirante Tamandaré - PR",
+        "NUM": "250004",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394212032723",
+        "LON": "-49,31905555839",
+        "NOME": "Rua Ari José Vale, 434 - São João",
+        "NUM": "190416",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402222371082",
+        "LON": "-49,327748597807",
+        "NOME": "Rua Via Veneto, 1081 - Santa Felicidade",
+        "NUM": "190326",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389313298522",
+        "LON": "-49,298278504649",
+        "NOME": "R. Raposo Tavares, 1562 - Pilarzinho",
+        "NUM": "190434",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393620775972",
+        "LON": "-49,291628256264",
+        "NOME": "R. Raposo Tavares, 548 - Pilarzinho",
+        "NUM": "190443",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369745226812",
+        "LON": "-49,269347519821",
+        "NOME": "Rua Carmelina Cavassim, 753 - Barreirinha",
+        "NUM": "120407",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368979385353",
+        "LON": "-49,236340255684",
+        "NOME": "Rua Teodoro Makiolka, 1354- Santa Candida",
+        "NUM": "120488",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360648993421",
+        "LON": "-49,251038465951",
+        "NOME": "Rua Teodoro Makiolka, 3348 - Barreirinha",
+        "NUM": "120478",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36560540668",
+        "LON": "-49,259881709073",
+        "NOME": "Rua Teodoro Makiolka, 4519 - Barreirinha",
+        "NUM": "120671",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383718976804",
+        "LON": "-49,281705797857",
+        "NOME": "Rua Desembargador José Carlos Ribeiro Ribas, 187 - Pilarzinho",
+        "NUM": "120270",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387841238885",
+        "LON": "-49,301100572267",
+        "NOME": "R. Raposo Tavares, 1906 - Pilarzinho",
+        "NUM": "190432",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393774307077",
+        "LON": "-49,291601618818",
+        "NOME": "R. Raposo Tavares, 547 - Pilarzinho",
+        "NUM": "190442",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37927181683",
+        "LON": "-49,315441620142",
+        "NOME": "Rua Justo Manfron, 494 - Santa Felicidade",
+        "NUM": "190428",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393592464863",
+        "LON": "-49,293578785663",
+        "NOME": "R. Raposo Tavares, 771 - Pilarzinho",
+        "NUM": "190440",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373974396804",
+        "LON": "-49,22481254951",
+        "NOME": "Rua Teodoro Makiolka, 89 - Santa Candida",
+        "NUM": "120431",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "73",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369213258339",
+        "LON": "-49,23618736977",
+        "NOME": "Rua Teodoro Makiolka, 1355 - Santa Candida",
+        "NUM": "120489",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "68",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397871994669",
+        "LON": "-49,316846759266",
+        "NOME": "Rua José Vale, 1609 - Santa Felicidade",
+        "NUM": "190407",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383572407124",
+        "LON": "-49,315731341105",
+        "NOME": "Av. Fredolin Wolf, 3253 - São João",
+        "NUM": "190423",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38763452155",
+        "LON": "-49,301087981821",
+        "NOME": "R. Raposo Tavares, 1907 - Pilarzinho",
+        "NUM": "190433",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387754110076",
+        "LON": "-49,282961805559",
+        "NOME": "R. Amauri Lange Silvério, 1167 - Pilarzinho",
+        "NUM": "120068",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390591148156",
+        "LON": "-49,283552228243",
+        "NOME": "Rua Amauri Lange Silvério, 900 - Pilarzinho",
+        "NUM": "120067",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371118155125",
+        "LON": "-49,23225391025",
+        "NOME": "Rua Teodoro Makiolka, 1052 - Santa Candida",
+        "NUM": "120492",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36401341584",
+        "LON": "-49,242124439425",
+        "NOME": "Rua Teodoro Makiolka, 2252 - Santa Candida",
+        "NUM": "120673",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360942263628",
+        "LON": "-49,245699528907",
+        "NOME": "Rua Teodoro Makiolka, 2849 - Santa Candida",
+        "NUM": "120672",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364840750804",
+        "LON": "-49,257874075625",
+        "NOME": "Rua Teodoro Makiolka, 4382 - Barreirinha",
+        "NUM": "120473",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364841962624",
+        "LON": "-49,261870567057",
+        "NOME": "Rua Carmelina Cavassim, 1703 - Barreirinha",
+        "NUM": "120414",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368367435761",
+        "LON": "-49,267239303535",
+        "NOME": "Rua Carmelina Cavassim, 989 - Barreirinha",
+        "NUM": "120409",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379426886123",
+        "LON": "-49,306021363682",
+        "NOME": "Rua Prof. Alberto Krause, 984 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250053",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "48",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38879518229",
+        "LON": "-49,320841909594",
+        "NOME": "Rua Ari José Vale, 1067 - São João",
+        "NUM": "190418",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "61",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398248766972",
+        "LON": "-49,31925806517",
+        "NOME": "Rua Doutor Leão Mocelin, 188 - Santa Felicidade",
+        "NUM": "190404",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "68",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40121365636",
+        "LON": "-49,326873031912",
+        "NOME": "Rua Marcos Mocelin, 382 - Santa Felicidade",
+        "NUM": "190767",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "72",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376079931961",
+        "LON": "-49,314180314541",
+        "NOME": "Rua Afonso Matuzcevski, 1 - Planta Almirante - Almirante Tamandaré - PR",
+        "NUM": "250481",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "52",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386815746488",
+        "LON": "-49,303207741413",
+        "NOME": "Rua. Raposo Tavares, 2410 - Pilarzinho",
+        "NUM": "120225",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371608915653",
+        "LON": "-49,230396480507",
+        "NOME": "Rua Teodoro Makiolka, 695 - Santa Candida",
+        "NUM": "120494",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "71",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365193730644",
+        "LON": "-49,241440476125",
+        "NOME": "Rua Teodoro Makiolka, 2199 - Santa Candida",
+        "NUM": "120484",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "65",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365668420894",
+        "LON": "-49,259834770415",
+        "NOME": "Rua Teodoro Makiolka, 4518 - Barreirinha",
+        "NUM": "120415",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "56",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366707279678",
+        "LON": "-49,264528931326",
+        "NOME": "Rua Carmelina Cavassim, 1348 - Barreirinha",
+        "NUM": "120410",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "53",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379480048347",
+        "LON": "-49,306159497446",
+        "NOME": "Rua Prof. Alberto Krause, 983 - Tanguá - Almirante Tamandaré - PR",
+        "NUM": "250052",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388774585437",
+        "LON": "-49,320748032278",
+        "NOME": "Rua Ari José Vale, 1068 - São João",
+        "NUM": "190814",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39603657579",
+        "LON": "-49,313610674089",
+        "NOME": "Rua Professor Antônio Carlos Raimundo, 300 - São João",
+        "NUM": "190411",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398703072848",
+        "LON": "-49,314719767517",
+        "NOME": "Rua José Vale, 1331 - Santa Felicidade",
+        "NUM": "190409",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39955474032",
+        "LON": "-49,326097698158",
+        "NOME": "Rua Marcos Mocelin, 585 - Santa Felicidade",
+        "NUM": "190401",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398686112126",
+        "LON": "-49,323976070827",
+        "NOME": "Rua Marcos Mocelin, 847 - Santa Felicidade",
+        "NUM": "190768",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38626",
+        "LON": "-49,28241",
+        "NOME": "R. Amauri Lange Silvério, 1418 - Pilarzinho",
+        "NUM": "120609",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "41",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375631941618",
+        "LON": "-49,307008681749",
+        "NOME": "Rua Afonso Matuzcevski, 998 - Jd. Campos Elísios - Almirante Tamandaré - PR",
+        "NUM": "250484",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38388",
+        "LON": "-49,31829",
+        "NOME": "Av. Fredolin Wolf, 3383 - São João",
+        "NUM": "190421",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393460457091",
+        "LON": "-49,293592225721",
+        "NOME": "R. Raposo Tavares, 772 - Pilarzinho",
+        "NUM": "190441",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373909896247",
+        "LON": "-49,224555819056",
+        "NOME": "Rua Teodoro Makiolka, 90 - Santa Candida",
+        "NUM": "120430",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371327788878",
+        "LON": "-49,274182201571",
+        "NOME": "Rua José Bajerski, 102 - Abranches",
+        "NUM": "120280",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368501943759",
+        "LON": "-49,270891131109",
+        "NOME": "Rua Guilherme de Souza Valente, 231 - Abranches",
+        "NUM": "120287",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365965655137",
+        "LON": "-49,239857972807",
+        "NOME": "Rua Teodoro Makiolka, 1000 - Santa Candida",
+        "NUM": "120485",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360249158054",
+        "LON": "-49,24804838358",
+        "NOME": "Rua Teodoro Makiolka, 3026 - Barreirinha",
+        "NUM": "120604",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37797",
+        "LON": "-49,31615",
+        "NOME": "Rua Justo Manfron, 590 - Santa Felicidade",
+        "NUM": "190429",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375496153304",
+        "LON": "-49,274903715796",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1352 - Taboão",
+        "NUM": "120276",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "45",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36778093067",
+        "LON": "-49,27321794743",
+        "NOME": "Rua José Bajerski, 422 - Abranches",
+        "NUM": "120283",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "48",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367223505838",
+        "LON": "-49,238435060925",
+        "NOME": "Rua Teodoro Makiolka, 1731 - Santa Candida",
+        "NUM": "120486",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "67",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3657229524",
+        "LON": "-49,263027940247",
+        "NOME": "Rua Carmelina Cavassim, 1468 - Barreirinha",
+        "NUM": "120412",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,362607687072",
+        "LON": "-49,243710966057",
+        "NOME": "Rua Teodoro Makiolka, 2501 - Santa Candida",
+        "NUM": "120480",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "63",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376179291901",
+        "LON": "-49,314166903496",
+        "NOME": "Rua Afonso Matuzcevski, 294 - Planta Almirante - Almirante Tamandaré - PR",
+        "NUM": "250480",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    }
+]

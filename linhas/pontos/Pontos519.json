@@ -1,0 +1,662 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503228186979",
+        "LON": "-49,259244661763",
+        "NOME": "R. Cel. Luíz José dos Santos, 3250 - Boqueirão",
+        "NUM": "150383",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500728060939",
+        "LON": "-49,2530628833",
+        "NOME": "R. Cel. Luíz José dos Santos, 2586 - Boqueirão",
+        "NUM": "150378",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529679294406",
+        "LON": "-49,241053446748",
+        "NOME": "Rua Pastor Antônio Pólito, 2166 - Boqueirão",
+        "NUM": "160201",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484570994872",
+        "LON": "-49,23887157424",
+        "NOME": "Rua das Carmelitas, 1167 - Hauer",
+        "NUM": "140007",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533384653291",
+        "LON": "-49,238524139881",
+        "NOME": "Rua Francisco Derosso, 477 - Alto Boqueirão",
+        "NUM": "160007",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53554714131",
+        "LON": "-49,236905014715",
+        "NOME": "Rua Nelso José Lautart, 89 - Alto Boqueirão",
+        "NUM": "160009",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524673693632",
+        "LON": "-49,235567550926",
+        "NOME": "Rua Pastor Antônio Pólito, 1420 - Boqueirão",
+        "NUM": "150142",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494317894816",
+        "LON": "-49,234119271164",
+        "NOME": "Rua das Carmelitas, 2317 - Boqueirão",
+        "NUM": "140328",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50401941337",
+        "LON": "-49,22195206994",
+        "NOME": "Rua Augusto Dias Paredes, 710 - Boqueirão",
+        "NUM": "140667",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "50",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505754264759",
+        "LON": "-49,219838892031",
+        "NOME": "Rua Dr. Laurindo Abelardo de Brito, 55 - Boqueirão",
+        "NUM": "140341",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "49",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501718528463",
+        "LON": "-49,226271341105",
+        "NOME": "Rua William Booth, 1626 - Boqueirão",
+        "NUM": "140260",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "52",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530118854651",
+        "LON": "-49,264681836805",
+        "NOME": "Rua Marte, 514 - Sítio Cercado",
+        "NUM": "150347",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503937686366",
+        "LON": "-49,261007948635",
+        "NOME": "R. Cel. Luíz José dos Santos, 3450 - Boqueirão",
+        "NUM": "150385",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480833995147",
+        "LON": "-49,240703411045",
+        "NOME": "Rua das Carmelitas, 711 - Hauer",
+        "NUM": "140003",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "63",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522453181252",
+        "LON": "-49,230213440476",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150136",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "41",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525483312248",
+        "LON": "-49,23757157424",
+        "NOME": "Rua Pastor Antônio Pólito, 1659 - Boqueirão",
+        "NUM": "150143",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507706109266",
+        "LON": "-49,218892682209",
+        "NOME": "Rua Dr. Laurindo Abelardo de Brito, 271 - Boqueirão",
+        "NUM": "140343",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49205",
+        "LON": "-49,23523",
+        "NOME": "Rua das Carmelitas, 2161 - Hauer",
+        "NUM": "140193",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51436950392",
+        "LON": "-49,221023993883",
+        "NOME": "Rua Maestro Carlos Frank, 244 - Boqueirão",
+        "NUM": "140648",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "46",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5163149014",
+        "LON": "-49,225871224537",
+        "NOME": "Rua Maestro Carlos Frank, 698 - Boqueirão",
+        "NUM": "140296",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528814332162",
+        "LON": "-49,261005860119",
+        "NOME": "Rua Marte, 130 - Sítio Cercado",
+        "NUM": "150345",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487278553483",
+        "LON": "-49,251438559442",
+        "NOME": "Rua Professor João Soares Barcelos, 1530 -Hauer",
+        "NUM": "150370",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517421516618",
+        "LON": "-49,261359240284",
+        "NOME": "Rua David Tows, 535- Xaxim",
+        "NUM": "150402",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535942925152",
+        "LON": "-49,238945131283",
+        "NOME": "Rua Coronel Américo Valger, 257 - Alto Boqueirão",
+        "NUM": "160010",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502174897266",
+        "LON": "-49,222876326389",
+        "NOME": "Rua Augusto Dias Paredes, 446 - Boqueirão",
+        "NUM": "140339",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51168",
+        "LON": "-49,22139",
+        "NOME": "Rua William Booth, 2810 - Boqueirão",
+        "NUM": "140262",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534033473441",
+        "LON": "-49,24328612973",
+        "NOME": "Rua Eduardo Pinto da Rocha, 307 - Alto Boqueirão",
+        "NUM": "160741",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482515206427",
+        "LON": "-49,239889008598",
+        "NOME": "Rua das Carmelitas, 1051 - Hauer",
+        "NUM": "140005",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47883",
+        "LON": "-49,24168",
+        "NOME": "Rua das Carmelitas, 489 - Hauer",
+        "NUM": "140009",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "64",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527012929837",
+        "LON": "-49,239613411045",
+        "NOME": "Rua Pastor Antônio Pólito, 1811 - Boqueirão",
+        "NUM": "150042",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "42",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515301527852",
+        "LON": "-49,223340612268",
+        "NOME": "Rua Maestro Carlos Frank, 476 - Boqueirão",
+        "NUM": "140294",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524075822889",
+        "LON": "-49,234093148479",
+        "NOME": "Rua Pastor Antônio Pólito, 1211 - Boqueirão",
+        "NUM": "150140",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489906368311",
+        "LON": "-49,236257813492",
+        "NOME": "Rua das Carmelitas, 1821 - Hauer",
+        "NUM": "140190",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49693",
+        "LON": "-49,23261",
+        "NOME": "Rua Antônio Schiebel, 597 -Boqueirão",
+        "NUM": "140195",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495739052103",
+        "LON": "-49,229636588955",
+        "NOME": "Rua Antônio Schiebel, 319 - Boqueirão",
+        "NUM": "140197",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "55",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499628211633",
+        "LON": "-49,227274635582",
+        "NOME": "Rua William Booth, 1408 - Boqueirão",
+        "NUM": "140258",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534082269517",
+        "LON": "-49,266341775656",
+        "NOME": "Rua Izaac Ferreira da Cruz, 3770 - Sítio Cercado",
+        "NUM": "160046",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "23",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530024676784",
+        "LON": "-49,250288754702",
+        "NOME": "Rua dos Pioneiros, 2468 - Alto Boqueirão",
+        "NUM": "160204",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "26",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491107647775",
+        "LON": "-49,249568263707",
+        "NOME": "Rua Professor João Soares Barcelos, 2032 - Hauer",
+        "NUM": "150372",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501739119862",
+        "LON": "-49,255566327555",
+        "NOME": "R. Cel. Luíz José dos Santos, 2857 - Boqueirão",
+        "NUM": "150381",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53098",
+        "LON": "-49,24467",
+        "NOME": "Rua Francisco Derosso, 1180 - Alto Boqueirão",
+        "NUM": "160003",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522664719781",
+        "LON": "-49,261174300214",
+        "NOME": "Rua David Tows, 1119 - Xaxim",
+        "NUM": "150436",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486410365488",
+        "LON": "-49,237962303076",
+        "NOME": "Rua das Carmelitas, 1537 - Hauer",
+        "NUM": "140189",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497290053886",
+        "LON": "-49,228410495701",
+        "NOME": "Rua William Booth, 1027 - Boqueirão",
+        "NUM": "140199",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531003949257",
+        "LON": "-49,267253673611",
+        "NOME": "Rua Marte, 1673 - Sítio Cercado",
+        "NUM": "150349",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480885817822",
+        "LON": "-49,247654825449",
+        "NOME": "Av. Mal. Floriano Peixoto, 5952 - Hauer",
+        "NUM": "150157",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531274763973",
+        "LON": "-49,2554949224",
+        "NOME": "Rua dos Pioneiros, 3046 - Alto Boqueirão",
+        "NUM": "160197",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "25",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517825659242",
+        "LON": "-49,229678660631",
+        "NOME": "Rua Maestro Carlos Frank, 1352 - Boqueirão",
+        "NUM": "150277",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "43",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495890867426",
+        "LON": "-49,247234739996",
+        "NOME": "Rua Prof. João Soares Barcelos, 2614 - Boqueirão",
+        "NUM": "150376",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50938",
+        "LON": "-49,2633",
+        "NOME": "Rua Francisco Derosso, 2180 - Xaxim",
+        "NUM": "150086",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51072",
+        "LON": "-49,26129",
+        "NOME": "Rua Francisco Derosso, 2470 - Xaxim",
+        "NUM": "150088",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49881131927",
+        "LON": "-49,248330233135",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1970 - Boqueirão",
+        "NUM": "150037",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53178989363",
+        "LON": "-49,244141754406",
+        "NOME": "Rua Eduardo Pinto da Rocha, 53 - Alto Boqueirão",
+        "NUM": "160202",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532863674966",
+        "LON": "-49,261882603169",
+        "NOME": "Rua Izaac Ferreira da Cruz, 4248 - Sítio Cercado",
+        "NUM": "160081",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "24",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505207561753",
+        "LON": "-49,2641365298",
+        "NOME": "R. Cel. Luíz José dos Santos, 3784 - Xaxim",
+        "NUM": "150388",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50725",
+        "LON": "-49,26422",
+        "NOME": "Rua Francisco Derosso, 1932 - Xaxim",
+        "NUM": "150084",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531981341008",
+        "LON": "-49,241276705522",
+        "NOME": "Rua Francisco Derosso, 744 - Alto Boqueirão",
+        "NUM": "160006",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523155732962",
+        "LON": "-49,23185206994",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150138",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499659857966",
+        "LON": "-49,250398216286",
+        "NOME": "R. Cel. Luíz José dos Santos, 2231 - Boqueirão",
+        "NUM": "150039",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525257010244",
+        "LON": "-49,260971793434",
+        "NOME": "Rua David Tows, 1420 - Xaxim",
+        "NUM": "150435",
+        "SENTIDO": "S. Francisco / Iguape",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    }
+]

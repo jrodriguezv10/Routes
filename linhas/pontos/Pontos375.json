@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42025",
+        "LON": "-49,20968",
+        "NOME": "Rua Marco Pólo, 154 - Bairro Alto",
+        "NUM": "130361",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428618074257",
+        "LON": "-49,226473749823",
+        "NOME": "Av. Victor Ferreira do Amaral, 2272 - Tarumã",
+        "NUM": "130029",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429560368269",
+        "LON": "-49,217533947176",
+        "NOME": "Av. Victor Ferreira do Amaral, 1447 - Tarumã",
+        "NUM": "130215",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415861256104",
+        "LON": "-49,204796136564",
+        "NOME": "Rua José de Oliveira Franco, 1942 - Bairro Alto",
+        "NUM": "103194",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416922112971",
+        "LON": "-49,214230495701",
+        "NOME": "Rua Said João Salum, 156 - Bairro Alto",
+        "NUM": "130353",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416392678166",
+        "LON": "-49,217019504299",
+        "NOME": "Rua Percy Feliciano de Castilho, 110 - Bairro Alto",
+        "NUM": "130351",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41899",
+        "LON": "-49,20647",
+        "NOME": "Rua Marco Pólo, 513 - Bairro Alto",
+        "NUM": "130621",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416873378652",
+        "LON": "-49,209484868717",
+        "NOME": "Rua Coronel Domingos Soares, 498 - Bairro Alto",
+        "NUM": "130620",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41642478741",
+        "LON": "-49,210559038028",
+        "NOME": "Rua Arnaldo Pisseti, 394 - Bairro Alto",
+        "NUM": "130619",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41804",
+        "LON": "-49,20429",
+        "NOME": "Rua Marco Pólo, 810 - Bairro Alto",
+        "NUM": "130365",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416341763468",
+        "LON": "-49,21066889203",
+        "NOME": "Rua Arnaldo Pisseti, 396 - Bairro Alto",
+        "NUM": "130355",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415774535704",
+        "LON": "-49,21552317791",
+        "NOME": "Rua Percy Feliciano de Castilho, 210- Bairro Alto",
+        "NUM": "130352",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428323538349",
+        "LON": "-49,266369209297",
+        "NOME": "Praça Santos Andrade - 375 - Sagrado Coração",
+        "NUM": "103406",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41943",
+        "LON": "-49,21085",
+        "NOME": "Rua Ada Macagi, 781 - Bairro Alto",
+        "NUM": "130359",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41801",
+        "LON": "-49,21832",
+        "NOME": "Rua Konrad Adenauer, 3 - Tarumã",
+        "NUM": "130349",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42573664659",
+        "LON": "-49,215251457672",
+        "NOME": "Rua Konrad Adenauer, 783-Tarumã",
+        "NUM": "130343",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427451702698",
+        "LON": "-49,23764515037",
+        "NOME": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+        "NUM": "130200",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429249097155",
+        "LON": "-49,220429391808",
+        "NOME": "Av. Victor Ferreira do Amaral, 1468 - Tarumã",
+        "NUM": "130213",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41728",
+        "LON": "-49,21294",
+        "NOME": "Rua Arnaldo Pisseti, 121- Bairro Alto",
+        "NUM": "130354",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424157887757",
+        "LON": "-49,216047813492",
+        "NOME": "Rua Konrad Adenauer, 780 - Tarumã",
+        "NUM": "130346",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41292",
+        "LON": "-49,20531",
+        "NOME": "Terminal Bairro Alto - 375 - Sagrado Coração",
+        "NUM": "104009",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "34",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427080030571",
+        "LON": "-49,257855364418",
+        "NOME": "Rua Marechal Deodoro, 1590 - Centro",
+        "NUM": "110076",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41816",
+        "LON": "-49,20426",
+        "NOME": "Rua Marco Pólo, 811 - Bairro Alto",
+        "NUM": "130364",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41841",
+        "LON": "-49,20893",
+        "NOME": "Rua Napoleão Bonaparte, 869 - Bairro Alto",
+        "NUM": "130357",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42737",
+        "LON": "-49,21474",
+        "NOME": "Rua Konrad Adenauer, 1120- Tarumã",
+        "NUM": "130342",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415742547887",
+        "LON": "-49,204687507099",
+        "NOME": "Rua José de Oliveira Franco, 1941 - Bairro Alto",
+        "NUM": "103195",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42195",
+        "LON": "-49,21682",
+        "NOME": "Rua Konrad Adenauer, 541 - Tarumã",
+        "NUM": "130347",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42753",
+        "LON": "-49,21449",
+        "NOME": "Rua Konrad Adenauer, 1121- Tarumã",
+        "NUM": "130341",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41926",
+        "LON": "-49,21082",
+        "NOME": "Rua Ada Macagi, 780 - Bairro Alto",
+        "NUM": "130360",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425663043072",
+        "LON": "-49,215415131283",
+        "NOME": "Rua Konrad Adenauer, 784 - Tarumã",
+        "NUM": "130344",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42957",
+        "LON": "-49,21367",
+        "NOME": "Rua Konrad Adenauer, 1239 - Tarumã",
+        "NUM": "130340",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418369380522",
+        "LON": "-49,209138658895",
+        "NOME": "Rua Napoleão Bonaparte, 870 - Bairro Alto",
+        "NUM": "130358",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415906339224",
+        "LON": "-49,21545317791",
+        "NOME": "Rua Percy Feliciano de Castilho, 211 - Bairro Alto",
+        "NUM": "130616",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416507577398",
+        "LON": "-49,21695635582",
+        "NOME": "Rua Percy Feliciano de Castilho, 112 - Bairro Alto",
+        "NUM": "130615",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423886646999",
+        "LON": "-49,216025860119",
+        "NOME": "Rua Konrad Adenauer, 784 - Tarumã",
+        "NUM": "130345",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41292",
+        "LON": "-49,20531",
+        "NOME": "Terminal Bairro Alto - 375 - Sagrado Coração",
+        "NUM": "104009",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428264409307",
+        "LON": "-49,230169833845",
+        "NOME": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+        "NUM": "130208",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42967",
+        "LON": "-49,21381",
+        "NOME": "Rua Konrad Adenauer, 1240 - Tarumã",
+        "NUM": "130614",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416891211297",
+        "LON": "-49,209356093254",
+        "NOME": "Rua Coronel Domingos Soares, 499 - Bairro Alto",
+        "NUM": "130356",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41801",
+        "LON": "-49,21852",
+        "NOME": "Rua Konrad Adenauer, 2 - Tarumã",
+        "NUM": "130350",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428323538349",
+        "LON": "-49,266369209297",
+        "NOME": "Praça Santos Andrade - 375 - Sagrado Coração",
+        "NUM": "103406",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427844128035",
+        "LON": "-49,23368218655",
+        "NOME": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+        "NUM": "130869",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418983351923",
+        "LON": "-49,20670002943",
+        "NOME": "Rua Marco Pólo, 514 - Bairro Alto",
+        "NUM": "130363",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42031",
+        "LON": "-49,21015",
+        "NOME": "Rua Marco Pólo, 153 - Bairro  alto",
+        "NUM": "130362",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417346310249",
+        "LON": "-49,212849469131",
+        "NOME": "Rua Arnaldo Pisseti, 120 - Bairro Alto",
+        "NUM": "130618",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41705",
+        "LON": "-49,214139038029",
+        "NOME": "Rua Said João Salum, 157 -  Bairro Alto",
+        "NUM": "130617",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428962048761",
+        "LON": "-49,223138422913",
+        "NOME": "Av. Victor Ferreira do Amaral, 1858 - Tarumã",
+        "NUM": "130211",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42183",
+        "LON": "-49,21702",
+        "NOME": "Rua Konrad Adenauer, 539 - Tarumã",
+        "NUM": "130348",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    }
+]

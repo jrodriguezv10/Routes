@@ -1,0 +1,602 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,49273731085",
+        "LON": "-49,312507944775",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1993 - Novo Mundo",
+        "NUM": "170114",
+        "SENTIDO": "Formosa",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Formosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "Formosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Formosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463154752105",
+        "LON": "-49,291510612911",
+        "NOME": "Rua Guararapes, 1084 - Vila Izabel",
+        "NUM": "180969",
+        "SENTIDO": "Formosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46799192961",
+        "LON": "-49,295588911718",
+        "NOME": "Rua Francisco Frischman, 718 - Portão",
+        "NUM": "180971",
+        "SENTIDO": "Formosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470745219881",
+        "LON": "-49,29533946628",
+        "NOME": "Rua Francisco Frischman, 186 - Portão",
+        "NUM": "180972",
+        "SENTIDO": "Formosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482442973779",
+        "LON": "-49,295694858974",
+        "NOME": "Rua Isaac Guelmann, 4221 - Novo Mundo",
+        "NUM": "150185",
+        "SENTIDO": "Formosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485401736775",
+        "LON": "-49,296541095919",
+        "NOME": "Rua Isaac Guelmann, 4547 - Novo Mundo",
+        "NUM": "150680",
+        "SENTIDO": "Formosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488963293504",
+        "LON": "-49,297241152472",
+        "NOME": "Rua Pedro Zagonel, 303 - Novo Mundo",
+        "NUM": "170876",
+        "SENTIDO": "Formosa",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488972978082",
+        "LON": "-49,300168783611",
+        "NOME": "Rua Pedro Zagonel, 618 - Novo Mundo",
+        "NUM": "170878",
+        "SENTIDO": "Formosa",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488991136665",
+        "LON": "-49,304424108213",
+        "NOME": "Rua Pedro Zagonel, 1052 - Novo Mundo",
+        "NUM": "170882",
+        "SENTIDO": "Formosa",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47407959522",
+        "LON": "-49,295889319128",
+        "NOME": "Rua Francisco Frischman, 6 - Portão",
+        "NUM": "180973",
+        "SENTIDO": "Formosa",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436732660643",
+        "LON": "-49,273995966726",
+        "NOME": "Praça Rui Barbosa - 673 - Formosa",
+        "NUM": "102029",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461308218791",
+        "LON": "-49,288212836927",
+        "NOME": "Rua Guilherme Pugsley, 1660 - Água Verde",
+        "NUM": "150865",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488940292626",
+        "LON": "-49,29295632357",
+        "NOME": "Travessa Augusto Marach, 199 - Novo Mundo",
+        "NUM": "150187",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489081929539",
+        "LON": "-49,30146563167",
+        "NOME": "Rua Pedro Zagonel, 706 - Novo Mundo",
+        "NUM": "170881",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Formosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Formosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491691123",
+        "LON": "-49,289798022455",
+        "NOME": "Rua Castro Alves, 748 - Batel",
+        "NUM": "180533",
+        "SENTIDO": "Formosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454803352452",
+        "LON": "-49,289760471529",
+        "NOME": "Rua Guararapes, 54 - Vila Izabel",
+        "NUM": "180966",
+        "SENTIDO": "Formosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479049507417",
+        "LON": "-49,295764596409",
+        "NOME": "Rua Doutor João Tobias Pinto Rebelo, 3862 - Portão",
+        "NUM": "150184",
+        "SENTIDO": "Formosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452732667844",
+        "LON": "-49,284369231409",
+        "NOME": "Rua Guilherme Pugsley, 750 - Água Verde",
+        "NUM": "150868",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482045883841",
+        "LON": "-49,290791780895",
+        "NOME": "Rua Eduardo Carlos Pereira, 4086 - Portão",
+        "NUM": "150246",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485806079254",
+        "LON": "-49,292280406898",
+        "NOME": "Avenida Brasília, 4554 - Novo Mundo",
+        "NUM": "150245",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489077087254",
+        "LON": "-49,297125817484",
+        "NOME": "Rua Pedro Zagonel, 310 - Novo Mundo",
+        "NUM": "170877",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489068613255",
+        "LON": "-49,295521856493",
+        "NOME": "Rua Pedro Zagonel, 136 - Novo Mundo",
+        "NUM": "150186",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490642939596",
+        "LON": "-49,311212038202",
+        "NOME": "Rua Doutor Luís Losso Filho, 768 - Novo Mundo",
+        "NUM": "170888",
+        "SENTIDO": "Formosa",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46404834297",
+        "LON": "-49,28949895615",
+        "NOME": "Rua Guilherme Pugsley, 2017 - Água Verde",
+        "NUM": "150864",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436732660643",
+        "LON": "-49,273995966726",
+        "NOME": "Praça Rui Barbosa - 673 - Formosa",
+        "NUM": "102029",
+        "SENTIDO": "Formosa",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Formosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468548888751",
+        "LON": "-49,289863736576",
+        "NOME": "Rua Guilherme Pugsley, 1664- Água Verde",
+        "NUM": "150872",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470667731482",
+        "LON": "-49,290840060658",
+        "NOME": "Rua Eduardo Carlos Pereira, 2 - Portão",
+        "NUM": "150871",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489186038616",
+        "LON": "-49,306942702478",
+        "NOME": "Rua Pedro Zagonel, 1211 - Novo Mundo",
+        "NUM": "170885",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492401863816",
+        "LON": "-49,311191921635",
+        "NOME": "Rua Doutor Luís Losso Filho, 876 - Novo Mundo",
+        "NUM": "170890",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45776884983",
+        "LON": "-49,290362627453",
+        "NOME": "Rua Guararapes, 468 - Vila Izabel",
+        "NUM": "180967",
+        "SENTIDO": "Formosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459678402567",
+        "LON": "-49,287424267477",
+        "NOME": "Rua Guilherme Pugsley, 1431 - Água Verde",
+        "NUM": "150866",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473073480809",
+        "LON": "-49,290455163664",
+        "NOME": "Rua Eduardo Carlos Pereira, 242 - Portão",
+        "NUM": "150870",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466325879916",
+        "LON": "-49,294119061178",
+        "NOME": "Rua Francisco Frischman, 845- Portão",
+        "NUM": "180970",
+        "SENTIDO": "Formosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475398064539",
+        "LON": "-49,295855791515",
+        "NOME": "Rua Dr. João Tobias Pinto Rebelo, 3392 - Portão",
+        "NUM": "170871",
+        "SENTIDO": "Formosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488970556938",
+        "LON": "-49,302128137297",
+        "NOME": "Rua Pedro Zagonel, 792 - Novo Mundo",
+        "NUM": "170880",
+        "SENTIDO": "Formosa",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492401863816",
+        "LON": "-49,311191921635",
+        "NOME": "Rua Doutor Luís Losso Filho, 876 - Novo Mundo",
+        "NUM": "170890",
+        "SENTIDO": "Formosa",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48910614096",
+        "LON": "-49,304108948654",
+        "NOME": "Rua Pedro Zagonel, 1024 - Novo Mundo",
+        "NUM": "170883",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489070417757",
+        "LON": "-49,307280495701",
+        "NOME": "Rua Pedro Zagonel, 1212 - Novo Mundo",
+        "NUM": "170039",
+        "SENTIDO": "Formosa",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489106419454",
+        "LON": "-49,310148542328",
+        "NOME": "Rua Pedro Zagonel, 1540 - Novo Mundo",
+        "NUM": "170040",
+        "SENTIDO": "Formosa",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455611030885",
+        "LON": "-49,285462231583",
+        "NOME": "Rua Guilherme Pugsley, 1056 - Água Verde",
+        "NUM": "150867",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478176609573",
+        "LON": "-49,289502979464",
+        "NOME": "Rua Eduardo Carlos Pereira, 3709 - Portão",
+        "NUM": "150568",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489219934575",
+        "LON": "-49,309697331137",
+        "NOME": "Rua Pedro Zagonel, 1539 - Novo Mundo",
+        "NUM": "170887",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Formosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461262206452",
+        "LON": "-49,291084141678",
+        "NOME": "Rua Guararapes, 838 - Vila Izabel",
+        "NUM": "180968",
+        "SENTIDO": "Formosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49273731085",
+        "LON": "-49,312507944775",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1993 - Novo Mundo",
+        "NUM": "170114",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48909403525",
+        "LON": "-49,299917997068",
+        "NOME": "Rua Pedro Zagonel, 602 - Novo Mundo",
+        "NUM": "170879",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490491620068",
+        "LON": "-49,311071222229",
+        "NOME": "Rua Doutor Luís Losso Filho, 767 - Novo Mundo",
+        "NUM": "170889",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    }
+]

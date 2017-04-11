@@ -1,0 +1,182 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,40349922706",
+        "LON": "-49,210627258963",
+        "NOME": "Rua José de Oliveira Franco, 482 - Bairro Alto",
+        "NUM": "130299",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402669393355",
+        "LON": "-49,208889187521",
+        "NOME": "Rua Rio Guaporé, 334 - Bairro Alto",
+        "NUM": "130303",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398769704232",
+        "LON": "-49,211541892237",
+        "NOME": "Rua Altônia, 2 - Bairro Alto",
+        "NUM": "130308",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398619480695",
+        "LON": "-49,210291982836",
+        "NOME": "Rua Epaminondas Santos, 186 - Bairro Alto",
+        "NUM": "130307",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401645722017",
+        "LON": "-49,210591049141",
+        "NOME": "Rua Rio Jaguaribe, 125 - Bairro Alto",
+        "NUM": "130309",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405586506164",
+        "LON": "-49,209649593777",
+        "NOME": "Rua José de Oliveira Franco, 642 - Bairro Alto",
+        "NUM": "130662",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41306",
+        "LON": "-49,20572",
+        "NOME": "Terminal Bairro Alto - 343 - Paraíso",
+        "NUM": "104013",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410161918506",
+        "LON": "-49,207336188501",
+        "NOME": "Rua José de Oliveira Franco, 1324 - Bairro Alto",
+        "NUM": "130297",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403451981206",
+        "LON": "-49,210494489616",
+        "NOME": "Rua José de Oliveira Franco, 481 - Bairro Alto",
+        "NUM": "130663",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410268518578",
+        "LON": "-49,207436771339",
+        "NOME": "Rua José de Oliveira Franco, 1327 - Bairro Alto",
+        "NUM": "130296",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407830018361",
+        "LON": "-49,208572686857",
+        "NOME": "Rua José de Oliveira Franco, 962 - Bairro Alto",
+        "NUM": "130294",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400979422397",
+        "LON": "-49,209207029289",
+        "NOME": "Rua Epaminondas Santos, 490 - Bairro Alto",
+        "NUM": "130305",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41306",
+        "LON": "-49,20572",
+        "NOME": "Terminal Bairro Alto - 343 - Paraíso",
+        "NUM": "104013",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405678573361",
+        "LON": "-49,209457815832",
+        "NOME": "Rua José de Oliveira Franco, 641- Bairro Alto",
+        "NUM": "130295",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398566175524",
+        "LON": "-49,210210175461",
+        "NOME": "Rua Epaminondas Santos, 183 - Bairro Alto",
+        "NUM": "130306",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407452595858",
+        "LON": "-49,208607398005",
+        "NOME": "Rua José de Oliveira Franco, 961 - Bairro Alto",
+        "NUM": "130298",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398769704232",
+        "LON": "-49,211541892237",
+        "NOME": "Rua Altônia, 2 - Bairro Alto",
+        "NUM": "130308",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400764994282",
+        "LON": "-49,209178866095",
+        "NOME": "Rua Epaminondas Santos, 481 - Bairro Alto",
+        "NUM": "130304",
+        "SENTIDO": "Jardim Paraíso",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,495333156573",
+        "LON": "-49,309757257367",
+        "NOME": "Rua General Potiguara, 201 - Novo Mundo",
+        "NUM": "170211",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497682238289",
+        "LON": "-49,31850363891",
+        "NOME": "Avenida das Industrias, 1054 - Cidade Industrial",
+        "NUM": "170220",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500137075871",
+        "LON": "-49,318930110144",
+        "NOME": "Rua Daniel Brambila, 422 - Cidade Industrial",
+        "NUM": "170225",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501283375843",
+        "LON": "-49,320023110317",
+        "NOME": "Travessa dos Marceneiros, 82 - Cidade Industrial",
+        "NUM": "170226",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500229070781",
+        "LON": "-49,319176873373",
+        "NOME": "Rua Daniel Brambila, 421 - Cidade Industrial",
+        "NUM": "170224",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505493241113",
+        "LON": "-49,326579770254",
+        "NOME": "Rua Schirlei Solange Mantovani, 607 - Cidade Industrial",
+        "NUM": "170235",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492009583472",
+        "LON": "-49,293362678236",
+        "NOME": "Terminal Capão Raso - 654 - Campo Alegre",
+        "NUM": "104817",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49250730719",
+        "LON": "-49,298540268826",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 518 - Novo Mundo",
+        "NUM": "170101",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492543623285",
+        "LON": "-49,301383410381",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 738 - Novo Mundo",
+        "NUM": "170103",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492644097757",
+        "LON": "-49,301477287697",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 839 - Novo Mundo",
+        "NUM": "170104",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492664676856",
+        "LON": "-49,303977106499",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1015 - Novo Mundo",
+        "NUM": "170106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497326355305",
+        "LON": "-49,313469132589",
+        "NOME": "Rua Senador Accioly Filho, 513 - Cidade Industrial",
+        "NUM": "170216",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492587202584",
+        "LON": "-49,310462687896",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1773 - Novo Mundo",
+        "NUM": "170100",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505625175277",
+        "LON": "-49,326725950645",
+        "NOME": "Rua Schirlei Solange Mantovani, 608 - Cidade Industrial",
+        "NUM": "170234",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492711887716",
+        "LON": "-49,310492192196",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1774 - Novo Mundo",
+        "NUM": "170112",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501182908595",
+        "LON": "-49,319876929926",
+        "NOME": "Travessa dos Marceneiros, 81 - Cidade Industrial",
+        "NUM": "170227",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510098746992",
+        "LON": "-49,32812874596",
+        "NOME": "Rua Schirlei Solange Mantovani, 1125 - Cidade Industrial",
+        "NUM": "170238",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,304170225548",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1016 - Novo Mundo",
+        "NUM": "170105",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,30582514851",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1332 - Novo Mundo",
+        "NUM": "170108",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500283596976",
+        "LON": "-49,324547381348",
+        "NOME": "Rua Guilherme Fugman, 467 - Cidade Industrial",
+        "NUM": "170230",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495715184795",
+        "LON": "-49,310345700192",
+        "NOME": "Rua Nossa Senhora da Cabeça, 37 - Cidade Industrial",
+        "NUM": "170215",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49956573748",
+        "LON": "-49,317484399485",
+        "NOME": "Rua Daniel Brambila, 191 - Cidade Industrial",
+        "NUM": "170222",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507661058394",
+        "LON": "-49,327306648897",
+        "NOME": "Rua Schirlei Solange Mantovani, 847 - Cidade Industrial",
+        "NUM": "170236",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497296093098",
+        "LON": "-49,313269308018",
+        "NOME": "Rua Senador Accioly Filho, 484 - Cidade Industrial",
+        "NUM": "170217",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50310750752",
+        "LON": "-49,325889101433",
+        "NOME": "Rua Schirlei Solange Mantovani, 318 - Cidade Industrial",
+        "NUM": "170233",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510188313555",
+        "LON": "-49,328210553335",
+        "NOME": "Rua Schirlei Solange Mantovani, 1126 - Cidade Industrial",
+        "NUM": "170239",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49756",
+        "LON": "-49,31141",
+        "NOME": "Rua Senador Accioly Filho, 298 - Cidade Industrial",
+        "NUM": "170214",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492009583472",
+        "LON": "-49,293362678236",
+        "NOME": "Terminal Capão Raso - 654 - Campo Alegre",
+        "NUM": "104817",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491732105446",
+        "LON": "-49,297329212303",
+        "NOME": "R. Francisco Ader, 341 - Novo Mundo",
+        "NUM": "170001",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492687677021",
+        "LON": "-49,306071911739",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1203 - Novo Mundo",
+        "NUM": "170107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503021566968",
+        "LON": "-49,325754990982",
+        "NOME": "Rua Schirlei Solange Mantovani, 317 - Cidade Industrial",
+        "NUM": "170232",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500706046192",
+        "LON": "-49,322663129515",
+        "NOME": "Rua Guilherme Fugman, 320 - Cidade Industrial",
+        "NUM": "170229",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507990282386",
+        "LON": "-49,3275158612",
+        "NOME": "Rua Schirlei Solange Mantovani, 912 - Cidade Industrial",
+        "NUM": "170237",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501329428425",
+        "LON": "-49,320773513264",
+        "NOME": "Rua Guilherme Fugman, 69 - Cidade Industrial",
+        "NUM": "170895",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500800461573",
+        "LON": "-49,32266178841",
+        "NOME": "Rua Guilherme Fugman, 311 - Cidade Industrial",
+        "NUM": "170228",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497035837802",
+        "LON": "-49,316825917172",
+        "NOME": "Rua Senador Accioly Filho, 671 - Cidade Industrial",
+        "NUM": "170218",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511699482852",
+        "LON": "-49,324640845404",
+        "NOME": "Terminal CIC - 654 - Campo Alegre",
+        "NUM": "105203",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492486635675",
+        "LON": "-49,296568979167",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 236 - Novo Mundo",
+        "NUM": "170111",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511699482852",
+        "LON": "-49,324640845404",
+        "NOME": "Terminal CIC - 654 - Campo Alegre",
+        "NUM": "105203",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492719150923",
+        "LON": "-49,30850601642",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1601 - Novo Mundo",
+        "NUM": "170109",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497505507415",
+        "LON": "-49,318125447439",
+        "NOME": "Avenida das Industrias, 4510 - Cidade Industrial",
+        "NUM": "170221",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500229126338",
+        "LON": "-49,324394495434",
+        "NOME": "Rua Guilherme Fugman, 468 - Cidade Industrial",
+        "NUM": "170231",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492595676336",
+        "LON": "-49,308677677797",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1774 - Novo Mundo",
+        "NUM": "170110",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496926893557",
+        "LON": "-49,316487958836",
+        "NOME": "Rua Senador Accioly Filho, 672 - Cidade Industrial",
+        "NUM": "170219",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499597209581",
+        "LON": "-49,317774078058",
+        "NOME": "Rua Daniel Brambila, 192 - Cidade Industrial",
+        "NUM": "170223",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492652571504",
+        "LON": "-49,298435662674",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 459 - Novo Mundo",
+        "NUM": "170102",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494582639135",
+        "LON": "-49,310063029195",
+        "NOME": "Rua General Potiguara, 458 - Novo Mundo",
+        "NUM": "170212",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    }
+]

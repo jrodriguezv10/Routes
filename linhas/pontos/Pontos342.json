@@ -1,0 +1,642 @@
+[
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41291",
+        "LON": "-49,20507",
+        "NOME": "Terminal Bairro Alto - 342 - Bairro Alto / Boa Vista",
+        "NUM": "104005",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39107457596",
+        "LON": "-49,224417930059",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2625 - Bacacheri",
+        "NUM": "130040",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392448039233",
+        "LON": "-49,203998179382",
+        "NOME": "Rua Rio Japurá, 244 - Bairro Alto",
+        "NUM": "130496",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387029112927",
+        "LON": "-49,219086938658",
+        "NOME": "Rua Monteiro Tourinho, 69 - Tingui",
+        "NUM": "130093",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403029668911",
+        "LON": "-49,200337813492",
+        "NOME": "Rua Rio Jarí, 1279 - Bairro Alto",
+        "NUM": "130508",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41291",
+        "LON": "-49,20507",
+        "NOME": "Terminal Bairro Alto - 342 - Bairro Alto / Boa Vista",
+        "NUM": "104005",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39726",
+        "LON": "-49,23801",
+        "NOME": "Rua Marcelino Nogueira, 239 - Bacacheri",
+        "NUM": "130481",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405036983089",
+        "LON": "-49,199550116568",
+        "NOME": "Rua Rio Jarí, 1537- Bairro Alto",
+        "NUM": "130509",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40761",
+        "LON": "-49,20091",
+        "NOME": "Rua Joaquim da Costa Ribeiro, 1951 - Bairro Alto",
+        "NUM": "130512",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397873655354",
+        "LON": "-49,201472449074",
+        "NOME": "Rua Rio Japurá, 1010 - Bairro Alto",
+        "NUM": "130502",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40811",
+        "LON": "-49,19855",
+        "NOME": "Rua Albino Kaminski, 1064 - Bairro Alto",
+        "NUM": "130513",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387315750728",
+        "LON": "-49,215657550926",
+        "NOME": "Rua Monteiro Tourinho, 1056 - Tingui",
+        "NUM": "130095",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387786417921",
+        "LON": "-49,213581487102",
+        "NOME": "Rua Monteiro Tourinho, 1278 - Tingui",
+        "NUM": "130484",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388619503134",
+        "LON": "-49,20784446711",
+        "NOME": "Av. Mal. Mascarenhas de Moraes - Atuba",
+        "NUM": "130897",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389546473807",
+        "LON": "-49,206915081686",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130488",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38773582086",
+        "LON": "-49,22182046627",
+        "NOME": "Rua Monteiro Tourinho, 457 - Tingui",
+        "NUM": "130091",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410306390921",
+        "LON": "-49,204293906746",
+        "NOME": "Rua Albino Kaminski, 423 - Bairro Alto",
+        "NUM": "130192",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388460785883",
+        "LON": "-49,206953973717",
+        "NOME": "Av. Mal. Mascarenhas de Moraes - Atuba",
+        "NUM": "130518",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393374230673",
+        "LON": "-49,240916705523",
+        "NOME": "Terminal Boa Vista - 342 - Bairro Alto/Boa Vista",
+        "NUM": "104203",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38922849905",
+        "LON": "-49,222997055225",
+        "NOME": "Rua Monteiro Tourinho, 220 - Tingui",
+        "NUM": "130090",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397996673642",
+        "LON": "-49,201539387732",
+        "NOME": "Rua Rio Japurá, 1009 - Bairro Alto",
+        "NUM": "130501",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40885",
+        "LON": "-49,20079",
+        "NOME": "Rua Albino Kaminski, 775 - Bairro Alto",
+        "NUM": "130514",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392424865256",
+        "LON": "-49,226471341105",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2419 - Bacacheri",
+        "NUM": "130022",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387548568613",
+        "LON": "-49,213875889549",
+        "NOME": "Rua Monteiro Tourinho, 1277 - Tingui",
+        "NUM": "130485",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388140053038",
+        "LON": "-49,210451836805",
+        "NOME": "Rua Monteiro Tourinho, 1611 - Tingui",
+        "NUM": "130487",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397075195282",
+        "LON": "-49,237951107969",
+        "NOME": "Rua Marcelino Nogueira, 240 - Bacacheri",
+        "NUM": "130482",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396550615975",
+        "LON": "-49,20222475215",
+        "NOME": "Rua Rio Japurá, 720 - Bairro Alto",
+        "NUM": "130500",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391068084046",
+        "LON": "-49,204293222374",
+        "NOME": "Rua Rio Japurá, 177 - Atuba",
+        "NUM": "130494",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389640307432",
+        "LON": "-49,223107288361",
+        "NOME": "Rua Monteiro Tourinho, 147 - Tingui",
+        "NUM": "130089",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392630982063",
+        "LON": "-49,204063893503",
+        "NOME": "Rua Rio Japurá, 237 - Bairro Alto",
+        "NUM": "130495",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395245461824",
+        "LON": "-49,239574023314",
+        "NOME": "Rua Marcelino Nogueira, 507 - Bacacheri",
+        "NUM": "130480",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389539692577",
+        "LON": "-49,203815364418",
+        "NOME": "Estrada da Graciosa, 80 - Atuba",
+        "NUM": "130492",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394267576951",
+        "LON": "-49,203132565641",
+        "NOME": "Rua Rio Japurá, 560 - Bairro Alto",
+        "NUM": "130497",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39634",
+        "LON": "-49,20217",
+        "NOME": "Rua Rio Japurá, 719 - Bairro Alto",
+        "NUM": "130517",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40891",
+        "LON": "-49,20073",
+        "NOME": "Rua Albino Kaminski, 777 - Bairro Alto",
+        "NUM": "130515",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387071808744",
+        "LON": "-49,218003527613",
+        "NOME": "Rua Monteiro Tourinho, 874 - Tingui",
+        "NUM": "130094",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410119690924",
+        "LON": "-49,204163411045",
+        "NOME": "Rua Albino Kaminski, 422 - Bairro Alto",
+        "NUM": "130516",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394551499569",
+        "LON": "-49,203163294477",
+        "NOME": "Rua Rio Japurá, 559 - Bairro Alto",
+        "NUM": "130498",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399656960588",
+        "LON": "-49,20146",
+        "NOME": "Rua Rio Guaporé, 1077 - Bairro Alto",
+        "NUM": "130503",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387075768067",
+        "LON": "-49,216025597553",
+        "NOME": "Rua Monteiro Tourinho, 1047 - Tingui",
+        "NUM": "130096",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389378462956",
+        "LON": "-49,203822682209",
+        "NOME": "Estrada da Graciosa, 79 - Atuba",
+        "NUM": "130491",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400960330257",
+        "LON": "-49,20131317791",
+        "NOME": "Rua Rio Jarí, 1040 - Bairro Alto",
+        "NUM": "130506",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404921851969",
+        "LON": "-49,19943317791",
+        "NOME": "Rua Rio Jarí, 1538 - Bairro Alto",
+        "NUM": "130510",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391476076532",
+        "LON": "-49,224709154596",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2608 - Bacacheri",
+        "NUM": "130041",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388217594522",
+        "LON": "-49,210943527613",
+        "NOME": "Rua Monteiro Tourinho, 1592 - Tingui",
+        "NUM": "130486",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393374230673",
+        "LON": "-49,240916705523",
+        "NOME": "Terminal Boa Vista - 342 - Bairro Alto/Boa Vista",
+        "NUM": "104203",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "34",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39521",
+        "LON": "-49,23951",
+        "NOME": "Rua Marcelino Nogueira, 508 - Bacacheri",
+        "NUM": "130700",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "33",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39969303942",
+        "LON": "-49,201251341105",
+        "NOME": "Rua Rio Guaporé, 1080 - Bairro Alto",
+        "NUM": "130504",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390939658968",
+        "LON": "-49,204326749987",
+        "NOME": "Rua Rio Japurá, 174 - Atuba",
+        "NUM": "130493",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387857884111",
+        "LON": "-49,220746209822",
+        "NOME": "Rua Monteiro Tourinho, 530 - Tingui",
+        "NUM": "130092",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389711132922",
+        "LON": "-49,206190885252",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130490",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401093061579",
+        "LON": "-49,201370116568",
+        "NOME": "Rua Rio Jarí, 1039 - Bairro Alto",
+        "NUM": "130505",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402952400316",
+        "LON": "-49,20049475215",
+        "NOME": "Rua Rio Jarí, 1278 - Bairro Alto",
+        "NUM": "130507",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405687909385",
+        "LON": "-49,200813294477",
+        "NOME": "Rua Henrique Corrêa, 1319 -  Bairro Alto",
+        "NUM": "130511",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    }
+]

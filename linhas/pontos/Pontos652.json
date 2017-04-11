@@ -1,0 +1,452 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,531973115344",
+        "LON": "-49,329311428242",
+        "NOME": "Rua Paul Garfunkel, 571 - Cidade Industrial",
+        "NUM": "170687",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534652008925",
+        "LON": "-49,332679425167",
+        "NOME": "Rua Emílio Romani, 1322 - Cidade Industrial",
+        "NUM": "170339",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515244366284",
+        "LON": "-49,328156293577",
+        "NOME": "Rua Des. Cid. Campelo, 3829 -Cidade Industrial",
+        "NUM": "170126",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526064027951",
+        "LON": "-49,330493838734",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1636- Cidade Industrial",
+        "NUM": "170136",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528363498172",
+        "LON": "-49,337962035822",
+        "NOME": "Rua Herculano de Araújo Filho, 355 - Cidade Industrial",
+        "NUM": "170727",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532110747246",
+        "LON": "-49,339060400414",
+        "NOME": "Rua Marco Campos, 191 - Cidade Industrial",
+        "NUM": "170722",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528417350957",
+        "LON": "-49,33788693397",
+        "NOME": "Rua Herculano de Araújo Filho, 356 - Cidade Industrial",
+        "NUM": "170728",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5276464",
+        "LON": "-49,3342498",
+        "NOME": "Rua Antônia Molina Bela, 246- Cidade Industrial",
+        "NUM": "170747",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520337232347",
+        "LON": "-49,328635067886",
+        "NOME": "Rua Vicente Micheloto, 1799 -Cidade Industrial",
+        "NUM": "170130",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523540737703",
+        "LON": "-49,333980710453",
+        "NOME": "Rua Vicente Micheloto, 1224 - Cidade Industrial",
+        "NUM": "170134",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,51165668622",
+        "LON": "-49,32478635582",
+        "NOME": "Terminal CIC - 652 - Vila Verde / X18 - Paul Garfunkel",
+        "NUM": "105202",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,51165668622",
+        "LON": "-49,32478635582",
+        "NOME": "Terminal CIC - 652 - Vila Verde / X18 - Paul Garfunkel",
+        "NUM": "105202",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526221353643",
+        "LON": "-49,330535412973",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1635 - Cidade Industrial",
+        "NUM": "170137",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532157942597",
+        "LON": "-49,33713725655",
+        "NOME": "Rua Jornalista Augusto Waldrigues, 203 - Cidade Industrial",
+        "NUM": "170720",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529402429108",
+        "LON": "-49,338432763504",
+        "NOME": "Rua Benedito Pedro Donders, 477  - Cidade Industrial",
+        "NUM": "170726",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52806276925",
+        "LON": "-49,336331252741",
+        "NOME": "Rua Emílio Romani, 2123 - Cidade Industrial",
+        "NUM": "170730",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519389598016",
+        "LON": "-49,324883998579",
+        "NOME": "Rua José Rodrigues Pinheiro, 2949  - Capão Raso",
+        "NUM": "170132",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531743376898",
+        "LON": "-49,329004402447",
+        "NOME": "Rua Paul Garfunkel, 570 - Cidade Industrial",
+        "NUM": "170087",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515064030325",
+        "LON": "-49,328661889977",
+        "NOME": "Rua Des. Cid. Campelo, 3690 - Cidade Industrial",
+        "NUM": "170125",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519727261682",
+        "LON": "-49,328470112032",
+        "NOME": "Rua Vicente Micheloto, 408 - Cidade Industrial",
+        "NUM": "170349",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533322088695",
+        "LON": "-49,334125135826",
+        "NOME": "Rua Emílio Romani, 1492 - Cidade Industrial",
+        "NUM": "170341",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516484925097",
+        "LON": "-49,326585860199",
+        "NOME": "Rua Des. Cid. Campelo, 3565 - Cidade Industrial",
+        "NUM": "170127",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528124978167",
+        "LON": "-49,328649820036",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1502 - Cidade Industrial",
+        "NUM": "170138",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534715225896",
+        "LON": "-49,33127635582",
+        "NOME": "Rua Paul Garfunkel, 665 - Cidade Industrial",
+        "NUM": "170088",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534741557164",
+        "LON": "-49,332759891438",
+        "NOME": "Rua Emílio Romani, 1321 - Cidade Industrial",
+        "NUM": "170338",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532144631089",
+        "LON": "-49,339171712088",
+        "NOME": "Rua Marco Campos, 192 - Cidade Industrial",
+        "NUM": "170721",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530633160346",
+        "LON": "-49,338652704643",
+        "NOME": "Rua Jornalista Rubens Ávila, 426 - Cidade Industrial",
+        "NUM": "170723",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523796094669",
+        "LON": "-49,33374467606",
+        "NOME": "Rua Vicente Micheloto, 2375 - Cidade Industrial",
+        "NUM": "170135",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533377754442",
+        "LON": "-49,334214989828",
+        "NOME": "Rua Emílio Romani, 1493 - Cidade Industrial",
+        "NUM": "170340",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5276464",
+        "LON": "-49,3342498",
+        "NOME": "Rua Antônia Molina Bela, 246- Cidade Industrial",
+        "NUM": "170747",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516598692776",
+        "LON": "-49,326762885994",
+        "NOME": "Rua Des. Cid. Campelo, 3564 - Cidade Industrial",
+        "NUM": "170128",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528550959939",
+        "LON": "-49,328436584419",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1300 - Cidade Industrial",
+        "NUM": "170139",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534789175374",
+        "LON": "-49,331466063824",
+        "NOME": "Rua Paul Garfunkel, 664 - Cidade Industrial",
+        "NUM": "170688",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532038138978",
+        "LON": "-49,334689740824",
+        "NOME": "Rua Emílio Romani, 1712 - Cidade Industrial",
+        "NUM": "170342",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519747836139",
+        "LON": "-49,326423586554",
+        "NOME": "Rua José Rodrigues Pinheiro, 2950 - Capão Raso",
+        "NUM": "170131",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532092595183",
+        "LON": "-49,334752772736",
+        "NOME": "Rua Emílio Romani, 1713 - Cidade Industrial",
+        "NUM": "170343",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532191826426",
+        "LON": "-49,337115798878",
+        "NOME": "Rua Jornalista Augusto Waldrigues, 204 - Cidade Industrial",
+        "NUM": "170719",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530683986733",
+        "LON": "-49,338619177031",
+        "NOME": "Rua Jornalista Rubens Ávila, 425 - Cidade Industrial",
+        "NUM": "170724",
+        "SENTIDO": "Vila Verde",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517744835608",
+        "LON": "-49,324646623081",
+        "NOME": "Rua João Chede, 3368 - Cidade Industrial",
+        "NUM": "170133",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529424212072",
+        "LON": "-49,338523958611",
+        "NOME": "Rua Benedito Pedro Donders, 476 - Cidade Industrial",
+        "NUM": "170725",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527842516603",
+        "LON": "-49,336233352112",
+        "NOME": "Rua Herculano de Araújo Filho, 142 - Cidade Industrial",
+        "NUM": "170729",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

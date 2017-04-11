@@ -1,0 +1,352 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,432983631758",
+        "LON": "-49,277847234116",
+        "NOME": "R. Visc. de Nacar, 1210 - Centro",
+        "NUM": "110014",
+        "SENTIDO": "Centro",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435467100004",
+        "LON": "-49,247550548262",
+        "NOME": "Av. São José, 81 - Cristo Rei",
+        "NUM": "130880",
+        "SENTIDO": "Centro",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Centro",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43591",
+        "LON": "-49,26173",
+        "NOME": "Av. Sete de Setembro, 2331 - Centro",
+        "NUM": "110156",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435052433136",
+        "LON": "-49,275875855623",
+        "NOME": "Rua Visconde de Nácar, 1224 - Centro",
+        "NUM": "110158",
+        "SENTIDO": "Centro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Centro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43458",
+        "LON": "-49,2406",
+        "NOME": "Av. São José, 807 - Cristo Rei",
+        "NUM": "130130",
+        "SENTIDO": "Centro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433547474231",
+        "LON": "-49,253125519699",
+        "NOME": "Rua Francisco Alves Guimarães, 20 - Cristo Rei",
+        "NUM": "140202",
+        "SENTIDO": "Centro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432681513162",
+        "LON": "-49,258593202776",
+        "NOME": "Av. Visc. de Guarapuava, 1692 - Centro",
+        "NUM": "140204",
+        "SENTIDO": "Centro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432068069841",
+        "LON": "-49,255042628592",
+        "NOME": "Rua do Herval, 1 - Alto da Rua XV",
+        "NUM": "140203",
+        "SENTIDO": "Centro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433204723951",
+        "LON": "-49,235330403989",
+        "NOME": "Rua Frei Orlando, 1243 - Jardim Social",
+        "NUM": "130885",
+        "SENTIDO": "Centro",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433204723951",
+        "LON": "-49,235330403989",
+        "NOME": "Rua Frei Orlando, 1243 - Jardim Social",
+        "NUM": "130885",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Centro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430726719419",
+        "LON": "-49,273716838306",
+        "NOME": "Rua Cândido Lopes, 76 - Centro",
+        "NUM": "110104",
+        "SENTIDO": "Centro",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435225811021",
+        "LON": "-49,242962536211",
+        "NOME": "Av. São José, 587 - Cristo Rei",
+        "NUM": "130132",
+        "SENTIDO": "Centro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434846838961",
+        "LON": "-49,236298681444",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 793 - Jardim Social",
+        "NUM": "130317",
+        "SENTIDO": "Centro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434759809272",
+        "LON": "-49,234598160929",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 954 - Jardim Social",
+        "NUM": "130888",
+        "SENTIDO": "Centro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436612761883",
+        "LON": "-49,273029030375",
+        "NOME": "Praça Rui Barbosa - 385 - Cristo Rei",
+        "NUM": "102027",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435853443702",
+        "LON": "-49,257311106867",
+        "NOME": "Av. Pres. Affonso Camargo, 306 - Jardim Botânico",
+        "NUM": "140217",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432675457468",
+        "LON": "-49,237179787106",
+        "NOME": "Rua Gotlibe Rosenau, 70 - Tarumã",
+        "NUM": "130884",
+        "SENTIDO": "Cristo Rei",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436612761883",
+        "LON": "-49,273029030375",
+        "NOME": "Praça Rui Barbosa - 385 - Cristo Rei",
+        "NUM": "102027",
+        "SENTIDO": "Centro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431282639826",
+        "LON": "-49,264389456457",
+        "NOME": "Rua Conselheiro Laurindo, 341 - Centro",
+        "NUM": "110153",
+        "SENTIDO": "Centro",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4316605189",
+        "LON": "-49,276690066999",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 158 - Centro",
+        "NUM": "110106",
+        "SENTIDO": "Centro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435330655522",
+        "LON": "-49,246068658896",
+        "NOME": "Av. São José, 239 - Cristo Rei",
+        "NUM": "130134",
+        "SENTIDO": "Centro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434899598872",
+        "LON": "-49,24965127532",
+        "NOME": "Rua Padre Germano Maier, 71 - Cristo Rei",
+        "NUM": "130136",
+        "SENTIDO": "Centro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433446779633",
+        "LON": "-49,238060892767",
+        "NOME": "Av. São José, 1063 - Cristo Rei",
+        "NUM": "130878",
+        "SENTIDO": "Centro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433709765543",
+        "LON": "-49,251164824909",
+        "NOME": "Rua Francisco Alves Guimarães, 421 - Cristo Rei",
+        "NUM": "140201",
+        "SENTIDO": "Centro",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    }
+]

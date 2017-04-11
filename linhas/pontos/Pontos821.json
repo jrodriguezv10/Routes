@@ -1,0 +1,742 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,412273324782",
+        "LON": "-49,35799317791",
+        "NOME": "Rua José Rubens de Lima, 735 - São Braz",
+        "NUM": "190063",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42967785171",
+        "LON": "-49,354058386034",
+        "NOME": "Rua Virgínia Dalabona, 260 - Orleans",
+        "NUM": "190292",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41909419312",
+        "LON": "-49,362912357992",
+        "NOME": "Rua Pedro Corrêa da Cruz, 88 - São Braz",
+        "NUM": "190269",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411484721818",
+        "LON": "-49,350269765801",
+        "NOME": "Rua Brasílio Cuman, 10 - São Braz",
+        "NUM": "190255",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408017783418",
+        "LON": "-49,339948625511",
+        "NOME": "Av. Vereador Toaldo Túlio, 1062 - São Braz",
+        "NUM": "190247",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423895592637",
+        "LON": "-49,358674467749",
+        "NOME": "Rua Carlos Welner, 3 - Orleans",
+        "NUM": "190010",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408739767624",
+        "LON": "-49,357684906295",
+        "NOME": "Rua Brasílio Cuman, 830 - São Braz",
+        "NUM": "190260",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42341352332",
+        "LON": "-49,363222153134",
+        "NOME": "Rua Pedro Corrêa da Cruz, 613 - São Braz",
+        "NUM": "190276",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410054106972",
+        "LON": "-49,352825910992",
+        "NOME": "Rua Brasílio Cuman, 330 - São Braz",
+        "NUM": "190256",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433111466638",
+        "LON": "-49,352018566078",
+        "NOME": "Rua Prof. João Falarz, 10 - Orleans",
+        "NUM": "190295",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421193314872",
+        "LON": "-49,363145710177",
+        "NOME": "Rua da Independência, 209 - São Braz",
+        "NUM": "190272",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416730914216",
+        "LON": "-49,358799190468",
+        "NOME": "Rua José Rubens de Lima, 80 - São Braz",
+        "NUM": "190264",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441711798865",
+        "LON": "-49,346667171793",
+        "NOME": "Terminal Campo Comprido - 821 - Fernão Dias",
+        "NUM": "104608",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432956441336",
+        "LON": "-49,35193273539",
+        "NOME": "Rua Prof. João Falarz, 267 - Orleans",
+        "NUM": "190294",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429088011009",
+        "LON": "-49,36065930242",
+        "NOME": "Rua Olívia G. Freitas, 311 - Orleans",
+        "NUM": "190288",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427151326886",
+        "LON": "-49,358721406406",
+        "NOME": "Rua Bernardino Iatauro, 545 - Orleans",
+        "NUM": "190284",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425592509742",
+        "LON": "-49,358528287358",
+        "NOME": "Rua Carlos Welner, 207 - Orleans",
+        "NUM": "190282",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409242488974",
+        "LON": "-49,355103106445",
+        "NOME": "Rua Brasílio Cuman, 566 - São Braz",
+        "NUM": "190258",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438238328765",
+        "LON": "-49,347503966189",
+        "NOME": "Rua Prof. João Falarz, 1022 - Orleans",
+        "NUM": "190299",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435506094865",
+        "LON": "-49,349913930988",
+        "NOME": "Rua Prof. João Falarz, 650 - Orleans",
+        "NUM": "190297",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429728720793",
+        "LON": "-49,353932322211",
+        "NOME": "Rua Virgínia Dalabona, 261 - Orleans",
+        "NUM": "190293",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421007992842",
+        "LON": "-49,361248047299",
+        "NOME": "Rua Frederico Escorsin, 468 - São Braz",
+        "NUM": "190274",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409156481373",
+        "LON": "-49,355056167788",
+        "NOME": "Rua Brasílio Cuman, 567- São Braz",
+        "NUM": "190257",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411111624917",
+        "LON": "-49,349199564404",
+        "NOME": "Av. Vereador Toaldo Túlio, 2268 - São Braz",
+        "NUM": "190253",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435073727705",
+        "LON": "-49,350422209597",
+        "NOME": "Rua Prof. João Falarz, 679 - Orleans",
+        "NUM": "190296",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421175146058",
+        "LON": "-49,361130030102",
+        "NOME": "Rua Frederico Escorsin, 469 - São Braz",
+        "NUM": "190273",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418378327315",
+        "LON": "-49,361252070612",
+        "NOME": "Rua Antônio Escorsin, 3269 - Santa Felicidade",
+        "NUM": "190267",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41441615731",
+        "LON": "-49,358316392846",
+        "NOME": "Rua José Rubens de Lima, 456 - São Braz",
+        "NUM": "190261",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408847580331",
+        "LON": "-49,357621874383",
+        "NOME": "Rua Brasílio Cuman, 831- São Braz",
+        "NUM": "190259",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412253917636",
+        "LON": "-49,358077434359",
+        "NOME": "Rua José Rubens de Lima, 734 - São Braz",
+        "NUM": "190064",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429986699386",
+        "LON": "-49,353638620323",
+        "NOME": "Av. Vereador Toaldo Túlio, 4686 - São Braz",
+        "NUM": "190070",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411375700116",
+        "LON": "-49,350319386668",
+        "NOME": "Rua Brasílio Cuman, 11 - São Braz",
+        "NUM": "190770",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406928742016",
+        "LON": "-49,3368211698",
+        "NOME": "Av. Vereador Toaldo Túlio, 920 - Santa Felicidade",
+        "NUM": "190245",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404280598103",
+        "LON": "-49,335549802727",
+        "NOME": "Av. Vereador Toaldo Túlio, 640 - São Braz",
+        "NUM": "190243",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411697886505",
+        "LON": "-49,359303906746",
+        "NOME": "Rua São José da Boa Vista, 208 - São Braz",
+        "NUM": "190065",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407821538641",
+        "LON": "-49,338895858473",
+        "NOME": "Av. Vereador Toaldo Túlio, 1159 - Santa Felicidade",
+        "NUM": "190248",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401036303155",
+        "LON": "-49,33440538161",
+        "NOME": "Rua Domingos Strapasson, 1 - Santa Felicidade",
+        "NUM": "190242",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410601643194",
+        "LON": "-49,346396655983",
+        "NOME": "Av. Vereador Toaldo Túlio, 1977 - São Braz",
+        "NUM": "190252",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409166172373",
+        "LON": "-49,342752875036",
+        "NOME": "Av. Vereador Toaldo Túlio, 1577 - São Braz",
+        "NUM": "190250",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40709591475",
+        "LON": "-49,336839945263",
+        "NOME": "Av. Vereador Toaldo Túlio, 895 - Santa Felicidade",
+        "NUM": "190246",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404229718282",
+        "LON": "-49,335376800245",
+        "NOME": "Av. Vereador Toaldo Túlio, 641 - São Braz",
+        "NUM": "190244",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441711798865",
+        "LON": "-49,346667171793",
+        "NOME": "Terminal Campo Comprido - 821 - Fernão Dias",
+        "NUM": "104608",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "39",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429172793218",
+        "LON": "-49,360759885258",
+        "NOME": "Rua Olívia G. Freitas, 310 - Orleans",
+        "NUM": "190289",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427869562965",
+        "LON": "-49,360542626328",
+        "NOME": "Rua Olívia G. Freitas, 380 - Orleans",
+        "NUM": "190287",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40994387261",
+        "LON": "-49,352795065588",
+        "NOME": "Rua Brasílio Cuman, 333 - São Braz",
+        "NUM": "190507",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408981804785",
+        "LON": "-49,360510379133",
+        "NOME": "Rua Hermenegildo Luca, 4088 - São Braz",
+        "NUM": "190927",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437816871195",
+        "LON": "-49,347698426342",
+        "NOME": "Rua Prof. João Falarz, 989 - Orleans",
+        "NUM": "190298",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423646079613",
+        "LON": "-49,360192598051",
+        "NOME": "Av. Três Marias, 859 - São Braz",
+        "NUM": "190279",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40062683012",
+        "LON": "-49,330711979797",
+        "NOME": "Terminal Santa Felicidade - 821 - Fernão Dias",
+        "NUM": "106017",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418282635963",
+        "LON": "-49,361246706194",
+        "NOME": "Rua Antônio Escorsin, 3330 - Santa Felicidade",
+        "NUM": "190268",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425478655952",
+        "LON": "-49,358643622345",
+        "NOME": "Rua Carlos Welner, 206 - Orleans",
+        "NUM": "190283",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423954942746",
+        "LON": "-49,363204718775",
+        "NOME": "Rua Pedro Corrêa da Cruz, 614 - São Braz",
+        "NUM": "190277",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410445377579",
+        "LON": "-49,346344352907",
+        "NOME": "Av. Vereador Toaldo Túlio, 1868 - São Braz",
+        "NUM": "190251",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423916183494",
+        "LON": "-49,358553768343",
+        "NOME": "Rua Carlos Welner, 2 - Orleans",
+        "NUM": "190281",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421117005835",
+        "LON": "-49,363203377671",
+        "NOME": "Rua da Independência, 208 - São Braz",
+        "NUM": "190271",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429637883129",
+        "LON": "-49,357095987743",
+        "NOME": "Rua Virgínia Dalabona, 498 - Orleans",
+        "NUM": "190290",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414617236637",
+        "LON": "-49,358453185505",
+        "NOME": "Rua José Rubens de Lima, 455 - São Braz",
+        "NUM": "190262",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408806393465",
+        "LON": "-49,342162789053",
+        "NOME": "Av. Vereador Toaldo Túlio, 1362- São Braz",
+        "NUM": "190249",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411534718527",
+        "LON": "-49,361261399965",
+        "NOME": "Rua São José da Boa Vista, 48 - São Braz",
+        "NUM": "190067",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40062683012",
+        "LON": "-49,330711979797",
+        "NOME": "Terminal Santa Felicidade - 821 - Fernão Dias",
+        "NUM": "106017",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429551890078",
+        "LON": "-49,357026250309",
+        "NOME": "Rua Virgínia Dalabona, 499 - Orleans",
+        "NUM": "190291",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427168283605",
+        "LON": "-49,360440702385",
+        "NOME": "Rua Olívia G. Freitas, 371 - Orleans",
+        "NUM": "190286",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416239183526",
+        "LON": "-49,358592660374",
+        "NOME": "Rua José Rubens de Lima, 239 - São Braz",
+        "NUM": "190263",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411327245994",
+        "LON": "-49,349471808619",
+        "NOME": "Av. Vereador Toaldo Túlio, 2297 - São Braz",
+        "NUM": "190254",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411792397208",
+        "LON": "-49,359248542328",
+        "NOME": "Rua São José da Boa Vista, 207 - São Braz",
+        "NUM": "190066",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41131",
+        "LON": "-49,36153",
+        "NOME": "Rua Hermenegildo Luca, 4280 - São Braz",
+        "NUM": "190068",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401274959875",
+        "LON": "-49,33459581845",
+        "NOME": "Rua Domingos Strapasson, 2 - Santa Felicidade",
+        "NUM": "190241",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427026573809",
+        "LON": "-49,358851493544",
+        "NOME": "Rua Bernardino Iatauro, 546 - Orleans",
+        "NUM": "190285",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423609742722",
+        "LON": "-49,35885015244",
+        "NOME": "Av. Três Marias, 753 - São Braz",
+        "NUM": "190280",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419148700495",
+        "LON": "-49,363025010771",
+        "NOME": "Rua Pedro Corrêa da Cruz, 87 - São Braz",
+        "NUM": "190270",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408839100684",
+        "LON": "-49,360588223881",
+        "NOME": "Rua Hermenegildo Luca, 4087 - São Braz",
+        "NUM": "190771",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42375504625",
+        "LON": "-49,360152364916",
+        "NOME": "Av. Três Marias, 858 - São Braz",
+        "NUM": "190278",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    }
+]

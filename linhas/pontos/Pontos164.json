@@ -1,0 +1,222 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431392303248",
+        "LON": "-49,271674729546",
+        "NOME": "Av. Mal. Floriano Peixoto - 165 - Universidades",
+        "NUM": "103278",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415882380661",
+        "LON": "-49,282196052369",
+        "NOME": "R. Dr. Roberto Barroso, 1351 - Bom Retiro",
+        "NUM": "110419",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416400286844",
+        "LON": "-49,280021370596",
+        "NOME": "R. Dr. Roberto Barroso, Praça da Bandeira - Bom Retiro",
+        "NUM": "110420",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414782566583",
+        "LON": "-49,284542861179",
+        "NOME": "Rua Raquel Prado, 808 - Mercês",
+        "NUM": "110417",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414211575508",
+        "LON": "-49,280681406974",
+        "NOME": "R. Teffé, 667 - Bom Retiro",
+        "NUM": "110421",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417483943543",
+        "LON": "-49,27734842576",
+        "NOME": "R. Des. Hugo Simas, 47 - São Francisco",
+        "NUM": "110130",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428057764996",
+        "LON": "-49,271696557684",
+        "NOME": "Travessa. Nestor de Castro - Centro",
+        "NUM": "101131",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41498",
+        "LON": "-49,27676",
+        "NOME": "R. Teffé, 284 - Bom Retiro",
+        "NUM": "110132",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413548832302",
+        "LON": "-49,283634991311",
+        "NOME": "R. Teffé, 962 - Bom Retiro",
+        "NUM": "110418",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414782566583",
+        "LON": "-49,284542861179",
+        "NOME": "Rua Raquel Prado, 808 - Mercês",
+        "NUM": "110417",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429160241369",
+        "LON": "-49,273873372562",
+        "NOME": "Alameda Dr. Muricy, 949 - Centro",
+        "NUM": "110341",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431392303248",
+        "LON": "-49,271674729546",
+        "NOME": "Av. Mal. Floriano Peixoto - 165 - Universidades",
+        "NUM": "103278",
+        "SENTIDO": "Mal. Floriano",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    }
+]

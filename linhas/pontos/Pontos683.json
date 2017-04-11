@@ -1,0 +1,762 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,545542809936",
+        "LON": "-49,272295101852",
+        "NOME": "Rua Mandirituba, 1427 - Sítio Cercado",
+        "NUM": "160122",
+        "SENTIDO": "Futurama",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5671674541",
+        "LON": "-49,281746030993",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1408 - Umbara",
+        "NUM": "160069",
+        "SENTIDO": "Futurama",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555882030402",
+        "LON": "-49,273661853022",
+        "NOME": "Rua Helena Grodzki, 2673 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160733",
+        "SENTIDO": "Futurama",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562618285155",
+        "LON": "-49,26898509264",
+        "NOME": "Rua Eduardo Pinto da Rocha, 4974 - Alto Boqueirão",
+        "NUM": "160056",
+        "SENTIDO": "Futurama",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545451994891",
+        "LON": "-49,272201061249",
+        "NOME": "Rua Mandirituba, 1426 - Sítio Cercado",
+        "NUM": "160123",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54011",
+        "LON": "-49,27119",
+        "NOME": "Rua Tijucas do Sul, 1363 - Sítio Cercado",
+        "NUM": "160020",
+        "SENTIDO": "Circular",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Circular",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541930611333",
+        "LON": "-49,273590054817",
+        "NOME": "Rua Celeste Tortato Gabardo, 227-  Sítio Cercado",
+        "NUM": "160121",
+        "SENTIDO": "Circular",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560156553382",
+        "LON": "-49,283705384678",
+        "NOME": "Rua Deputado Pinheiro Júnior, 614 - Umbara",
+        "NUM": "160063",
+        "SENTIDO": "Circular",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564659546593",
+        "LON": "-49,282541305965",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1102 - Umbara",
+        "NUM": "160067",
+        "SENTIDO": "Circular",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541841292163",
+        "LON": "-49,273673593998",
+        "NOME": "Rua Celeste Tortato Gabardo, 228 - Sítio Cercado",
+        "NUM": "160435",
+        "SENTIDO": "Circular",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564863707616",
+        "LON": "-49,275160878897",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5729 - Alto Boqueirão",
+        "NUM": "160437",
+        "SENTIDO": "Circular",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557309435783",
+        "LON": "-49,281134158373",
+        "NOME": "Rua Antonio Augusto de Brilo, 299 - Umbara",
+        "NUM": "160057",
+        "SENTIDO": "Circular",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534408537034",
+        "LON": "-49,268178921461",
+        "NOME": "Terminal Sítio Cercado - 683 - Futurama / Sítio Cercado",
+        "NUM": "106113",
+        "SENTIDO": "Futurama",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563183570692",
+        "LON": "-49,282969118303",
+        "NOME": "Rua Deputado Pinheiro Júnior, 974 -Umbara",
+        "NUM": "160064",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5671674541",
+        "LON": "-49,281746030993",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1408 - Umbara",
+        "NUM": "160069",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55503604389",
+        "LON": "-49,276550263166",
+        "NOME": "Rua Antonio Augusto de Brilo, 121 - Umbara",
+        "NUM": "160055",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Circular",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534408537034",
+        "LON": "-49,268178921461",
+        "NOME": "Terminal Sítio Cercado - 683 - Futurama / Sítio Cercado",
+        "NUM": "106113",
+        "SENTIDO": "Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686",
+        "LON": "-49,27271",
+        "NOME": "Rua Tijucas do Sul, 787 - Sítio Cercado",
+        "NUM": "160017",
+        "SENTIDO": "Circular",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551392207796",
+        "LON": "-49,274255962318",
+        "NOME": "Rua Nova Aurora, 307 - Sítio Cercado",
+        "NUM": "160126",
+        "SENTIDO": "Circular",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547699180846",
+        "LON": "-49,270844139881",
+        "NOME": "Rua Mandirituba, 1712 - Sítio Cercado",
+        "NUM": "160087",
+        "SENTIDO": "Futurama",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557729529647",
+        "LON": "-49,271195561832",
+        "NOME": "Rua Helena Grodzki, 2871 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160731",
+        "SENTIDO": "Futurama",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549518745316",
+        "LON": "-49,271387010813",
+        "NOME": "Rua Nova Aurora, 661 - Sítio Cercado",
+        "NUM": "160124",
+        "SENTIDO": "Futurama",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564659546593",
+        "LON": "-49,282541305965",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1102 - Umbara",
+        "NUM": "160067",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55146238446",
+        "LON": "-49,274200977034",
+        "NOME": "Rua Nova Aurora, 306 - Sítio Cercado",
+        "NUM": "160127",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547599730621",
+        "LON": "-49,270792901516",
+        "NOME": "Rua Mandirituba, 1711 - Sítio Cercado",
+        "NUM": "160436",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549562303931",
+        "LON": "-49,271259605885",
+        "NOME": "Rua Nova Aurora, 662 - Sítio Cercado",
+        "NUM": "160125",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534408537034",
+        "LON": "-49,268178921461",
+        "NOME": "Terminal Sítio Cercado - 683 - Futurama / Sítio Cercado",
+        "NUM": "106113",
+        "SENTIDO": "Circular",
+        "SEQ": "39",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545542809936",
+        "LON": "-49,272295101852",
+        "NOME": "Rua Mandirituba, 1427 - Sítio Cercado",
+        "NUM": "160122",
+        "SENTIDO": "Circular",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557729529647",
+        "LON": "-49,271195561832",
+        "NOME": "Rua Helena Grodzki, 2871 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160731",
+        "SENTIDO": "Circular",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56375189001",
+        "LON": "-49,272087067366",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5462 - Alto Boqueirão",
+        "NUM": "160059",
+        "SENTIDO": "Circular",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549518745316",
+        "LON": "-49,271387010813",
+        "NOME": "Rua Nova Aurora, 661 - Sítio Cercado",
+        "NUM": "160124",
+        "SENTIDO": "Circular",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Futurama",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552745669858",
+        "LON": "-49,276404082775",
+        "NOME": "Rua Nova Aurora, 41 - Sítio Cercado",
+        "NUM": "160128",
+        "SENTIDO": "Futurama",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538372100743",
+        "LON": "-49,271995635582",
+        "NOME": "Rua Tijucas do Sul, 985 - Sítio Cercado",
+        "NUM": "160019",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558368343975",
+        "LON": "-49,283938736862",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1296 - Umbara",
+        "NUM": "160060",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560156553382",
+        "LON": "-49,283705384678",
+        "NOME": "Rua Deputado Pinheiro Júnior, 614 - Umbara",
+        "NUM": "160063",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556357254008",
+        "LON": "-49,279402792454",
+        "NOME": "Rua Antonio Augusto de Brilo, 499 - Umbara",
+        "NUM": "160058",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552775918083",
+        "LON": "-49,27626863122",
+        "NOME": "Rua Nova Aurora, 42 - Sítio Cercado",
+        "NUM": "160129",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55146238446",
+        "LON": "-49,274200977034",
+        "NOME": "Rua Nova Aurora, 306 - Sítio Cercado",
+        "NUM": "160127",
+        "SENTIDO": "Circular",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Futurama",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559417298751",
+        "LON": "-49,269481630272",
+        "NOME": "Rua Helena Grodzki, 3005 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160729",
+        "SENTIDO": "Futurama",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551392207796",
+        "LON": "-49,274255962318",
+        "NOME": "Rua Nova Aurora, 307 - Sítio Cercado",
+        "NUM": "160126",
+        "SENTIDO": "Futurama",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564863707616",
+        "LON": "-49,275160878897",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5729 - Alto Boqueirão",
+        "NUM": "160437",
+        "SENTIDO": "Futurama",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538372100743",
+        "LON": "-49,271995635582",
+        "NOME": "Rua Tijucas do Sul, 985 - Sítio Cercado",
+        "NUM": "160019",
+        "SENTIDO": "Circular",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547699180846",
+        "LON": "-49,270844139881",
+        "NOME": "Rua Mandirituba, 1712 - Sítio Cercado",
+        "NUM": "160087",
+        "SENTIDO": "Circular",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561339753732",
+        "LON": "-49,268336327023",
+        "NOME": "R. Helena Grodzki, 3180 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160727",
+        "SENTIDO": "Circular",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566296110299",
+        "LON": "-49,2790299654",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5313 - Alto Boqueirão",
+        "NUM": "160068",
+        "SENTIDO": "Circular",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561339753732",
+        "LON": "-49,268336327023",
+        "NOME": "R. Helena Grodzki, 3180 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160727",
+        "SENTIDO": "Futurama",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534408537034",
+        "LON": "-49,268178921461",
+        "NOME": "Terminal Sítio Cercado - 683 - Futurama / Sítio Cercado",
+        "NUM": "106113",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686",
+        "LON": "-49,27271",
+        "NOME": "Rua Tijucas do Sul, 787 - Sítio Cercado",
+        "NUM": "160017",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54011",
+        "LON": "-49,27119",
+        "NOME": "Rua Tijucas do Sul, 1363 - Sítio Cercado",
+        "NUM": "160020",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558368343975",
+        "LON": "-49,283938736862",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1296 - Umbara",
+        "NUM": "160060",
+        "SENTIDO": "Circular",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556357254008",
+        "LON": "-49,279402792454",
+        "NOME": "Rua Antonio Augusto de Brilo, 499 - Umbara",
+        "NUM": "160058",
+        "SENTIDO": "Circular",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562618285155",
+        "LON": "-49,26898509264",
+        "NOME": "Rua Eduardo Pinto da Rocha, 4974 - Alto Boqueirão",
+        "NUM": "160056",
+        "SENTIDO": "Circular",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549562303931",
+        "LON": "-49,271259605885",
+        "NOME": "Rua Nova Aurora, 662 - Sítio Cercado",
+        "NUM": "160125",
+        "SENTIDO": "Circular",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56375189001",
+        "LON": "-49,272087067366",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5462 - Alto Boqueirão",
+        "NUM": "160059",
+        "SENTIDO": "Futurama",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566296110299",
+        "LON": "-49,2790299654",
+        "NOME": "Rua Eduardo Pinto da Rocha, 5313 - Alto Boqueirão",
+        "NUM": "160068",
+        "SENTIDO": "Futurama",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Circular",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563183570692",
+        "LON": "-49,282969118303",
+        "NOME": "Rua Deputado Pinheiro Júnior, 974 -Umbara",
+        "NUM": "160064",
+        "SENTIDO": "Circular",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545451994891",
+        "LON": "-49,272201061249",
+        "NOME": "Rua Mandirituba, 1426 - Sítio Cercado",
+        "NUM": "160123",
+        "SENTIDO": "Circular",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547599730621",
+        "LON": "-49,270792901516",
+        "NOME": "Rua Mandirituba, 1711 - Sítio Cercado",
+        "NUM": "160436",
+        "SENTIDO": "Circular",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552745669858",
+        "LON": "-49,276404082775",
+        "NOME": "Rua Nova Aurora, 41 - Sítio Cercado",
+        "NUM": "160128",
+        "SENTIDO": "Circular",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Futurama",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541841292163",
+        "LON": "-49,273673593998",
+        "NOME": "Rua Celeste Tortato Gabardo, 228 - Sítio Cercado",
+        "NUM": "160435",
+        "SENTIDO": "Futurama",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541930611333",
+        "LON": "-49,273590054817",
+        "NOME": "Rua Celeste Tortato Gabardo, 227-  Sítio Cercado",
+        "NUM": "160121",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557309435783",
+        "LON": "-49,281134158373",
+        "NOME": "Rua Antonio Augusto de Brilo, 299 - Umbara",
+        "NUM": "160057",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5671674541",
+        "LON": "-49,281746030993",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1408 - Umbara",
+        "NUM": "160069",
+        "SENTIDO": "Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555882030402",
+        "LON": "-49,273661853022",
+        "NOME": "Rua Helena Grodzki, 2673 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160733",
+        "SENTIDO": "Circular",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559417298751",
+        "LON": "-49,269481630272",
+        "NOME": "Rua Helena Grodzki, 3005 - Umbara (Estrada do Ganchinho)",
+        "NUM": "160729",
+        "SENTIDO": "Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55503604389",
+        "LON": "-49,276550263166",
+        "NOME": "Rua Antonio Augusto de Brilo, 121 - Umbara",
+        "NUM": "160055",
+        "SENTIDO": "Circular",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549518745316",
+        "LON": "-49,271387010813",
+        "NOME": "Rua Nova Aurora, 661 - Sítio Cercado",
+        "NUM": "160124",
+        "SENTIDO": "Circular",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552775918083",
+        "LON": "-49,27626863122",
+        "NOME": "Rua Nova Aurora, 42 - Sítio Cercado",
+        "NUM": "160129",
+        "SENTIDO": "Circular",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    }
+]

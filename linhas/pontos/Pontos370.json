@@ -1,0 +1,652 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,430942305414",
+        "LON": "-49,265317500776",
+        "NOME": "Rua José Loureiro, 161 - Centro",
+        "NUM": "110402",
+        "SENTIDO": "Rua XV",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Rua XV",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449346840137",
+        "LON": "-49,299661846107",
+        "NOME": "Av. Nossa Senhora Aparecida, 83 - Seminário",
+        "NUM": "180660",
+        "SENTIDO": "Rua XV",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450745049082",
+        "LON": "-49,319559813684",
+        "NOME": "Rua Eduardo Sprada, 640 -  Campo Comprido",
+        "NUM": "180661",
+        "SENTIDO": "Rua XV",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428141625064",
+        "LON": "-49,246864643517",
+        "NOME": "Rua Marechal Deodoro, 2834 - Centro",
+        "NUM": "130899",
+        "SENTIDO": "Barigui",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Barigui",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449045307946",
+        "LON": "-49,299357415384",
+        "NOME": "Av. Nossa Senhora Aparecida, 84 - Seminário",
+        "NUM": "180596",
+        "SENTIDO": "Barigui",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454141735771",
+        "LON": "-49,324043126053",
+        "NOME": "Rua Frederico Müller, 132 - Campo Comprido",
+        "NUM": "180974",
+        "SENTIDO": "Barigui",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428392794649",
+        "LON": "-49,259401888794",
+        "NOME": "Rua Benjamin Constant, 481- Centro",
+        "NUM": "110078",
+        "SENTIDO": "Rua XV",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454044861899",
+        "LON": "-49,324000210709",
+        "NOME": "Rua Frederico Müller, 131 - Campo Comprido",
+        "NUM": "180975",
+        "SENTIDO": "Rua XV",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Rua XV",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449521219856",
+        "LON": "-49,301673502869",
+        "NOME": "Av. Nossa Senhora Aparecida, 305 - Seminário",
+        "NUM": "180560",
+        "SENTIDO": "Rua XV",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Rua XV",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455633583554",
+        "LON": "-49,32303059215",
+        "NOME": "Rua Frederico Müller, 183 - Campo Comprido",
+        "NUM": "180976",
+        "SENTIDO": "Rua XV",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458768583286",
+        "LON": "-49,323497296518",
+        "NOME": "Rua Mário Zanlorenzi, 389 - Campo Comprido",
+        "NUM": "180978",
+        "SENTIDO": "Rua XV",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449168827248",
+        "LON": "-49,306097806639",
+        "NOME": "Av. Nossa Senhora Aparecida, 778 - Seminário",
+        "NUM": "180584",
+        "SENTIDO": "Barigui",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Barigui",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449681067709",
+        "LON": "-49,313371957487",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1450- Seminário",
+        "NUM": "180473",
+        "SENTIDO": "Barigui",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455659012617",
+        "LON": "-49,323149950451",
+        "NOME": "Rua Frederico Müller, 184 - Campo Comprido",
+        "NUM": "180977",
+        "SENTIDO": "Barigui",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428141625064",
+        "LON": "-49,246864643517",
+        "NOME": "Rua Marechal Deodoro, 2834 - Centro",
+        "NUM": "130899",
+        "SENTIDO": "Rua XV",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432998831087",
+        "LON": "-49,270719469732",
+        "NOME": "Praça Carlos Gomes - 370-Rua XV / Barigui",
+        "NUM": "103202",
+        "SENTIDO": "Rua XV",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Rua XV",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Barigui",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "Barigui",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Barigui",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437398806104",
+        "LON": "-49,277986915058",
+        "NOME": "Rua Emíliano Perneta, 724 - Centro",
+        "NUM": "110401",
+        "SENTIDO": "Barigui",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Barigui",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Rua XV",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427524374154",
+        "LON": "-49,256165803617",
+        "NOME": "Rua Sete de Abril, 476 - Alto da Rua XV",
+        "NUM": "130902",
+        "SENTIDO": "Rua XV",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447480719143",
+        "LON": "-49,310633422083",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1080- Seminário",
+        "NUM": "180583",
+        "SENTIDO": "Barigui",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458768583286",
+        "LON": "-49,323497296518",
+        "NOME": "Rua Mário Zanlorenzi, 389 - Campo Comprido",
+        "NUM": "180978",
+        "SENTIDO": "Barigui",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436444418977",
+        "LON": "-49,272614629083",
+        "NOME": "Praça Rui Barbosa - 365 - Jd Social/Batel  /  370-Rua XV / Barigui",
+        "NUM": "102025",
+        "SENTIDO": "Rua XV",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438175113121",
+        "LON": "-49,277019978708",
+        "NOME": "Rua Doutor Pedrosa, 299- Centro",
+        "NUM": "110400",
+        "SENTIDO": "Rua XV",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Rua XV",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Rua XV",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450875076021",
+        "LON": "-49,315331311172",
+        "NOME": "Rua Eduardo Sprada, 81 - Campo Comprido",
+        "NUM": "180586",
+        "SENTIDO": "Rua XV",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448254539211",
+        "LON": "-49,307778210587",
+        "NOME": "Avenida Nossa Senhora Aparecida, 785- Seminário",
+        "NUM": "180589",
+        "SENTIDO": "Rua XV",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452609908541",
+        "LON": "-49,322724820322",
+        "NOME": "Rua Eduardo Sprada, 1083 - Campo Comprido",
+        "NUM": "180595",
+        "SENTIDO": "Rua XV",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442260028458",
+        "LON": "-49,287587882227",
+        "NOME": "Av. do Batel, 338 -  Batel",
+        "NUM": "180068",
+        "SENTIDO": "Barigui",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447663578481",
+        "LON": "-49,308270395941",
+        "NOME": "Avenida Nossa Senhora Aparecida, 786- Seminário",
+        "NUM": "180590",
+        "SENTIDO": "Barigui",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431968150347",
+        "LON": "-49,267909855789",
+        "NOME": "Rua José Loureiro, 274 - Centro",
+        "NUM": "110200",
+        "SENTIDO": "Rua XV",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Rua XV",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Barigui",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445831339586",
+        "LON": "-49,295767278618",
+        "NOME": "Rua Bispo Dom José, 130 - Batel",
+        "NUM": "180061",
+        "SENTIDO": "Barigui",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Barigui",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450717651668",
+        "LON": "-49,315588803238",
+        "NOME": "Rua Eduardo Sprada, 80 -  Campo Comprido",
+        "NUM": "180471",
+        "SENTIDO": "Barigui",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428649564922",
+        "LON": "-49,249500514215",
+        "NOME": "Rua Fernando Amaro, 920 - Alto da Rua XV",
+        "NUM": "130900",
+        "SENTIDO": "Barigui",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449418287414",
+        "LON": "-49,317970604843",
+        "NOME": "Rua Eduardo Sprada, 332 - Campo Comprido",
+        "NUM": "180594",
+        "SENTIDO": "Rua XV",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449970488661",
+        "LON": "-49,313539595551",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1449- Seminário",
+        "NUM": "180472",
+        "SENTIDO": "Rua XV",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44754732357",
+        "LON": "-49,310555638021",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1081- Seminário",
+        "NUM": "180474",
+        "SENTIDO": "Rua XV",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449492156587",
+        "LON": "-49,303560436911",
+        "NOME": "Avenida Nossa Senhora Aparecida, 336 -  Seminário",
+        "NUM": "180663",
+        "SENTIDO": "Rua XV",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429388548952",
+        "LON": "-49,261842698997",
+        "NOME": "Rua Benjamin Constant, 316 - Centro",
+        "NUM": "110077",
+        "SENTIDO": "Rua XV",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432498350589",
+        "LON": "-49,272501797623",
+        "NOME": "Praça Zacarias - 370-Rua XV / Barigui - 360-Novena - 365-Jardim Social/Batel",
+        "NUM": "103503",
+        "SENTIDO": "Barigui",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "Barigui",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449309300026",
+        "LON": "-49,302755774206",
+        "NOME": "Av. Nossa Senhora Aparecida, 334 - Seminário",
+        "NUM": "180470",
+        "SENTIDO": "Barigui",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Barigui",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450660282056",
+        "LON": "-49,319675148672",
+        "NOME": "Rua Eduardo Sprada, 641 -  Campo Comprido",
+        "NUM": "180587",
+        "SENTIDO": "Barigui",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452527564707",
+        "LON": "-49,322748960203",
+        "NOME": "Rua Eduardo Sprada, 1082 -  Campo Comprido",
+        "NUM": "180585",
+        "SENTIDO": "Barigui",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Rua XV",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449432819058",
+        "LON": "-49,30559221024",
+        "NOME": "Av. Nossa Senhora Aparecida, 779 - Seminário",
+        "NUM": "180662",
+        "SENTIDO": "Rua XV",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Barigui",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444630015144",
+        "LON": "-49,293201745695",
+        "NOME": "Rua Bispo Dom José, 216 - Batel",
+        "NUM": "180065",
+        "SENTIDO": "Barigui",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44367572872",
+        "LON": "-49,290547699875",
+        "NOME": "Avenida do Batel, 744 - Batel",
+        "NUM": "180066",
+        "SENTIDO": "Barigui",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449328675569",
+        "LON": "-49,31802022571",
+        "NOME": "Rua Eduardo Sprada, 331- Campo Comprido",
+        "NUM": "180588",
+        "SENTIDO": "Barigui",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428377049285",
+        "LON": "-49,253361554092",
+        "NOME": "Rua Fernando Amaro, 384 - Alto da Rua XV",
+        "NUM": "130901",
+        "SENTIDO": "Barigui",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

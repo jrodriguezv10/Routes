@@ -1,0 +1,132 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,430387594599",
+        "LON": "-49,263602228112",
+        "NOME": "Rua Tibagi, 386 - Centro",
+        "NUM": "110049",
+        "SENTIDO": "Horário",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433502662412",
+        "LON": "-49,262257100291",
+        "NOME": "Rua Tibagi, 776 - Centro",
+        "NUM": "110408",
+        "SENTIDO": "Horário",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42861777034",
+        "LON": "-49,267110557502",
+        "NOME": "Praça Santos Andrade - 001 - Circular Centro (Horário)",
+        "NUM": "103506",
+        "SENTIDO": "Horário",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428170975247",
+        "LON": "-49,264558435626",
+        "NOME": "Rua Tibagi, 79 - Centro",
+        "NUM": "110048",
+        "SENTIDO": "Horário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Horário",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Horário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435714122928",
+        "LON": "-49,274807334953",
+        "NOME": "Praça Rui Barbosa, 632 - Centro",
+        "NUM": "102034",
+        "SENTIDO": "Horário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Horário",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437003989696",
+        "LON": "-49,269529910035",
+        "NOME": "Av. Visconde de Guarapuava, 2800 - Centro",
+        "NUM": "110436",
+        "SENTIDO": "Horário",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Horário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433122323438",
+        "LON": "-49,276558638757",
+        "NOME": "Praça Gen. Osório, 389 - Centro",
+        "NUM": "103505",
+        "SENTIDO": "Horário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42861777034",
+        "LON": "-49,267110557502",
+        "NOME": "Praça Santos Andrade - 001 - Circular Centro (Horário)",
+        "NUM": "103506",
+        "SENTIDO": "Horário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430059369312",
+        "LON": "-49,271253229326",
+        "NOME": "Praça Tiradentes, 421 - Centro",
+        "NUM": "101011",
+        "SENTIDO": "Horário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    }
+]

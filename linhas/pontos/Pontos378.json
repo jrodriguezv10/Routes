@@ -1,0 +1,2492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,434494012905",
+        "LON": "-49,291639197254",
+        "NOME": "Praça Alfredo Andersen, 350 - Bigorrilho",
+        "NUM": "180998",
+        "SENTIDO": "Unimed",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Unimed",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Unimed",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43606633288",
+        "LON": "-49,282267391682",
+        "NOME": "Rua Desembargador Motta, 2193 - Batel",
+        "NUM": "181001",
+        "SENTIDO": "Unimed",
+        "SEQ": "39",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425517149244",
+        "LON": "-49,272901117802",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 742 - Centro",
+        "NUM": "110430",
+        "SENTIDO": "Unimed",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44709414733",
+        "LON": "-49,268974363804",
+        "NOME": "Rua Brasílio Itiberê, 2507-2605 - Rebouças",
+        "NUM": "150720",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433279931945",
+        "LON": "-49,289474487305",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2472 - Bigorrilho",
+        "NUM": "180997",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422317088037",
+        "LON": "-49,253514111042",
+        "NOME": "Rua Itupava, 737 - Alto da Glória",
+        "NUM": "130930",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "1",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434494012905",
+        "LON": "-49,291639197254",
+        "NOME": "Praça Alfredo Andersen, 350 - Bigorrilho",
+        "NUM": "180998",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427157483578",
+        "LON": "-49,289513906746",
+        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
+        "NUM": "190171",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424883078763",
+        "LON": "-49,276120439172",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1128 - Centro",
+        "NUM": "110431",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "39",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "46",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425517149244",
+        "LON": "-49,272901117802",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 742 - Centro",
+        "NUM": "110430",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Atendimento Rodoferroviária - Hospital Cajuru",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Unimed",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Unimed",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Unimed",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Unimed",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44709414733",
+        "LON": "-49,268974363804",
+        "NOME": "Rua Brasílio Itiberê, 2507-2605 - Rebouças",
+        "NUM": "150720",
+        "SENTIDO": "Unimed",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Unimed",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434494012905",
+        "LON": "-49,291639197254",
+        "NOME": "Praça Alfredo Andersen, 350 - Bigorrilho",
+        "NUM": "180998",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42656",
+        "LON": "-49,25351",
+        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
+        "NUM": "110029",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425517149244",
+        "LON": "-49,272901117802",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 742 - Centro",
+        "NUM": "110430",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433279931945",
+        "LON": "-49,289474487305",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2472 - Bigorrilho",
+        "NUM": "180997",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42656",
+        "LON": "-49,25351",
+        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
+        "NUM": "110029",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433279931945",
+        "LON": "-49,289474487305",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2472 - Bigorrilho",
+        "NUM": "180997",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430605338074",
+        "LON": "-49,290613755584",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2929 - Bigorrilho",
+        "NUM": "181000",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Unimed",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Unimed",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Unimed",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Unimed",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427157483578",
+        "LON": "-49,289513906746",
+        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
+        "NUM": "190171",
+        "SENTIDO": "Unimed",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Unimed",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433279931945",
+        "LON": "-49,289474487305",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2472 - Bigorrilho",
+        "NUM": "180997",
+        "SENTIDO": "Unimed",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422317088037",
+        "LON": "-49,253514111042",
+        "NOME": "Rua Itupava, 737 - Alto da Glória",
+        "NUM": "130930",
+        "SENTIDO": "Unimed",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43606633288",
+        "LON": "-49,282267391682",
+        "NOME": "Rua Desembargador Motta, 2193 - Batel",
+        "NUM": "181001",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434494012905",
+        "LON": "-49,291639197254",
+        "NOME": "Praça Alfredo Andersen, 350 - Bigorrilho",
+        "NUM": "180998",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427157483578",
+        "LON": "-49,289513906746",
+        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
+        "NUM": "190171",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434494012905",
+        "LON": "-49,291639197254",
+        "NOME": "Praça Alfredo Andersen, 350 - Bigorrilho",
+        "NUM": "180998",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43606633288",
+        "LON": "-49,282267391682",
+        "NOME": "Rua Desembargador Motta, 2193 - Batel",
+        "NUM": "181001",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422317088037",
+        "LON": "-49,253514111042",
+        "NOME": "Rua Itupava, 737 - Alto da Glória",
+        "NUM": "130930",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424316833441",
+        "LON": "-49,278946816921",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1436 - Centro",
+        "NUM": "110432",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Atendimento Rodoferroviária - Hospital Cajuru",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Unimed",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Unimed",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Unimed",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Unimed",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Unimed",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424316833441",
+        "LON": "-49,278946816921",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1436 - Centro",
+        "NUM": "110432",
+        "SENTIDO": "Unimed",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424883078763",
+        "LON": "-49,276120439172",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1128 - Centro",
+        "NUM": "110431",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42656",
+        "LON": "-49,25351",
+        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
+        "NUM": "110029",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43606633288",
+        "LON": "-49,282267391682",
+        "NOME": "Rua Desembargador Motta, 2193 - Batel",
+        "NUM": "181001",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42656",
+        "LON": "-49,25351",
+        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
+        "NUM": "110029",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430605338074",
+        "LON": "-49,290613755584",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2929 - Bigorrilho",
+        "NUM": "181000",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "41",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424883078763",
+        "LON": "-49,276120439172",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1128 - Centro",
+        "NUM": "110431",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Unimed",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Unimed",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Unimed",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Unimed",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Unimed",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Unimed",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Unimed",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Unimed",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Unimed",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430605338074",
+        "LON": "-49,290613755584",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2929 - Bigorrilho",
+        "NUM": "181000",
+        "SENTIDO": "Unimed",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42337",
+        "LON": "-49,25315",
+        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
+        "NUM": "130232",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424316833441",
+        "LON": "-49,278946816921",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1436 - Centro",
+        "NUM": "110432",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422317088037",
+        "LON": "-49,253514111042",
+        "NOME": "Rua Itupava, 737 - Alto da Glória",
+        "NUM": "130930",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422317088037",
+        "LON": "-49,253514111042",
+        "NOME": "Rua Itupava, 737 - Alto da Glória",
+        "NUM": "130930",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424883078763",
+        "LON": "-49,276120439172",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1128 - Centro",
+        "NUM": "110431",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Unimed",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Unimed",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42656",
+        "LON": "-49,25351",
+        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
+        "NUM": "110029",
+        "SENTIDO": "Unimed",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42337",
+        "LON": "-49,25315",
+        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
+        "NUM": "130232",
+        "SENTIDO": "Unimed",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Unimed",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Unimed",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44709414733",
+        "LON": "-49,268974363804",
+        "NOME": "Rua Brasílio Itiberê, 2507-2605 - Rebouças",
+        "NUM": "150720",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433279931945",
+        "LON": "-49,289474487305",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2472 - Bigorrilho",
+        "NUM": "180997",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430605338074",
+        "LON": "-49,290613755584",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2929 - Bigorrilho",
+        "NUM": "181000",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "48",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425517149244",
+        "LON": "-49,272901117802",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 742 - Centro",
+        "NUM": "110430",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42337",
+        "LON": "-49,25315",
+        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
+        "NUM": "130232",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Unimed",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Unimed",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424883078763",
+        "LON": "-49,276120439172",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1128 - Centro",
+        "NUM": "110431",
+        "SENTIDO": "Unimed",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427157483578",
+        "LON": "-49,289513906746",
+        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
+        "NUM": "190171",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42337",
+        "LON": "-49,25315",
+        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
+        "NUM": "130232",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438435376692",
+        "LON": "-49,289891858158",
+        "NOME": "Avenida Vicente Machado, 1430 - Centro",
+        "NUM": "180249",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42337",
+        "LON": "-49,25315",
+        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
+        "NUM": "130232",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425517149244",
+        "LON": "-49,272901117802",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 742 - Centro",
+        "NUM": "110430",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424316833441",
+        "LON": "-49,278946816921",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1436 - Centro",
+        "NUM": "110432",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44709414733",
+        "LON": "-49,268974363804",
+        "NOME": "Rua Brasílio Itiberê, 2507-2605 - Rebouças",
+        "NUM": "150720",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43585196716",
+        "LON": "-49,257612526417",
+        "NOME": "Av. Pres. Affonso Camargo, 180 - Jardim Botânico",
+        "NUM": "110427",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "49",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Unimed",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Unimed",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Unimed",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435719956441",
+        "LON": "-49,250603914261",
+        "NOME": "Av. Pres. Affonso Camargo, 1256 - Capão da Imbuia",
+        "NUM": "110157",
+        "SENTIDO": "Unimed",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Unimed",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430605338074",
+        "LON": "-49,290613755584",
+        "NOME": "Rua Alferes Ângelo Sampaio, 2929 - Bigorrilho",
+        "NUM": "181000",
+        "SENTIDO": "Hospital Evangélico",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424316833441",
+        "LON": "-49,278946816921",
+        "NOME": "Rua Presidente Carlos Cavalcanti, 1436 - Centro",
+        "NUM": "110432",
+        "SENTIDO": "Hospital Pequeno Príncipe",
+        "SEQ": "40",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433578035967",
+        "LON": "-49,237952449074",
+        "NOME": "Av. São José, 1064 - Cristo Rei",
+        "NUM": "130311",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44709414733",
+        "LON": "-49,268974363804",
+        "NOME": "Rua Brasílio Itiberê, 2507-2605 - Rebouças",
+        "NUM": "150720",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43606633288",
+        "LON": "-49,282267391682",
+        "NOME": "Rua Desembargador Motta, 2193 - Batel",
+        "NUM": "181001",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "48",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427157483578",
+        "LON": "-49,289513906746",
+        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
+        "NUM": "190171",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Interhospitais Circular",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43559",
+        "LON": "-49,24749",
+        "NOME": "Av. São José, 82 - Cristo Rei",
+        "NUM": "130135",
+        "SENTIDO": "Atendimento Rodoferroviária - Hospital Cajuru",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

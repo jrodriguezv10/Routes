@@ -1,0 +1,42 @@
+[
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512983000614",
+        "LON": "-49,294504885363",
+        "NOME": "Terminal Pinheirinho - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "105706",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476438943166",
+        "LON": "-49,292219872519",
+        "NOME": "Terminal Portão - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109092",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512983000614",
+        "LON": "-49,294504885363",
+        "NOME": "Terminal Pinheirinho - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "105706",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476438943166",
+        "LON": "-49,292219872519",
+        "NOME": "Terminal Portão - 204 - Santa Cândida / Pinheirinho",
+        "NUM": "109092",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,429353354215",
+        "LON": "-49,324594139881",
+        "NOME": "Rua Tobias de Macedo Júnior, 310 - Santo Inácio",
+        "NUM": "190015",
+        "SENTIDO": "Montana",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4193894364",
+        "LON": "-49,337259271164",
+        "NOME": "Rua José Tomasi, 245 - Santa Felicidade",
+        "NUM": "190037",
+        "SENTIDO": "Montana",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418804563161",
+        "LON": "-49,354400087137",
+        "NOME": "Rua Antônio Escorsin, 2622 - Santa Felicidade",
+        "NUM": "190053",
+        "SENTIDO": "Montana",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41439515471",
+        "LON": "-49,353448309193",
+        "NOME": "Rua Ângelo Massignan, 551 - São Braz",
+        "NUM": "190057",
+        "SENTIDO": "Montana",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411534718527",
+        "LON": "-49,361261399965",
+        "NOME": "Rua São José da Boa Vista, 48 - São Braz",
+        "NUM": "190067",
+        "SENTIDO": "Montana",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43467",
+        "LON": "-49,31044",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 80 - Campina do Siqueira",
+        "NUM": "190012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430958050444",
+        "LON": "-49,322961066418",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190198",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424424564347",
+        "LON": "-49,324906938658",
+        "NOME": "Rua Ana Gbur Barcik, 205 - Santo Inácio",
+        "NUM": "190019",
+        "SENTIDO": "Montana",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421612393756",
+        "LON": "-49,332962740492",
+        "NOME": "Rua João Batista Dalarmi, 971 - Santo Inácio",
+        "NUM": "190033",
+        "SENTIDO": "Montana",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421500281281",
+        "LON": "-49,334949884586",
+        "NOME": "Rua João Batista Dalarmi, 1194 - Santo Inácio",
+        "NUM": "190035",
+        "SENTIDO": "Montana",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41803693045",
+        "LON": "-49,337913906746",
+        "NOME": "Rua José Tomasi, 445- Santa Felicidade",
+        "NUM": "190039",
+        "SENTIDO": "Montana",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418023661425",
+        "LON": "-49,341805626984",
+        "NOME": "Rua Alexandre Marcoski, 174 - São Braz",
+        "NUM": "190043",
+        "SENTIDO": "Montana",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418119745487",
+        "LON": "-49,346857813492",
+        "NOME": "Rua Antônio Escorsin, 1770 - Santa Felicidade",
+        "NUM": "190049",
+        "SENTIDO": "Montana",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411697886505",
+        "LON": "-49,359303906746",
+        "NOME": "Rua São José da Boa Vista, 208 - São Braz",
+        "NUM": "190065",
+        "SENTIDO": "Montana",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429956708703",
+        "LON": "-49,322841078539",
+        "NOME": "Rua Tobias de Macedo Júnior, 75 - Santo Inácio",
+        "NUM": "190014",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422051107297",
+        "LON": "-49,327067084656",
+        "NOME": "Rua João Batista Dalarmi, 372 - Santo Inácio",
+        "NUM": "190022",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41815",
+        "LON": "-49,34187",
+        "NOME": "Rua Alexandre Marcoski, 175 - São Braz",
+        "NUM": "190044",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41719",
+        "LON": "-49,34294",
+        "NOME": "Rua Alexandre Marcoski, 26 - São Braz",
+        "NUM": "190046",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419014845104",
+        "LON": "-49,351407317791",
+        "NOME": "Rua Antônio Escorsin, 2308 - Santa Felicidade",
+        "NUM": "190052",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418923069995",
+        "LON": "-49,351478220902",
+        "NOME": "Rua Antônio Escorsin, 2307 - Santa Felicidade",
+        "NUM": "190051",
+        "SENTIDO": "Montana",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409245409007",
+        "LON": "-49,36080217424",
+        "NOME": "Rua Hermenegildo Luca, 4124 - São Braz",
+        "NUM": "190069",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43634",
+        "LON": "-49,31221",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 224 - Campina do Siqueira",
+        "NUM": "190011",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429380931878",
+        "LON": "-49,32472046627",
+        "NOME": "Rua Tobias de Macedo Júnior, 311 - Santo Inácio",
+        "NUM": "190016",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42191",
+        "LON": "-49,32938",
+        "NOME": "Rua João Batista Dalarmi, 655 - Santo Inácio",
+        "NUM": "190032",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421724787448",
+        "LON": "-49,332986093254",
+        "NOME": "Rua João Batista Dalarmi, 972 - Santo Inácio",
+        "NUM": "190034",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418373633848",
+        "LON": "-49,347000116567",
+        "NOME": "Rua Antônio Escorsin, 1771 - Santa Felicidade",
+        "NUM": "190050",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412253917636",
+        "LON": "-49,358077434359",
+        "NOME": "Rua José Rubens de Lima, 734 - São Braz",
+        "NUM": "190064",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411792397208",
+        "LON": "-49,359248542328",
+        "NOME": "Rua São José da Boa Vista, 207 - São Braz",
+        "NUM": "190066",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429823106643",
+        "LON": "-49,322741720238",
+        "NOME": "Rua Tobias de Macedo Júnior, 74 - Santo Inácio",
+        "NUM": "190013",
+        "SENTIDO": "Montana",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421951211247",
+        "LON": "-49,327087696924",
+        "NOME": "Rua João Batista Dalarmi, 336 - Santo Inácio",
+        "NUM": "190021",
+        "SENTIDO": "Montana",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426600931208",
+        "LON": "-49,325255597553",
+        "NOME": "Rua Ana Gbur Barcik, 267 - Santo Inácio",
+        "NUM": "190018",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419414591327",
+        "LON": "-49,337384139881",
+        "NOME": "Rua José Tomasi, 245 - Santa Felicidade",
+        "NUM": "190038",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417905492088",
+        "LON": "-49,338077434359",
+        "NOME": "Rua José Tomasi, 446 - Santa Felicidade",
+        "NUM": "190040",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Montana",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426705435177",
+        "LON": "-49,325144868717",
+        "NOME": "Rua Ana Gbur Barcik, 268 - Santo Inácio",
+        "NUM": "190017",
+        "SENTIDO": "Montana",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412443685474",
+        "LON": "-49,355898512898",
+        "NOME": "Rua Miguel Novicki, 252 - São Braz",
+        "NUM": "190061",
+        "SENTIDO": "Montana",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412273324782",
+        "LON": "-49,35799317791",
+        "NOME": "Rua José Rubens de Lima, 735 - São Braz",
+        "NUM": "190063",
+        "SENTIDO": "Montana",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "27",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421591182513",
+        "LON": "-49,335065743551",
+        "NOME": "Rua João Batista Dalarmi, 1195 - Santo Inácio",
+        "NUM": "190036",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41131",
+        "LON": "-49,36153",
+        "NOME": "Rua Hermenegildo Luca, 4280 - São Braz",
+        "NUM": "190068",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421753100155",
+        "LON": "-49,329953467598",
+        "NOME": "Rua João Batista Dalarmi, 654 - Santo Inácio",
+        "NUM": "190031",
+        "SENTIDO": "Montana",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418011548564",
+        "LON": "-49,339933906746",
+        "NOME": "Rua João Bala, 288 - São Braz",
+        "NUM": "190041",
+        "SENTIDO": "Montana",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41827",
+        "LON": "-49,34024",
+        "NOME": "Rua João Bala, 287 - São Braz",
+        "NUM": "190042",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41361",
+        "LON": "-49,35461",
+        "NOME": "Rua Manoel Celestino Boaventura, 402 - São Braz",
+        "NUM": "190060",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412559690728",
+        "LON": "-49,355763061342",
+        "NOME": "Rua Miguel Novicki, 251 - São Braz",
+        "NUM": "190062",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417203112134",
+        "LON": "-49,344808459282",
+        "NOME": "Rua Antônio Escorsin, 1547 - Santa Felicidade",
+        "NUM": "190942",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435959109796",
+        "LON": "-49,307134295747",
+        "NOME": "Terminal Campina do Siqueira - 812 - Montana",
+        "NUM": "104508",
+        "SENTIDO": "Montana",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Montana",
+        "SEQ": "3",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424117296935",
+        "LON": "-49,325107550926",
+        "NOME": "Rua Ana Gbur Barcik, 204 - Santo Inácio",
+        "NUM": "190020",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414479071723",
+        "LON": "-49,35356695301",
+        "NOME": "Rua Ângelo Massignan, 552 - São Braz",
+        "NUM": "190058",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409245409007",
+        "LON": "-49,36080217424",
+        "NOME": "Rua Hermenegildo Luca, 4124 - São Braz",
+        "NUM": "190069",
+        "SENTIDO": "Montana",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417026420603",
+        "LON": "-49,34310157424",
+        "NOME": "Rua Alexandre Marcoski, 25 - São Braz",
+        "NUM": "190045",
+        "SENTIDO": "Montana",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4170972814",
+        "LON": "-49,344811049686",
+        "NOME": "Rua Antônio Escorsin, 1548 - Santa Felicidade",
+        "NUM": "190047",
+        "SENTIDO": "Montana",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416395762467",
+        "LON": "-49,354267347221",
+        "NOME": "Rua Ângelo Massignan, 285 - São Braz",
+        "NUM": "190055",
+        "SENTIDO": "Montana",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41352",
+        "LON": "-49,35458",
+        "NOME": "Rua Manoel Celestino Boaventura, 401 - São Braz",
+        "NUM": "190059",
+        "SENTIDO": "Montana",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419007927074",
+        "LON": "-49,349336028099",
+        "NOME": "R. Antônio Escorsin, 2060 - Santa Felicidade",
+        "NUM": "190959",
+        "SENTIDO": "Montana",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435959109796",
+        "LON": "-49,307134295747",
+        "NOME": "Terminal Campina do Siqueira - 812 - Montana",
+        "NUM": "104508",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418894872964",
+        "LON": "-49,354243906746",
+        "NOME": "Rua Antônio Escorsin, 2621 - Santa Felicidade",
+        "NUM": "190054",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41638030958",
+        "LON": "-49,354380495701",
+        "NOME": "Rua Ângelo Massignan, 286 - São Braz",
+        "NUM": "190056",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    }
+]

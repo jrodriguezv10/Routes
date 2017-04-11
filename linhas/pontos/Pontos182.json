@@ -1,0 +1,782 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,399998138075",
+        "LON": "-49,271383316463",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120522",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384575177121",
+        "LON": "-49,267779768652",
+        "NOME": "R. Mateus Leme, 5012 - Abranches",
+        "NUM": "120510",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38218220025",
+        "LON": "-49,268109009809",
+        "NOME": "R. Mateus Leme, 5242- Abranches",
+        "NUM": "120507",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380030298023",
+        "LON": "-49,273572669572",
+        "NOME": "Rua Mateus Leme, 6010 - São Francisco",
+        "NUM": "120502",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384959260638",
+        "LON": "-49,267953383818",
+        "NOME": "R. Mateus Leme, 4917 - Abranches",
+        "NUM": "120509",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418497032938",
+        "LON": "-49,271279322996",
+        "NOME": "R. Mateus Leme, 1090 - São Francisco",
+        "NUM": "110083",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "39",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420385698666",
+        "LON": "-49,270935838087",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110086",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402803863146",
+        "LON": "-49,271324307865",
+        "NOME": "R. Mateus Leme, 2794 - São Lourenço",
+        "NUM": "120524",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410257616302",
+        "LON": "-49,271434278435",
+        "NOME": "R. Mateus Leme, 1772 - Bom Retiro",
+        "NUM": "120530",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377190116116",
+        "LON": "-49,275766045993",
+        "NOME": "Rua Mateus Leme, 6651 - Abranches",
+        "NUM": "120314",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370257804697",
+        "LON": "-49,269664020485",
+        "NOME": "Rua Guilherme de Souza Valente, 30 - Abranches",
+        "NUM": "120404",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388946629633",
+        "LON": "-49,26759396781",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120513",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405536838306",
+        "LON": "-49,271129119292",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120527",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368501943759",
+        "LON": "-49,270891131109",
+        "NOME": "Rua Guilherme de Souza Valente, 231 - Abranches",
+        "NUM": "120287",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42848121089",
+        "LON": "-49,271081567949",
+        "NOME": "Praça Tiradentes - 182 - Abranches",
+        "NUM": "101021",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407071686833",
+        "LON": "-49,271422208494",
+        "NOME": "R. Mateus Leme, 2252 - Bom Retiro",
+        "NUM": "120528",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393073193721",
+        "LON": "-49,269535274452",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120516",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376946564985",
+        "LON": "-49,277026684231",
+        "NOME": "Rua Mateus Leme, 6641 - Abranches",
+        "NUM": "120312",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375496153304",
+        "LON": "-49,274903715796",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1352 - Taboão",
+        "NUM": "120276",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36863887517",
+        "LON": "-49,270936728662",
+        "NOME": "Rua Guilherme de Souza Valente, 340 - Abranches",
+        "NUM": "120286",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371156931338",
+        "LON": "-49,273939461655",
+        "NOME": "Rua José Bajerski, 101 - Abranches",
+        "NUM": "120281",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371221154413",
+        "LON": "-49,267528982109",
+        "NOME": "Rua Assis Brasil, 913 - Barreirinha",
+        "NUM": "120236",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369702814833",
+        "LON": "-49,265220941252",
+        "NOME": "Rua Assis Brasil, 493 - Barreirinha",
+        "NUM": "120237",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415889116179",
+        "LON": "-49,271495240822",
+        "NOME": "R. Mateus Leme, 1298 - São Francisco",
+        "NUM": "120535",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398860565152",
+        "LON": "-49,271567660466",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120520",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410635561286",
+        "LON": "-49,271625327959",
+        "NOME": "R. Mateus Leme, 1771 - Bom Retiro",
+        "NUM": "120531",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371327788878",
+        "LON": "-49,274182201571",
+        "NOME": "Rua José Bajerski, 102 - Abranches",
+        "NUM": "120280",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366552169039",
+        "LON": "-49,272461564487",
+        "NOME": "Rua Guilherme de Souza Valente, 577 - Abranches",
+        "NUM": "120285",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371052720237",
+        "LON": "-49,262993366665",
+        "NOME": "Rua Prof. Leonardo Cobbe, 91 - Barreirinha",
+        "NUM": "120240",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421330479546",
+        "LON": "-49,270628725155",
+        "NOME": "Rua Sen. Xavier da Silva, 406 - Centro Cívico",
+        "NUM": "110087",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405207333944",
+        "LON": "-49,271042675919",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120526",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39561618219",
+        "LON": "-49,271136553234",
+        "NOME": "R. Mateus Leme, 3573 - Bom Retiro",
+        "NUM": "120518",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390608903185",
+        "LON": "-49,267388166136",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120514",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42848121089",
+        "LON": "-49,271081567949",
+        "NOME": "Praça Tiradentes - 182 - Abranches",
+        "NUM": "101021",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402880183771",
+        "LON": "-49,271456348791",
+        "NOME": "R. Mateus Leme, 2725 - São Lourenço",
+        "NUM": "120525",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413740237598",
+        "LON": "-49,271315532818",
+        "NOME": "R. Mateus Leme, 1517 - São Francisco",
+        "NUM": "120533",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377203444771",
+        "LON": "-49,27539590115",
+        "NOME": "Rua Mateus Leme, 6652 - Abranches",
+        "NUM": "120313",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387223753443",
+        "LON": "-49,267575192347",
+        "NOME": "Rua Mateus Leme, 4671 - Abranches",
+        "NUM": "120511",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369620414374",
+        "LON": "-49,26526787991",
+        "NOME": "Rua Assis Brasil, 482 - Barreirinha",
+        "NUM": "120238",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397365591456",
+        "LON": "-49,271369905419",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120521",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388396571975",
+        "LON": "-49,267448515839",
+        "NOME": "Rua Mateus Leme, 4556 - São Lourenço",
+        "NUM": "120512",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378482988772",
+        "LON": "-49,274474562353",
+        "NOME": "Rua Mateus Leme, 6072 - Abranches",
+        "NUM": "120316",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381375241408",
+        "LON": "-49,269472855225",
+        "NOME": "R. Mateus Leme, 5412 - Abranches",
+        "NUM": "120506",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383173322499",
+        "LON": "-49,267976182594",
+        "NOME": "R. Mateus Leme, 5217 - Bom Retiro",
+        "NUM": "120508",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407068052645",
+        "LON": "-49,271578389302",
+        "NOME": "R. Mateus Leme, 2309 - Centro Cívico",
+        "NUM": "120529",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42054529215",
+        "LON": "-49,27105133523",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110085",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380140559711",
+        "LON": "-49,273594797796",
+        "NOME": "Rua Mateus Leme, 5922 - Abranches",
+        "NUM": "120501",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378459966793",
+        "LON": "-49,27456575746",
+        "NOME": "Rua Mateus Leme, 6073 - Abranches",
+        "NUM": "120315",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377020478564",
+        "LON": "-49,277146042532",
+        "NOME": "Rua Mateus Leme, 6642 - Abranches",
+        "NUM": "120311",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381006898043",
+        "LON": "-49,272363605557",
+        "NOME": "Rua Mateus Leme, 5805 - Abranches",
+        "NUM": "120503",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377370979063",
+        "LON": "-49,262504056448",
+        "NOME": "Terminal Barreirinha - 182 - Abranches",
+        "NUM": "104107",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371324153614",
+        "LON": "-49,267850847191",
+        "NOME": "Rua Assis Brasil, 842 - Barreirinha",
+        "NUM": "120235",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409001851992",
+        "LON": "-49,271733350699",
+        "NOME": "Rua Mateus Leme, 2081 - São Francisco (Bosque do Papa)",
+        "NUM": "120573",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "32",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40025860321",
+        "LON": "-49,271489876404",
+        "NOME": "R. Mateus Leme, 3053 - São Lourenço",
+        "NUM": "120523",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395348437952",
+        "LON": "-49,271332354493",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120519",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417706063681",
+        "LON": "-49,271222834452",
+        "NOME": "R. Mateus Leme, 1016 - São Francisco",
+        "NUM": "110084",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415276193047",
+        "LON": "-49,271283184155",
+        "NOME": "R. Mateus Leme, 1290 - São Francisco",
+        "NUM": "120534",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36778093067",
+        "LON": "-49,27321794743",
+        "NOME": "Rua José Bajerski, 422 - Abranches",
+        "NUM": "120283",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366867270797",
+        "LON": "-49,27246",
+        "NOME": "Rua Manoel Aranha, 136 - Abranches",
+        "NUM": "120234",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393070770648",
+        "LON": "-49,269644516602",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120517",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375441626209",
+        "LON": "-49,275094152636",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1351 - Taboão",
+        "NUM": "120277",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372308494636",
+        "LON": "-49,262506209822",
+        "NOME": "Av. Anita Garibaldi, 4644 - Barreirinha",
+        "NUM": "120028",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412732407619",
+        "LON": "-49,271372587627",
+        "NOME": "R. Mateus Leme,  1654 - São Francisco",
+        "NUM": "120532",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381245594364",
+        "LON": "-49,269425974435",
+        "NOME": "R. Mateus Leme, 5411 - Abranches",
+        "NUM": "120505",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380735486422",
+        "LON": "-49,272564158982",
+        "NOME": "Rua Mateus Leme, 5802 - Abranches",
+        "NUM": "120504",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374355926046",
+        "LON": "-49,274085642046",
+        "NOME": "Rodovia dos Minérios, 708 - Abranches",
+        "NUM": "120278",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377370979063",
+        "LON": "-49,262504056448",
+        "NOME": "Terminal Barreirinha - 182 - Abranches",
+        "NUM": "104107",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "38",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37256",
+        "LON": "-49,26282",
+        "NOME": "Av. Anita Garibaldi, 4608 - Barreirinha",
+        "NUM": "120027",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37113875499",
+        "LON": "-49,263049693054",
+        "NOME": "Rua Prof. Leonardo Cobbe, 86 - Barreirinha",
+        "NUM": "120239",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391174700988",
+        "LON": "-49,267470586195",
+        "NOME": "R. Mateus Leme, 4303 - Bom Retiro",
+        "NUM": "120515",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373998189322",
+        "LON": "-49,274369717055",
+        "NOME": "Rodovia dos Minérios, 701 - Abranches",
+        "NUM": "120279",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368189303317",
+        "LON": "-49,273449958509",
+        "NOME": "Rua José Bajerski, 421 - Abranches",
+        "NUM": "120282",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370140263389",
+        "LON": "-49,269586236423",
+        "NOME": "Rua Guilherme de Souza Valente, 1 - Abranches",
+        "NUM": "120405",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    }
+]

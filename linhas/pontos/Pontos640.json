@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,530323506367",
+        "LON": "-49,288999504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5608 - Pinheirinho",
+        "NUM": "160036",
+        "SENTIDO": "Palmeira",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Palmeira",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Palmeira",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553701775267",
+        "LON": "-49,293251366562",
+        "NOME": "Rua Nicola Pellanda, 2811 - Pinheirinho",
+        "NUM": "160354",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552347867678",
+        "LON": "-49,295445413536",
+        "NOME": "Rua Faustino Raimundo Pellanda, 306 - Tatuquara",
+        "NUM": "160349",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Palmeira",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534026869317",
+        "LON": "-49,292701513714",
+        "NOME": "Rua La Salle, 320 - Pinheirinho",
+        "NUM": "160358",
+        "SENTIDO": "Palmeira",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554137345501",
+        "LON": "-49,295242906755",
+        "NOME": "Rua Faustino Raimundo Pellanda, 451 - Tatuquara",
+        "NUM": "160352",
+        "SENTIDO": "Palmeira",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550795544698",
+        "LON": "-49,299267929465",
+        "NOME": "Rua Ângelo Rigolino, 46 - Tatuquara",
+        "NUM": "160345",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533720616656",
+        "LON": "-49,28669638525",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5155 - Pinheirinho",
+        "NUM": "160033",
+        "SENTIDO": "Palmeira",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Palmeira",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Palmeira",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534887260197",
+        "LON": "-49,289207936472",
+        "NOME": "Rua La Salle, 850 - Pinheirinho",
+        "NUM": "160361",
+        "SENTIDO": "Palmeira",
+        "SEQ": "9",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550445837615",
+        "LON": "-49,292767227835",
+        "NOME": "Rua Nicola Pellanda, 2460 - Pinheirinho",
+        "NUM": "160329",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534953816196",
+        "LON": "-49,294198186344",
+        "NOME": "Rua Carlópolis, 117 - Pinheirinho",
+        "NUM": "160356",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553654588396",
+        "LON": "-49,293381453699",
+        "NOME": "Rua Nicola Pellanda, 2860 - Pinheirinho",
+        "NUM": "160355",
+        "SENTIDO": "Palmeira",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512603689981",
+        "LON": "-49,294839737434",
+        "NOME": "Terminal Pinheirinho - 640 - Palmeira",
+        "NUM": "105712",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55109195045",
+        "LON": "-49,295717657751",
+        "NOME": "Rua João Amadeu Pedro Bom, 307 - Tatuquara",
+        "NUM": "160348",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528153440264",
+        "LON": "-49,29169157424",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6018 - Pinheirinho",
+        "NUM": "160038",
+        "SENTIDO": "Palmeira",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512603689981",
+        "LON": "-49,294839737434",
+        "NOME": "Terminal Pinheirinho - 640 - Palmeira",
+        "NUM": "105712",
+        "SENTIDO": "Palmeira",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550970955802",
+        "LON": "-49,29565194363",
+        "NOME": "Rua João Amadeu Pedro Bom, 308 - Tatuquara",
+        "NUM": "160347",
+        "SENTIDO": "Palmeira",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55118874608",
+        "LON": "-49,297864766068",
+        "NOME": "Rua João Amadeu Pedro Bom, 523 - Tatuquara",
+        "NUM": "160344",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Palmeira",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Palmeira",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534933244346",
+        "LON": "-49,294306815809",
+        "NOME": "Rua Carlópolis, 116 - Pinheirinho",
+        "NUM": "160357",
+        "SENTIDO": "Palmeira",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552339398146",
+        "LON": "-49,295342148489",
+        "NOME": "Rua Faustino Raimundo Pellanda, 307 - Tatuquara",
+        "NUM": "160350",
+        "SENTIDO": "Palmeira",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55107380126",
+        "LON": "-49,29785671944",
+        "NOME": "Rua João Amadeu Pedro Bom, 520 - Tatuquara",
+        "NUM": "160346",
+        "SENTIDO": "Palmeira",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550795544698",
+        "LON": "-49,299267929465",
+        "NOME": "Rua Ângelo Rigolino, 46 - Tatuquara",
+        "NUM": "160345",
+        "SENTIDO": "Palmeira",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550725336291",
+        "LON": "-49,292839647478",
+        "NOME": "Rua Nicola Pellanda, 2476 - Pinheirinho",
+        "NUM": "160328",
+        "SENTIDO": "Palmeira",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534979228477",
+        "LON": "-49,289260239548",
+        "NOME": "Rua La Salle, 849 - Pinheirinho",
+        "NUM": "160360",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Palmeira",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534127309077",
+        "LON": "-49,292735041327",
+        "NOME": "Rua La Salle, 321 - Pinheirinho",
+        "NUM": "160359",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554184532182",
+        "LON": "-49,29533946628",
+        "NOME": "Rua Faustino Raimundo Pellanda, 450 - Tatuquara",
+        "NUM": "160351",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

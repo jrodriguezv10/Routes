@@ -1,0 +1,642 @@
+[
+    {
+        "GRUPO": "26107",
+        "LAT": "-25,461204927891",
+        "LON": "-49,289782206746",
+        "NOME": "Estação Tubo Sebastião Paraná",
+        "NUM": "108043",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41819",
+        "LAT": "-25,41239408359",
+        "LON": "-49,257930706177",
+        "NOME": "Estação Tubo Moisés Marcondes",
+        "NUM": "108015",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26109",
+        "LAT": "-25,452294327996",
+        "LON": "-49,287844382803",
+        "NOME": "Estação Tubo Petit Carneiro",
+        "NUM": "108039",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41817",
+        "LAT": "-25,409287309813",
+        "LON": "-49,255050004667",
+        "NOME": "Estação Tubo Bom Jesus",
+        "NUM": "108013",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41820",
+        "LAT": "-25,413370782272",
+        "LON": "-49,258952961887",
+        "NOME": "Estação Tubo Moisés Marcondes",
+        "NUM": "108016",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41823",
+        "LAT": "-25,419901596561",
+        "LON": "-49,265101084072",
+        "NOME": "Estação Tubo Maria Clara",
+        "NUM": "108020",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26099",
+        "LAT": "-25,4448158457",
+        "LON": "-49,285595177088",
+        "NOME": "Estação Tubo Bento Viana",
+        "NUM": "108036",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26112",
+        "LAT": "-25,484383755499",
+        "LON": "-49,293780854121",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108054",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476410212996",
+        "LON": "-49,292681397146",
+        "NOME": "Terminal  Portão - 203 - Sta. Cândida/C. Raso / 603-Pinheirinho/R. Barbosa  / 602-Circular Sul (AH)",
+        "NUM": "105802",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26096",
+        "LAT": "-25,44298821663",
+        "LON": "-49,280469406152",
+        "NOME": "Estação Tubo Coronel Dulcídio",
+        "NUM": "108033",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41825",
+        "LAT": "-25,439140453466",
+        "LON": "-49,270409143408",
+        "NOME": "Estação Tubo Alferes Poli / Catedral da Fé",
+        "NUM": "108027",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41822",
+        "LAT": "-25,418876163377",
+        "LON": "-49,263979078478",
+        "NOME": "Estação Tubo Maria Clara",
+        "NUM": "108019",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41809",
+        "LAT": "-25,380727998652",
+        "LON": "-49,228829736389",
+        "NOME": "Estação Tubo Joaquim Nabuco",
+        "NUM": "108002",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26095",
+        "LAT": "-25,443372665226",
+        "LON": "-49,281736143522",
+        "NOME": "Estação Tubo Coronel Dulcídio",
+        "NUM": "108034",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26121",
+        "LAT": "-25,464606514037",
+        "LON": "-49,291301908896",
+        "NOME": "Estação Tubo Vital Brasil",
+        "NUM": "108046",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41824",
+        "LAT": "-25,429965307362",
+        "LON": "-49,267513649777",
+        "NOME": "Estação Central",
+        "NUM": "108023",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26123",
+        "LAT": "-25,464646632699",
+        "LON": "-49,291212519455",
+        "NOME": "Estação Tubo Vital Brasil",
+        "NUM": "108045",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41821",
+        "LAT": "-25,415155061624",
+        "LON": "-49,260541827625",
+        "NOME": "Estação Tubo Constantino Marochi",
+        "NUM": "109147",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377358491106",
+        "LON": "-49,224221622586",
+        "NOME": "Terminal Santa Cândida - 203 - Santa Cândida / Capão Raso",
+        "NUM": "105901",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41816",
+        "LAT": "-25,403501586783",
+        "LON": "-49,249864792933",
+        "NOME": "Estação Tubo Antônio Cavalheiros",
+        "NUM": "108012",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41772",
+        "LAT": "-25,416066058281",
+        "LON": "-49,26150706627",
+        "NOME": "Estação Tubo Constantino Marochi",
+        "NUM": "109146",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26108",
+        "LAT": "-25,452287022347",
+        "LON": "-49,287927521283",
+        "NOME": "Estação Tubo Petit Carneiro",
+        "NUM": "108040",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26118",
+        "LAT": "-25,467604592786",
+        "LON": "-49,29319991057",
+        "NOME": "Estação Tubo Morretes",
+        "NUM": "108048",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26113",
+        "LAT": "-25,472633207004",
+        "LON": "-49,294487371045",
+        "NOME": "Estação Tubo Carlos Dietzsch",
+        "NUM": "108050",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26104",
+        "LAT": "-25,46116926485",
+        "LON": "-49,289856957969",
+        "NOME": "Estação Tubo Sebastião Paraná",
+        "NUM": "108044",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41810",
+        "LAT": "-25,384271911266",
+        "LON": "-49,231926689778",
+        "NOME": "Estação Tubo Fernando de Noronha",
+        "NUM": "108003",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41773",
+        "LAT": "-25,423959273219",
+        "LON": "-49,268337668127",
+        "NOME": "Estação Tubo Passeio Público",
+        "NUM": "108021",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26105",
+        "LAT": "-25,448322747926",
+        "LON": "-49,287777398148",
+        "NOME": "Estação Tubo Silva Jardim",
+        "NUM": "108037",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,39366084452",
+        "LON": "-49,24063428764",
+        "NOME": "Terminal Boa Vista - 203 - Sta. Cândida C. Raso",
+        "NUM": "104202",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491755433148",
+        "LON": "-49,293489668088",
+        "NOME": "Terminal Capão Raso - 203 - Santa Cândida / Capão Raso",
+        "NUM": "104801",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26093",
+        "LAT": "-25,441600910618",
+        "LON": "-49,277095755077",
+        "NOME": "Estação Tubo Praça Oswaldo Cruz",
+        "NUM": "108032",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26106",
+        "LAT": "-25,448330003815",
+        "LON": "-49,287868593254",
+        "NOME": "Estação Tubo Silva Jardim",
+        "NUM": "108038",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41815",
+        "LAT": "-25,402475202806",
+        "LON": "-49,248784373437",
+        "NOME": "Estação Tubo Antônio Cavalheiros",
+        "NUM": "108011",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406763658218",
+        "LON": "-49,252844767511",
+        "NOME": "Terminal Cabral - 203 - Santa Cândida / Capão Raso",
+        "NUM": "104411",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26124",
+        "LAT": "-25,43759253",
+        "LON": "-49,26672726",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108025",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26110",
+        "LAT": "-25,487814027983",
+        "LON": "-49,29433070633",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108055",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41771",
+        "LAT": "-25,399555354092",
+        "LON": "-49,246224370986",
+        "NOME": "Estação Tubo Holanda",
+        "NUM": "108010",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41811",
+        "LAT": "-25,385134371048",
+        "LON": "-49,232854477791",
+        "NOME": "Estação Tubo Fernando de Noronha",
+        "NUM": "108004",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377358491106",
+        "LON": "-49,224221622586",
+        "NOME": "Terminal Santa Cândida - 203 - Santa Cândida / Capão Raso",
+        "NUM": "105901",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491755433148",
+        "LON": "-49,293489668088",
+        "NOME": "Terminal Capão Raso - 203 - Santa Cândida / Capão Raso",
+        "NUM": "104801",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41808",
+        "LAT": "-25,379907559523",
+        "LON": "-49,22793153945",
+        "NOME": "Estação Tubo Joaquim Nabuco",
+        "NUM": "108001",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41769",
+        "LAT": "-25,395744242316",
+        "LON": "-49,242493252193",
+        "NOME": "Estação Tubo Gago Coutinho",
+        "NUM": "108007",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26097",
+        "LAT": "-25,456920160003",
+        "LON": "-49,288507511664",
+        "NOME": "Estação Tubo Dom Pedro l",
+        "NUM": "108041",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,47637224",
+        "LON": "-49,29260731",
+        "NOME": "Terminal Portão - 203 - Sta. Cândida / C. Raso - Pinheirinho / Rui Barbosa-Circular Sul (H)",
+        "NUM": "105801",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41818",
+        "LAT": "-25,410093244956",
+        "LON": "-49,255935977351",
+        "NOME": "Estação Tubo Bom Jesus",
+        "NUM": "108014",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41826",
+        "LAT": "-25,439473900675",
+        "LON": "-49,271566553349",
+        "NOME": "Estação Tubo Alferes Poli / Catedral da Fé",
+        "NUM": "108028",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14553",
+        "LAT": "-25,437670038693",
+        "LON": "-49,266681661447",
+        "NOME": "Estação Tubo Praça Eufrasio Correia",
+        "NUM": "108026",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41814",
+        "LAT": "-25,398800614989",
+        "LON": "-49,245376802937",
+        "NOME": "Estação Tubo Holanda",
+        "NUM": "108009",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41812",
+        "LAT": "-25,38790309648",
+        "LON": "-49,235215078031",
+        "NOME": "Estação Tubo Antônio Lago",
+        "NUM": "108005",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26114",
+        "LAT": "-25,472597214349",
+        "LON": "-49,294372161675",
+        "NOME": "Estação Tubo Carlos Dietzsch",
+        "NUM": "108049",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41775",
+        "LAT": "-25,429994053636",
+        "LON": "-49,267617165582",
+        "NOME": "Estação Central",
+        "NUM": "108024",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26094",
+        "LAT": "-25,45693318",
+        "LON": "-49,28858994",
+        "NOME": "Estação Tubo Dom Pedro I",
+        "NUM": "108042",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,40643942",
+        "LON": "-49,25274264",
+        "NOME": "Terminal Cabral - 203 - Santa Cândida / Capão Raso",
+        "NUM": "104413",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,39351746",
+        "LON": "-49,24061637",
+        "NOME": "Terminal Boa Vista - 203 - Sta. Cândida C. Raso",
+        "NUM": "104201",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26092",
+        "LAT": "-25,441207339035",
+        "LON": "-49,275852571199",
+        "NOME": "Estação Tubo Praça Oswaldo Cruz",
+        "NUM": "108031",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26101",
+        "LAT": "-25,444886124648",
+        "LON": "-49,285470404369",
+        "NOME": "Estação Tubo Bento Viana",
+        "NUM": "108035",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26117",
+        "LAT": "-25,467671216077",
+        "LON": "-49,293124934483",
+        "NOME": "Estação Tubo Morretes",
+        "NUM": "108047",
+        "SENTIDO": "Terminal Sta.Cândida",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41813",
+        "LAT": "-25,388780237354",
+        "LON": "-49,236226186568",
+        "NOME": "Estação Tubo Antônio Lago",
+        "NUM": "108006",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41774",
+        "LAT": "-25,423876886501",
+        "LON": "-49,268388973076",
+        "NOME": "Estação Tubo Passeio Público",
+        "NUM": "108022",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26120",
+        "LAT": "-25,4810211",
+        "LON": "-49,29261829",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108052",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41770",
+        "LAT": "-25,396518311125",
+        "LON": "-49,243371084002",
+        "NOME": "Estação Tubo Gago Coutinho",
+        "NUM": "108008",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    }
+]

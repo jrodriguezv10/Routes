@@ -1,0 +1,1322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,434700421075",
+        "LON": "-49,272335679345",
+        "NOME": "Praça Rui Barbosa - 462 - Petrópolis",
+        "NUM": "102041",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457170653254",
+        "LON": "-49,225410148532",
+        "NOME": "Av. Nossa Senhora de Lourdes, 698 - Jardim das Américas",
+        "NUM": "140458",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481268631935",
+        "LON": "-49,211490824849",
+        "NOME": "Rua Augusto Stembock, 516 - Uberaba",
+        "NUM": "140663",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442238229692",
+        "LON": "-49,247399003452",
+        "NOME": "Av. Prefeito Omar Sabag, 212 - Jardim Botanico",
+        "NUM": "140552",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,263431907839",
+        "NOME": "Rua João Negrão, 940 - Centro",
+        "NUM": "110205",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464054379889",
+        "LON": "-49,222521409423",
+        "NOME": "Rua Capitão Leônidas Marquês, 191 - Uberaba",
+        "NUM": "140452",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444224323235",
+        "LON": "-49,242752076334",
+        "NOME": "Av. Prof. Lothário Meissner - Jardim Botânico",
+        "NUM": "140556",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481691148001",
+        "LON": "-49,209893569381",
+        "NOME": "Rua Artur José Nísio, 289 - Uberaba",
+        "NUM": "140664",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477617256447",
+        "LON": "-49,216957166822",
+        "NOME": "R. Cap. Leônidas Marques, 1499 - Uberaba",
+        "NUM": "140309",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438835151813",
+        "LON": "-49,251793802923",
+        "NOME": "Rua Engenheiros Rebouças, 540 - Jardim Botanico",
+        "NUM": "110171",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455199304218",
+        "LON": "-49,226224198968",
+        "NOME": "Av. Nossa Senhora de Lourdes, 547 - Jardim das Américas",
+        "NUM": "140459",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467161312034",
+        "LON": "-49,221436455877",
+        "NOME": "R. Cap. Leônidas Marques, 127 - Uberaba",
+        "NUM": "140300",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474661934023",
+        "LON": "-49,218066260249",
+        "NOME": "R. Cap. Leônidas Marques, 1111 - Uberaba",
+        "NUM": "140306",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434700421075",
+        "LON": "-49,272335679345",
+        "NOME": "Praça Rui Barbosa - 462 - Petrópolis",
+        "NUM": "102041",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462418546662",
+        "LON": "-49,223344847591",
+        "NOME": "Rua Professor João Doetzer, 592 - Jardim das Américas",
+        "NUM": "140454",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460452127027",
+        "LON": "-49,223887994916",
+        "NOME": "Rua Professor João Doetzer, 70 - Jardim das Américas",
+        "NUM": "140456",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464064066474",
+        "LON": "-49,222874119909",
+        "NOME": "Rua Professor João Doetzer, 590 - Jardim das Américas",
+        "NUM": "140451",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477886991119",
+        "LON": "-49,212661385536",
+        "NOME": "Rua José Drula Sobrinho, 84 - Uberaba",
+        "NUM": "140566",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471389323062",
+        "LON": "-49,217166379125",
+        "NOME": "R. Cap. Leônidas Marques, 657 - Uberaba",
+        "NUM": "140304",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478219928739",
+        "LON": "-49,21055316925",
+        "NOME": "Rua José Drula Sobrinho, 355 - Uberaba",
+        "NUM": "140597",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439920271785",
+        "LON": "-49,250104011244",
+        "NOME": "Rua Brasílio Itiberê, 563 - Jardim Botanico",
+        "NUM": "110170",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478969585828",
+        "LON": "-49,215185567767",
+        "NOME": "Rua Augusto Stembock, 56 - Uberaba",
+        "NUM": "140587",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434700421075",
+        "LON": "-49,272335679345",
+        "NOME": "Praça Rui Barbosa - 462 - Petrópolis",
+        "NUM": "102041",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443621232439",
+        "LON": "-49,244156212753",
+        "NOME": "Av. Prof. Lothário Meissner, 70 - Jardim Botanico",
+        "NUM": "140555",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448844286063",
+        "LON": "-49,229103655762",
+        "NOME": "Rodovia BR277 - Jardim da Américas",
+        "NUM": "140528",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457384981025",
+        "LON": "-49,225139245422",
+        "NOME": "Av. Nossa Senhora de Lourdes, 779 - Jardim das Américas",
+        "NUM": "140457",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447697220732",
+        "LON": "-49,225212782621",
+        "NOME": "R. João Crysóstomo da Rosa, 187 - Cajuru",
+        "NUM": "140999",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444048724821",
+        "LON": "-49,237115414089",
+        "NOME": "Av. Prof. Lothário Meissner, 840 - Jardim Botânico",
+        "NUM": "140557",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467672265133",
+        "LON": "-49,221806600721",
+        "NOME": "R. Cap. Leônidas Marques, 2 - Jardim das Américas",
+        "NUM": "140301",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440891277329",
+        "LON": "-49,252665191889",
+        "NOME": "Rua Brasílio Itiberê, 849 - Jardim Botanico",
+        "NUM": "110169",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442238229692",
+        "LON": "-49,247399003452",
+        "NOME": "Av. Prefeito Omar Sabag, 212 - Jardim Botanico",
+        "NUM": "140552",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443621232439",
+        "LON": "-49,244156212753",
+        "NOME": "Av. Prof. Lothário Meissner, 70 - Jardim Botanico",
+        "NUM": "140555",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443869493072",
+        "LON": "-49,237796695179",
+        "NOME": "Av. Prof. Lothário Meissner, 767 - Jardim Botânico",
+        "NUM": "140558",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460167574726",
+        "LON": "-49,22379679981",
+        "NOME": "Rua Professor João Doetzer, 143 - Jardim das Américas",
+        "NUM": "140455",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48752607017",
+        "LON": "-49,206938892603",
+        "NOME": "Rua Professor Toshiaki Saito, 414 - Uberaba",
+        "NUM": "140591",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443818629959",
+        "LON": "-49,244377494997",
+        "NOME": "Av. Prof. Lothário Meissner, 71 - Jardim Botanico",
+        "NUM": "140554",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47209518786",
+        "LON": "-49,216975942285",
+        "NOME": "R. Cap. Leônidas Marques, 800 - Uberaba",
+        "NUM": "140305",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440551235487",
+        "LON": "-49,24865695948",
+        "NOME": "Rua Coronel João da Silva Sampaio, 27 - Jardim Botanico",
+        "NUM": "140551",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464054379889",
+        "LON": "-49,222521409423",
+        "NOME": "Rua Capitão Leônidas Marquês, 191 - Uberaba",
+        "NUM": "140452",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457170653254",
+        "LON": "-49,225410148532",
+        "NOME": "Av. Nossa Senhora de Lourdes, 698 - Jardim das Américas",
+        "NUM": "140458",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469668835934",
+        "LON": "-49,219593778283",
+        "NOME": "Rua Cap. Leônidas Marques, 338 - Uberaba",
+        "NUM": "140303",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47209518786",
+        "LON": "-49,216975942285",
+        "NOME": "R. Cap. Leônidas Marques, 800 - Uberaba",
+        "NUM": "140305",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474983984155",
+        "LON": "-49,218414947421",
+        "NOME": "R. Cap. Leônidas Marques, 1158 - Uberaba",
+        "NUM": "140307",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478308308389",
+        "LON": "-49,21051427722",
+        "NOME": "Rua José Drula Sobrinho, 356 - Uberaba",
+        "NUM": "140598",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434700421075",
+        "LON": "-49,272335679345",
+        "NOME": "Praça Rui Barbosa - 462 - Petrópolis",
+        "NUM": "102041",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467161312034",
+        "LON": "-49,221436455877",
+        "NOME": "R. Cap. Leônidas Marques, 127 - Uberaba",
+        "NUM": "140300",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480248049753",
+        "LON": "-49,20951537791",
+        "NOME": "Rua Artur José Nísio, 167 - Uberaba",
+        "NUM": "140590",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,263431907839",
+        "NOME": "Rua João Negrão, 940 - Centro",
+        "NUM": "110205",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453850340387",
+        "LON": "-49,227038249404",
+        "NOME": "Av. Nossa Senhora de Lourdes, 358 - Jardim das Américas",
+        "NUM": "140462",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467672265133",
+        "LON": "-49,221806600721",
+        "NOME": "R. Cap. Leônidas Marques, 2 - Jardim das Américas",
+        "NUM": "140301",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474983984155",
+        "LON": "-49,218414947421",
+        "NOME": "R. Cap. Leônidas Marques, 1158 - Uberaba",
+        "NUM": "140307",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440891277329",
+        "LON": "-49,252665191889",
+        "NOME": "Rua Brasílio Itiberê, 849 - Jardim Botanico",
+        "NUM": "110169",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471389323062",
+        "LON": "-49,217166379125",
+        "NOME": "R. Cap. Leônidas Marques, 657 - Uberaba",
+        "NUM": "140304",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480214151264",
+        "LON": "-49,212546274097",
+        "NOME": "Rua Augusto Stembock, 345 - Uberaba",
+        "NUM": "140586",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481095508877",
+        "LON": "-49,211480096013",
+        "NOME": "Rua Augusto Stembock, 515 - Uberaba",
+        "NUM": "140588",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481903010799",
+        "LON": "-49,210078641803",
+        "NOME": "Rua Artur José Nísio, 366 - Uberaba",
+        "NUM": "140589",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45048",
+        "LON": "-49,22618",
+        "NOME": "Rua Reinaldo Issberner, 131 - Cajuru",
+        "NUM": "140165",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48219815931",
+        "LON": "-49,208483844995",
+        "NOME": "Rua Alberto Pasqualine, 1827 - Uberaba",
+        "NUM": "140595",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "32",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448844286063",
+        "LON": "-49,229103655762",
+        "NOME": "Rodovia BR277 - Jardim da Américas",
+        "NUM": "140528",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453593623835",
+        "LON": "-49,226993992955",
+        "NOME": "Av. Nossa Senhora de Lourdes, 357 - Jardim das Américas",
+        "NUM": "140461",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455199304218",
+        "LON": "-49,226224198968",
+        "NOME": "Av. Nossa Senhora de Lourdes, 547 - Jardim das Américas",
+        "NUM": "140459",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457384981025",
+        "LON": "-49,225139245422",
+        "NOME": "Av. Nossa Senhora de Lourdes, 779 - Jardim das Américas",
+        "NUM": "140457",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482219950837",
+        "LON": "-49,208052009344",
+        "NOME": "Rua Alberto Pasqualine, 408 - Uberaba",
+        "NUM": "140594",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455322817206",
+        "LON": "-49,226342216165",
+        "NOME": "Av. Nossa Senhora de Lourdes, 548 - Jardim das Américas",
+        "NUM": "140460",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453593623835",
+        "LON": "-49,226993992955",
+        "NOME": "Av. Nossa Senhora de Lourdes, 357 - Jardim das Américas",
+        "NUM": "140461",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478870310599",
+        "LON": "-49,215142652423",
+        "NOME": "Rua Augusto Stembock, 55 - Uberaba",
+        "NUM": "140582",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441326311136",
+        "LON": "-49,249190719074",
+        "NOME": "Av. Prefeito Omar Sabag, 750 - Jardim Botanico",
+        "NUM": "140550",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450284110955",
+        "LON": "-49,228406176002",
+        "NOME": "Rodovia BR-277 - Jardim da Américas",
+        "NUM": "140525",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455322817206",
+        "LON": "-49,226342216165",
+        "NOME": "Av. Nossa Senhora de Lourdes, 548 - Jardim das Américas",
+        "NUM": "140460",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477365433361",
+        "LON": "-49,217252209813",
+        "NOME": "R. Cap. Leônidas Marques, 1446 - Uberaba",
+        "NUM": "140308",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48752607017",
+        "LON": "-49,206938892603",
+        "NOME": "Rua Professor Toshiaki Saito, 414 - Uberaba",
+        "NUM": "140591",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485551586779",
+        "LON": "-49,207797199488",
+        "NOME": "Rua Alberto Pasqualine, 51 - Uberaba",
+        "NUM": "140592",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477617256447",
+        "LON": "-49,216957166822",
+        "NOME": "R. Cap. Leônidas Marques, 1499 - Uberaba",
+        "NUM": "140309",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440551235487",
+        "LON": "-49,24865695948",
+        "NOME": "Rua Coronel João da Silva Sampaio, 27 - Jardim Botanico",
+        "NUM": "140551",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45048",
+        "LON": "-49,22618",
+        "NOME": "Rua Reinaldo Issberner, 131 - Cajuru",
+        "NUM": "140165",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47781677143",
+        "LON": "-49,212536662817",
+        "NOME": "Rua José Drula Sobrinho, 75 - Uberaba",
+        "NUM": "140599",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462418546662",
+        "LON": "-49,223344847591",
+        "NOME": "Rua Professor João Doetzer, 592 - Jardim das Américas",
+        "NUM": "140454",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441326311136",
+        "LON": "-49,249190719074",
+        "NOME": "Av. Prefeito Omar Sabag, 750 - Jardim Botanico",
+        "NUM": "140550",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44232542473",
+        "LON": "-49,247905940956",
+        "NOME": "Av. Prefeito Omar Sabag, 213 - Jardim Botanico",
+        "NUM": "140553",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444048724821",
+        "LON": "-49,237115414089",
+        "NOME": "Av. Prof. Lothário Meissner, 840 - Jardim Botânico",
+        "NUM": "140557",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450284110955",
+        "LON": "-49,228406176002",
+        "NOME": "Rodovia BR-277 - Jardim da Américas",
+        "NUM": "140525",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460452127027",
+        "LON": "-49,223887994916",
+        "NOME": "Rua Professor João Doetzer, 70 - Jardim das Américas",
+        "NUM": "140456",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464064066474",
+        "LON": "-49,222874119909",
+        "NOME": "Rua Professor João Doetzer, 590 - Jardim das Américas",
+        "NUM": "140451",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469668835934",
+        "LON": "-49,219593778283",
+        "NOME": "Rua Cap. Leônidas Marques, 338 - Uberaba",
+        "NUM": "140303",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477365433361",
+        "LON": "-49,217252209813",
+        "NOME": "R. Cap. Leônidas Marques, 1446 - Uberaba",
+        "NUM": "140308",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480266209654",
+        "LON": "-49,212582483918",
+        "NOME": "Rua Augusto Stembock, 346 - Uberaba",
+        "NUM": "140662",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480248049753",
+        "LON": "-49,20951537791",
+        "NOME": "Rua Artur José Nísio, 167 - Uberaba",
+        "NUM": "140590",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439920271785",
+        "LON": "-49,250104011244",
+        "NOME": "Rua Brasílio Itiberê, 563 - Jardim Botanico",
+        "NUM": "110170",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444224323235",
+        "LON": "-49,242752076334",
+        "NOME": "Av. Prof. Lothário Meissner - Jardim Botânico",
+        "NUM": "140556",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453850340387",
+        "LON": "-49,227038249404",
+        "NOME": "Av. Nossa Senhora de Lourdes, 358 - Jardim das Américas",
+        "NUM": "140462",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478969585828",
+        "LON": "-49,215185567767",
+        "NOME": "Rua Augusto Stembock, 56 - Uberaba",
+        "NUM": "140587",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438835151813",
+        "LON": "-49,251793802923",
+        "NOME": "Rua Engenheiros Rebouças, 540 - Jardim Botanico",
+        "NUM": "110171",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469432736203",
+        "LON": "-49,219474419982",
+        "NOME": "Rua Cap. Leônidas Marques, 291 - Uberaba",
+        "NUM": "140105",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474661934023",
+        "LON": "-49,218066260249",
+        "NOME": "R. Cap. Leônidas Marques, 1111 - Uberaba",
+        "NUM": "140306",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478870310599",
+        "LON": "-49,215142652423",
+        "NOME": "Rua Augusto Stembock, 55 - Uberaba",
+        "NUM": "140582",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479291376279",
+        "LON": "-49,208651483059",
+        "NOME": "Rua Alberto Pasqualine, 693 - Uberaba",
+        "NUM": "140596",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447697220732",
+        "LON": "-49,225212782621",
+        "NOME": "R. João Crysóstomo da Rosa, 187 - Cajuru",
+        "NUM": "140999",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439843974606",
+        "LON": "-49,262003631538",
+        "NOME": "Rua João Negrão, 1274 - Centro",
+        "NUM": "110144",
+        "SENTIDO": "Petrópolis",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443869493072",
+        "LON": "-49,237796695179",
+        "NOME": "Av. Prof. Lothário Meissner, 767 - Jardim Botânico",
+        "NUM": "140558",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460167574726",
+        "LON": "-49,22379679981",
+        "NOME": "Rua Professor João Doetzer, 143 - Jardim das Américas",
+        "NUM": "140455",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462483931984",
+        "LON": "-49,223139658601",
+        "NOME": "Rua Professor João Doetzer, 191 - Jardim das Américas",
+        "NUM": "140453",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469432736203",
+        "LON": "-49,219474419982",
+        "NOME": "Rua Cap. Leônidas Marques, 291 - Uberaba",
+        "NUM": "140105",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439843974606",
+        "LON": "-49,262003631538",
+        "NOME": "Rua João Negrão, 1274 - Centro",
+        "NUM": "110144",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44232542473",
+        "LON": "-49,247905940956",
+        "NOME": "Av. Prefeito Omar Sabag, 213 - Jardim Botanico",
+        "NUM": "140553",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443818629959",
+        "LON": "-49,244377494997",
+        "NOME": "Av. Prof. Lothário Meissner, 71 - Jardim Botanico",
+        "NUM": "140554",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479166677226",
+        "LON": "-49,209104776382",
+        "NOME": "Rua Alberto Pasqualine, 64 - Uberaba",
+        "NUM": "140665",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "31",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462483931984",
+        "LON": "-49,223139658601",
+        "NOME": "Rua Professor João Doetzer, 191 - Jardim das Américas",
+        "NUM": "140453",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485322781886",
+        "LON": "-49,207413643599",
+        "NOME": "Rua Alberto Pasqualine, 6 - Uberaba",
+        "NUM": "140593",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

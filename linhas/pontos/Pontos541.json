@@ -1,0 +1,282 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,54468",
+        "LON": "-49,25421",
+        "NOME": "Rua Agenor Antônio Rodrigues, 1418 - Sítio Cercado",
+        "NUM": "160112",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538309109327",
+        "LON": "-49,268853673611",
+        "NOME": "Rua São José dos Pinhais, 369 - Sítio Cercado",
+        "NUM": "160101",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543664925639",
+        "LON": "-49,24861769577",
+        "NOME": "Rua Cidade de Palmas, 723 - Sítio Cercado",
+        "NUM": "160115",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541802877179",
+        "LON": "-49,251392011657",
+        "NOME": "Rua Des. Carlos Pinheiro Guimarães, 357 - Sítio Cercado",
+        "NUM": "160117",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53601",
+        "LON": "-49,27008",
+        "NOME": "Rua São José dos Pinhais, 108 - Sítio Cercado",
+        "NUM": "160098",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538361210074",
+        "LON": "-49,268993906746",
+        "NOME": "Rua São José dos Pinhais, 358 - Sítio Cercado",
+        "NUM": "160100",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543001668023",
+        "LON": "-49,262628279762",
+        "NOME": "Rua São José dos Pinhais, 1176 - Sítio Cercado",
+        "NUM": "160106",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545654339978",
+        "LON": "-49,257858163195",
+        "NOME": "Rua São José dos Pinhais, 1744 - Sítio Cercado",
+        "NUM": "160110",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54163",
+        "LON": "-49,26486",
+        "NOME": "Rua São José dos Pinhais, 877 - Sítio Cercado",
+        "NUM": "160105",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54058",
+        "LON": "-49,24921",
+        "NOME": "Rua Aristides Marquezini, 1013 - Sítio Cercado",
+        "NUM": "160116",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54169",
+        "LON": "-49,26505",
+        "NOME": "Rua São José dos Pinhais, 868 - Sítio Cercado",
+        "NUM": "160104",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543664925639",
+        "LON": "-49,24861769577",
+        "NOME": "Rua Cidade de Palmas, 723 - Sítio Cercado",
+        "NUM": "160115",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54468",
+        "LON": "-49,25882",
+        "NOME": "Rua Jussara, 2306 - Sítio Cercado",
+        "NUM": "160120",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54499",
+        "LON": "-49,25602",
+        "NOME": "Rua Des. Carlos Pinheiro Guimarães, 941 - Sítio Cercado",
+        "NUM": "160111",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540619748715",
+        "LON": "-49,266998892031",
+        "NOME": "Rua São José dos Pinhais, 648 - Sítio Cercado",
+        "NUM": "160102",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221668922",
+        "LON": "-49,260441953373",
+        "NOME": "Rua São José dos Pinhais, 1432 - Sítio Cercado",
+        "NUM": "160108",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545702240004",
+        "LON": "-49,251518046627",
+        "NOME": "Rua Cidade de Palmas, 297 - Sítio Cercado",
+        "NUM": "160113",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540614452335",
+        "LON": "-49,266722624502",
+        "NOME": "Rua São José dos Pinhais, 669 - Sítio Cercado",
+        "NUM": "160103",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534155478599",
+        "LON": "-49,267309387732",
+        "NOME": "Terminal Sítio Cercado - 541 - Bairro Novo A",
+        "NUM": "106103",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534155478599",
+        "LON": "-49,267309387732",
+        "NOME": "Terminal Sítio Cercado - 541 - Bairro Novo A",
+        "NUM": "106103",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53638",
+        "LON": "-49,26973",
+        "NOME": "Rua São José dos Pinhais, 121 - Sítio Cercado",
+        "NUM": "160099",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54288",
+        "LON": "-49,26262",
+        "NOME": "Rua São José dos Pinhais, 1167 - Sítio Cercado",
+        "NUM": "160107",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542932990538",
+        "LON": "-49,257593906746",
+        "NOME": "Rua Jussara, 2527 - Sítio Cercado",
+        "NUM": "160119",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541256439135",
+        "LON": "-49,255202440996",
+        "NOME": "Rua Jussara, 2862 - Sítio Cercado",
+        "NUM": "160208",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54411",
+        "LON": "-49,26041",
+        "NOME": "Rua São José dos Pinhais, 1423 - Sítio Cercado",
+        "NUM": "160109",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540719177887",
+        "LON": "-49,25203475215",
+        "NOME": "Rua David Tows, 3359 - Sitio Cercado",
+        "NUM": "160118",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539959263723",
+        "LON": "-49,253252475043",
+        "NOME": "Rua Jussara, 3032 - Sítio Cercado",
+        "NUM": "160206",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544650319913",
+        "LON": "-49,250146093254",
+        "NOME": "Rua Cidade de Palmas, 497 - Sítio Cercado",
+        "NUM": "160114",
+        "SENTIDO": "Bairro Novo A",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    }
+]

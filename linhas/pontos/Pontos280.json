@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,38205867882",
+        "LON": "-49,238607212771",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2234 - Boa Vista",
+        "NUM": "120385",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380947247869",
+        "LON": "-49,235803363851",
+        "NOME": "Rua João Reboli, 298 - Santa Candida",
+        "NUM": "120720",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380632561758",
+        "LON": "-49,237012639512",
+        "NOME": "Rua Fernando de Noronha, 599 - Santa Candida",
+        "NUM": "120383",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405515270984",
+        "LON": "-49,250109375662",
+        "NOME": "Rua Deputado Joaquim José Pedrosa, 686 - Cabral",
+        "NUM": "130424",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428906334648",
+        "LON": "-49,271190197414",
+        "NOME": "Praça Tiradentes - 280 - Nossa Senhora de Nazaré",
+        "NUM": "101017",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378134864684",
+        "LON": "-49,232016820709",
+        "NOME": "Rua Coronel Wallace Scott Murrai, 437 - Santa Candida",
+        "NUM": "120378",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380935131286",
+        "LON": "-49,235909311107",
+        "NOME": "Rua João Reboli, 309 - Santa Candida",
+        "NUM": "120381",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24404",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1385 - Boa Vista",
+        "NUM": "120218",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376720955594",
+        "LON": "-49,231435636497",
+        "NOME": "Rua José Antônio Leprevost, 477 - Santa Candida",
+        "NUM": "120377",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387307614598",
+        "LON": "-49,242660524698",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1633 - Boa Vista",
+        "NUM": "120724",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370463571361",
+        "LON": "-49,237615446067",
+        "NOME": "Rua Pedro Spisla Filho, 336- Santa Candida",
+        "NUM": "120370",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40725",
+        "LON": "-49,2517",
+        "NOME": "Rua Dep. Joaquim José Pedrosa, 402 - Cabral",
+        "NUM": "130109",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413631332472",
+        "LON": "-49,25679746384",
+        "NOME": "Rua Guarda-mor Lustosa, 96 - Juvevê",
+        "NUM": "130422",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397285812095",
+        "LON": "-49,250379606082",
+        "NOME": "R. Vicente Ciccarino, 222 - Boa Vista",
+        "NUM": "120081",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385879985642",
+        "LON": "-49,241193985074",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1840 - Boa Vista",
+        "NUM": "120723",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417505104038",
+        "LON": "-49,261441708749",
+        "NOME": "Rua Nicolau Maeder, 192 - Alto da Glória",
+        "NUM": "110128",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387307614598",
+        "LON": "-49,242498251053",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1642 - Boa Vista",
+        "NUM": "120388",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395440692198",
+        "LON": "-49,250001414611",
+        "NOME": "Rua Nossa Senhora de Nazaré, 472 - Boa Vista",
+        "NUM": "120394",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403572686181",
+        "LON": "-49,250794007375",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 341 - Cabral",
+        "NUM": "120096",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39843",
+        "LON": "-49,25151",
+        "NOME": "R. Vicente Ciccarino, 60 - Boa Vista",
+        "NUM": "120566",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371497201134",
+        "LON": "-49,238255152917",
+        "NOME": "Rua José Antônio Leprevost, 1409 - Santa Candida",
+        "NUM": "120589",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392007216074",
+        "LON": "-49,24700806935",
+        "NOME": "Rua Nossa Senhora de Nazaré, 889 - Boa Vista",
+        "NUM": "120390",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428906334648",
+        "LON": "-49,271190197414",
+        "NOME": "Praça Tiradentes - 280 - Nossa Senhora de Nazaré",
+        "NUM": "101017",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383864796104",
+        "LON": "-49,239321235573",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2052 - Boa Vista",
+        "NUM": "120722",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374908237815",
+        "LON": "-49,233640412307",
+        "NOME": "Rua José Antônio Leprevost, 708 - Santa Candida",
+        "NUM": "120374",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416632856667",
+        "LON": "-49,260653139299",
+        "NOME": "Rua Nicolau Maeder, 302 - Alto da Glória",
+        "NUM": "130419",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37367",
+        "LON": "-49,23531",
+        "NOME": "Rua José Antônio Leprevost, 974 - Santa Candida",
+        "NUM": "120373",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379563622229",
+        "LON": "-49,233931722588",
+        "NOME": "Rua João Reboli, 545 - Santa Candida",
+        "NUM": "120379",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24387",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1384 - Boa Vista",
+        "NUM": "120219",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372240061757",
+        "LON": "-49,237129856063",
+        "NOME": "Rua José Antônio Leprevost, 1182 - Santa Candida",
+        "NUM": "120588",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379599784742",
+        "LON": "-49,23387271399",
+        "NOME": "Rua João Reboli, 538 - Santa Candida",
+        "NUM": "120380",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411655485426",
+        "LON": "-49,258606613821",
+        "NOME": "Rua Campos Sales, 842 - Juvevê",
+        "NUM": "120399",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372310342982",
+        "LON": "-49,237203616811",
+        "NOME": "Rua José Antônio Leprevost, 1181 - Santa Candida",
+        "NUM": "120371",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395147505744",
+        "LON": "-49,249902172877",
+        "NOME": "Rua Nossa Senhora de Nazaré, 497 - Boa Vista",
+        "NUM": "120393",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37376",
+        "LON": "-49,23537",
+        "NOME": "Rua José Antônio Leprevost, 973 - Santa Candida",
+        "NUM": "120372",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39168252097",
+        "LON": "-49,246514542891",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1016 - Boa Vista",
+        "NUM": "120389",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370463571361",
+        "LON": "-49,237615446067",
+        "NOME": "Rua Pedro Spisla Filho, 336- Santa Candida",
+        "NUM": "120370",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415936320299",
+        "LON": "-49,262600423044",
+        "NOME": "Rua Campos Sales, 276 - Alto da Glória",
+        "NUM": "120401",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417701181662",
+        "LON": "-49,265145839398",
+        "NOME": "Rua Lysímaco Ferreira da Costa, 1 - Alto da Glória",
+        "NUM": "120403",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381973863493",
+        "LON": "-49,238715842236",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2233 - Boa Vista",
+        "NUM": "120384",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385820616798",
+        "LON": "-49,241306637853",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1855 - Boa Vista",
+        "NUM": "120387",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393696706916",
+        "LON": "-49,248569114997",
+        "NOME": "Rua Nossa Senhora de Nazaré, 605 - Boa Vista",
+        "NUM": "120391",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40390402386",
+        "LON": "-49,251677795245",
+        "NOME": "Rua Belém, 595 - Cabral",
+        "NUM": "120397",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406393482373",
+        "LON": "-49,255391313626",
+        "NOME": "Rua São Luís, 177 - Cabral",
+        "NUM": "120727",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419129434631",
+        "LON": "-49,266063154882",
+        "NOME": "Rua Comendador Fontana, 204 - Centro Cívico",
+        "NUM": "110149",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41480873962",
+        "LON": "-49,25896334762",
+        "NOME": "Rua Nicolau Maeder, 562 - Juvevê",
+        "NUM": "130421",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412029943393",
+        "LON": "-49,254561842626",
+        "NOME": "Av. Munhoz da Rocha, 332 - Juvevê",
+        "NUM": "130423",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380523512182",
+        "LON": "-49,237015321721",
+        "NOME": "Rua Fernando de Noronha, 756 - Santa Candida",
+        "NUM": "120382",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383733940103",
+        "LON": "-49,239406511057",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2051 - Boa Vista",
+        "NUM": "120386",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39021",
+        "LON": "-49,24517",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1210 - Boa Vista",
+        "NUM": "120221",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376409548125",
+        "LON": "-49,23163277886",
+        "NOME": "Rua José Antônio Leprevost, 478 - Santa Candida",
+        "NUM": "120376",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393703370333",
+        "LON": "-49,248390748097",
+        "NOME": "Rua Nossa Senhora de Nazaré, 718 - Boa Vista",
+        "NUM": "120392",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399598532517",
+        "LON": "-49,253348811461",
+        "NOME": "Rua Pedro Fabri, 2-100 - Cabral",
+        "NUM": "120395",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401386650558",
+        "LON": "-49,253030969693",
+        "NOME": "Rua Pedro Fabri, 241 - Cabral",
+        "NUM": "120094",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39939",
+        "LON": "-49,25309",
+        "NOME": "Rua Coronel Amazonas Marcondes, 1131 - Cabral",
+        "NUM": "120726",
+        "SENTIDO": "Nossa Sra. de Nazaré",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38997",
+        "LON": "-49,24512",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1211 - Boa Vista",
+        "NUM": "120220",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "35",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409254565852",
+        "LON": "-49,25687793011",
+        "NOME": "Av. Anita Garibaldi, 261 - Ahú",
+        "NUM": "120398",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413712340163",
+        "LON": "-49,26050159449",
+        "NOME": "Rua Campos Sales, 592 - Juvevê",
+        "NUM": "120400",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374993058104",
+        "LON": "-49,233703444219",
+        "NOME": "Rua José Antônio Leprevost, 749 - Santa Candida",
+        "NUM": "120375",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39721",
+        "LON": "-49,25118",
+        "NOME": "R. Estados Unidos, 2055 - Boa Vista",
+        "NUM": "120076",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    }
+]

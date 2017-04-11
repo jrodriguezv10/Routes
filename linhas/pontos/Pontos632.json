@@ -1,0 +1,332 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,529320880788",
+        "LON": "-49,300780326879",
+        "NOME": "Rua Nita Hubel, 281 - Pinheirinho",
+        "NUM": "170258",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522024317607",
+        "LON": "-49,30496457333",
+        "NOME": "Rua Leonardo Pianovski, 857 - Pinheirinho",
+        "NUM": "170250",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523289010874",
+        "LON": "-49,30222737903",
+        "NOME": "Rua Leonardo Pianovski, 565 - Pinheirinho",
+        "NUM": "170252",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527291162879",
+        "LON": "-49,302864403671",
+        "NOME": "Rua Nita Hubel, 282 - Pinheirinho",
+        "NUM": "170256",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517382960648",
+        "LON": "-49,299011410421",
+        "NOME": "Rua Atílio Brunete, 1999 - Capão Raso",
+        "NUM": "170277",
+        "SENTIDO": "Quartel General",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521140839762",
+        "LON": "-49,29904359693",
+        "NOME": "Rua Atílio Brunete, 2437 - Capão Raso",
+        "NUM": "170281",
+        "SENTIDO": "Quartel General",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519157226769",
+        "LON": "-49,307119728273",
+        "NOME": "Rua Orestes Códega, 1176 - Pinheirinho",
+        "NUM": "170204",
+        "SENTIDO": "Quartel General",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521465185809",
+        "LON": "-49,30285501594",
+        "NOME": "Rua Orestes Códega, 672 -Pinheirinho",
+        "NUM": "170094",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521378048151",
+        "LON": "-49,302751750893",
+        "NOME": "Rua Orestes Códega, 673 - Pinheirinho",
+        "NUM": "170095",
+        "SENTIDO": "Quartel General",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520305765683",
+        "LON": "-49,305466146416",
+        "NOME": "Rua Orestes Códega, 958 - Pinheirinho",
+        "NUM": "170201",
+        "SENTIDO": "Quartel General",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523367675565",
+        "LON": "-49,302263588852",
+        "NOME": "Rua Leonardo Pianovski, 564 - Pinheirinho",
+        "NUM": "170253",
+        "SENTIDO": "Quartel General",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512230834203",
+        "LON": "-49,295140699406",
+        "NOME": "Terminal Pinheirinho - 632 - Quartel General",
+        "NUM": "105734",
+        "SENTIDO": "Quartel General",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519698215383",
+        "LON": "-49,309089810795",
+        "NOME": "Rua Alberto Kramer, 744  - Capão Raso",
+        "NUM": "170097",
+        "SENTIDO": "Quartel General",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527239124867",
+        "LON": "-49,303006560749",
+        "NOME": "Rua Nita Hubel, 281 - Pinheirinho",
+        "NUM": "170257",
+        "SENTIDO": "Quartel General",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512230834203",
+        "LON": "-49,295140699406",
+        "NOME": "Terminal Pinheirinho - 632 - Quartel General",
+        "NUM": "105734",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519608655915",
+        "LON": "-49,30893960709",
+        "NOME": "Rua Alberto Kramer, 743 -Capão Raso",
+        "NUM": "170096",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520913312908",
+        "LON": "-49,30737453813",
+        "NOME": "Rua Leonardo Pianovski, 971 -Pinheirinho",
+        "NUM": "170098",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514295481426",
+        "LON": "-49,298159809059",
+        "NOME": "Rua Doutor Valdemiro Pereira, 316 -Capão Raso",
+        "NUM": "170273",
+        "SENTIDO": "Quartel General",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5191293906",
+        "LON": "-49,298961789555",
+        "NOME": "Rua Atílio Brunete, 2187 - Capão Raso",
+        "NUM": "170279",
+        "SENTIDO": "Quartel General",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515776900418",
+        "LON": "-49,298930944151",
+        "NOME": "Rua Atílio Brunete, 1806 - Capão Raso",
+        "NUM": "170274",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520389273352",
+        "LON": "-49,305576116985",
+        "NOME": "Rua Orestes Códega, 957 - Pinheirinho",
+        "NUM": "170202",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529320880788",
+        "LON": "-49,300780326879",
+        "NOME": "Rua Nita Hubel, 281 - Pinheirinho",
+        "NUM": "170258",
+        "SENTIDO": "Quartel General",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522409173045",
+        "LON": "-49,300166101402",
+        "NOME": "Rua Orestes Códega, 446 - Pinheirinho",
+        "NUM": "170283",
+        "SENTIDO": "Quartel General",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525449245576",
+        "LON": "-49,301590354389",
+        "NOME": "Rua Trinta e Um de Março, 465- Pinheirinho",
+        "NUM": "170255",
+        "SENTIDO": "Quartel General",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517472521777",
+        "LON": "-49,298884005493",
+        "NOME": "Rua Atílio Brunete, 1998 - Capão Raso",
+        "NUM": "170276",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358131103",
+        "LON": "-49,29882365579",
+        "NOME": "Rua Atílio Brunete, 2188 - Capão Raso",
+        "NUM": "170278",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520826174849",
+        "LON": "-49,307802350468",
+        "NOME": "Rua Leonardo Pianovski, 1166 - Pinheirinho",
+        "NUM": "170099",
+        "SENTIDO": "Quartel General",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521161413978",
+        "LON": "-49,298910827583",
+        "NOME": "Rua Atílio Brunete, 2438 -Capão Raso",
+        "NUM": "170272",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522512043001",
+        "LON": "-49,300209016747",
+        "NOME": "Rua Orestes Códega, 445 - Pinheirinho",
+        "NUM": "170282",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519321823116",
+        "LON": "-49,307135821527",
+        "NOME": "Rua Orestes Códega, 1175 -Pinheirinho",
+        "NUM": "170203",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52547708028",
+        "LON": "-49,301476360506",
+        "NOME": "Rua Trinta e Um de Março, 464 -Pinheirinho",
+        "NUM": "170254",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515623191945",
+        "LON": "-49,299065054602",
+        "NOME": "Rua Atílio Brunete, 1805 - Capão Raso",
+        "NUM": "170275",
+        "SENTIDO": "Quartel General",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522158654079",
+        "LON": "-49,30492299909",
+        "NOME": "Rua Leonardo Pianovski, 856 - Pinheirinho",
+        "NUM": "170251",
+        "SENTIDO": "Quartel General",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    }
+]

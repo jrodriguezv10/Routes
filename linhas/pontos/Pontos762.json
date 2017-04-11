@@ -1,0 +1,582 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470338340621",
+        "LON": "-49,316866720871",
+        "NOME": "Rua Alberto Klemtz, 1416 - Portão",
+        "NUM": "180617",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466420257689",
+        "LON": "-49,301508392052",
+        "NOME": "Rua Pinheiro Guimarães, 23 - Portão",
+        "NUM": "180609",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474474600574",
+        "LON": "-49,321740815275",
+        "NOME": "Rua Alfredo José Pinto, 311- Fazendinha",
+        "NUM": "180622",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465962639274",
+        "LON": "-49,299939454741",
+        "NOME": "Rua Pedro Colere, 1225 - Vila Izabel",
+        "NUM": "180454",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47428",
+        "LON": "-49,31836",
+        "NOME": "Rua Rezala Simão, 1447 -Santa Quitéria",
+        "NUM": "180009",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491691123",
+        "LON": "-49,289798022455",
+        "NOME": "Rua Castro Alves, 748 - Batel",
+        "NUM": "180533",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461470472691",
+        "LON": "-49,299107969945",
+        "NOME": "Rua Pedro Colere, 558 - Vila Izabel",
+        "NUM": "180459",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460672520438",
+        "LON": "-49,297683716959",
+        "NOME": "Rua Professor Ulisses Vieira, 696 - Vila Izabel",
+        "NUM": "180540",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46936647164",
+        "LON": "-49,310928830736",
+        "NOME": "Rua Pinheiro Guimarães, 1110 - Portão",
+        "NUM": "180461",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463991434265",
+        "LON": "-49,29964172954",
+        "NOME": "Rua Pedro Colere, 794 - Vila Izabel",
+        "NUM": "180605",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456190007444",
+        "LON": "-49,29567896047",
+        "NOME": "Rua Tamoios, 222 - Vila Izabel",
+        "NUM": "180537",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463848556971",
+        "LON": "-49,299503595776",
+        "NOME": "Rua Pedro Colere, 795 - Vila Izabel",
+        "NUM": "180606",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455298780048",
+        "LON": "-49,296674060015",
+        "NOME": "Rua Tabajaras, 75 - Vila Izabel",
+        "NUM": "180625",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453944809765",
+        "LON": "-49,292434633917",
+        "NOME": "Av. Água Verde, 2148 - Água Verde",
+        "NUM": "180536",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457914156113",
+        "LON": "-49,296054274982",
+        "NOME": "Rua Tamoios, 420 - Vila Izabel",
+        "NUM": "180538",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474934672643",
+        "LON": "-49,319596389167",
+        "NOME": "Rua Alfredo José Pinto, 89 - Fazendinha",
+        "NUM": "180619",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470486428407",
+        "LON": "-49,311830052965",
+        "NOME": "Rua Pinheiro Guimarães, 1309 - Portão",
+        "NUM": "180614",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468541934642",
+        "LON": "-49,308628836505",
+        "NOME": "Rua Pinheiro Guimarães, 854 - Portão",
+        "NUM": "180612",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467691965477",
+        "LON": "-49,305815199249",
+        "NOME": "Rua Pinheiro Guimarães, 503 - Portão",
+        "NUM": "180611",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46115928405",
+        "LON": "-49,298925579733",
+        "NOME": "Rua Pedro Colere, 557 - Vila Izabel",
+        "NUM": "180604",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457042315785",
+        "LON": "-49,297042669004",
+        "NOME": "Rua Tabajaras, 269 - Vila Izabel",
+        "NUM": "180624",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476784628881",
+        "LON": "-49,326162198777",
+        "NOME": "Rua Alfredo José Pinto, 1048 - Fazendinha",
+        "NUM": "180621",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435117045091",
+        "LON": "-49,27300354939",
+        "NOME": "Praça Rui Barbosa - 762 - Vila Rosinha",
+        "NUM": "102011",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470101031441",
+        "LON": "-49,318554110451",
+        "NOME": "Rua Rezala Simão, 997 - Santa Quitéria",
+        "NUM": "180020",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470461002477",
+        "LON": "-49,311925271385",
+        "NOME": "Rua Pinheiro Guimarães, 1308 - Portão",
+        "NUM": "180462",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470154304971",
+        "LON": "-49,318442798776",
+        "NOME": "Rua Rezala Simão, 996 - Santa Quitéria",
+        "NUM": "180010",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468449915478",
+        "LON": "-49,308682480686",
+        "NOME": "Rua Pinheiro Guimarães, 854 - Portão",
+        "NUM": "180460",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466288280486",
+        "LON": "-49,301504368738",
+        "NOME": "Rua Pinheiro Guimarães, 24 - Portão",
+        "NUM": "180608",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465765278065",
+        "LON": "-49,300031990952",
+        "NOME": "Rua Pedro Colere, 1098 - Vila Izabel",
+        "NUM": "180607",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476784628881",
+        "LON": "-49,326162198777",
+        "NOME": "Rua Alfredo José Pinto, 1048 - Fazendinha",
+        "NUM": "180621",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47413",
+        "LON": "-49,31821",
+        "NOME": "Rua Rezala Simão, 1446 - Santa Quitéria",
+        "NUM": "180008",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474504868527",
+        "LON": "-49,325140515201",
+        "NOME": "Rua Alfredo José Pinto, 683 - Fazendinha",
+        "NUM": "180620",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442215155252",
+        "LON": "-49,269662524418",
+        "NOME": "Av. Iguaçu, 832 - Rebouças",
+        "NUM": "110207",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467622640062",
+        "LON": "-49,306028069204",
+        "NOME": "Rua Pinheiro Guimarães, 502 - Portão",
+        "NUM": "180610",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435117045091",
+        "LON": "-49,27300354939",
+        "NOME": "Praça Rui Barbosa - 762 - Vila Rosinha",
+        "NUM": "102011",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453362226006",
+        "LON": "-49,293697954363",
+        "NOME": "Av. Pres. Getúlio Vargas, 3605 - Água Verde",
+        "NUM": "180640",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469378579336",
+        "LON": "-49,310805449121",
+        "NOME": "Rua Pinheiro Guimarães, 1111 - Portão",
+        "NUM": "180613",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470225739895",
+        "LON": "-49,31688415523",
+        "NOME": "Rua Alberto Klemtz, 1415 - Portão",
+        "NUM": "180463",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474412853925",
+        "LON": "-49,325136491888",
+        "NOME": "Rua Alfredo José Pinto, 684 - Fazendinha",
+        "NUM": "180497",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474836604797",
+        "LON": "-49,31958834254",
+        "NOME": "Rua Alfredo José Pinto, 88 - Fazendinha",
+        "NUM": "180464",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459594539063",
+        "LON": "-49,296420396513",
+        "NOME": "Rua Tamoios, 672 - Vila Izabel",
+        "NUM": "180539",
+        "SENTIDO": "V. Rosinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471629003778",
+        "LON": "-49,314640487389",
+        "NOME": "Rua Alberto Klemtz, 1177 - Portão",
+        "NUM": "180616",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    }
+]

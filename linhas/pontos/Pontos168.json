@@ -1,0 +1,942 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,386815746488",
+        "LON": "-49,303207741413",
+        "NOME": "Rua. Raposo Tavares, 2410 - Pilarzinho",
+        "NUM": "120225",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394122730844",
+        "LON": "-49,295739883432",
+        "NOME": "R. São Domingos, 922 - Pilarzinho",
+        "NUM": "190617",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389313298522",
+        "LON": "-49,298278504649",
+        "NOME": "R. Raposo Tavares, 1562 - Pilarzinho",
+        "NUM": "190434",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395921211508",
+        "LON": "-49,294866093254",
+        "NOME": "R. Gardênio Scorzato, 1260 - Vista Alegre",
+        "NUM": "190619",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420448788738",
+        "LON": "-49,28440842576",
+        "NOME": "R. Cel. João Guilherme Guimarães, 178 - Mercês",
+        "NUM": "110204",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4180179975",
+        "LON": "-49,290744868717",
+        "NOME": "R. Jacarezinho, 1357 - Mercês",
+        "NUM": "190635",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39905",
+        "LON": "-49,29686",
+        "NOME": "R. Gardênio Scorzato, 882 - Pilarzinho",
+        "NUM": "190623",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404071805673",
+        "LON": "-49,291960612268",
+        "NOME": "R. Gardênio Scorzato, 210 - Pilarzinho",
+        "NUM": "190629",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391496465081",
+        "LON": "-49,296797573537",
+        "NOME": "R. Raposo Tavares, 1282 - Pilarzinho",
+        "NUM": "190437",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37927181683",
+        "LON": "-49,315441620142",
+        "NOME": "Rua Justo Manfron, 494 - Santa Felicidade",
+        "NUM": "190428",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394135442047",
+        "LON": "-49,295629300594",
+        "NOME": "R. São Domingos, 961 - Pilarzinho",
+        "NUM": "190618",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41963",
+        "LON": "-49,28528",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110203",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393157691452",
+        "LON": "-49,295895909104",
+        "NOME": "R. Raposo Tavares, 1017 - Pilarzinho",
+        "NUM": "190438",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363790923036",
+        "LON": "-49,328129031055",
+        "NOME": "Rua Justo Manfron, 2789 - Lamenha Pequena",
+        "NUM": "190643",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371866522318",
+        "LON": "-49,320582746263",
+        "NOME": "Rua Justo Manfron, 1609 - Santa Felicidade",
+        "NUM": "190653",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37932138522",
+        "LON": "-49,315545293888",
+        "NOME": "Rua Justo Manfron, 493 - Santa Felicidade",
+        "NUM": "190818",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411356340595",
+        "LON": "-49,292004139881",
+        "NOME": "R. André Zanetti, 382 -  Vista Alegre",
+        "NUM": "190631",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423419040233",
+        "LON": "-49,282409650297",
+        "NOME": "Rua Visconde de Nacar, 132 - Centro",
+        "NUM": "110137",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425269379413",
+        "LON": "-49,281517201223",
+        "NOME": "Av. Manoel Ribas, 200 - São Francisco",
+        "NUM": "110138",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392907435754",
+        "LON": "-49,295914557498",
+        "NOME": "R. Raposo Tavares, 1084 - Pilarzinho",
+        "NUM": "190439",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369012608316",
+        "LON": "-49,324143489629",
+        "NOME": "Rua Justo Manfron, 1875 - Santa Felicidade",
+        "NUM": "190651",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "40",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400767620794",
+        "LON": "-49,294717171793",
+        "NOME": "R. Gardênio Scorzato, 591 - Pilarzinho",
+        "NUM": "190626",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40222",
+        "LON": "-49,29311",
+        "NOME": "R. Gardênio Scorzato, 332 - Pilarzinho",
+        "NUM": "190628",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40443",
+        "LON": "-49,29136",
+        "NOME": "R. Gardênio Scorzato, 1-139 - Vista Alegre",
+        "NUM": "190630",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418809380452",
+        "LON": "-49,289110612268",
+        "NOME": "R. Myltho Anselmo da Silva, 1336 - Mercês",
+        "NUM": "190636",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37731",
+        "LON": "-49,31695",
+        "NOME": "Rua Justo Manfron, 590 - Santa Felicidade",
+        "NUM": "190819",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35906739294",
+        "LON": "-49,330897845907",
+        "NOME": "Rua Justo Manfron, 3191 - Lamenha Pequena",
+        "NUM": "190640",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421716676263",
+        "LON": "-49,28331842576",
+        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
+        "NUM": "110032",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373186947893",
+        "LON": "-49,319759903406",
+        "NOME": "Rua Justo Manfron, 1353 - Santa Felicidade",
+        "NUM": "190655",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419372732365",
+        "LON": "-49,28707160367",
+        "NOME": "R. Myltho Anselmo da Silva, 1160 - Mercês",
+        "NUM": "110134",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383991014791",
+        "LON": "-49,306782573515",
+        "NOME": "Rua Graziele Wolf, 350 - São João",
+        "NUM": "190662",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371680789138",
+        "LON": "-49,320697185574",
+        "NOME": "Rua Justo Manfron, 1610 - Santa Felicidade",
+        "NUM": "190654",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37536321551",
+        "LON": "-49,318715600107",
+        "NOME": "Rua Justo Manfron, 1090 - Santa Felicidade",
+        "NUM": "190658",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387841238885",
+        "LON": "-49,301100572267",
+        "NOME": "R. Raposo Tavares, 1906 - Pilarzinho",
+        "NUM": "190432",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430217696146",
+        "LON": "-49,279159152809",
+        "NOME": "R. Visc. de Nacar, 866 - Centro",
+        "NUM": "110423",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "45",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375446814587",
+        "LON": "-49,318745112964",
+        "NOME": "Rua Justo Manfron, 901 - Santa Felicidade",
+        "NUM": "190657",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3823287964",
+        "LON": "-49,312169317876",
+        "NOME": "Rua Justo Manfron, 1 - São João",
+        "NUM": "190425",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389350850227",
+        "LON": "-49,298409395683",
+        "NOME": "R. Raposo Tavares, 1561 - Pilarzinho",
+        "NUM": "190435",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391078661264",
+        "LON": "-49,297163279063",
+        "NOME": "R. Raposo Tavares, 1341 - Pilarzinho",
+        "NUM": "190436",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42014997174",
+        "LON": "-49,283414635582",
+        "NOME": "R. Myltho Anselmo da Silva, 791 - Mercês",
+        "NUM": "110136",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377379693553",
+        "LON": "-49,317041457672",
+        "NOME": "Rua Justo Manfron, 583 - Santa Felicidade",
+        "NUM": "190430",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360835509553",
+        "LON": "-49,328841932698",
+        "NOME": "Rua Justo Manfron, 2790 - Lamenha Pequena",
+        "NUM": "190641",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "45",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38224902218",
+        "LON": "-49,312070301483",
+        "NOME": "Rua Justo Manfron, 2 - Santa Felicidade",
+        "NUM": "190815",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373065774223",
+        "LON": "-49,319644568419",
+        "NOME": "Rua Justo Manfron, 1354 - Santa Felicidade",
+        "NUM": "190656",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "38",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396957268986",
+        "LON": "-49,295742069941",
+        "NOME": "R. Gardênio Scorzato, 1206 - Vista Alegre",
+        "NUM": "190621",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41915",
+        "LON": "-49,28761",
+        "NOME": "R. Myltho Anselmo da Silva, 1222 - Mercês",
+        "NUM": "110202",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381013632083",
+        "LON": "-49,312936041317",
+        "NOME": "Rua Justo Manfron, 130 - Santa Felicidade",
+        "NUM": "190427",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357505925976",
+        "LON": "-49,333239863824",
+        "NOME": "Rua Tomaz Tessari, 95 - Lamenha Pequena",
+        "NUM": "190638",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369130463732",
+        "LON": "-49,32407377505",
+        "NOME": "Rua Justo Manfron, 1875 - Santa Felicidade",
+        "NUM": "190652",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384360273847",
+        "LON": "-49,304544282831",
+        "NOME": "Rua Graziele Wolf, 700 - São João",
+        "NUM": "190663",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419747577463",
+        "LON": "-49,285307201223",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110135",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "39",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37797",
+        "LON": "-49,31615",
+        "NOME": "Rua Justo Manfron, 590 - Santa Felicidade",
+        "NUM": "190429",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381081503084",
+        "LON": "-49,313015364418",
+        "NOME": "Rua Justo Manfron, 129 - Santa Felicidade",
+        "NUM": "190816",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357505925976",
+        "LON": "-49,333239863824",
+        "NOME": "Rua Tomaz Tessari, 95 - Lamenha Pequena",
+        "NUM": "190638",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386699571272",
+        "LON": "-49,303207499135",
+        "NOME": "Rua Raposo Tavares, 2409 - Pilarzinho",
+        "NUM": "120226",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383102782044",
+        "LON": "-49,310913383961",
+        "NOME": "Av. Fredolin Wolf, 2765 - São João",
+        "NUM": "120822",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360878928405",
+        "LON": "-49,328966440705",
+        "NOME": "Rua Justo Manfron, 2789 - Lamenha Pequena",
+        "NUM": "190642",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366521405016",
+        "LON": "-49,327287026792",
+        "NOME": "Rua Justo Manfron, 2479 - Lamenha Pequena",
+        "NUM": "190648",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368137570836",
+        "LON": "-49,326351815834",
+        "NOME": "Rua Justo Manfron, 2233 - Lamenha Pequena",
+        "NUM": "190650",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384079076256",
+        "LON": "-49,306840305332",
+        "NOME": "Rua Graziele Wolf, 259 - São João",
+        "NUM": "190661",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402506365674",
+        "LON": "-49,29296524785",
+        "NOME": "R. Gardênio Scorzato, 332 - Pilarzinho",
+        "NUM": "190627",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418921239142",
+        "LON": "-49,289150262566",
+        "NOME": "R. Myltho Anselmo da Silva, 1287 - Mercês",
+        "NUM": "190637",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427651211189",
+        "LON": "-49,280378192625",
+        "NOME": "R. Visc. de Nacar, 549 - São Francisco",
+        "NUM": "110139",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365172864174",
+        "LON": "-49,327650368214",
+        "NOME": "Rua Justo Manfron, 2554 - Santa Felicidade",
+        "NUM": "190645",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368166189273",
+        "LON": "-49,32615016762",
+        "NOME": "Rua Justo Manfron, 2234 - Lamenha Pequena",
+        "NUM": "190649",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "41",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38763452155",
+        "LON": "-49,301087981821",
+        "NOME": "R. Raposo Tavares, 1907 - Pilarzinho",
+        "NUM": "190433",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365131662407",
+        "LON": "-49,327541738749",
+        "NOME": "Rua Justo Manfron, 2554 - Santa Felicidade",
+        "NUM": "190646",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "43",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428339629041",
+        "LON": "-49,272749225882",
+        "NOME": "Nestor de Castro - 168 - Raposo Tavares",
+        "NUM": "101123",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415440928516",
+        "LON": "-49,290074139881",
+        "NOME": "R. Jacarezinho, 1639 - Vista Alegre",
+        "NUM": "190633",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413366392027",
+        "LON": "-49,29079",
+        "NOME": "R. André Zanetti, 100 - Vista Alegre",
+        "NUM": "190632",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408850617951",
+        "LON": "-49,291806326389",
+        "NOME": "R. Antônio Grade, 526 - Vista Alegre",
+        "NUM": "190223",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406562422802",
+        "LON": "-49,291903527613",
+        "NOME": "R. João Tschannerl, 564 - Vista Alegre",
+        "NUM": "190225",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3958990762",
+        "LON": "-49,294994402447",
+        "NOME": "R. Gardênio Scorzato, 1111 - Pilarzinho",
+        "NUM": "190620",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400765440649",
+        "LON": "-49,294860845404",
+        "NOME": "R. Gardênio Scorzato, 592 - Pilarzinho",
+        "NUM": "190625",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397160800407",
+        "LON": "-49,296199386577",
+        "NOME": "R. Gardênio Scorzato, 1206 - Vista Alegre",
+        "NUM": "190622",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363689031339",
+        "LON": "-49,328056263783",
+        "NOME": "Rua Justo Manfron, 2789 - Lamenha Pequena",
+        "NUM": "190644",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "44",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384221231629",
+        "LON": "-49,30430985761",
+        "NOME": "Rua Graziele Wolf, 611 - São João",
+        "NUM": "190664",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366478634912",
+        "LON": "-49,327216732361",
+        "NOME": "Rua Justo Manfron, 2516 - Lamenha Pequena",
+        "NUM": "190666",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "42",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428339629041",
+        "LON": "-49,272749225882",
+        "NOME": "Nestor de Castro - 168 - Raposo Tavares",
+        "NUM": "101123",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398888193394",
+        "LON": "-49,296818921461",
+        "NOME": "R. Gardênio Scorzato, 881 - Pilarzinho",
+        "NUM": "190624",
+        "SENTIDO": "Raposo Tavares",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    }
+]

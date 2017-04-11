@@ -1,0 +1,382 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4771051521",
+        "LON": "-49,337120236105",
+        "NOME": "Rua Raul Pompéia, 649 - Cidade Industrial",
+        "NUM": "180443",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477025246414",
+        "LON": "-49,337295920795",
+        "NOME": "Rua Raul Pompéia, 648 - Cidade Industrial",
+        "NUM": "180444",
+        "SENTIDO": "Fórum",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Fórum",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Fórum",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481705692943",
+        "LON": "-49,344108731693",
+        "NOME": "Rua Raul Pompéia, 1551 - Cidade Industrial",
+        "NUM": "180450",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478658459653",
+        "LON": "-49,340012998527",
+        "NOME": "Rua Raul Pompéia, 983 - Cidade Industrial",
+        "NUM": "180446",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485450644152",
+        "LON": "-49,354487411705",
+        "NOME": "Rua Atílio Viceli, 56 - Cidade Industrial",
+        "NUM": "180562",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48309962088",
+        "LON": "-49,353476218906",
+        "NOME": "Rua Lauro Grein, 224 - Cidade Industrial",
+        "NUM": "180455",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48147252121",
+        "LON": "-49,353143624988",
+        "NOME": "Rua Lodovico Kaminski, 2834 - Cidade Industrial",
+        "NUM": "180433",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473299016835",
+        "LON": "-49,360687807202",
+        "NOME": "Rua José Picussa, 33 - Cidade Industrial",
+        "NUM": "181019",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Fórum",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480135475501",
+        "LON": "-49,342258007473",
+        "NOME": "Rua Raul Pompéia, 1265 - Cidade Industrial",
+        "NUM": "180447",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47729542449",
+        "LON": "-49,32706",
+        "NOME": "Terminal Fazendinha - 719 - Fazendinha / Caiuá /  Frigorífico",
+        "NUM": "105306",
+        "SENTIDO": "Fórum",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48269236496",
+        "LON": "-49,346117706245",
+        "NOME": "Rua Raul Pompéia, 1745 - Cidade Industrial",
+        "NUM": "180451",
+        "SENTIDO": "Fórum",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Fórum",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473299016835",
+        "LON": "-49,360687807202",
+        "NOME": "Rua José Picussa, 33 - Cidade Industrial",
+        "NUM": "181019",
+        "SENTIDO": "Fórum",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482779530688",
+        "LON": "-49,346003712362",
+        "NOME": "Rua Raul Pompéia, 1746 - Cidade Industrial",
+        "NUM": "180452",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Fórum",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478231090207",
+        "LON": "-49,339763553089",
+        "NOME": "Rua Raul Pompéia, 982 - Cidade Industrial",
+        "NUM": "180445",
+        "SENTIDO": "Fórum",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480128211533",
+        "LON": "-49,342460514254",
+        "NOME": "Rua Raul Pompéia, 1264 - Cidade Industrial",
+        "NUM": "180448",
+        "SENTIDO": "Fórum",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478359905352",
+        "LON": "-49,35667877647",
+        "NOME": "Rua Lodovico Kaminski, 2329 - Cidade Industrial",
+        "NUM": "180326",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Fórum",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Fórum",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Fórum",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Fórum",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475792027412",
+        "LON": "-49,359086059061",
+        "NOME": "Rua Lodovico Kaminski, 1830 - Cidade Industrial",
+        "NUM": "180328",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Fórum",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47729542449",
+        "LON": "-49,32706",
+        "NOME": "Terminal Fazendinha - 719 - Fazendinha / Caiuá /  Frigorífico",
+        "NUM": "105306",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479606898432",
+        "LON": "-49,355284027782",
+        "NOME": "Rua Lodovico Kaminski, 2412 - Cidade Industrial",
+        "NUM": "180325",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477680712419",
+        "LON": "-49,359339527813",
+        "NOME": "Rua Lodovico Kaminski, 2052 - Cidade Industrial",
+        "NUM": "180327",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Fórum",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48182675743",
+        "LON": "-49,344504357523",
+        "NOME": "Rua Raul Pompéia, 1530 - Cidade Industrial",
+        "NUM": "180449",
+        "SENTIDO": "Fórum",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Fórum",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Fórum",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    }
+]

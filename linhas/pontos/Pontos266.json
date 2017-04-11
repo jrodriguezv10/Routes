@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,390998849153",
+        "LON": "-49,25516372035",
+        "NOME": "Rua Leonardo Krasinski, 2 - Boa Vista",
+        "NUM": "120660",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39779",
+        "LON": "-49,25883",
+        "NOME": "R. Vereador Washington Mansur, 592 - Ahú",
+        "NUM": "120008",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390194372366",
+        "LON": "-49,259590706329",
+        "NOME": "R. Simão Mansur, 1-205 - Boa Vista",
+        "NUM": "120085",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388420504916",
+        "LON": "-49,251369735699",
+        "NOME": "Rua Carlota Straube de Araújo, 451 - Boa Vista",
+        "NUM": "120653",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385632115471",
+        "LON": "-49,248807433764",
+        "NOME": "Rua Carlota Straube de Araújo, 1417 - Boa Vista",
+        "NUM": "120648",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389576472398",
+        "LON": "-49,248845777016",
+        "NOME": "Rua David Geronasso, 751 - Boa Vista",
+        "NUM": "120652",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41108",
+        "LON": "-49,26382",
+        "NOME": "Rua Alberto Folloni, 477 - Juvevê",
+        "NUM": "120098",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428656831997",
+        "LON": "-49,270628274626",
+        "NOME": "Trav. Moreira Garcês - 266 - Estribo Ahú",
+        "NUM": "101167",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395384001468",
+        "LON": "-49,258242155117",
+        "NOME": "R. Vereador Washington Mansur, 892 - Ahú",
+        "NUM": "120007",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409996996641",
+        "LON": "-49,264424325174",
+        "NOME": "Rua Alberto Foloni, 607 - Juveve",
+        "NUM": "120981",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386826050809",
+        "LON": "-49,249877086382",
+        "NOME": "Rua Carlota Straube de Araújo, 769 - Boa Vista",
+        "NUM": "120651",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428656831997",
+        "LON": "-49,270628274626",
+        "NOME": "Trav. Moreira Garcês - 266 - Estribo Ahú",
+        "NUM": "101167",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417228638685",
+        "LON": "-49,265875400251",
+        "NOME": "Rua Ivo Leão, 530 - Alto da Glória",
+        "NUM": "120645",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40004278622",
+        "LON": "-49,262522638983",
+        "NOME": "Rua Alberto Foloni, 1709 - Juveve",
+        "NUM": "120988",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390969771772",
+        "LON": "-49,255272349815",
+        "NOME": "Rua Leonardo Krasinski, 1 - Boa Vista",
+        "NUM": "120661",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407856492786",
+        "LON": "-49,264181585258",
+        "NOME": "Rua Alberto Foloni, 808 - Juveve",
+        "NUM": "120982",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405032713974",
+        "LON": "-49,263894588894",
+        "NOME": "Rua Alberto Foloni, 1134 - Juveve",
+        "NUM": "120985",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400088821942",
+        "LON": "-49,262422056145",
+        "NOME": "Rua Alberto Foloni, 1710 - Juveve",
+        "NUM": "120663",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392498747882",
+        "LON": "-49,251821687918",
+        "NOME": "Rua David Geronasso, 323 - Boa Vista",
+        "NUM": "120657",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387859663142",
+        "LON": "-49,247311553459",
+        "NOME": "Rua David Geronasso, 947 - Boa Vista",
+        "NUM": "120650",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392260058261",
+        "LON": "-49,260980800691",
+        "NOME": "Av. Anita Garibaldi, 2393 - Boa Vista",
+        "NUM": "120014",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389813817631",
+        "LON": "-49,254216900568",
+        "NOME": "Rua Leonardo Krasinski, 245 - Boa Vista",
+        "NUM": "120659",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414071965192",
+        "LON": "-49,263602228111",
+        "NOME": "Rua Alberto Foloni, 2 - Juveve",
+        "NUM": "120647",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39981866469",
+        "LON": "-49,260763109869",
+        "NOME": "Rua Tomazina, 160 - Ahu",
+        "NUM": "120665",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399521854456",
+        "LON": "-49,257502884811",
+        "NOME": "Av. Anita Garibaldi, 1400 - Ahú",
+        "NUM": "120004",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395158054012",
+        "LON": "-49,257438511795",
+        "NOME": "Av. Anita Garibaldi, 1897 - Ahú",
+        "NUM": "120006",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393572169618",
+        "LON": "-49,25931712101",
+        "NOME": "Av. Anita Garibaldi, 2164 - Ahú",
+        "NUM": "120011",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391885705904",
+        "LON": "-49,253177544575",
+        "NOME": "Rua Leão Salum, 849 - Boa Vista",
+        "NUM": "120658",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399745370803",
+        "LON": "-49,259257371229",
+        "NOME": "R. Vereador Washington Mansur, 462 - Ahú",
+        "NUM": "120009",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414415981204",
+        "LON": "-49,262983978933",
+        "NOME": "Rua Constantino Marochi, 469 - Alto da Glória",
+        "NUM": "120664",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405112667437",
+        "LON": "-49,264058203644",
+        "NOME": "Rua Alberto Foloni, 1093 - Juveve",
+        "NUM": "120984",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403035071627",
+        "LON": "-49,263394356912",
+        "NOME": "Rua Alberto Foloni, 1363 - Juveve",
+        "NUM": "120987",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399693883334",
+        "LON": "-49,260779203123",
+        "NOME": "Rua Tomazina, 151 - Ahu",
+        "NUM": "120666",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390205276455",
+        "LON": "-49,256512871485",
+        "NOME": "Rua Simão Mansur, 317 - Boa Vista",
+        "NUM": "120662",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389710834198",
+        "LON": "-49,252571365337",
+        "NOME": "Rua Carlota Straube de Araújo, 329 - Boa Vista",
+        "NUM": "120655",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403056877483",
+        "LON": "-49,263272316402",
+        "NOME": "Rua Alberto Foloni, 1400 - Juveve",
+        "NUM": "120986",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385632115471",
+        "LON": "-49,248807433764",
+        "NOME": "Rua Carlota Straube de Araújo, 1417 - Boa Vista",
+        "NUM": "120648",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407460368213",
+        "LON": "-49,264290214723",
+        "NOME": "Rua Alberto Foloni, 877 - Juveve",
+        "NUM": "120983",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416389209019",
+        "LON": "-49,264020652717",
+        "NOME": "Rua Eusébio da Mota, 214 - Alto da Glória",
+        "NUM": "120646",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415936320299",
+        "LON": "-49,262600423044",
+        "NOME": "Rua Campos Sales, 276 - Alto da Glória",
+        "NUM": "120401",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412531149039",
+        "LON": "-49,263739020771",
+        "NOME": "Rua Alberto Foloni, 291 - Juveve",
+        "NUM": "120715",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38577",
+        "LON": "-49,24705",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120215",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391684573142",
+        "LON": "-49,260814503732",
+        "NOME": "Av. Anita Garibaldi, 2480 - Boa Vista",
+        "NUM": "120013",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39744",
+        "LON": "-49,25669",
+        "NOME": "Av. Anita Garibaldi, 1682 - Ahú",
+        "NUM": "120005",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390807422934",
+        "LON": "-49,250249913435",
+        "NOME": "Rua David Geronasso, 501 - Boa Vista",
+        "NUM": "120654",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Estribo Ahú",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417701181662",
+        "LON": "-49,265145839398",
+        "NOME": "Rua Lysímaco Ferreira da Costa, 1 - Alto da Glória",
+        "NUM": "120403",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393740572387",
+        "LON": "-49,259315779905",
+        "NOME": "Av. Anita Garibaldi, 2163 - Ahú",
+        "NUM": "120012",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    }
+]

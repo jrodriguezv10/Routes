@@ -1,0 +1,232 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,452280807507",
+        "LON": "-49,203609035547",
+        "NOME": "Rua da Trindade, 1044 - Cajuru",
+        "NUM": "140747",
+        "SENTIDO": "Trindade",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455877250427",
+        "LON": "-49,202081517513",
+        "NOME": "Rua da Trindade, 1411 - Cajuru",
+        "NUM": "140437",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44663302322",
+        "LON": "-49,20629146809",
+        "NOME": "Rua José Giraide, 662 - Cajuru",
+        "NUM": "140432",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449926893918",
+        "LON": "-49,210664809889",
+        "NOME": "Rua Natal, 737 - Cajuru",
+        "NUM": "140742",
+        "SENTIDO": "Trindade",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457267664351",
+        "LON": "-49,20136882209",
+        "NOME": "Rua Pedro Violani, 1828 - Cajuru",
+        "NUM": "140436",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457267664351",
+        "LON": "-49,20136882209",
+        "NOME": "Rua Pedro Violani, 1828 - Cajuru",
+        "NUM": "140436",
+        "SENTIDO": "Trindade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,452172344133",
+        "LON": "-49,214899766865",
+        "NOME": "Terminal Oficinas - 321 - Trindade",
+        "NUM": "105605",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454102049944",
+        "LON": "-49,202752069767",
+        "NOME": "Rua da Trindade, 1213 - Cajuru",
+        "NUM": "140435",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449823781862",
+        "LON": "-49,204385535057",
+        "NOME": "Rua da Trindade, 689 - Cajuru",
+        "NUM": "140433",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447297303227",
+        "LON": "-49,205482186508",
+        "NOME": "R. da Trindade, 494 - Cajuru",
+        "NUM": "140237",
+        "SENTIDO": "Trindade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450015294353",
+        "LON": "-49,210741252846",
+        "NOME": "Rua Natal, 737 - Cajuru",
+        "NUM": "140429",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45167",
+        "LON": "-49,21157",
+        "NOME": "R. dos Ferroviários, 246 - Cajuru",
+        "NUM": "140244",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448156449618",
+        "LON": "-49,211199910587",
+        "NOME": "Rua José Giraide, 135 - Cajuru",
+        "NUM": "140340",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454081464246",
+        "LON": "-49,202895567949",
+        "NOME": "Rua da Trindade, 1213 - Cajuru",
+        "NUM": "140478",
+        "SENTIDO": "Trindade",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446706894102",
+        "LON": "-49,20621100182",
+        "NOME": "Rua José Giraide, 662 - Cajuru",
+        "NUM": "140745",
+        "SENTIDO": "Trindade",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451643397876",
+        "LON": "-49,211071341105",
+        "NOME": "R. dos Ferroviários, 381 - Cajuru",
+        "NUM": "140243",
+        "SENTIDO": "Trindade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,452172344133",
+        "LON": "-49,214899766865",
+        "NOME": "Terminal Oficinas - 321 - Trindade",
+        "NUM": "105605",
+        "SENTIDO": "Trindade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447626037845",
+        "LON": "-49,209539623207",
+        "NOME": "Rua José Giraide, 272 - Cajuru",
+        "NUM": "140431",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449925502992",
+        "LON": "-49,204488800104",
+        "NOME": "Rua da Trindade, 734 - Cajuru",
+        "NUM": "140746",
+        "SENTIDO": "Trindade",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447727760832",
+        "LON": "-49,20953157658",
+        "NOME": "Rua José Giraide, 272 - Cajuru",
+        "NUM": "140744",
+        "SENTIDO": "Trindade",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448226686619",
+        "LON": "-49,211118103212",
+        "NOME": "Rua José Giraide, 135 - Cajuru",
+        "NUM": "140743",
+        "SENTIDO": "Trindade",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447319687933",
+        "LON": "-49,205332419643",
+        "NOME": "R. da Trindade, 497 - Cajuru",
+        "NUM": "140238",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452217838525",
+        "LON": "-49,20349370056",
+        "NOME": "Rua da Trindade, 988 - Cajuru",
+        "NUM": "140434",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

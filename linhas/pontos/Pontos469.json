@@ -1,0 +1,82 @@
+[
+    {
+        "GRUPO": "26082",
+        "LAT": "-25,444108448367",
+        "LON": "-49,239838003206",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "109033",
+        "SENTIDO": "Círculo Militar",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26082",
+        "LAT": "-25,444108448367",
+        "LON": "-49,239838003206",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "109033",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Círculo Militar",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25426",
+        "LAT": "-25,428830413906",
+        "LON": "-49,258181630659",
+        "NOME": "Praça do Expedicionário",
+        "NUM": "109049",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26085",
+        "LAT": "-25,427393362505",
+        "LON": "-49,264734607349",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109019",
+        "SENTIDO": "Centro Politécnico",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26080",
+        "LAT": "-25,42936090845",
+        "LON": "-49,258465944815",
+        "NOME": "Praça do Expedicionário",
+        "NUM": "109050",
+        "SENTIDO": "Círculo Militar",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26085",
+        "LAT": "-25,427393362505",
+        "LON": "-49,264734607349",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109019",
+        "SENTIDO": "Círculo Militar",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    }
+]

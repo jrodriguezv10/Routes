@@ -1,0 +1,572 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,434906303262",
+        "LON": "-49,295441390223",
+        "NOME": "Alameda Princesa Isabel, 1925 - São Francisco",
+        "NUM": "180582",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432412588888",
+        "LON": "-49,284566373772",
+        "NOME": "Rua Desembargador Motta, 1748 - Água Verde",
+        "NUM": "180716",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421921374898",
+        "LON": "-49,303843239079",
+        "NOME": "Rua Pedro Nogaroli, 20 - Mercês",
+        "NUM": "190356",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427106178365",
+        "LON": "-49,321172478504",
+        "NOME": "Rua Padre Ladislau Kula, 609 - Santo Inácio",
+        "NUM": "190029",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431806641731",
+        "LON": "-49,284180135674",
+        "NOME": "Alameda Augusto Stelfeld, 1282 - Centro",
+        "NUM": "110109",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422895213435",
+        "LON": "-49,308693148479",
+        "NOME": "Av. Cândido Hartmann, 2444 - Mercês",
+        "NUM": "190188",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422300216747",
+        "LON": "-49,300739923248",
+        "NOME": "Rua Gen. Agostinho Pereira Alves Filho, 320 - Mercês",
+        "NUM": "190311",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430029090182",
+        "LON": "-49,2724950921",
+        "NOME": "Praça Tiradentes - 875 - Bigorrilho",
+        "NUM": "101003",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423123352838",
+        "LON": "-49,30586682209",
+        "NOME": "Av. Cândido Hartmann, 2235 - Mercês",
+        "NUM": "190187",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425341301234",
+        "LON": "-49,300926325235",
+        "NOME": "Rua Pedro N. Pizzato, 682 - Mercês",
+        "NUM": "190235",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432073774922",
+        "LON": "-49,299330377979",
+        "NOME": "Rua Euclides da Cunha, 1090 - Bigorrilho",
+        "NUM": "190503",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793855489",
+        "LON": "-49,321227171793",
+        "NOME": "Rua Padre Ladislau Kula, 205 - Santo Inácio",
+        "NUM": "190028",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430029090182",
+        "LON": "-49,2724950921",
+        "NOME": "Praça Tiradentes - 875 - Bigorrilho",
+        "NUM": "101003",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431970146534",
+        "LON": "-49,290604026264",
+        "NOME": "Alameda Julia da Costa, 1054 - São Francisco",
+        "NUM": "180245",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420985077443",
+        "LON": "-49,302153447399",
+        "NOME": "Rua Pedro Nogaroli, 275 - Mercês",
+        "NUM": "190420",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423828795782",
+        "LON": "-49,298787275085",
+        "NOME": "Rua Edmundo Saporski, 330 - Mercês",
+        "NUM": "190318",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429828167512",
+        "LON": "-49,300474023314",
+        "NOME": "R. Euclides da Cunha, 1762 - Bigorrilho",
+        "NUM": "190205",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431426715741",
+        "LON": "-49,286468059963",
+        "NOME": "Alameda Princesa Isabel, 877 - São Francisco",
+        "NUM": "180750",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432331067462",
+        "LON": "-49,288110912985",
+        "NOME": "Avenida Cândido Hartmann, 176 - Mercês",
+        "NUM": "180728",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42284313023",
+        "LON": "-49,305001953373",
+        "NOME": "Av. Cândido Hartmann, 2128 - Mercês",
+        "NUM": "190185",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422304282835",
+        "LON": "-49,31924807375",
+        "NOME": "Av. Cândido Hartmann, 3498 - Mercês",
+        "NUM": "190195",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422647843001",
+        "LON": "-49,299966105948",
+        "NOME": "Rua Doutor Carlos de Paula Soares, 702 - Mercês",
+        "NUM": "190312",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435596637603",
+        "LON": "-49,297191531604",
+        "NOME": "Alameda Princesa Isabel, 1985 - São Francisco",
+        "NUM": "180581",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433639468899",
+        "LON": "-49,292151660866",
+        "NOME": "Alameda Princesa Isabel, 1555 - São Francisco",
+        "NUM": "180825",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431908753005",
+        "LON": "-49,280559153503",
+        "NOME": "Rua Saldanha Marinho, 917 - Centro",
+        "NUM": "110194",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422721889696",
+        "LON": "-49,311290349703",
+        "NOME": "Av. Cândido Hartmann, 2764 - Mercês",
+        "NUM": "190190",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422898449491",
+        "LON": "-49,314225364418",
+        "NOME": "Av. Cândido Hartmann, 3048 - Mercês",
+        "NUM": "190192",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42242",
+        "LON": "-49,31891",
+        "NOME": "Av. Cândido Hartmann, 3497 - Mercês",
+        "NUM": "190196",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421178878289",
+        "LON": "-49,302313038836",
+        "NOME": "Rua Pedro Nogaroli, 274 - Mercês",
+        "NUM": "190390",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424726312158",
+        "LON": "-49,299302259216",
+        "NOME": "Rua Pedro Nolasko Pizzato, 530 - Mercês",
+        "NUM": "190309",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430859946765",
+        "LON": "-49,28164410705",
+        "NOME": "Alameda Augusto Stelfeld, 1018 - Centro",
+        "NUM": "110108",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432682298198",
+        "LON": "-49,28654450292",
+        "NOME": "Alameda Augusto Stelfeld, 1354 - Centro",
+        "NUM": "180244",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422227819962",
+        "LON": "-49,303997466097",
+        "NOME": "Rua Pedro Nogaroli, 21 - Mercês",
+        "NUM": "190360",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424805041345",
+        "LON": "-49,299233862886",
+        "NOME": "Rua Pedro Nolasko Pizzato, 530 - Mercês",
+        "NUM": "190310",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432574881729",
+        "LON": "-49,289465428537",
+        "NOME": "Alameda Princesa Isabel, 1151 - São Francisco",
+        "NUM": "180561",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422357145157",
+        "LON": "-49,300821835651",
+        "NOME": "Rua Gen. Agostinho Pereira Alves Filho, 321 - Mercês",
+        "NUM": "190182",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4316605189",
+        "LON": "-49,276690066999",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 158 - Centro",
+        "NUM": "110106",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434027865788",
+        "LON": "-49,295765937513",
+        "NOME": "Alameda Julia da Costa, 1654 - São Francisco",
+        "NUM": "180817",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42250791665",
+        "LON": "-49,316534023314",
+        "NOME": "Av. Cândido Hartmann, 3236 - Mercês",
+        "NUM": "190193",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432819531718",
+        "LON": "-49,282832325644",
+        "NOME": "Rua Saldanha Marinho, 1179 - Centro",
+        "NUM": "110193",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422719306113",
+        "LON": "-49,299827972183",
+        "NOME": "Rua Doutor Carlos de Paula Soares, 703 - Mercês",
+        "NUM": "190314",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432134862259",
+        "LON": "-49,280061603731",
+        "NOME": "Rua Visconde do Rio Branco, 1186 - Centro",
+        "NUM": "110107",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422592509767",
+        "LON": "-49,311322273645",
+        "NOME": "Av. Cândido Hartmann, 2765 - Mercês",
+        "NUM": "190189",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434536413767",
+        "LON": "-49,297965950718",
+        "NOME": "Rua Euclides da Cunha, 1151-1299 - Bigorrilho",
+        "NUM": "180553",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793072295",
+        "LON": "-49,321030145998",
+        "NOME": "Rua Padre Ladislau Kula, 206 - Santo Inácio",
+        "NUM": "190027",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427106178365",
+        "LON": "-49,321172478504",
+        "NOME": "Rua Padre Ladislau Kula, 609 - Santo Inácio",
+        "NUM": "190029",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428538941223",
+        "LON": "-49,3008395043",
+        "NOME": "R. Lúcio Rasera, 287 - Bigorrilho",
+        "NUM": "190206",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422677296544",
+        "LON": "-49,316483411045",
+        "NOME": "Av. Cândido Hartmann, 3235- Mercês",
+        "NUM": "190194",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423874822425",
+        "LON": "-49,298865059147",
+        "NOME": "Rua Edmundo Saporski, 331 - Mercês",
+        "NUM": "190327",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426293863162",
+        "LON": "-49,300621601362",
+        "NOME": "Rua Doutor Álvaro Albuquerque, 265 - Bigorrilho",
+        "NUM": "190236",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42278",
+        "LON": "-49,31435",
+        "NOME": "Av. Cândido Hartmann, 3049 - Mercês",
+        "NUM": "190191",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425377637603",
+        "LON": "-49,300739911708",
+        "NOME": "Rua Pedro N. Pizzato, 681 - Mercês",
+        "NUM": "190220",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426164264381",
+        "LON": "-49,300605508108",
+        "NOME": "Rua Doutor Álvaro Albuquerque, 265 - Bigorrilho",
+        "NUM": "190308",
+        "SENTIDO": "Bigorrilho",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    }
+]

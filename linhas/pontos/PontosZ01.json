@@ -1,0 +1,122 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,425663043072",
+        "LON": "-49,215415131283",
+        "NOME": "Rua Konrad Adenauer, 784 - Tarumã",
+        "NUM": "130344",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427707263787",
+        "LON": "-49,213725210375",
+        "NOME": "Rua José Veríssimo, 16 - Bairro Alto",
+        "NUM": "130332",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42737",
+        "LON": "-49,21474",
+        "NOME": "Rua Konrad Adenauer, 1120- Tarumã",
+        "NUM": "130342",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425663043072",
+        "LON": "-49,215415131283",
+        "NOME": "Rua Konrad Adenauer, 784 - Tarumã",
+        "NUM": "130344",
+        "SENTIDO": "Estação Tubo Detran",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430068793184",
+        "LON": "-49,211770892143",
+        "NOME": "Av. Coronel Augusto de Almeida Garret - Tarumã",
+        "NUM": "130219",
+        "SENTIDO": "Estação Tubo Detran",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430068793184",
+        "LON": "-49,211770892143",
+        "NOME": "Av. Coronel Augusto de Almeida Garret - Tarumã",
+        "NUM": "130219",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42737",
+        "LON": "-49,21474",
+        "NOME": "Rua Konrad Adenauer, 1120- Tarumã",
+        "NUM": "130342",
+        "SENTIDO": "Estação Tubo Detran",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42753",
+        "LON": "-49,21449",
+        "NOME": "Rua Konrad Adenauer, 1121- Tarumã",
+        "NUM": "130341",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427707263787",
+        "LON": "-49,213725210375",
+        "NOME": "Rua José Veríssimo, 16 - Bairro Alto",
+        "NUM": "130332",
+        "SENTIDO": "Estação Tubo Detran",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430056946982",
+        "LON": "-49,212904454416",
+        "NOME": "Av. Victor Ferreira do Amaral, 2711 - Tarumã",
+        "NUM": "130217",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42957",
+        "LON": "-49,21367",
+        "NOME": "Rua Konrad Adenauer, 1239 - Tarumã",
+        "NUM": "130340",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425663043072",
+        "LON": "-49,215415131283",
+        "NOME": "Rua Konrad Adenauer, 784 - Tarumã",
+        "NUM": "130344",
+        "SENTIDO": "Unibrasil",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    }
+]

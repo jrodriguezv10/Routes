@@ -1,0 +1,462 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,363196224926",
+        "LON": "-49,262677055225",
+        "NOME": "Avenida Anita Garibaldi, 5800 - Barreirinha",
+        "NUM": "120040",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,354023337582",
+        "LON": "-49,263066705523",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120153",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,358159397926",
+        "LON": "-49,274700612268",
+        "NOME": "Rua João Batista Maier, 89 - Abranches",
+        "NUM": "120138",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356614367227",
+        "LON": "-49,274494996651",
+        "NOME": "Rua São Ediges, 126 - Abranches",
+        "NUM": "120137",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363940896821",
+        "LON": "-49,262326472387",
+        "NOME": "Avenida Anita Garibaldi,  5800 - Barreirinha",
+        "NUM": "120039",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35271",
+        "LON": "-49,26416",
+        "NOME": "Avenida Anita Garibaldi, 562 - Cachoeira",
+        "NUM": "120194",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35396",
+        "LON": "-49,27135",
+        "NOME": "Rua José Bajerski, 2068 - Abranches",
+        "NUM": "120132",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359089711128",
+        "LON": "-49,26326157424",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Barreirinha",
+        "NUM": "120046",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35078",
+        "LON": "-49,26721",
+        "NOME": "Rua Maria Moreira Frotte, 607 - Cachoeira",
+        "NUM": "120569",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35417",
+        "LON": "-49,26317",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120154",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356388483332",
+        "LON": "-49,273203294477",
+        "NOME": "Rua São Ediges, 48 - Abranches",
+        "NUM": "120135",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,358159397926",
+        "LON": "-49,274700612268",
+        "NOME": "Rua João Batista Maier, 89 - Abranches",
+        "NUM": "120138",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35284424478",
+        "LON": "-49,263791224537",
+        "NOME": "Avenida Anita Garibaldi, 522 - Cachoeira",
+        "NUM": "120161",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35091",
+        "LON": "-49,26505",
+        "NOME": "Rua Flávio Dallegrave, 10277 - Cachoeira",
+        "NUM": "120195",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351640597622",
+        "LON": "-49,271280728836",
+        "NOME": "Rua José Bajerski, 2370 - Abranches",
+        "NUM": "120129",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377675113908",
+        "LON": "-49,262474552149",
+        "NOME": "Terminal Barreirinha - 243 - Santa Terezinha",
+        "NUM": "104110",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367533635378",
+        "LON": "-49,25983157424",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120037",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376397267673",
+        "LON": "-49,262598365111",
+        "NOME": "Avenida Anita Garibaldi, 4222  - Barreirinha",
+        "NUM": "120023",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361599389638",
+        "LON": "-49,263017550926",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120044",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356483516146",
+        "LON": "-49,263492186508",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120055",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,350883336889",
+        "LON": "-49,269411224537",
+        "NOME": "Rua Maria Moreira Frotte, 265 - Cachoeira",
+        "NUM": "120570",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37256",
+        "LON": "-49,26282",
+        "NOME": "Av. Anita Garibaldi, 4608 - Barreirinha",
+        "NUM": "120027",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,350890005338",
+        "LON": "-49,267450845404",
+        "NOME": "Rua Maria Moreira Frotte, 600 - Cachoeira",
+        "NUM": "120127",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,350975456495",
+        "LON": "-49,269308512898",
+        "NOME": "Rua Maria Moreira Frotte, 265 - Cachoeira",
+        "NUM": "120128",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367411823091",
+        "LON": "-49,259725597553",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120036",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365268187323",
+        "LON": "-49,260806093254",
+        "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
+        "NUM": "120038",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35071",
+        "LON": "-49,26543",
+        "NOME": "Rua Maria Moreira Frotte, 675 - Cachoeira",
+        "NUM": "120126",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,353946979707",
+        "LON": "-49,271423411045",
+        "NOME": "Rua José Bajerski, 2068 - Abranches",
+        "NUM": "120131",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351510608747",
+        "LON": "-49,271139766865",
+        "NOME": "Rua José Bajerski, 2370 - Abranches",
+        "NUM": "120130",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356541154223",
+        "LON": "-49,274535293714",
+        "NOME": "Rua São Ediges, 125 - Abranches",
+        "NUM": "120136",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377675113908",
+        "LON": "-49,262474552149",
+        "NOME": "Terminal Barreirinha - 243 - Santa Terezinha",
+        "NUM": "104110",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372308494636",
+        "LON": "-49,262506209822",
+        "NOME": "Av. Anita Garibaldi, 4644 - Barreirinha",
+        "NUM": "120028",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35634",
+        "LON": "-49,27331",
+        "NOME": "Rua São Ediges, 63 - Abranches",
+        "NUM": "120134",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356323947612",
+        "LON": "-49,263579387732",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120116",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35096",
+        "LON": "-49,26517",
+        "NOME": "Rua Flávio Dallegrave, 10277 - Cachoeira",
+        "NUM": "120196",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371198482293",
+        "LON": "-49,261667550926",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120031",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36922",
+        "LON": "-49,25998",
+        "NOME": "Avenida Anita Garibaldi, 5094 - Barreirinha",
+        "NUM": "120035",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361753626635",
+        "LON": "-49,263096588955",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120045",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355202728502",
+        "LON": "-49,272287201223",
+        "NOME": "Rua José Bajerski, 1870 - Abranches",
+        "NUM": "120133",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371146376771",
+        "LON": "-49,261400728836",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120029",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3697",
+        "LON": "-49,26006",
+        "NOME": "Avenida Anita Garibaldi, 5062 - Barreirinha",
+        "NUM": "120034",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35518",
+        "LON": "-49,27241",
+        "NOME": "Rua José Bajerski, 1870 - Abranches",
+        "NUM": "120571",
+        "SENTIDO": "Santa Terezinha",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359170914964",
+        "LON": "-49,263415364418",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Cachoeira",
+        "NUM": "120047",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366113104384",
+        "LON": "-49,260314271751",
+        "NOME": "Av. Anita Garibaldi, 5470 - Barreirinha",
+        "NUM": "120787",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    }
+]

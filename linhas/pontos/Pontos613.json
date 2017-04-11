@@ -1,0 +1,292 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,515336746521",
+        "LON": "-49,272927201223",
+        "NOME": "Rua Barão de Santo Ângelo, 1462 - Xaxim",
+        "NUM": "150353",
+        "SENTIDO": "V. Urano",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "V. Urano",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510865792969",
+        "LON": "-49,275992682209",
+        "NOME": "Rua Omar Raymundo Picheth, 913 - Xaxim",
+        "NUM": "150326",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508253310322",
+        "LON": "-49,283609365746",
+        "NOME": "Rua Barão de Santo Ângelo, 86 - Xaxim",
+        "NUM": "150194",
+        "SENTIDO": "V. Urano",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50559242081",
+        "LON": "-49,287583557043",
+        "NOME": "Rua Ipiranga, 742 - Capão Raso",
+        "NUM": "150357",
+        "SENTIDO": "V. Urano",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509808789638",
+        "LON": "-49,281268542328",
+        "NOME": "Rua Barão de Santo Ângelo, 371 - Xaxim",
+        "NUM": "150329",
+        "SENTIDO": "V. Urano",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503825665926",
+        "LON": "-49,287821775003",
+        "NOME": "Rua Martin Wendrichovski, 50 - Capão Raso",
+        "NUM": "150192",
+        "SENTIDO": "V. Urano",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500605898547",
+        "LON": "-49,284069364592",
+        "NOME": "Rua Bôrtolo Gusso, 721 - Capão Raso",
+        "NUM": "150240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "47548",
+        "LAT": "-25,506738808136",
+        "LON": "-49,284472793689",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108204",
+        "SENTIDO": "V. Urano",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512784900367",
+        "LON": "-49,276755976686",
+        "NOME": "Rua Barão de Santo Ângelo, 957 - Xaxim",
+        "NUM": "150351",
+        "SENTIDO": "V. Urano",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500766888966",
+        "LON": "-49,284072046801",
+        "NOME": "Rua Bôrtolo Gusso, 716 - Capão Raso",
+        "NUM": "150190",
+        "SENTIDO": "V. Urano",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "V. Urano",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511347896532",
+        "LON": "-49,278959038029",
+        "NOME": "Rua Barão de Santo Ângelo, 662 - Xaxim",
+        "NUM": "150350",
+        "SENTIDO": "V. Urano",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502580134571",
+        "LON": "-49,285135542675",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 186 - Capão Raso",
+        "NUM": "150191",
+        "SENTIDO": "V. Urano",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492299584689",
+        "LON": "-49,293184311337",
+        "NOME": "Terminal Capão Raso - 624 - Vila São Pedro / 613 - V.Urano",
+        "NUM": "104811",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512402796898",
+        "LON": "-49,27368475215",
+        "NOME": "Rua Omar Raymundo Picheth, 1151 - Xaxim",
+        "NUM": "150325",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509461759267",
+        "LON": "-49,27810839633",
+        "NOME": "Rua Omar Raymundo Picheth, 575 - Xaxim",
+        "NUM": "150327",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507915849802",
+        "LON": "-49,280408279762",
+        "NOME": "Rua Omar Raymundo Picheth, 288 - Xaxim",
+        "NUM": "150328",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515336746521",
+        "LON": "-49,272927201223",
+        "NOME": "Rua Barão de Santo Ângelo, 1462 - Xaxim",
+        "NUM": "150353",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504733714901",
+        "LON": "-49,285771356687",
+        "NOME": "Rua Mal. Althayr Roszanniy, 781 - Capão Raso",
+        "NUM": "150238",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496938279745",
+        "LON": "-49,290224493689",
+        "NOME": "Rua Rodolpho Senff Júnior, 111 - Capão Raso",
+        "NUM": "150859",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495989684013",
+        "LON": "-49,286990991402",
+        "NOME": "Rua Bôrtolo Gusso, 24 - Capão Raso",
+        "NUM": "150071",
+        "SENTIDO": "V. Urano",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513967063355",
+        "LON": "-49,271287434359",
+        "NOME": "Rua Profª. Emma Carvalho dos Santos, 73 - Xaxim",
+        "NUM": "150324",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502609185012",
+        "LON": "-49,285037642046",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 185 - Capão Raso",
+        "NUM": "150239",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492299584689",
+        "LON": "-49,293184311337",
+        "NOME": "Terminal Capão Raso - 624 - Vila São Pedro / 613 - V.Urano",
+        "NUM": "104811",
+        "SENTIDO": "V. Urano",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514140059491",
+        "LON": "-49,274720495701",
+        "NOME": "Rua Barão de Santo Ângelo, 1182 - Xaxim",
+        "NUM": "150352",
+        "SENTIDO": "V. Urano",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498923354192",
+        "LON": "-49,286123936697",
+        "NOME": "Rua Bôrtolo Gusso, 450 - Capão Raso",
+        "NUM": "150189",
+        "SENTIDO": "V. Urano",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14581",
+        "LAT": "-25,506813852496",
+        "LON": "-49,284278333535",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108203",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496935742656",
+        "LON": "-49,286646967455",
+        "NOME": "Rua Bortolo Gusso, 211 - Capão Raso",
+        "NUM": "150242",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    }
+]

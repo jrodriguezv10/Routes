@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,379563622229",
+        "LON": "-49,233931722588",
+        "NOME": "Rua João Reboli, 545 - Santa Candida",
+        "NUM": "120379",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386587929367",
+        "LON": "-49,236024270355",
+        "NOME": "Rua Des. Antônio Leopoldo dos Santos, 77 - Boa Vista",
+        "NUM": "120192",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393337884661",
+        "LON": "-49,240889387732",
+        "NOME": "Terminal Boa Vista - 224 - Cassiopéia",
+        "NUM": "104208",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391113185867",
+        "LON": "-49,241248341652",
+        "NOME": "Rua José Merhy, 1181 - Boa Vista",
+        "NUM": "120581",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38205867882",
+        "LON": "-49,238607212771",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2234 - Boa Vista",
+        "NUM": "120385",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380935131286",
+        "LON": "-49,235909311107",
+        "NOME": "Rua João Reboli, 309 - Santa Candida",
+        "NUM": "120381",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384614699883",
+        "LON": "-49,237657700322",
+        "NOME": "Rua Des. Antônio Leopoldo dos Santos, 233 - Boa Vista",
+        "NUM": "120191",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388208672689",
+        "LON": "-49,237149525041",
+        "NOME": "Rua Jovino do Rosário, 1749 - Boa Vista",
+        "NUM": "120193",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391224635858",
+        "LON": "-49,241196080717",
+        "NOME": "Rua José Merhy, 1250 - Boa Vista",
+        "NUM": "120580",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387083565788",
+        "LON": "-49,241006019782",
+        "NOME": "Rua Antônio Lago, 428 - Boa Vista",
+        "NUM": "120184",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379527318923",
+        "LON": "-49,24011096531",
+        "NOME": "Rua Fernando de Noronha, 988 - Santa Candida",
+        "NUM": "120185",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378152753511",
+        "LON": "-49,24164719504",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 2-270 - Santa Candida",
+        "NUM": "120583",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375624524366",
+        "LON": "-49,237309586118",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 538 - Santa Candida",
+        "NUM": "120186",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378134864684",
+        "LON": "-49,232016820709",
+        "NOME": "Rua Coronel Wallace Scott Murrai, 437 - Santa Candida",
+        "NUM": "120378",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382782813351",
+        "LON": "-49,235803032233",
+        "NOME": "Rua Maria Geronasso do Rosário, 85 - Boa Vista",
+        "NUM": "120190",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377257391692",
+        "LON": "-49,240140194967",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 2-270 - Santa Candida",
+        "NUM": "120170",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3801814295",
+        "LON": "-49,237675357815",
+        "NOME": "Rua Fernando de Noronha, 756 - Santa Candida",
+        "NUM": "120721",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383864796104",
+        "LON": "-49,239321235573",
+        "NOME": "Rua Nossa Senhora de Nazaré, 2052 - Boa Vista",
+        "NUM": "120722",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393337884661",
+        "LON": "-49,240889387732",
+        "NOME": "Terminal Boa Vista - 224 - Cassiopéia",
+        "NUM": "104208",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381702025779",
+        "LON": "-49,235737238667",
+        "NOME": "Rua Fernando de Noronha, 505 - Santa Candida",
+        "NUM": "120189",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385879985642",
+        "LON": "-49,241193985074",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1840 - Boa Vista",
+        "NUM": "120723",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374818628874",
+        "LON": "-49,23603417368",
+        "NOME": "Rua Coronel Wallace Scott Murrai, 967 - Santa Candida",
+        "NUM": "120187",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37618984707",
+        "LON": "-49,233691225621",
+        "NOME": "Rua Coronel Wallace Scott Murrai, 721 - Santa Candida",
+        "NUM": "120188",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376404995938",
+        "LON": "-49,238658710427",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 378 - Santa Candida",
+        "NUM": "120574",
+        "SENTIDO": "Cassiopéia (Circular)",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    }
+]

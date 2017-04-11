@@ -1,0 +1,512 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Futurama",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Futurama",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531962390077",
+        "LON": "-49,296896488613",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 471 - Pinheirinho",
+        "NUM": "160321",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555609803155",
+        "LON": "-49,284331680483",
+        "NOME": "Rua Deputado Pinheiro Júnior, 970 - Umbara",
+        "NUM": "160337",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55044825752",
+        "LON": "-49,290617437309",
+        "NOME": "Rua João Amadeu Pedro Bom, 203 - Tatuquara",
+        "NUM": "160331",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Futurama",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Futurama",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Futurama",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Futurama",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Futurama",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Futurama",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550725336291",
+        "LON": "-49,292839647478",
+        "NOME": "Rua Nicola Pellanda, 2476 - Pinheirinho",
+        "NUM": "160328",
+        "SENTIDO": "Futurama",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552779813048",
+        "LON": "-49,288298667616",
+        "NOME": "Rua Hermínio Nichele, 558 - Umbara",
+        "NUM": "160334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560156553382",
+        "LON": "-49,283705384678",
+        "NOME": "Rua Deputado Pinheiro Júnior, 614 - Umbara",
+        "NUM": "160063",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550962486172",
+        "LON": "-49,289191843218",
+        "NOME": "Rua Hermínio Nichele, 334 - Umbara",
+        "NUM": "160333",
+        "SENTIDO": "Futurama",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557107681655",
+        "LON": "-49,282218099779",
+        "NOME": "Rua Pedro Picussa, 299 - Umbara",
+        "NUM": "160341",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Futurama",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552801591765",
+        "LON": "-49,288432778067",
+        "NOME": "Rua Hermínio Nichele, 559 - Umbara",
+        "NUM": "160335",
+        "SENTIDO": "Futurama",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557142768319",
+        "LON": "-49,282322705931",
+        "NOME": "Rua Pedro Picussa, 298 - Umbara",
+        "NUM": "160340",
+        "SENTIDO": "Futurama",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567931628884",
+        "LON": "-49,283095910416",
+        "NOME": "Rua Rosa Cavichiolo Nichele, 122 - Umbara",
+        "NUM": "160070",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550941917068",
+        "LON": "-49,289075167126",
+        "NOME": "Rua Hermínio Nichele, 333 - Umbara",
+        "NUM": "160332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Futurama",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Futurama",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550617650731",
+        "LON": "-49,290754229969",
+        "NOME": "Rua João Amadeu Pedro Bom, 202 - Tatuquara",
+        "NUM": "160330",
+        "SENTIDO": "Futurama",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555636420958",
+        "LON": "-49,284429581112",
+        "NOME": "Rua Deputado Pinheiro Júnior, 971 - Umbara",
+        "NUM": "160336",
+        "SENTIDO": "Futurama",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559155999666",
+        "LON": "-49,281810404009",
+        "NOME": "Rua Pedro Picussa, 509 - Umbara",
+        "NUM": "160343",
+        "SENTIDO": "Futurama",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563303343185",
+        "LON": "-49,283068360037",
+        "NOME": "Rua Deputado Pinheiro Júnior, 973 -Umbara",
+        "NUM": "160065",
+        "SENTIDO": "Futurama",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512968649648",
+        "LON": "-49,29483317791",
+        "NOME": "Terminal Pinheirinho - 639 - Futurama",
+        "NUM": "105715",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559037432892",
+        "LON": "-49,28176614756",
+        "NOME": "Rua Pedro Picussa, 508 - Umbara",
+        "NUM": "160342",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567931628884",
+        "LON": "-49,283095910416",
+        "NOME": "Rua Rosa Cavichiolo Nichele, 122 - Umbara",
+        "NUM": "160070",
+        "SENTIDO": "Futurama",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512968649648",
+        "LON": "-49,29483317791",
+        "NOME": "Terminal Pinheirinho - 639 - Futurama",
+        "NUM": "105715",
+        "SENTIDO": "Futurama",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557096792689",
+        "LON": "-49,283830107397",
+        "NOME": "Rua Francisco Becker, 51 - Umbará",
+        "NUM": "160338",
+        "SENTIDO": "Futurama",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564669225064",
+        "LON": "-49,282639206594",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1103 - Umbara",
+        "NUM": "160066",
+        "SENTIDO": "Futurama",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557041137955",
+        "LON": "-49,28386363501",
+        "NOME": "Rua Francisco Becker, 51 - Umbará",
+        "NUM": "160339",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564659546593",
+        "LON": "-49,282541305965",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1102 - Umbara",
+        "NUM": "160067",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Futurama",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560244872716",
+        "LON": "-49,283804626411",
+        "NOME": "Rua Deputado Pinheiro Júnior, 615 - Umbara",
+        "NUM": "160062",
+        "SENTIDO": "Futurama",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528638092388",
+        "LON": "-49,292818189806",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 680 - Pinheirinho",
+        "NUM": "160317",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530292386736",
+        "LON": "-49,294841916508",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 346 - Pinheirinho",
+        "NUM": "160319",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550445837615",
+        "LON": "-49,292767227835",
+        "NOME": "Rua Nicola Pellanda, 2460 - Pinheirinho",
+        "NUM": "160329",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563183570692",
+        "LON": "-49,282969118303",
+        "NOME": "Rua Deputado Pinheiro Júnior, 974 -Umbara",
+        "NUM": "160064",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5671674541",
+        "LON": "-49,281746030993",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1408 - Umbara",
+        "NUM": "160069",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

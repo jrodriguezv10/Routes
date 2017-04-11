@@ -1,0 +1,82 @@
+[
+    {
+        "GRUPO": "26082",
+        "LAT": "-25,444108448367",
+        "LON": "-49,239838003206",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "109033",
+        "SENTIDO": "Marechal Deodoro",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,468726293283",
+        "LON": "-49,207982188405",
+        "NOME": "Terminal Centenário - 305 - Centenário",
+        "NUM": "109115",
+        "SENTIDO": "Marechal Deodoro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26082",
+        "LAT": "-25,444108448367",
+        "LON": "-49,239838003206",
+        "NOME": "Estação Tubo Jardim Botânico",
+        "NUM": "109033",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25426",
+        "LAT": "-25,428830413906",
+        "LON": "-49,258181630659",
+        "NOME": "Praça do Expedicionário",
+        "NUM": "109049",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41862",
+        "LAT": "-25,429041275347",
+        "LON": "-49,26358168158",
+        "NOME": "Estação Tubo Marechal Deodoro",
+        "NUM": "109036",
+        "SENTIDO": "Marechal Deodoro",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41862",
+        "LAT": "-25,429041275347",
+        "LON": "-49,26358168158",
+        "NOME": "Estação Tubo Marechal Deodoro",
+        "NUM": "109036",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,468726293283",
+        "LON": "-49,207982188405",
+        "NOME": "Terminal Centenário - 305 - Centenário",
+        "NUM": "109115",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26080",
+        "LAT": "-25,42936090845",
+        "LON": "-49,258465944815",
+        "NOME": "Praça do Expedicionário",
+        "NUM": "109050",
+        "SENTIDO": "Marechal Deodoro",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,405733016782",
+        "LON": "-49,247328309193",
+        "NOME": "Av. Munhoz da Rocha, 1361 - Juveve",
+        "NUM": "130004",
+        "SENTIDO": "São João",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40744876934",
+        "LON": "-49,249701768694",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130001",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39303548085",
+        "LON": "-49,212404868717",
+        "NOME": "Rua João Ivanoski, 129 - Tingui",
+        "NUM": "130168",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "São João",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40335942835",
+        "LON": "-49,245174139881",
+        "NOME": "Rua Nicarágua, 239 - Bacacheri",
+        "NUM": "130013",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392424865256",
+        "LON": "-49,226471341105",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2419 - Bacacheri",
+        "NUM": "130022",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389863923931",
+        "LON": "-49,222032157078",
+        "NOME": "Rua Jorge Bom, 47 - Tingui",
+        "NUM": "130153",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392519692337",
+        "LON": "-49,218720845404",
+        "NOME": "Rua Hermínio Cardoso, 59 - Tingui",
+        "NUM": "130165",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406609618852",
+        "LON": "-49,252562687698",
+        "NOME": "Terminal Cabral - 213 - São João",
+        "NUM": "104408",
+        "SENTIDO": "São João",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40751903007",
+        "LON": "-49,249488533077",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130002",
+        "SENTIDO": "São João",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406609618852",
+        "LON": "-49,252562687698",
+        "NOME": "Terminal Cabral - 213 - São João",
+        "NUM": "104408",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391476076532",
+        "LON": "-49,224709154596",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2608 - Bacacheri",
+        "NUM": "130041",
+        "SENTIDO": "São João",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "São João",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40022028553",
+        "LON": "-49,240394820824",
+        "NOME": "Rua Nicarágua, 820  - Bacacheri",
+        "NUM": "130011",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400487907139",
+        "LON": "-49,238523790178",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130008",
+        "SENTIDO": "São João",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392638807615",
+        "LON": "-49,21867",
+        "NOME": "Rua Hermínio Cardoso, 48 - Tingui",
+        "NUM": "130601",
+        "SENTIDO": "São João",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39004153733",
+        "LON": "-49,222079620867",
+        "NOME": "Rua Jorge Bom, 48 - Tingui",
+        "NUM": "130597",
+        "SENTIDO": "São João",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391715712503",
+        "LON": "-49,21985953373",
+        "NOME": "Rua Jorge Bom, 390 - Tingui",
+        "NUM": "130600",
+        "SENTIDO": "São João",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39107457596",
+        "LON": "-49,224417930059",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2625 - Bacacheri",
+        "NUM": "130040",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406155130757",
+        "LON": "-49,247822419643",
+        "NOME": "Av. Munhoz da Rocha, 1143 - Juveve",
+        "NUM": "130003",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401251541831",
+        "LON": "-49,241950728836",
+        "NOME": "Rua Nicarágua, 547 - Bacacheri",
+        "NUM": "130012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "São João",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "São João",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392363653695",
+        "LON": "-49,216119387732",
+        "NOME": "Rua Hermínio Cardoso, 288 - Tingui",
+        "NUM": "130602",
+        "SENTIDO": "São João",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392604345846",
+        "LON": "-49,21465364418",
+        "NOME": "Rua Alferes Marcílio Machado, 583 - Tingui",
+        "NUM": "130603",
+        "SENTIDO": "São João",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392277288301",
+        "LON": "-49,216273411045",
+        "NOME": "Rua Hermínio Cardoso, 233 - Tingui",
+        "NUM": "130166",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404285485932",
+        "LON": "-49,244288658895",
+        "NOME": "Av. Prefeito Erasto Gaertner, 193 - Bacacheri",
+        "NUM": "130005",
+        "SENTIDO": "São João",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40171",
+        "LON": "-49,24042",
+        "NOME": "Av. Prefeito Erasto Gaertner,  683 - Bacacheri",
+        "NUM": "130007",
+        "SENTIDO": "São João",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "São João",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39303548085",
+        "LON": "-49,212404868717",
+        "NOME": "Rua João Ivanoski, 129 - Tingui",
+        "NUM": "130168",
+        "SENTIDO": "São João",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391870903938",
+        "LON": "-49,219614635582",
+        "NOME": "Rua Jorge Bom, 393 - Tingui",
+        "NUM": "130154",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39258",
+        "LON": "-49,21452",
+        "NOME": "Rua Alferes Marcílio Machado, 548 - Tingui",
+        "NUM": "130167",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

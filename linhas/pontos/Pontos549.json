@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552490611873",
+        "LON": "-49,251899918632",
+        "NOME": "Rua Guacui, 109 - Sítio Cercado",
+        "NUM": "160467",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527700446571",
+        "LON": "-49,252658892031",
+        "NOME": "Rua Isaac Ferreira da Cruz, 73 - Xaxim",
+        "NUM": "150127",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54581",
+        "LON": "-49,26354",
+        "NOME": "Rua Tijucas do Sul, 876 - Sítio Cercado",
+        "NUM": "160095",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527907962279",
+        "LON": "-49,253038163195",
+        "NOME": "Rua Isaac Ferreira da Cruz, 130 - Xaxim",
+        "NUM": "150128",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51729",
+        "LON": "-49,23118",
+        "NOME": "Rua Zonardi Ribas, 750 - Boqueirão",
+        "NUM": "150505",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54929",
+        "LON": "-49,25715",
+        "NOME": "Rua Tijucas do Sul, 130 - Sítio Cercado",
+        "NUM": "160223",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531175224574",
+        "LON": "-49,258401224537",
+        "NOME": "Rua Isaac Ferreira da Cruz, 726 - Sítio Cercado",
+        "NUM": "150132",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53601",
+        "LON": "-49,27008",
+        "NOME": "Rua São José dos Pinhais, 108 - Sítio Cercado",
+        "NUM": "160098",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540619748715",
+        "LON": "-49,266998892031",
+        "NOME": "Rua São José dos Pinhais, 648 - Sítio Cercado",
+        "NUM": "160102",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54169",
+        "LON": "-49,26505",
+        "NOME": "Rua São José dos Pinhais, 868 - Sítio Cercado",
+        "NUM": "160104",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54678",
+        "LON": "-49,26235",
+        "NOME": "Rua Tijucas do Sul, 715 - Sítio Cercado",
+        "NUM": "160181",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534838590593",
+        "LON": "-49,269046783447",
+        "NOME": "Rua Izaac Ferreira da Cruz, 3501 - Sítio Cercado",
+        "NUM": "160054",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540614452335",
+        "LON": "-49,266722624502",
+        "NOME": "Rua São José dos Pinhais, 669 - Sítio Cercado",
+        "NUM": "160103",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538361210074",
+        "LON": "-49,268993906746",
+        "NOME": "Rua São José dos Pinhais, 358 - Sítio Cercado",
+        "NUM": "160100",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54971",
+        "LON": "-49,25693",
+        "NOME": "Rua Tijucas do Sul, 5 - Sítio Cercado",
+        "NUM": "160465",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55112",
+        "LON": "-49,25443",
+        "NOME": "Rua Guacui, 350 - Sítio Cercado",
+        "NUM": "160466",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54803",
+        "LON": "-49,25948",
+        "NOME": "Rua Tijucas do Sul, 378 - Sítio Cercado",
+        "NUM": "160094",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550976016389",
+        "LON": "-49,254456296959",
+        "NOME": "Rua Guacui, 349 - Sítio Cercado",
+        "NUM": "160182",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55239",
+        "LON": "-49,25197",
+        "NOME": "Rua Guacui, 110 - Sítio Cercado",
+        "NUM": "160183",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534911197166",
+        "LON": "-49,268857687712",
+        "NOME": "Rua Izaac Ferreira da Cruz, 3501 - Sítio Cercado",
+        "NUM": "160053",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533043189797",
+        "LON": "-49,263824489584",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2156 - Sítio Cercado",
+        "NUM": "160021",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532448599716",
+        "LON": "-49,262069016695",
+        "NOME": "Rua Izaac Ferreira da Cruz, 4237 - Sítio Cercado",
+        "NUM": "160178",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51729",
+        "LON": "-49,23118",
+        "NOME": "Rua Zonardi Ribas, 750 - Boqueirão",
+        "NUM": "150505",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530332485189",
+        "LON": "-49,25592524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 533 - Xaxim",
+        "NUM": "150130",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54516",
+        "LON": "-49,26536",
+        "NOME": "Rua Tijucas do Sul, 1081 - Sítio Cercado",
+        "NUM": "160179",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530533122806",
+        "LON": "-49,25601524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 522 - Xaxim",
+        "NUM": "150129",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533253124096",
+        "LON": "-49,263633061342",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2155 -Sítio Cercado",
+        "NUM": "160022",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538309109327",
+        "LON": "-49,268853673611",
+        "NOME": "Rua São José dos Pinhais, 369 - Sítio Cercado",
+        "NUM": "160101",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548221156887",
+        "LON": "-49,25973839633",
+        "NOME": "Rua Tijucas do Sul, 375 - Sítio Cercado",
+        "NUM": "160464",
+        "SENTIDO": "Bairro novo",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531250956497",
+        "LON": "-49,25813842576",
+        "NOME": "Rua Isaac Ferreira da Cruz, 725 - Sítio Cercado",
+        "NUM": "150131",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54489",
+        "LON": "-49,26516",
+        "NOME": "Rua Tijucas do Sul, 1070 - Sítio Cercado",
+        "NUM": "160096",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53638",
+        "LON": "-49,26973",
+        "NOME": "Rua São José dos Pinhais, 121 - Sítio Cercado",
+        "NUM": "160099",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54163",
+        "LON": "-49,26486",
+        "NOME": "Rua São José dos Pinhais, 877 - Sítio Cercado",
+        "NUM": "160105",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532863674966",
+        "LON": "-49,261882603169",
+        "NOME": "Rua Izaac Ferreira da Cruz, 4248 - Sítio Cercado",
+        "NUM": "160081",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,39779",
+        "LON": "-49,25883",
+        "NOME": "R. Vereador Washington Mansur, 592 - Ahú",
+        "NUM": "120008",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361753626635",
+        "LON": "-49,263096588955",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120045",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366113104384",
+        "LON": "-49,260314271751",
+        "NOME": "Av. Anita Garibaldi, 5470 - Barreirinha",
+        "NUM": "120787",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406531585969",
+        "LON": "-49,252312662012",
+        "NOME": "Terminal Cabral - 245 - Reforço Anita Garibaldi",
+        "NUM": "104401",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367411823091",
+        "LON": "-49,259725597553",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120036",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359089711128",
+        "LON": "-49,26326157424",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Barreirinha",
+        "NUM": "120046",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356483516146",
+        "LON": "-49,263492186508",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120055",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402382962766",
+        "LON": "-49,25947409834",
+        "NOME": "R. Eça de Queiroz, 1260 - Ahú",
+        "NUM": "120010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377418235125",
+        "LON": "-49,262270704264",
+        "NOME": "Terminal Barreirinha - 218 - Tamandaré / Cabral - 215-Cabral / Cachoeira",
+        "NUM": "104101",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399521854456",
+        "LON": "-49,257502884811",
+        "NOME": "Av. Anita Garibaldi, 1400 - Ahú",
+        "NUM": "120004",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35091",
+        "LON": "-49,26505",
+        "NOME": "Rua Flávio Dallegrave, 10277 - Cachoeira",
+        "NUM": "120195",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406531585969",
+        "LON": "-49,252312662012",
+        "NOME": "Terminal Cabral - 245 - Reforço Anita Garibaldi",
+        "NUM": "104401",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393740572387",
+        "LON": "-49,259315779905",
+        "NOME": "Av. Anita Garibaldi, 2163 - Ahú",
+        "NUM": "120012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391684573142",
+        "LON": "-49,260814503732",
+        "NOME": "Av. Anita Garibaldi, 2480 - Boa Vista",
+        "NUM": "120013",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35284424478",
+        "LON": "-49,263791224537",
+        "NOME": "Avenida Anita Garibaldi, 522 - Cachoeira",
+        "NUM": "120161",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38678",
+        "LON": "-49,26138",
+        "NOME": "Av. Anita Garibaldi, 3021 - Boa Vista",
+        "NUM": "120017",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37256",
+        "LON": "-49,26282",
+        "NOME": "Av. Anita Garibaldi, 4608 - Barreirinha",
+        "NUM": "120027",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371198482293",
+        "LON": "-49,261667550926",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120031",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36922",
+        "LON": "-49,25998",
+        "NOME": "Avenida Anita Garibaldi, 5094 - Barreirinha",
+        "NUM": "120035",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402078890163",
+        "LON": "-49,255738374231",
+        "NOME": "Rua dos Funcionários, 152 - Cabral",
+        "NUM": "120001",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363196224926",
+        "LON": "-49,262677055225",
+        "NOME": "Avenida Anita Garibaldi, 5800 - Barreirinha",
+        "NUM": "120040",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,348381516107",
+        "LON": "-49,264840845404",
+        "NOME": "Rua Flávio Dallegrave, 10800 - Cachoeira",
+        "NUM": "120198",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392260058261",
+        "LON": "-49,260980800691",
+        "NOME": "Av. Anita Garibaldi, 2393 - Boa Vista",
+        "NUM": "120014",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402083054858",
+        "LON": "-49,255968661255",
+        "NOME": "Rua dos Funcionários, 157 - Cabral",
+        "NUM": "120002",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38989",
+        "LON": "-49,26065",
+        "NOME": "Av. Anita Garibaldi, 2709 - São Lourenço",
+        "NUM": "120015",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395384001468",
+        "LON": "-49,258242155117",
+        "NOME": "R. Vereador Washington Mansur, 892 - Ahú",
+        "NUM": "120007",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356323947612",
+        "LON": "-49,263579387732",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120116",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,349566059865",
+        "LON": "-49,265143527613",
+        "NOME": "Rua Flávio Dallegrave, 10800 - Cachoeira",
+        "NUM": "120197",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395158054012",
+        "LON": "-49,257438511795",
+        "NOME": "Av. Anita Garibaldi, 1897 - Ahú",
+        "NUM": "120006",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3697",
+        "LON": "-49,26006",
+        "NOME": "Avenida Anita Garibaldi, 5062 - Barreirinha",
+        "NUM": "120034",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377314029425",
+        "LON": "-49,262434319014",
+        "NOME": "Terminal Barreirinha - 218 - Tamandaré / Cabral - 215 - Cabral/Cachoeira",
+        "NUM": "104102",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367533635378",
+        "LON": "-49,25983157424",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120037",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363940896821",
+        "LON": "-49,262326472387",
+        "NOME": "Avenida Anita Garibaldi,  5800 - Barreirinha",
+        "NUM": "120039",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359170914964",
+        "LON": "-49,263415364418",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Cachoeira",
+        "NUM": "120047",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38376",
+        "LON": "-49,26163",
+        "NOME": "Av. Anita Garibaldi, 3436 - São Lourenço",
+        "NUM": "120019",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38867746733",
+        "LON": "-49,260652230087",
+        "NOME": "Av. Anita Garibaldi, 2816 - Boa Vista",
+        "NUM": "120016",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39744",
+        "LON": "-49,25669",
+        "NOME": "Av. Anita Garibaldi, 1682 - Ahú",
+        "NUM": "120005",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365268187323",
+        "LON": "-49,260806093254",
+        "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
+        "NUM": "120038",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361599389638",
+        "LON": "-49,263017550926",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120044",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38307",
+        "LON": "-49,26186",
+        "NOME": "Av. Anita Garibaldi, 3431 - São Lourenço",
+        "NUM": "120020",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399745370803",
+        "LON": "-49,259257371229",
+        "NOME": "R. Vereador Washington Mansur, 462 - Ahú",
+        "NUM": "120009",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393572169618",
+        "LON": "-49,25931712101",
+        "NOME": "Av. Anita Garibaldi, 2164 - Ahú",
+        "NUM": "120011",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372308494636",
+        "LON": "-49,262506209822",
+        "NOME": "Av. Anita Garibaldi, 4644 - Barreirinha",
+        "NUM": "120028",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371146376771",
+        "LON": "-49,261400728836",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120029",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380417839282",
+        "LON": "-49,261556134525",
+        "NOME": "Av. Anita Garibaldi, 3693 - São Lourenço",
+        "NUM": "120022",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35417",
+        "LON": "-49,26317",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120154",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35271",
+        "LON": "-49,26416",
+        "NOME": "Avenida Anita Garibaldi, 562 - Cachoeira",
+        "NUM": "120194",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35096",
+        "LON": "-49,26517",
+        "NOME": "Rua Flávio Dallegrave, 10277 - Cachoeira",
+        "NUM": "120196",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380553545525",
+        "LON": "-49,261349604431",
+        "NOME": "Av. Anita Garibaldi, 3696 - São Lourenço",
+        "NUM": "120021",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38604",
+        "LON": "-49,26148",
+        "NOME": "Av. Anita Garibaldi, 3446 - São Lourenço",
+        "NUM": "120018",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40206",
+        "LON": "-49,25861",
+        "NOME": "Av. Anita Garibaldi, 1076 - Ahú",
+        "NUM": "120003",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,354023337582",
+        "LON": "-49,263066705523",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120153",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,349566059865",
+        "LON": "-49,265143527613",
+        "NOME": "Rua Flávio Dallegrave, 10800 - Cachoeira",
+        "NUM": "120197",
+        "SENTIDO": "Anita Garibaldi",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    }
+]

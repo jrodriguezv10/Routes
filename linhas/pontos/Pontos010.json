@@ -1,0 +1,912 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,446212806029",
+        "LON": "-49,255276651329",
+        "NOME": "Rua Iapó, 579 - Rebouças",
+        "NUM": "140186",
+        "SENTIDO": "Horário",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438600657133",
+        "LON": "-49,28881635582",
+        "NOME": "R. Teixeira Coelho, 382 - Batel",
+        "NUM": "180040",
+        "SENTIDO": "Horário",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44231",
+        "LON": "-49,25366",
+        "NOME": "Rua Embaixador Hipólito de Araujo, 2 - Rebouças",
+        "NUM": "140184",
+        "SENTIDO": "Horário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449416367089",
+        "LON": "-49,254227813492",
+        "NOME": "Rua Iapó, 842 - Prado Velho",
+        "NUM": "140187",
+        "SENTIDO": "Horário",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452546679672",
+        "LON": "-49,280763527613",
+        "NOME": "Rua Bento Viana, 76 - Água Verde",
+        "NUM": "150231",
+        "SENTIDO": "Horário",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450112696017",
+        "LON": "-49,281852682209",
+        "NOME": "Rua Bento Viana, 307 - Água Verde",
+        "NUM": "150232",
+        "SENTIDO": "Horário",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412710335095",
+        "LON": "-49,26529842576",
+        "NOME": "Rua Dep. Mário de Barros, 1129 - Juvevê",
+        "NUM": "120114",
+        "SENTIDO": "Horário",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425727547473",
+        "LON": "-49,255047813492",
+        "NOME": "Rua Alm. Tamandaré, 727 - Alto da Rua XV",
+        "NUM": "130267",
+        "SENTIDO": "Horário",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444061211024",
+        "LON": "-49,253717463789",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 501 - Rebouças",
+        "NUM": "140185",
+        "SENTIDO": "Horário",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442111211044",
+        "LON": "-49,285420845404",
+        "NOME": "Rua Bento Viana, 1166 - Batel",
+        "NUM": "180141",
+        "SENTIDO": "Horário",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Horário",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430344876301",
+        "LON": "-49,255575743551",
+        "NOME": "R. Alm. Tamandaré, 272 - Alto da Rua Quinze",
+        "NUM": "130268",
+        "SENTIDO": "Horário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45335527419",
+        "LON": "-49,272544023314",
+        "NOME": "Av. Água Verde, 102 - Água Verde",
+        "NUM": "150229",
+        "SENTIDO": "Horário",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444655634129",
+        "LON": "-49,284239796295",
+        "NOME": "Rua Bento Viana, 996 - Água Verde",
+        "NUM": "150234",
+        "SENTIDO": "Horário",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444688097732",
+        "LON": "-49,255299616275",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 440 - Rebouças",
+        "NUM": "140875",
+        "SENTIDO": "Horário",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Horário",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41708345942",
+        "LON": "-49,256172509141",
+        "NOME": "Rua Augusto Stresser, 517 - Juvevê",
+        "NUM": "130238",
+        "SENTIDO": "Horário",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Horário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426269574212",
+        "LON": "-49,291281284041",
+        "NOME": "Rua Fernando Simas, 1119 - Mercês",
+        "NUM": "190832",
+        "SENTIDO": "Horário",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417200592005",
+        "LON": "-49,280558658896",
+        "NOME": "R. Tapajós, 607 - Mercês",
+        "NUM": "110039",
+        "SENTIDO": "Horário",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411725747542",
+        "LON": "-49,270902069941",
+        "NOME": "R. Dep. Mário de Barros, 1681 - Centro Cívico",
+        "NUM": "120112",
+        "SENTIDO": "Horário",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415826729313",
+        "LON": "-49,259532069941",
+        "NOME": "Rua Alberto Bolliger, 772 - Juvevê",
+        "NUM": "130237",
+        "SENTIDO": "Horário",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453485781412",
+        "LON": "-49,275919766865",
+        "NOME": "Av. Água Verde, 470 - Água Verde",
+        "NUM": "150230",
+        "SENTIDO": "Horário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41708345942",
+        "LON": "-49,256172509141",
+        "NOME": "Rua Augusto Stresser, 517 - Juvevê",
+        "NUM": "130238",
+        "SENTIDO": "Horário",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447454019728",
+        "LON": "-49,257707463789",
+        "NOME": "Rua Chile, 821 - Rebouças",
+        "NUM": "140051",
+        "SENTIDO": "Horário",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411725747542",
+        "LON": "-49,270902069941",
+        "NOME": "R. Dep. Mário de Barros, 1681 - Centro Cívico",
+        "NUM": "120112",
+        "SENTIDO": "Horário",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444061211024",
+        "LON": "-49,253717463789",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 501 - Rebouças",
+        "NUM": "140185",
+        "SENTIDO": "Horário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432681513162",
+        "LON": "-49,258593202776",
+        "NOME": "Av. Visc. de Guarapuava, 1692 - Centro",
+        "NUM": "140204",
+        "SENTIDO": "Horário",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418973713985",
+        "LON": "-49,254268746032",
+        "NOME": "Rua Alm. Tamandaré, 1689 - Alto da Rua Quinze",
+        "NUM": "130102",
+        "SENTIDO": "Horário",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447454019728",
+        "LON": "-49,257707463789",
+        "NOME": "Rua Chile, 821 - Rebouças",
+        "NUM": "140051",
+        "SENTIDO": "Horário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429615465966",
+        "LON": "-49,289655743551",
+        "NOME": "R. Fernando Simas, 911 - Mercês",
+        "NUM": "180140",
+        "SENTIDO": "Horário",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415285181408",
+        "LON": "-49,270133906746",
+        "NOME": "R. Jacy Loureiro de Campos, 1 - Centro Cívico",
+        "NUM": "120111",
+        "SENTIDO": "Horário",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44231",
+        "LON": "-49,25366",
+        "NOME": "Rua Embaixador Hipólito de Araujo, 2 - Rebouças",
+        "NUM": "140184",
+        "SENTIDO": "Horário",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Horário",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426269574212",
+        "LON": "-49,291281284041",
+        "NOME": "Rua Fernando Simas, 1119 - Mercês",
+        "NUM": "190832",
+        "SENTIDO": "Horário",
+        "SEQ": "40",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43459297823",
+        "LON": "-49,290712449074",
+        "NOME": "Praça Alfredo Anderson, 1 - Bigorrilho",
+        "NUM": "180041",
+        "SENTIDO": "Horário",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432206677422",
+        "LON": "-49,292185860119",
+        "NOME": "R. Cap. Souza Franco, 661 - Bigorrilho",
+        "NUM": "180042",
+        "SENTIDO": "Horário",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417200592005",
+        "LON": "-49,280558658896",
+        "NOME": "R. Tapajós, 607 - Mercês",
+        "NUM": "110039",
+        "SENTIDO": "Horário",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412710335095",
+        "LON": "-49,26529842576",
+        "NOME": "Rua Dep. Mário de Barros, 1129 - Juvevê",
+        "NUM": "120114",
+        "SENTIDO": "Horário",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446212806029",
+        "LON": "-49,255276651329",
+        "NOME": "Rua Iapó, 579 - Rebouças",
+        "NUM": "140186",
+        "SENTIDO": "Horário",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45212",
+        "LON": "-49,26918",
+        "NOME": "Rua Chile, 2052 - Rebouças",
+        "NUM": "150228",
+        "SENTIDO": "Horário",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450112696017",
+        "LON": "-49,281852682209",
+        "NOME": "Rua Bento Viana, 307 - Água Verde",
+        "NUM": "150232",
+        "SENTIDO": "Horário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444688097732",
+        "LON": "-49,255299616275",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 440 - Rebouças",
+        "NUM": "140875",
+        "SENTIDO": "Horário",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413928814884",
+        "LON": "-49,27970317791",
+        "NOME": "R. Tapajós, 948- Bom Retiro",
+        "NUM": "190176",
+        "SENTIDO": "Horário",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43661",
+        "LON": "-49,26094",
+        "NOME": "Rua Tibagi, 960 - Rebouças",
+        "NUM": "110040",
+        "SENTIDO": "Horário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Horário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413928814884",
+        "LON": "-49,27970317791",
+        "NOME": "R. Tapajós, 948- Bom Retiro",
+        "NUM": "190176",
+        "SENTIDO": "Horário",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413442474774",
+        "LON": "-49,261645480986",
+        "NOME": "Rua Dep. Mário de Barros, 772 - Juvevê",
+        "NUM": "120115",
+        "SENTIDO": "Horário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415826729313",
+        "LON": "-49,259532069941",
+        "NOME": "Rua Alberto Bolliger, 772 - Juvevê",
+        "NUM": "130237",
+        "SENTIDO": "Horário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Horário",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43459297823",
+        "LON": "-49,290712449074",
+        "NOME": "Praça Alfredo Anderson, 1 - Bigorrilho",
+        "NUM": "180041",
+        "SENTIDO": "Horário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413442474774",
+        "LON": "-49,261645480986",
+        "NOME": "Rua Dep. Mário de Barros, 772 - Juvevê",
+        "NUM": "120115",
+        "SENTIDO": "Horário",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449416367089",
+        "LON": "-49,254227813492",
+        "NOME": "Rua Iapó, 842 - Prado Velho",
+        "NUM": "140187",
+        "SENTIDO": "Horário",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447695542992",
+        "LON": "-49,282909271164",
+        "NOME": "Rua Bento Viana, 487 - Água Verde",
+        "NUM": "150233",
+        "SENTIDO": "Horário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414183583213",
+        "LON": "-49,265916974491",
+        "NOME": "R. Prefeito Rosalvo G Mello Leitão, 101 - Centro Cívico",
+        "NUM": "120113",
+        "SENTIDO": "Horário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432681513162",
+        "LON": "-49,258593202776",
+        "NOME": "Av. Visc. de Guarapuava, 1692 - Centro",
+        "NUM": "140204",
+        "SENTIDO": "Horário",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452927585155",
+        "LON": "-49,279979067936",
+        "NOME": "Av. Água Verde, 842 - Água Verde",
+        "NUM": "150559",
+        "SENTIDO": "Horário",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420162140919",
+        "LON": "-49,281326209822",
+        "NOME": "R. Tapajós, 290 - Mercês",
+        "NUM": "110038",
+        "SENTIDO": "Horário",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415285181408",
+        "LON": "-49,270133906746",
+        "NOME": "R. Jacy Loureiro de Campos, 1 - Centro Cívico",
+        "NUM": "120111",
+        "SENTIDO": "Horário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421678616348",
+        "LON": "-49,254575830689",
+        "NOME": "R. Alm. Tamandaré, 1202 - Juvevê",
+        "NUM": "130239",
+        "SENTIDO": "Horário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425727547473",
+        "LON": "-49,255047813492",
+        "NOME": "Rua Alm. Tamandaré, 727 - Alto da Rua XV",
+        "NUM": "130267",
+        "SENTIDO": "Horário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453485781412",
+        "LON": "-49,275919766865",
+        "NOME": "Av. Água Verde, 470 - Água Verde",
+        "NUM": "150230",
+        "SENTIDO": "Horário",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442111211044",
+        "LON": "-49,285420845404",
+        "NOME": "Rua Bento Viana, 1166 - Batel",
+        "NUM": "180141",
+        "SENTIDO": "Horário",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449009924282",
+        "LON": "-49,261531233788",
+        "NOME": "Rua Chile, 1164 - Rebouças",
+        "NUM": "150052",
+        "SENTIDO": "Horário",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44738262892",
+        "LON": "-49,256007553286",
+        "NOME": "Rua Francisco Nunes, 695 - Rebouças",
+        "NUM": "140724",
+        "SENTIDO": "Horário",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420162140919",
+        "LON": "-49,281326209822",
+        "NOME": "R. Tapajós, 290 - Mercês",
+        "NUM": "110038",
+        "SENTIDO": "Horário",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413928814884",
+        "LON": "-49,27970317791",
+        "NOME": "R. Tapajós, 948- Bom Retiro",
+        "NUM": "190176",
+        "SENTIDO": "Horário",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410516984135",
+        "LON": "-49,276479387732",
+        "NOME": "R. Carlos Pioli, 471 - Bom Retiro",
+        "NUM": "120110",
+        "SENTIDO": "Horário",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45056406034",
+        "LON": "-49,265392069941",
+        "NOME": "Rua Chile, 1626 - Rebouças",
+        "NUM": "150001",
+        "SENTIDO": "Horário",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410516984135",
+        "LON": "-49,276479387732",
+        "NOME": "R. Carlos Pioli, 471 - Bom Retiro",
+        "NUM": "120110",
+        "SENTIDO": "Horário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Horário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414183583213",
+        "LON": "-49,265916974491",
+        "NOME": "R. Prefeito Rosalvo G Mello Leitão, 101 - Centro Cívico",
+        "NUM": "120113",
+        "SENTIDO": "Horário",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452927585155",
+        "LON": "-49,279979067936",
+        "NOME": "Av. Água Verde, 842 - Água Verde",
+        "NUM": "150559",
+        "SENTIDO": "Horário",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438600657133",
+        "LON": "-49,28881635582",
+        "NOME": "R. Teixeira Coelho, 382 - Batel",
+        "NUM": "180040",
+        "SENTIDO": "Horário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430344876301",
+        "LON": "-49,255575743551",
+        "NOME": "R. Alm. Tamandaré, 272 - Alto da Rua Quinze",
+        "NUM": "130268",
+        "SENTIDO": "Horário",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452546679672",
+        "LON": "-49,280763527613",
+        "NOME": "Rua Bento Viana, 76 - Água Verde",
+        "NUM": "150231",
+        "SENTIDO": "Horário",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444655634129",
+        "LON": "-49,284239796295",
+        "NOME": "Rua Bento Viana, 996 - Água Verde",
+        "NUM": "150234",
+        "SENTIDO": "Horário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418973713985",
+        "LON": "-49,254268746032",
+        "NOME": "Rua Alm. Tamandaré, 1689 - Alto da Rua Quinze",
+        "NUM": "130102",
+        "SENTIDO": "Horário",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Horário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44738262892",
+        "LON": "-49,256007553286",
+        "NOME": "Rua Francisco Nunes, 695 - Rebouças",
+        "NUM": "140724",
+        "SENTIDO": "Horário",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429615465966",
+        "LON": "-49,289655743551",
+        "NOME": "R. Fernando Simas, 911 - Mercês",
+        "NUM": "180140",
+        "SENTIDO": "Horário",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424943323382",
+        "LON": "-49,291435480986",
+        "NOME": "R. Júlia Wanderley, 621 - Mercês",
+        "NUM": "190175",
+        "SENTIDO": "Horário",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45212",
+        "LON": "-49,26918",
+        "NOME": "Rua Chile, 2052 - Rebouças",
+        "NUM": "150228",
+        "SENTIDO": "Horário",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447695542992",
+        "LON": "-49,282909271164",
+        "NOME": "Rua Bento Viana, 487 - Água Verde",
+        "NUM": "150233",
+        "SENTIDO": "Horário",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43661",
+        "LON": "-49,26094",
+        "NOME": "Rua Tibagi, 960 - Rebouças",
+        "NUM": "110040",
+        "SENTIDO": "Horário",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45056406034",
+        "LON": "-49,265392069941",
+        "NOME": "Rua Chile, 1626 - Rebouças",
+        "NUM": "150001",
+        "SENTIDO": "Horário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432206677422",
+        "LON": "-49,292185860119",
+        "NOME": "R. Cap. Souza Franco, 661 - Bigorrilho",
+        "NUM": "180042",
+        "SENTIDO": "Horário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424943323382",
+        "LON": "-49,291435480986",
+        "NOME": "R. Júlia Wanderley, 621 - Mercês",
+        "NUM": "190175",
+        "SENTIDO": "Horário",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421678616348",
+        "LON": "-49,254575830689",
+        "NOME": "R. Alm. Tamandaré, 1202 - Juvevê",
+        "NUM": "130239",
+        "SENTIDO": "Horário",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45335527419",
+        "LON": "-49,272544023314",
+        "NOME": "Av. Água Verde, 102 - Água Verde",
+        "NUM": "150229",
+        "SENTIDO": "Horário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449009924282",
+        "LON": "-49,261531233788",
+        "NOME": "Rua Chile, 1164 - Rebouças",
+        "NUM": "150052",
+        "SENTIDO": "Horário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

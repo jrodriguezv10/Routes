@@ -1,0 +1,462 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,485829590546",
+        "LON": "-49,213262360112",
+        "NOME": "Rua Augusto Zibarth, 1233 - Uberaba",
+        "NUM": "140509",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48046",
+        "LON": "-49,21148",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 663 - Uberaba",
+        "NUM": "140513",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47167",
+        "LON": "-49,21091",
+        "NOME": "Rua Doutor Petrônio Romério de Souza, 95 - Cajuru",
+        "NUM": "140519",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485728145772",
+        "LON": "-49,213097709498",
+        "NOME": "Rua Augusto Zibarth, 1233 - Uberaba",
+        "NUM": "140508",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500320413206",
+        "LON": "-49,219986559525",
+        "NOME": "Rua José Hauer, 508 - Uberaba",
+        "NUM": "140494",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499268844076",
+        "LON": "-49,219091457672",
+        "NOME": "Rua José Hauer, 278 - Uberaba",
+        "NUM": "140496",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489804701681",
+        "LON": "-49,214533725875",
+        "NOME": "Rua Augusto Zibarth, 765 - Uberaba",
+        "NUM": "140505",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503884897766",
+        "LON": "-49,225351341104",
+        "NOME": "Rua William Booth, 1803 - Boqueirão",
+        "NUM": "140491",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51249",
+        "LON": "-49,22763",
+        "NOME": "Rua Dr. Bley Zorning, 2893 - Boqueirão",
+        "NUM": "140483",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5110396828",
+        "LON": "-49,224010495701",
+        "NOME": "Rua Dr. Bley Zorning, 2503 - Boqueirão",
+        "NUM": "140485",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500212943887",
+        "LON": "-49,220071457672",
+        "NOME": "Rua José Hauer, 508 - Uberaba",
+        "NUM": "140495",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49766",
+        "LON": "-49,21783",
+        "NOME": "Rua José Hauer, 176 - Uberaba",
+        "NUM": "140499",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51672261758",
+        "LON": "-49,230567872352",
+        "NOME": "Terminal Boqueirão - 335 - Centenário / Boqueirão",
+        "NUM": "104307",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508792103726",
+        "LON": "-49,222796588955",
+        "NOME": "Rua William Booth, 2436 - Boqueirão",
+        "NUM": "140486",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47057",
+        "LON": "-49,20957",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 185 - Cajuru",
+        "NUM": "140520",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489853124227",
+        "LON": "-49,214417049782",
+        "NOME": "Rua Augusto Zibarth, 765 - Uberaba",
+        "NUM": "140504",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513479801152",
+        "LON": "-49,229772478504",
+        "NOME": "Rua Doutor Blei Zorning, 3155 - Boqueirão",
+        "NUM": "140480",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504020633271",
+        "LON": "-49,225129271164",
+        "NOME": "Rua William Booth, 1803 - Boqueirão",
+        "NUM": "140490",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50184",
+        "LON": "-49,22257",
+        "NOME": "Rua José Hauer, 819 - Boqueirão",
+        "NUM": "140492",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492176104884",
+        "LON": "-49,21507682209",
+        "NOME": "Rua Augusto Zibarth, 326 - Uberaba",
+        "NUM": "140502",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48057",
+        "LON": "-49,21136",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 633 - Uberaba",
+        "NUM": "140512",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488016251595",
+        "LON": "-49,213993921904",
+        "NOME": "Rua Augusto Zibarth, 949 - Uberaba",
+        "NUM": "140507",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50636795294",
+        "LON": "-49,224135860119",
+        "NOME": "Rua William Booth, 2180 - Boqueirão",
+        "NUM": "140489",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498661842881",
+        "LON": "-49,218746472387",
+        "NOME": "Rua José Hauer, 278 - Uberaba",
+        "NUM": "140497",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47722",
+        "LON": "-49,20979",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 322 - Uberaba",
+        "NUM": "140515",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484012013777",
+        "LON": "-49,213311979668",
+        "NOME": "Rua Cap Leônidas Marquês, 2291 - Uberaba",
+        "NUM": "140510",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497827262899",
+        "LON": "-49,217807813492",
+        "NOME": "Rua José Hauer, 176 - Uberaba",
+        "NUM": "140498",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51672261758",
+        "LON": "-49,230567872352",
+        "NOME": "Terminal Boqueirão - 335 - Centenário / Boqueirão",
+        "NUM": "104307",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508756167273",
+        "LON": "-49,222973790178",
+        "NOME": "Rua William Booth, 2436 - Boqueirão",
+        "NUM": "140487",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49559",
+        "LON": "-49,21624",
+        "NOME": "Rua Augusto Zibarth, 41 - Uberaba",
+        "NUM": "140501",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49245",
+        "LON": "-49,21531",
+        "NOME": "Rua Augusto Zibarth, 326 - Uberaba",
+        "NUM": "140503",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46882615658",
+        "LON": "-49,207926274485",
+        "NOME": "Terminal Centenário - 335 - Centenário/ Boqueirão",
+        "NUM": "105103",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488281802632",
+        "LON": "-49,213943639891",
+        "NOME": "Rua Augusto Zibarth, 949 - Uberaba",
+        "NUM": "140506",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51118",
+        "LON": "-49,22396",
+        "NOME": "Rua Dr. Bley Zorning, 2503 - Boqueirão",
+        "NUM": "140484",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47166",
+        "LON": "-49,21067",
+        "NOME": "Rua Doutor Petrônio Romério de Souza, 95 - Cajuru",
+        "NUM": "140518",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46882615658",
+        "LON": "-49,207926274485",
+        "NOME": "Terminal Centenário - 335 - Centenário/ Boqueirão",
+        "NUM": "105103",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513391586961",
+        "LON": "-49,229912419643",
+        "NOME": "Rua Doutor Blei Zorning, 3155 - Boqueirão",
+        "NUM": "140481",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47504",
+        "LON": "-49,20954",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 49 - Uberaba",
+        "NUM": "140517",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484116127246",
+        "LON": "-49,213400492566",
+        "NOME": "Rua Cap Leônidas Marquês, 2291 - Uberaba",
+        "NUM": "140511",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50162",
+        "LON": "-49,22254",
+        "NOME": "Rua José Hauer, 819  - Boqueirão",
+        "NUM": "140493",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47043",
+        "LON": "-49,20973",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 185 - Cajuru",
+        "NUM": "140521",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51261",
+        "LON": "-49,22753",
+        "NOME": "Rua Dr. Bley Zorning, 2893 - Boqueirão",
+        "NUM": "140482",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506291210398",
+        "LON": "-49,224018542328",
+        "NOME": "Rua William Booth, 2180 - Boqueirão",
+        "NUM": "140488",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49548",
+        "LON": "-49,21603",
+        "NOME": "Rua Augusto Zibarth, 41 - Uberaba",
+        "NUM": "140500",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47721",
+        "LON": "-49,20969",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 322 - Uberaba",
+        "NUM": "140514",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47494",
+        "LON": "-49,20938",
+        "NOME": "Rua Doutor Gabriel Ferreira F, 49 - Uberaba",
+        "NUM": "140516",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    }
+]

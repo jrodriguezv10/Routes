@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,437633686344",
+        "LON": "-49,218702159477",
+        "NOME": "Rua Prof. Benedito Conceição, 587 - Capão da Imbuia",
+        "NUM": "130604",
+        "SENTIDO": "Araguaia",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435182435533",
+        "LON": "-49,206168689589",
+        "NOME": "Rua Araguaia, 1050 - Capão da Imbuia",
+        "NUM": "130205",
+        "SENTIDO": "Araguaia",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438094158688",
+        "LON": "-49,205787737885",
+        "NOME": "Rua Paulo Kissula, 710 - Capão da Imbuia",
+        "NUM": "130204",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435182435533",
+        "LON": "-49,206168689589",
+        "NOME": "Rua Araguaia, 1050 - Capão da Imbuia",
+        "NUM": "130205",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439791898727",
+        "LON": "-49,222021282858",
+        "NOME": "Terminal Capão da Imbuia - 311 - Araguaia",
+        "NUM": "104704",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437622767537",
+        "LON": "-49,207623527613",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 1137 - Capão da Imbuia",
+        "NUM": "130257",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439791898727",
+        "LON": "-49,222021282858",
+        "NOME": "Terminal Capão da Imbuia - 311 - Araguaia",
+        "NUM": "104704",
+        "SENTIDO": "Araguaia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438212585461",
+        "LON": "-49,217415020767",
+        "NOME": "Rua Prof. Benedito Conceição, 770 - Capão da Imbuia",
+        "NUM": "130605",
+        "SENTIDO": "Araguaia",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438532833955",
+        "LON": "-49,211932719089",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 546 - Capão da Imbuia",
+        "NUM": "130187",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43697371231",
+        "LON": "-49,210942418522",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 604 - Capão da Imbuia",
+        "NUM": "130609",
+        "SENTIDO": "Araguaia",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438093899258",
+        "LON": "-49,217453912798",
+        "NOME": "Rua Prof. Benedito Conceição, 770 - Capão da Imbuia",
+        "NUM": "130078",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437634844356",
+        "LON": "-49,207917784061",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 1136 - Capão da Imbuia",
+        "NUM": "130256",
+        "SENTIDO": "Araguaia",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440079511089",
+        "LON": "-49,212978067967",
+        "NOME": "Rua Prof. Benedito Conceição, 1237 - Capão da Imbuia",
+        "NUM": "130151",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43754229316",
+        "LON": "-49,218671156957",
+        "NOME": "Rua Prof. Benedito Conceição, 587 - Capão da Imbuia",
+        "NUM": "130026",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436438710516",
+        "LON": "-49,204719098634",
+        "NOME": "Rua Paulo Kissula, 951 - Capão da Imbuia",
+        "NUM": "130612",
+        "SENTIDO": "Araguaia",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437681702779",
+        "LON": "-49,205366469177",
+        "NOME": "Rua Paulo Kissula, 772 - Capão da Imbuia",
+        "NUM": "130611",
+        "SENTIDO": "Araguaia",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436264566846",
+        "LON": "-49,204848782387",
+        "NOME": "Rua Paulo Kissula, 951 - Capão da Imbuia",
+        "NUM": "130262",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436494704468",
+        "LON": "-49,21044148484",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 866 - Capão da Imbuia",
+        "NUM": "130610",
+        "SENTIDO": "Araguaia",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438523145315",
+        "LON": "-49,211774468757",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 604 - Capão da Imbuia",
+        "NUM": "130608",
+        "SENTIDO": "Araguaia",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436402212031",
+        "LON": "-49,210378512897",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 866 - Capão da Imbuia",
+        "NUM": "130255",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439610690236",
+        "LON": "-49,21424478326",
+        "NOME": "Rua Prof. Benedito Conceição, 1128 - Capão da Imbuia",
+        "NUM": "130606",
+        "SENTIDO": "Araguaia",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440170689306",
+        "LON": "-49,213012710241",
+        "NOME": "Rua Prof. Benedito Conceição, 1237 - Capão da Imbuia",
+        "NUM": "130607",
+        "SENTIDO": "Araguaia",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433713957569",
+        "LON": "-49,204061554041",
+        "NOME": "Rua Edson Zacarias Cordeiro, 100 - Capão da Imbuia",
+        "NUM": "130613",
+        "SENTIDO": "Araguaia",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439526556164",
+        "LON": "-49,21420035687",
+        "NOME": "Rua Prof. Benedito Conceição, 1128 - Capão da Imbuia",
+        "NUM": "130146",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    }
+]

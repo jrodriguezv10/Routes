@@ -1,0 +1,452 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459100084616",
+        "LON": "-49,310071499294",
+        "NOME": "Rua Major França Gomes, 697 - Santa Quitéria",
+        "NUM": "180842",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455639359749",
+        "LON": "-49,299622954077",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4272 - Rebouças",
+        "NUM": "180638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454510788346",
+        "LON": "-49,302656532473",
+        "NOME": "Avenida Iguaçu, 4378 - Rebouças",
+        "NUM": "180645",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465207573167",
+        "LON": "-49,319647039287",
+        "NOME": "Rua Adalberto Gilardi da Silva, 1 - Santa Quitéria",
+        "NUM": "180816",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454671235033",
+        "LON": "-49,297057421154",
+        "NOME": "Avenida Presidente Getúlio Vargas, 3969 - Rebouças",
+        "NUM": "180639",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459031064834",
+        "LON": "-49,310181469864",
+        "NOME": "Rua Major França Gomes, 698 - Santa Quitéria",
+        "NUM": "180964",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453747906833",
+        "LON": "-49,300549657291",
+        "NOME": "Avenida Iguaçu, 4123 - Rebouças",
+        "NUM": "180644",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43497897799",
+        "LON": "-49,272625357919",
+        "NOME": "Praça Rui Barbosa - 760 - Santa Quitéria",
+        "NUM": "102013",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462695112932",
+        "LON": "-49,315454692787",
+        "NOME": "Rua Reinaldo Pazello, 1282 - Santa Quitéria",
+        "NUM": "180799",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460022766325",
+        "LON": "-49,312760413832",
+        "NOME": "Rua Pretextato Taborda Júnior, 500 - Santa Quitéria",
+        "NUM": "180845",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453362226006",
+        "LON": "-49,293697954363",
+        "NOME": "Av. Pres. Getúlio Vargas, 3605 - Água Verde",
+        "NUM": "180640",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463284789034",
+        "LON": "-49,317819060034",
+        "NOME": "Rua Reinaldo Pazello, 1601 - Santa Quitéria",
+        "NUM": "180812",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46010873762",
+        "LON": "-49,312839538998",
+        "NOME": "Rua Pretextato Taborda Júnior, 501 - Santa Quitéria",
+        "NUM": "180963",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457569531378",
+        "LON": "-49,304900200314",
+        "NOME": "Rua Major França Gomes, 174 - Santa Quitéria",
+        "NUM": "180636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465337129935",
+        "LON": "-49,318079234308",
+        "NOME": "Rua Professor Brasílio Ovídio da Costa, 2837 - Portão",
+        "NUM": "180814",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462055789375",
+        "LON": "-49,313614697403",
+        "NOME": "Rua Reinaldo Pazello, 1155 - Santa Quitéria",
+        "NUM": "180749",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458286375191",
+        "LON": "-49,307404042429",
+        "NOME": "Rua Major França Gomes, 433 - Santa Quitéria",
+        "NUM": "180847",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450067365812",
+        "LON": "-49,290571839756",
+        "NOME": "Av. Iguaçu, 3064 - Água Verde",
+        "NUM": "180641",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465448524428",
+        "LON": "-49,317919642872",
+        "NOME": "Rua Professor Brasílio Ovídio da Costa, 2838 - Portão",
+        "NUM": "180815",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463380444638",
+        "LON": "-49,317737252659",
+        "NOME": "Rua Reinaldo Pazello, 1600 - Santa Quitéria",
+        "NUM": "180813",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462132072478",
+        "LON": "-49,313504726833",
+        "NOME": "Rua Reinaldo Pazello, 1156 - Santa Quitéria",
+        "NUM": "180649",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43497897799",
+        "LON": "-49,272625357919",
+        "NOME": "Praça Rui Barbosa - 760 - Santa Quitéria",
+        "NUM": "102013",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462586330549",
+        "LON": "-49,315415800756",
+        "NOME": "Rua Reinaldo Pazello, 1281 - Santa Quitéria",
+        "NUM": "180798",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457069433419",
+        "LON": "-49,307369173712",
+        "NOME": "Rua Curupaitis, 332- Santa Quitéria",
+        "NUM": "180796",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453020743049",
+        "LON": "-49,298570187038",
+        "NOME": "Avenida Iguaçu, 3922 - Rebouças",
+        "NUM": "180643",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451533706681",
+        "LON": "-49,294584424442",
+        "NOME": "Avenida Iguaçu, 3480 - Rebouças",
+        "NUM": "180642",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465207573167",
+        "LON": "-49,319647039287",
+        "NOME": "Rua Adalberto Gilardi da Silva, 1 - Santa Quitéria",
+        "NUM": "180816",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458225831115",
+        "LON": "-49,307495237535",
+        "NOME": "Rua Major França Gomes, 432 - Santa Quitéria",
+        "NUM": "180965",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455564283439",
+        "LON": "-49,305581481403",
+        "NOME": "Rua João Alencar Guimarães, 182 - Santa Quitéria",
+        "NUM": "180646",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456753389811",
+        "LON": "-49,302464754528",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4557 - Rebouças",
+        "NUM": "180637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Santa Quitéria",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    }
+]

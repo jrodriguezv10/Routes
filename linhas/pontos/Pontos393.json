@@ -1,0 +1,942 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428962048761",
+        "LON": "-49,223138422913",
+        "NOME": "Av. Victor Ferreira do Amaral, 1858 - Tarumã",
+        "NUM": "130211",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439714013117",
+        "LON": "-49,281028014889",
+        "NOME": "Rua Benjamin Lins,-228 - Batel",
+        "NUM": "110020",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447319687933",
+        "LON": "-49,205332419643",
+        "NOME": "R. da Trindade, 497 - Cajuru",
+        "NUM": "140238",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427784844752",
+        "LON": "-49,29681682209",
+        "NOME": "Avenida Cândido Hartmann, 1106 - Mercês",
+        "NUM": "190178",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445488201823",
+        "LON": "-49,206174635582",
+        "NOME": "R. da Trindade, 172 - Cajuru",
+        "NUM": "140235",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455877250427",
+        "LON": "-49,202081517513",
+        "NOME": "Rua da Trindade, 1411 - Cajuru",
+        "NUM": "140437",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454081464246",
+        "LON": "-49,202895567949",
+        "NOME": "Rua da Trindade, 1213 - Cajuru",
+        "NUM": "140478",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "43",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427451702698",
+        "LON": "-49,23764515037",
+        "NOME": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+        "NUM": "130200",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439144636631",
+        "LON": "-49,279914985285",
+        "NOME": "Rua Emíliano Perneta, 922- Centro",
+        "NUM": "110019",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438600657133",
+        "LON": "-49,28881635582",
+        "NOME": "R. Teixeira Coelho, 382 - Batel",
+        "NUM": "180040",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442461849926",
+        "LON": "-49,210303108664",
+        "NOME": "Rua Delegado Leopoldo Belczak, 2513 - Cristo Rei",
+        "NUM": "130870",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436722592802",
+        "LON": "-49,214911143752",
+        "NOME": "Rua Aírton da Silva Pereira, 611 - Capão da Imbuia",
+        "NUM": "130863",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "35",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43287069202",
+        "LON": "-49,276313216633",
+        "NOME": "Praça Osório - 393-C. Imbuia/Parque Barigui",
+        "NUM": "103504",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428264409307",
+        "LON": "-49,230169833845",
+        "NOME": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+        "NUM": "130208",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428618074257",
+        "LON": "-49,226473749823",
+        "NOME": "Av. Victor Ferreira do Amaral, 2272 - Tarumã",
+        "NUM": "130029",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429249097155",
+        "LON": "-49,220429391808",
+        "NOME": "Av. Victor Ferreira do Amaral, 1468 - Tarumã",
+        "NUM": "130213",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454102049944",
+        "LON": "-49,202752069767",
+        "NOME": "Rua da Trindade, 1213 - Cajuru",
+        "NUM": "140435",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449823781862",
+        "LON": "-49,204385535057",
+        "NOME": "Rua da Trindade, 689 - Cajuru",
+        "NUM": "140433",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439132653894",
+        "LON": "-49,216060470314",
+        "NOME": "Rua Aírton da Silva Pereira, 310 - Capão da Imbuia",
+        "NUM": "130864",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434478829609",
+        "LON": "-49,279877872414",
+        "NOME": "Avenida Vicente Machado, 249-317 - Centro",
+        "NUM": "110116",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423567917108",
+        "LON": "-49,303157317791",
+        "NOME": "Av. Cândido Hartmann, 1951 - Mercês",
+        "NUM": "190184",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452280807507",
+        "LON": "-49,203609035547",
+        "NOME": "Rua da Trindade, 1044 - Cajuru",
+        "NUM": "140747",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "42",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440998904255",
+        "LON": "-49,213924090834",
+        "NOME": "Rua Delegado Leopoldo Belczak, 2240 - Cristo Rei",
+        "NUM": "130873",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437398806104",
+        "LON": "-49,277986915058",
+        "NOME": "Rua Emíliano Perneta, 724 - Centro",
+        "NUM": "110401",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433102566219",
+        "LON": "-49,215109627218",
+        "NOME": "Rua Profª. Antônia Reginato Viana, 145 - Capão da Imbuia",
+        "NUM": "130861",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447297303227",
+        "LON": "-49,205482186508",
+        "NOME": "R. da Trindade, 494 - Cajuru",
+        "NUM": "140237",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427053073835",
+        "LON": "-49,298659038029",
+        "NOME": "Av. Cândido Hartmann, 1451 - Mercês",
+        "NUM": "190180",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423123352838",
+        "LON": "-49,30586682209",
+        "NOME": "Av. Cândido Hartmann, 2235 - Mercês",
+        "NUM": "190187",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425555685654",
+        "LON": "-49,300407317791",
+        "NOME": "Av. Cândido Hartmann, 1587 - Mercês",
+        "NUM": "190905",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42284313023",
+        "LON": "-49,305001953373",
+        "NOME": "Av. Cândido Hartmann, 2128 - Mercês",
+        "NUM": "190185",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423123352838",
+        "LON": "-49,30586682209",
+        "NOME": "Av. Cândido Hartmann, 2235 - Mercês",
+        "NUM": "190187",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452217838525",
+        "LON": "-49,20349370056",
+        "NOME": "Rua da Trindade, 988 - Cajuru",
+        "NUM": "140434",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430059369312",
+        "LON": "-49,271253229326",
+        "NOME": "Praça Tiradentes, 421 - Centro",
+        "NUM": "101011",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42920186139",
+        "LON": "-49,296769083685",
+        "NOME": "Rua Francisco Rocha, 1926- Bigorrilho",
+        "NUM": "190907",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433112255294",
+        "LON": "-49,215312133999",
+        "NOME": "Rua Profª. Antônia Reginato Viana, 98 - Capão da Imbuia",
+        "NUM": "130860",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431140512382",
+        "LON": "-49,215980004044",
+        "NOME": "Rua Professor Nivaldo Braga, 1969 - Cajuru",
+        "NUM": "130872",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445465431216",
+        "LON": "-49,206043760748",
+        "NOME": "R. da Trindade, 171 - Cajuru",
+        "NUM": "140236",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43459297823",
+        "LON": "-49,290712449074",
+        "NOME": "Praça Alfredo Anderson, 1 - Bigorrilho",
+        "NUM": "180041",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432206677422",
+        "LON": "-49,292185860119",
+        "NOME": "R. Cap. Souza Franco, 661 - Bigorrilho",
+        "NUM": "180042",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430157266985",
+        "LON": "-49,293192186508",
+        "NOME": "Rua Capitão Souza Franco, 53-145 - Batel",
+        "NUM": "190177",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425384904876",
+        "LON": "-49,300397930059",
+        "NOME": "Av. Cândido Hartmann, 1634 - Mercês",
+        "NUM": "190181",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43658573864",
+        "LON": "-49,214707295866",
+        "NOME": "Rua Aírton da Silva Pereira, 612 - Capão da Imbuia",
+        "NUM": "130862",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427080030571",
+        "LON": "-49,257855364418",
+        "NOME": "Rua Marechal Deodoro, 1590 - Centro",
+        "NUM": "110076",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43257223014",
+        "LON": "-49,272639931387",
+        "NOME": "Praça Zacarias - 366 - Itupava / Hospital Militar - 393 - C. Imbuia / Parque Barigui",
+        "NUM": "103502",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427844128035",
+        "LON": "-49,23368218655",
+        "NOME": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+        "NUM": "130869",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429560368269",
+        "LON": "-49,217533947176",
+        "NOME": "Av. Victor Ferreira do Amaral, 1447 - Tarumã",
+        "NUM": "130215",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4342715551",
+        "LON": "-49,213450116568",
+        "NOME": "Rua Hayton da Silva Pereira, 891 - Capão da Imbuia",
+        "NUM": "130224",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426404254378",
+        "LON": "-49,299213790178",
+        "NOME": "Av. Cândido Hartmann, 1420 - Mercês",
+        "NUM": "190179",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455877250427",
+        "LON": "-49,202081517513",
+        "NOME": "Rua da Trindade, 1411 - Cajuru",
+        "NUM": "140437",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43115746854",
+        "LON": "-49,21583918807",
+        "NOME": "Rua Professor Nivaldo Braga, 1914 - Cajuru",
+        "NUM": "130263",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428599687647",
+        "LON": "-49,267047808178",
+        "NOME": "Praça Santos Andrade - 393 - Capão da Imbuia / Parque Barigui",
+        "NUM": "103402",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437100622493",
+        "LON": "-49,292313790178",
+        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
+        "NUM": "180038",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439072100186",
+        "LON": "-49,216174464197",
+        "NOME": "Rua Aírton da Silva Pereira, 309 - Capão da Imbuia",
+        "NUM": "130865",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "36",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429283174166",
+        "LON": "-49,24931141848",
+        "NOME": "SITES - 393 - C. Imbuia / Parque Barigui",
+        "NUM": "130876",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423642703202",
+        "LON": "-49,302706209822",
+        "NOME": "Avenida Cândido Hartmann, 1858 - Mercês",
+        "NUM": "190183",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440892331359",
+        "LON": "-49,213823507996",
+        "NOME": "Rua Delegado Leopoldo Belczak, 2381 - Cristo Rei",
+        "NUM": "130874",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152367425",
+        "LON": "-49,249351651615",
+        "NOME": "SITES - 393 - C. Imbuia / Parque Barigui",
+        "NUM": "130875",
+        "SENTIDO": "Parque Barigui",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435484055553",
+        "LON": "-49,28240585441",
+        "NOME": "Avenida Vicente Machado, 589 - Centro",
+        "NUM": "110115",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430755003707",
+        "LON": "-49,295877667494",
+        "NOME": "R. Francisco Rocha, 1711 - Bigorrilho",
+        "NUM": "190174",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433904877339",
+        "LON": "-49,29412046627",
+        "NOME": "R. Francisco Rocha, 1362 - Bigorrilho",
+        "NUM": "180037",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449925502992",
+        "LON": "-49,204488800104",
+        "NOME": "Rua da Trindade, 734 - Cajuru",
+        "NUM": "140746",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "41",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442610807801",
+        "LON": "-49,210276286573",
+        "NOME": "Rua Delegado Leopoldo Belczak, 2512 - Cristo Rei",
+        "NUM": "130871",
+        "SENTIDO": "Capão da Imbuia",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    }
+]

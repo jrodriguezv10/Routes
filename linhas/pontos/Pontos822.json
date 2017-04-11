@@ -1,0 +1,282 @@
+[
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441708406534",
+        "LON": "-49,346497404929",
+        "NOME": "Terminal Campo Comprido - 822 - Jd.Gabineto",
+        "NUM": "104607",
+        "SENTIDO": "Gabineto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437816871195",
+        "LON": "-49,347698426342",
+        "NOME": "Rua Prof. João Falarz, 989 - Orleans",
+        "NUM": "190298",
+        "SENTIDO": "Gabineto",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437811723797",
+        "LON": "-49,363117926607",
+        "NOME": "Rua Jorge Adir Nepomoceno, 281 - Cidade Industrial",
+        "NUM": "190355",
+        "SENTIDO": "Gabineto",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441708406534",
+        "LON": "-49,346497404929",
+        "NOME": "Terminal Campo Comprido - 822 - Jd.Gabineto",
+        "NUM": "104607",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435506094865",
+        "LON": "-49,349913930988",
+        "NOME": "Rua Prof. João Falarz, 650 - Orleans",
+        "NUM": "190297",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436302699767",
+        "LON": "-49,362220727692",
+        "NOME": "Rua Padre Estanislau Piasecki, 985 - Cidade Industrial",
+        "NUM": "190354",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440065535881",
+        "LON": "-49,355602376947",
+        "NOME": "Rua Padre João Rzemelka, 58 - Cidade Industrial",
+        "NUM": "190730",
+        "SENTIDO": "Gabineto",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440179375889",
+        "LON": "-49,355607741365",
+        "NOME": "Rua Padre João Rzemelka, 57 - Cidade Industrial",
+        "NUM": "190348",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437890444435",
+        "LON": "-49,361375831852",
+        "NOME": "Rua Padre José Lopacinski, 1225 - Cidade Industrial",
+        "NUM": "190352",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437863598831",
+        "LON": "-49,359388947487",
+        "NOME": "Rua Padre José Lopacinski, 959 - Cidade Industrial",
+        "NUM": "190351",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437782657701",
+        "LON": "-49,361212217102",
+        "NOME": "Rua Padre José Lopacinski, 1226 - Cidade Industrial",
+        "NUM": "190734",
+        "SENTIDO": "Gabineto",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43747261892",
+        "LON": "-49,363209121713",
+        "NOME": "Rua Padre Estanislau Piasecki, 985 - Cidade Industrial",
+        "NUM": "190740",
+        "SENTIDO": "Gabineto",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438238328765",
+        "LON": "-49,347503966189",
+        "NOME": "Rua Prof. João Falarz, 1022 - Orleans",
+        "NUM": "190299",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437811723797",
+        "LON": "-49,363117926607",
+        "NOME": "Rua Jorge Adir Nepomoceno, 281 - Cidade Industrial",
+        "NUM": "190355",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438129028209",
+        "LON": "-49,358106219063",
+        "NOME": "Rua Padre João Kominek, 377 - Cidade Industrial",
+        "NUM": "190732",
+        "SENTIDO": "Gabineto",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437771757914",
+        "LON": "-49,359150939474",
+        "NOME": "Rua Padre José Lopacinski, 960 - Cidade Industrial",
+        "NUM": "190733",
+        "SENTIDO": "Gabineto",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439862076876",
+        "LON": "-49,358163886556",
+        "NOME": "Rua Padre João Kominek, 600 - Cidade Industrial",
+        "NUM": "190349",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435073727705",
+        "LON": "-49,350422209597",
+        "NOME": "Rua Prof. João Falarz, 679 - Orleans",
+        "NUM": "190296",
+        "SENTIDO": "Gabineto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435178791578",
+        "LON": "-49,351576381216",
+        "NOME": "Rua Padre Francisco Chilaszek, 82 - Cidade Industrial",
+        "NUM": "190726",
+        "SENTIDO": "Gabineto",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435284158416",
+        "LON": "-49,353059642801",
+        "NOME": "Rua Padre Francisco Chilaszek, 184 - Cidade Industrial",
+        "NUM": "190727",
+        "SENTIDO": "Gabineto",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436301488665",
+        "LON": "-49,355200045595",
+        "NOME": "Rua Padre Paulo Warkocz, 917 - Cidade Industrial",
+        "NUM": "190728",
+        "SENTIDO": "Gabineto",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436196122716",
+        "LON": "-49,361826442966",
+        "NOME": "Rua Padre Estanislau Piasecki, 920 - Cidade Industrial",
+        "NUM": "190353",
+        "SENTIDO": "Gabineto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43539558072",
+        "LON": "-49,353158884535",
+        "NOME": "Rua Padre Francisco Chilaszek, 183 - Cidade Industrial",
+        "NUM": "190345",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436303910869",
+        "LON": "-49,355079346189",
+        "NOME": "Rua Padre Paulo Warkocz, 918 - Cidade Industrial",
+        "NUM": "190346",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437921932676",
+        "LON": "-49,355154448042",
+        "NOME": "Rua Padre Paulo Warkocz, 741 - Cidade Industrial",
+        "NUM": "190729",
+        "SENTIDO": "Gabineto",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439874187541",
+        "LON": "-49,35803379942",
+        "NOME": "Rua Padre João Kominek, 599 - Cidade Industrial",
+        "NUM": "190731",
+        "SENTIDO": "Gabineto",
+        "SEQ": "9",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437924354848",
+        "LON": "-49,355044477472",
+        "NOME": "Rua Padre Paulo Warkocz, 742 - Cidade Industrial",
+        "NUM": "190347",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438158094221",
+        "LON": "-49,358206801901",
+        "NOME": "Rua Padre João Kominek, 378 - Cidade Industrial",
+        "NUM": "190350",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

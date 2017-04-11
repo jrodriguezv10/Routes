@@ -1,0 +1,632 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Mondelez",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53978",
+        "LON": "-49,28558",
+        "NOME": "Rua Londrina, 288 - Pinheirinho",
+        "NUM": "160250",
+        "SENTIDO": "Mondelez",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516554386786",
+        "LON": "-49,230965976687",
+        "NOME": "Terminal Boqueirão - 545 - Trabalhador / 540 - Boqueirão / Mondelez",
+        "NUM": "104319",
+        "SENTIDO": "Mondelez",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Mondelez",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539035343666",
+        "LON": "-49,281649038029",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 2 - Sítio Cercado",
+        "NUM": "160050",
+        "SENTIDO": "Mondelez",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542640844107",
+        "LON": "-49,315161825948",
+        "NOME": "Rua Emílio Romani, 2544 - Cidade Industrial",
+        "NUM": "170347",
+        "SENTIDO": "Mondelez",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530533122806",
+        "LON": "-49,25601524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 522 - Xaxim",
+        "NUM": "150129",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5408",
+        "LON": "-49,29182",
+        "NOME": "Rua Londrina, 963 - Pinheirinho",
+        "NUM": "160041",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539100890603",
+        "LON": "-49,281536588955",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 1 - Sítio Cercado",
+        "NUM": "160049",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536637729184",
+        "LON": "-49,318184675507",
+        "NOME": "Rua Ciro Corrêa Pereira, 1855 - Cidade Industrial",
+        "NUM": "170164",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542640844107",
+        "LON": "-49,315161825948",
+        "NOME": "Rua Emílio Romani, 2544 - Cidade Industrial",
+        "NUM": "170347",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530332485189",
+        "LON": "-49,25592524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 533 - Xaxim",
+        "NUM": "150130",
+        "SENTIDO": "Mondelez",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533043189797",
+        "LON": "-49,263824489584",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2156 - Sítio Cercado",
+        "NUM": "160021",
+        "SENTIDO": "Mondelez",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538361597035",
+        "LON": "-49,27913892383",
+        "NOME": "Rua Pedro Claudino da Rocha, 3 - Sítio Cercado",
+        "NUM": "160052",
+        "SENTIDO": "Mondelez",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527700446571",
+        "LON": "-49,252658892031",
+        "NOME": "Rua Isaac Ferreira da Cruz, 73 - Xaxim",
+        "NUM": "150127",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541109931545",
+        "LON": "-49,293972682209",
+        "NOME": "Rua Londrina, 1155 - Pinheirinho",
+        "NUM": "160039",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53987732841",
+        "LON": "-49,285373061342",
+        "NOME": "Rua Londrina, 289 - Pinheirinho",
+        "NUM": "160251",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540784641919",
+        "LON": "-49,318527998261",
+        "NOME": "Rua Emílio Romani, 2970 - Cidade Industrial",
+        "NUM": "170345",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Mondelez",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Mondelez",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Mondelez",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54031",
+        "LON": "-49,28925",
+        "NOME": "Rua Londrina, 678 - Pinheirinho",
+        "NUM": "160044",
+        "SENTIDO": "Mondelez",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53951",
+        "LON": "-49,2835",
+        "NOME": "Rua Londrina, 97 - Pinheirinho",
+        "NUM": "160249",
+        "SENTIDO": "Mondelez",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Mondelez",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686187729",
+        "LON": "-49,315077513456",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12803 - Cidade Industrial",
+        "NUM": "171010",
+        "SENTIDO": "Mondelez",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533253124096",
+        "LON": "-49,263633061342",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2155 -Sítio Cercado",
+        "NUM": "160022",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536796554977",
+        "LON": "-49,274286326389",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3040 - Sítio Cercado",
+        "NUM": "160026",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54044",
+        "LON": "-49,28929",
+        "NOME": "Rua Londrina, 677 - Pinheirinho",
+        "NUM": "160043",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530401300705",
+        "LON": "-49,298724414057",
+        "NOME": "Rua Nicola Pellanda, 40 - Pinheirinho",
+        "NUM": "160439",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527907962279",
+        "LON": "-49,253038163195",
+        "NOME": "Rua Isaac Ferreira da Cruz, 130 - Xaxim",
+        "NUM": "150128",
+        "SENTIDO": "Mondelez",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536498352218",
+        "LON": "-49,273899504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3018 - Sítio Cercado",
+        "NUM": "160025",
+        "SENTIDO": "Mondelez",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53756114281",
+        "LON": "-49,277001953373",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4021 - Sítio Cercado",
+        "NUM": "160027",
+        "SENTIDO": "Mondelez",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53957095572",
+        "LON": "-49,320118548207",
+        "NOME": "Rua Ciro Corrêa Pereira, 2049 - Cidade Industrial",
+        "NUM": "170165",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54099",
+        "LON": "-49,29395",
+        "NOME": "Rua Londrina, 1154 - Pinheirinho",
+        "NUM": "160040",
+        "SENTIDO": "Mondelez",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54067",
+        "LON": "-49,29191",
+        "NOME": "Rua Londrina, 964 - Pinheirinho",
+        "NUM": "160042",
+        "SENTIDO": "Mondelez",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Mondelez",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540803047464",
+        "LON": "-49,30885302384",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 164 -Cidade Industrial",
+        "NUM": "170491",
+        "SENTIDO": "Mondelez",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534329349707",
+        "LON": "-49,268046279203",
+        "NOME": "Terminal Sítio Cercado - 540 - Boqueirão / Mondelez",
+        "NUM": "106107",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537682100813",
+        "LON": "-49,276909766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4022 -Sítio Cercado",
+        "NUM": "160028",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542013091078",
+        "LON": "-49,310121708703",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "160071",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534325908086",
+        "LON": "-49,26782333317",
+        "NOME": "Terminal Sítio Cercado - 545 - Trabalhador - 540 - Boqueirão / Kraft",
+        "NUM": "106114",
+        "SENTIDO": "Mondelez",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Mondelez",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Mondelez",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53958",
+        "LON": "-49,28338",
+        "NOME": "Rua Londrina, 98 - Pinheirinho",
+        "NUM": "160047",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Mondelez",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Mondelez",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531175224574",
+        "LON": "-49,258401224537",
+        "NOME": "Rua Isaac Ferreira da Cruz, 726 - Sítio Cercado",
+        "NUM": "150132",
+        "SENTIDO": "Mondelez",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Mondelez",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536919935037",
+        "LON": "-49,313642108035",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 926 -Cidade Industrial",
+        "NUM": "170492",
+        "SENTIDO": "Mondelez",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531250956497",
+        "LON": "-49,25813842576",
+        "NOME": "Rua Isaac Ferreira da Cruz, 725 - Sítio Cercado",
+        "NUM": "150131",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538441461916",
+        "LON": "-49,278971224537",
+        "NOME": "Rua Pedro Claudino da Rocha, 1 - Sítio Cercado",
+        "NUM": "160051",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516554386786",
+        "LON": "-49,230965976687",
+        "NOME": "Terminal Boqueirão - 545 - Trabalhador / 540 - Boqueirão / Mondelez",
+        "NUM": "104319",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,467446676849",
+        "LON": "-49,198470669002",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140376",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474933691362",
+        "LON": "-49,191667535539",
+        "NOME": "Rua Antônio Moreira Lopes, 1052 - Cajuru",
+        "NUM": "140384",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46962",
+        "LON": "-49,20589",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 570 - Cajuru",
+        "NUM": "140228",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467464269473",
+        "LON": "-49,194707616123",
+        "NOME": "Rua João Tobias de Paiva Neto, 492 - Cajuru",
+        "NUM": "140393",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47107236615",
+        "LON": "-49,19460569218",
+        "NOME": "Rua João Tobias de Paiva Neto, 894 - Cajuru",
+        "NUM": "140391",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4796642994",
+        "LON": "-49,194003433443",
+        "NOME": "Rua Antônio Moreira Lopes, 1545 - Cajuru",
+        "NUM": "140386",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46853",
+        "LON": "-49,20197",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140224",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468698161648",
+        "LON": "-49,201938046627",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140225",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469461524619",
+        "LON": "-49,205732565641",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 569 - Cajuru",
+        "NUM": "140227",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467723882337",
+        "LON": "-49,19849188643",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140375",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46914",
+        "LON": "-49,20388",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140647",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469114932144",
+        "LON": "-49,207962944775",
+        "NOME": "Terminal Centenário - 332 - Acrópole",
+        "NUM": "105108",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476962290382",
+        "LON": "-49,192518324799",
+        "NOME": "Rua Antônio Moreira Lopes, 1301 - Cajuru",
+        "NUM": "140385",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466542081746",
+        "LON": "-49,195724046974",
+        "NOME": "Rua Benedito Mário da Silva, 153 - Cajuru",
+        "NUM": "140377",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472938199711",
+        "LON": "-49,194553389105",
+        "NOME": "Rua João Tobias de Paiva Neto, 1122 - Cajuru",
+        "NUM": "140390",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468616934942",
+        "LON": "-49,194655313047",
+        "NOME": "Rua João Tobias de Paiva Neto, 588 - Cajuru",
+        "NUM": "140392",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469009161939",
+        "LON": "-49,203829567134",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140226",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468156565941",
+        "LON": "-49,191910555226",
+        "NOME": "Rua Antônio Moreira Lopes, 275 - Cajuru",
+        "NUM": "140381",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470261704791",
+        "LON": "-49,191834970268",
+        "NOME": "Rua Antônio Moreira Lopes, 518 - Cajuru",
+        "NUM": "140382",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466740567347",
+        "LON": "-49,195974071654",
+        "NOME": "Rua Benedito Mário da Silva, 153 - Cajuru",
+        "NUM": "140378",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469114932144",
+        "LON": "-49,207962944775",
+        "NOME": "Terminal Centenário - 332 - Acrópole",
+        "NUM": "105108",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472660648912",
+        "LON": "-49,191752595373",
+        "NOME": "Rua Antônio Moreira Lopes, 805 - Cajuru",
+        "NUM": "140383",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477444466322",
+        "LON": "-49,196019330781",
+        "NOME": "Rua João Tobias de Paiva Neto, 1663 - Cajuru",
+        "NUM": "140932",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474955265232",
+        "LON": "-49,194542660269",
+        "NOME": "Rua João Tobias de Paiva Neto, 1368 - Cajuru",
+        "NUM": "140389",
+        "SENTIDO": "Acrópole (Circular)",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "GRUPO": "14567",
+        "LAT": "-25,419830405313",
+        "LON": "-49,268907934775",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109022",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41920",
+        "LAT": "-25,429397071406",
+        "LON": "-49,272323430723",
+        "NOME": "Praça Tiradentes - 210 - CIC / CABRAL",
+        "NUM": "109051",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406060351332",
+        "LON": "-49,252577007956",
+        "NOME": "Terminal Cabral - 210- CIC/Cabral- 204 -Santa Cândida/Pinheirinho",
+        "NUM": "109085",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41920",
+        "LAT": "-25,429397071406",
+        "LON": "-49,272323430723",
+        "NOME": "Praça Tiradentes - 210 - CIC / CABRAL",
+        "NUM": "109051",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406060351332",
+        "LON": "-49,252577007956",
+        "NOME": "Terminal Cabral - 210- CIC/Cabral- 204 -Santa Cândida/Pinheirinho",
+        "NUM": "109085",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    }
+]

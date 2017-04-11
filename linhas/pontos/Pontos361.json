@@ -1,0 +1,602 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397915840531",
+        "LON": "-49,217040420717",
+        "NOME": "Av. Luísa Gulin, 82 - Bacacheri",
+        "NUM": "130905",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411493201281",
+        "LON": "-49,224880517668",
+        "NOME": "Rua Fagundes Varela, 1780 - Jardim Social",
+        "NUM": "130282",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192715625",
+        "LON": "-49,228938699907",
+        "NOME": "Rua Fagundes Varela, 1300 - Jardim Social",
+        "NUM": "130278",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41253953905",
+        "LON": "-49,239091873169",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 234 - Jardim Social",
+        "NUM": "130632",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428513608854",
+        "LON": "-49,26684501881",
+        "NOME": "Praça Santos Andrade - 360 - Novena - 361 - Augusto Stresser",
+        "NUM": "103404",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414106675422",
+        "LON": "-49,231597930059",
+        "NOME": "Rua Fagundes Varela, 991 - Jardim Social",
+        "NUM": "130068",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415926666705",
+        "LON": "-49,256963760799",
+        "NOME": "Rua Machado de Assis, 193 - Juveve",
+        "NUM": "130300",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420438701163",
+        "LON": "-49,260594130701",
+        "NOME": "Rua Amâncio Môro, 87 - Alto da Glória",
+        "NUM": "110422",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412486240029",
+        "LON": "-49,239170998335",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 235 - Jardim Social",
+        "NUM": "130704",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411465074701",
+        "LON": "-49,237972050905",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 423 - Jardim Social",
+        "NUM": "130703",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41708345942",
+        "LON": "-49,256172509141",
+        "NOME": "Rua Augusto Stresser, 517 - Juvevê",
+        "NUM": "130238",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398718214541",
+        "LON": "-49,219049387732",
+        "NOME": "Rua Francisco M. Albizu, 1157 - Bacacheri",
+        "NUM": "130036",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412354469206",
+        "LON": "-49,226967276281",
+        "NOME": "Rua Fagundes Varela, 1522 - Jardim Social",
+        "NUM": "130280",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397700020832",
+        "LON": "-49,217069270587",
+        "NOME": "Av. Luísa Gulin, 82 - Bacacheri",
+        "NUM": "130034",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428513608854",
+        "LON": "-49,26684501881",
+        "NOME": "Praça Santos Andrade - 360 - Novena - 361 - Augusto Stresser",
+        "NUM": "103404",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422221665277",
+        "LON": "-49,262660772747",
+        "NOME": "Rua Agostinho Leão Júnior, 177 - Centro",
+        "NUM": "110046",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416976865373",
+        "LON": "-49,252921671814",
+        "NOME": "Rua Augusto Stresser, 1161 - Alto da Glória",
+        "NUM": "130301",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411192990457",
+        "LON": "-49,232854635582",
+        "NOME": "Travessa Lange de Morretes, 104 - Jardim Social",
+        "NUM": "130067",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418883431041",
+        "LON": "-49,25941261763",
+        "NOME": "Rua Barão de Guaraúna, 84 - Alto da Glória",
+        "NUM": "110415",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417446847512",
+        "LON": "-49,246457548088",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130118",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399548417446",
+        "LON": "-49,220910519361",
+        "NOME": "Rua Ver. Antônio Domakoski, 825 - Bacacheri",
+        "NUM": "130638",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42089897975",
+        "LON": "-49,260914654678",
+        "NOME": "Rua Amâncio Môro, 66 - Alto da Glória",
+        "NUM": "110047",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408643803129",
+        "LON": "-49,221311509609",
+        "NOME": "Rua Amadeu Assad Yassim, 2 - Bacacheri",
+        "NUM": "130635",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398607598172",
+        "LON": "-49,21919",
+        "NOME": "Rua Francisco M. Albizu, 1157 - Bacacheri",
+        "NUM": "130037",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409082105456",
+        "LON": "-49,222138787003",
+        "NOME": "Rua Mercedes Seiler Rocha, 423 - Bacacheri",
+        "NUM": "130639",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413059468751",
+        "LON": "-49,229029895014",
+        "NOME": "Rua Fagundes Varela, 1295 - Jardim Social",
+        "NUM": "130279",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415123301953",
+        "LON": "-49,241599738598",
+        "NOME": "Av. Nossa Sra. da Luz - Jardim Social",
+        "NUM": "130932",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405030201758",
+        "LON": "-49,221194833517",
+        "NOME": "Rua Ver. Antônio Domakoski, 15 - Bacacheri",
+        "NUM": "130499",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41390955806",
+        "LON": "-49,240741431713",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 2 - Jardim Social",
+        "NUM": "130631",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411420520162",
+        "LON": "-49,225115210957",
+        "NOME": "Rua Fagundes Varela, 1775 - Jardim Social",
+        "NUM": "130283",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417286956887",
+        "LON": "-49,249937714285",
+        "NOME": "Rua Augusto Stresser, 893 - Alto da Glória",
+        "NUM": "130106",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410738353962",
+        "LON": "-49,235409943447",
+        "NOME": "Rua Cel. Temistocles de Souza Brasil, 114-280 - Jardim Social",
+        "NUM": "130069",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415311055655",
+        "LON": "-49,241387844086",
+        "NOME": "Av. Nossa Sra. da Luz - Jardim Social",
+        "NUM": "130931",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411501415252",
+        "LON": "-49,237852692604",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 416 - Jardim Social",
+        "NUM": "130633",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417646710495",
+        "LON": "-49,244026125616",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130120",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410559245568",
+        "LON": "-49,223061979956",
+        "NOME": "Rua Fagundes Varela, 1883 - Jardim Social",
+        "NUM": "130284",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409869713697",
+        "LON": "-49,237758815289",
+        "NOME": "Rua Paraguai, 65 - Bacacheri",
+        "NUM": "130702",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425569496752",
+        "LON": "-49,263081879562",
+        "NOME": "Rua Doutor Faivre, 213-297 - Centro",
+        "NUM": "110045",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396226098222",
+        "LON": "-49,216149387732",
+        "NOME": "Av. Luísa Gulin, 268 - Bacacheri",
+        "NUM": "130033",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404995070674",
+        "LON": "-49,220990985632",
+        "NOME": "Rua Vereador Antônio Domakoski, 2 - Bacacheri",
+        "NUM": "130636",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396226098222",
+        "LON": "-49,216149387732",
+        "NOME": "Av. Luísa Gulin, 268 - Bacacheri",
+        "NUM": "130033",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410531746735",
+        "LON": "-49,23596594841",
+        "NOME": "Rua México, 1455 - Bacacheri",
+        "NUM": "130650",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412326608314",
+        "LON": "-49,227287800259",
+        "NOME": "Rua Fagundes Varela, 1529 - Jardim Social",
+        "NUM": "130281",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417147658063",
+        "LON": "-49,258817167229",
+        "NOME": "Rua Barão de Guaraúna, 331 - Alto da Glória",
+        "NUM": "110189",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413796904565",
+        "LON": "-49,240729361773",
+        "NOME": "Rua Cel. Romão Rodrigues de Oliveira Branco, 35 - Jardim Social",
+        "NUM": "130705",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424159639838",
+        "LON": "-49,263875813431",
+        "NOME": "Rua Doutor Faivre, 75 - Centro",
+        "NUM": "110188",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410668268008",
+        "LON": "-49,222931892818",
+        "NOME": "Rua Fagundes Varela, 1882 - Jardim Social",
+        "NUM": "130661",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399525399484",
+        "LON": "-49,220784455538",
+        "NOME": "Rua Ver. Antônio Domakoski, 800 - Bacacheri",
+        "NUM": "130637",
+        "SENTIDO": "Augusto Stresser",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418927037019",
+        "LON": "-49,259565503544",
+        "NOME": "Rua Barão de Guaraúna, 91 - Alto da Glória",
+        "NUM": "110416",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417823558677",
+        "LON": "-49,241844148582",
+        "NOME": "R. Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130123",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41716",
+        "LON": "-49,25002",
+        "NOME": "Rua Augusto Stresser, 894 - Alto da Glória",
+        "NUM": "130105",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422142934402",
+        "LON": "-49,261027307457",
+        "NOME": "Rua Ubaldino do Amaral, 106 - Alto da Glória",
+        "NUM": "110041",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424564188097",
+        "LON": "-49,259939671701",
+        "NOME": "Rua Ubaldino do Amaral, 410 - Alto da Glória",
+        "NUM": "110042",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416890336817",
+        "LON": "-49,252919504299",
+        "NOME": "Rua Augusto Stresser, 908 - Juvevê",
+        "NUM": "130234",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    }
+]

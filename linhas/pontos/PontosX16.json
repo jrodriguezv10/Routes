@@ -1,0 +1,62 @@
+[
+    {
+        "GRUPO": "26033",
+        "LAT": "-25,453395779718",
+        "LON": "-49,252650888325",
+        "NOME": "Estação Tubo PUC",
+        "NUM": "109059",
+        "SENTIDO": "PUC",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435397800008",
+        "LON": "-49,260840039859",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109060",
+        "SENTIDO": "PUC",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435397800008",
+        "LON": "-49,260840039859",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109060",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26033",
+        "LAT": "-25,453395779718",
+        "LON": "-49,252650888325",
+        "NOME": "Estação Tubo PUC",
+        "NUM": "109059",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448149039186",
+        "LON": "-49,257986359674",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109040",
+        "SENTIDO": "Rodoferroviária",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "PUC",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    }
+]

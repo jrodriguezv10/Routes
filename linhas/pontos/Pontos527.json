@@ -1,0 +1,102 @@
+[
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534671959625",
+        "LON": "-49,268448641798",
+        "NOME": "Terminal Sítio Cercado - 508 - Sítio Cercado (Anti-horário)",
+        "NUM": "109111",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512230172785",
+        "LON": "-49,295757476973",
+        "NOME": "Terminal Pinheirinho - 508 - Sítio Cercado (Anti - Horário)",
+        "NUM": "109098",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41908",
+        "LAT": "-25,535847354429",
+        "LON": "-49,284780332137",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109075",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512230172785",
+        "LON": "-49,295757476973",
+        "NOME": "Terminal Pinheirinho - 508 - Sítio Cercado (Anti - Horário)",
+        "NUM": "109098",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41906",
+        "LAT": "-25,524983707283",
+        "LON": "-49,247530578661",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109005",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    }
+]

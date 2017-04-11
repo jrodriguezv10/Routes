@@ -1,0 +1,522 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413097028411",
+        "LON": "-49,315952242559",
+        "NOME": "Av. Manoel Ribas, 4232 - Cascatinha",
+        "NUM": "190691",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41684247426",
+        "LON": "-49,29457445627",
+        "NOME": "Av. Manoel Ribas, 1496 - Mercês",
+        "NUM": "190494",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414683867486",
+        "LON": "-49,308120192236",
+        "NOME": "Av. Manoel Ribas, 3401 - Cascatinha",
+        "NUM": "190608",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414966104615",
+        "LON": "-49,303415597624",
+        "NOME": "Av. Manoel Ribas, 2262 - Mercês",
+        "NUM": "190551",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42127816551",
+        "LON": "-49,292316036279",
+        "NOME": "Av. Manoel Ribas, 1140 - Mercês",
+        "NUM": "190447",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426307121504",
+        "LON": "-49,274682433552",
+        "NOME": "Rua Treze de Maio, 879 - Centro",
+        "NUM": "110216",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403800881479",
+        "LON": "-49,328196526712",
+        "NOME": "Rua Marcos Mocelin, 44 - Santa Felicidade",
+        "NUM": "190543",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410784566756",
+        "LON": "-49,320365817493",
+        "NOME": "Av. Manoel Ribas, 4772 - Santa Felicidade",
+        "NUM": "190563",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41851284247",
+        "LON": "-49,293422447499",
+        "NOME": "Av. Manoel Ribas, 1414 - Mercês",
+        "NUM": "190449",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415972759243",
+        "LON": "-49,296807395275",
+        "NOME": "Av. Manoel Ribas, 1821 - Mercês",
+        "NUM": "190496",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401871051602",
+        "LON": "-49,328622997946",
+        "NOME": "Rua Via Veneto, 1104 - Santa Felicidade",
+        "NUM": "190325",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412847493038",
+        "LON": "-49,317678244061",
+        "NOME": "Av. Manoel Ribas, 4353 - Cascatinha",
+        "NUM": "190689",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414255059596",
+        "LON": "-49,308200658507",
+        "NOME": "Av. Manoel Ribas, 3400 - Cascatinha",
+        "NUM": "190552",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415488180996",
+        "LON": "-49,300555021709",
+        "NOME": "Av. Manoel Ribas, 2262 - Mercês",
+        "NUM": "190498",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426928549988",
+        "LON": "-49,271383145224",
+        "NOME": "Rua Treze de Maio, 503 - São Francisco",
+        "NUM": "110187",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,401112076888",
+        "LON": "-49,329952914646",
+        "NOME": "Terminal Santa Felicidade - 901 - Santa Felicidade",
+        "NUM": "106007",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403662778509",
+        "LON": "-49,328230054325",
+        "NOME": "Rua Marcos Mocelin, 43 - Santa Felicidade",
+        "NUM": "190823",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408283085028",
+        "LON": "-49,324291230387",
+        "NOME": "Av. Manoel Ribas, 5287 - Santa Felicidade",
+        "NUM": "170697",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415665086969",
+        "LON": "-49,300608085449",
+        "NOME": "Av. Manoel Ribas, 2261 - Mercês",
+        "NUM": "190499",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419102734923",
+        "LON": "-49,293355392273",
+        "NOME": "Av. Manoel Ribas, 1363 - Mercês",
+        "NUM": "190448",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,401112076888",
+        "LON": "-49,329952914646",
+        "NOME": "Terminal Santa Felicidade - 901 - Santa Felicidade",
+        "NUM": "106007",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413783853688",
+        "LON": "-49,311450154728",
+        "NOME": "Av. Manoel Ribas, 3762 - Cascatinha",
+        "NUM": "190695",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421023802045",
+        "LON": "-49,29224763995",
+        "NOME": "Av. Manoel Ribas, 1141 - Mercês",
+        "NUM": "190446",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428421853753",
+        "LON": "-49,273006265878",
+        "NOME": "Nestor de Castro - 901 - Santa Felicidade",
+        "NUM": "101121",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413640916827",
+        "LON": "-49,313042045778",
+        "NOME": "Av. Manoel Ribas, 3914 - Cascatinha",
+        "NUM": "190693",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416982984733",
+        "LON": "-49,294747458751",
+        "NOME": "Av. Manoel Ribas, 1495 - Mercês",
+        "NUM": "190495",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428421853753",
+        "LON": "-49,273006265878",
+        "NOME": "Nestor de Castro - 901 - Santa Felicidade",
+        "NUM": "101121",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408625906173",
+        "LON": "-49,323867441362",
+        "NOME": "Av. Manoel Ribas, 5268 - Santa Felicidade",
+        "NUM": "190696",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413418031893",
+        "LON": "-49,313192249483",
+        "NOME": "Av. Manoel Ribas, 3913 - Cascatinha",
+        "NUM": "190692",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413224218572",
+        "LON": "-49,315060408062",
+        "NOME": "Av. Manoel Ribas, 4095 - Cascatinha",
+        "NUM": "190690",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414494257108",
+        "LON": "-49,304343641943",
+        "NOME": "Av. Manoel Ribas, 2551 - Mercês",
+        "NUM": "190550",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411185525831",
+        "LON": "-49,320215613789",
+        "NOME": "Av. Manoel Ribas, 4627 - Santa Felicidade",
+        "NUM": "190562",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423999603302",
+        "LON": "-49,27985355409",
+        "NOME": "Av. Manoel Ribas, 66 - São Francisco",
+        "NUM": "110150",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40456165641",
+        "LON": "-49,327617169565",
+        "NOME": "Av. Manoel Ribas, 5466 - Santa Felicidade",
+        "NUM": "190699",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415751089928",
+        "LON": "-49,297035383041",
+        "NOME": "Av. Manoel Ribas, 1822 - Mercês",
+        "NUM": "190497",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405013515683",
+        "LON": "-49,32716924066",
+        "NOME": "Av. Manoel Ribas, 5370 - Santa Felicidade",
+        "NUM": "190720",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412837802334",
+        "LON": "-49,318179817146",
+        "NOME": "Av. Manoel Ribas, 4354 - Cascatinha",
+        "NUM": "190564",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406814605103",
+        "LON": "-49,325461685658",
+        "NOME": "Av. Manoel Ribas, 5500 - Santa Felicidade",
+        "NUM": "190698",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "23",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402222371082",
+        "LON": "-49,327748597807",
+        "NOME": "Rua Via Veneto, 1081 - Santa Felicidade",
+        "NUM": "190326",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414075783529",
+        "LON": "-49,310983450359",
+        "NOME": "Av. Manoel Ribas, 3651 - Cascatinha",
+        "NUM": "190694",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    }
+]

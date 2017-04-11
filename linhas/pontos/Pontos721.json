@@ -1,0 +1,402 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,504861458582",
+        "LON": "-49,356103286508",
+        "NOME": "Rua Águas do Passaúna 01 - São Miguel",
+        "NUM": "180864",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492351637844",
+        "LON": "-49,347339452452",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 229 - Cidade Industrial",
+        "NUM": "180413",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492254794745",
+        "LON": "-49,347360910124",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 230 - Cidade Industrial",
+        "NUM": "180411",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500684204249",
+        "LON": "-49,351664100575",
+        "NOME": "Rua R, 932 - Cidade Industrial",
+        "NUM": "180871",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507818634646",
+        "LON": "-49,354916363955",
+        "NOME": "Rua dos Palmenses - São Miguel",
+        "NUM": "180960",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487660445236",
+        "LON": "-49,350809901953",
+        "NOME": "Rua Durval Leopoldo Landal, 846 - Cidade Industrial",
+        "NUM": "180961",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490146016905",
+        "LON": "-49,349860728926",
+        "NOME": "Rua Durval Leopoldo Landal, 1095 - Cidade Industrial",
+        "NUM": "180805",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490661714559",
+        "LON": "-49,347028316206",
+        "NOME": "Rua Vale dos Pássaros, 77 - Cidade Industrial",
+        "NUM": "180415",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494493060934",
+        "LON": "-49,345528961367",
+        "NOME": "Rua Deputado Cunha Bueno, 125- Cidade Industrial",
+        "NUM": "180806",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500960677465",
+        "LON": "-49,348322482056",
+        "NOME": "Estrada Velha do Barigui, 3042 - Cidade Industrial",
+        "NUM": "180807",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505050458205",
+        "LON": "-49,347192943096",
+        "NOME": "Rua Doutor Mário Jorge, 500 - Cidade Industrial",
+        "NUM": "180456",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505641742178",
+        "LON": "-49,349643811584",
+        "NOME": "Estrada Velha do Barigui, 3240 - Cidade Industrial",
+        "NUM": "180959",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494401061631",
+        "LON": "-49,345543713516",
+        "NOME": "Rua Deputado Cunha Bueno, 126 - Cidade Industrial",
+        "NUM": "180393",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497512051604",
+        "LON": "-49,34524732942",
+        "NOME": "Estrada Velha do Barigui, 2499 - Cidade Industrial",
+        "NUM": "180323",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502791811354",
+        "LON": "-49,354276657105",
+        "NOME": "Rua Águas do Passaúna 10 - São Miguel",
+        "NUM": "180867",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494570533976",
+        "LON": "-49,347975135988",
+        "NOME": "Rua Deputado Cunha Bueno, 348 - Cidade Industrial",
+        "NUM": "180391",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499958419432",
+        "LON": "-49,347855777687",
+        "NOME": "Estrada Velha do Barigui, 3001 - Cidade Industrial",
+        "NUM": "180396",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49171852467",
+        "LON": "-49,348758341021",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 373 - Cidade Industrial",
+        "NUM": "180410",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491579311957",
+        "LON": "-49,34903192634",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 374 - Cidade Industrial",
+        "NUM": "180409",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490627819007",
+        "LON": "-49,347100735849",
+        "NOME": "Rua Vale dos Pássaros, 78 - Cidade Industrial",
+        "NUM": "180414",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485476794464",
+        "LON": "-49,351889820045",
+        "NOME": "Rua Durval Leopoldo Landal, 531 - Cidade Industrial",
+        "NUM": "180804",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487717608063",
+        "LON": "-49,350910813755",
+        "NOME": "Rua Durval Leopoldo Landal, 847 - Cidade Industrial",
+        "NUM": "180336",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496093353327",
+        "LON": "-49,345325113482",
+        "NOME": "Estrada Velha do Barigui, 2325 - Cidade Industrial",
+        "NUM": "180395",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497484210417",
+        "LON": "-49,345364005512",
+        "NOME": "Estrada Velha do Barigui, 2500 - Cidade Industrial",
+        "NUM": "180322",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496117563336",
+        "LON": "-49,345229895062",
+        "NOME": "Estrada Velha do Barigui, 2326 - Cidade Industrial",
+        "NUM": "180394",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500229072571",
+        "LON": "-49,349239383625",
+        "NOME": "Rua R, 638 - Cidade Industrial",
+        "NUM": "180874",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501821305408",
+        "LON": "-49,346816421694",
+        "NOME": "Rua V, 327 - Cidade Industrial",
+        "NUM": "180808",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505641742178",
+        "LON": "-49,349643811584",
+        "NOME": "Estrada Velha do Barigui, 3240 - Cidade Industrial",
+        "NUM": "180959",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "1",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494094800286",
+        "LON": "-49,349926443047",
+        "NOME": "Rua Durval Leopoldo Landal, 1487 - Cidade Industrial",
+        "NUM": "180407",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502479519219",
+        "LON": "-49,343047589063",
+        "NOME": "Rua Doutor Mário Jorge, 231 - Cidade Industrial",
+        "NUM": "180810",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433212586",
+        "LON": "-49,351771802849",
+        "NOME": "Rua Durval Leopoldo Landal, 532- Cidade Industrial",
+        "NUM": "180334",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490119384571",
+        "LON": "-49,349745393938",
+        "NOME": "Rua Durval Leopoldo Landal, 1094 - Cidade Industrial",
+        "NUM": "180390",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490514026725",
+        "LON": "-49,348629594988",
+        "NOME": "Rua Vale dos Pássaros, 257 - Cidade Industrial",
+        "NUM": "180417",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490581817885",
+        "LON": "-49,34867787475",
+        "NOME": "Rua Vale dos Pássaros, 258 - Cidade Industrial",
+        "NUM": "180416",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505142449352",
+        "LON": "-49,34412047267",
+        "NOME": "Rua Doutor Mário Jorge, 232 - Cidade Industrial",
+        "NUM": "180811",
+        "SENTIDO": "Mário Jorge",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    }
+]

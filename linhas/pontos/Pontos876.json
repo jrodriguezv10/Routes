@@ -1,0 +1,792 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,418119745487",
+        "LON": "-49,346857813492",
+        "NOME": "Rua Antônio Escorsin, 1770 - Santa Felicidade",
+        "NUM": "190049",
+        "SENTIDO": "Savóia",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431806641731",
+        "LON": "-49,284180135674",
+        "NOME": "Alameda Augusto Stelfeld, 1282 - Centro",
+        "NUM": "110109",
+        "SENTIDO": "Savóia",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422304282835",
+        "LON": "-49,31924807375",
+        "NOME": "Av. Cândido Hartmann, 3498 - Mercês",
+        "NUM": "190195",
+        "SENTIDO": "Savóia",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417114953098",
+        "LON": "-49,325403006024",
+        "NOME": "Av. Cândido Hartmann, 4691 - Santa Felicidade",
+        "NUM": "190938",
+        "SENTIDO": "Savóia",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431426715741",
+        "LON": "-49,286468059963",
+        "NOME": "Alameda Princesa Isabel, 877 - São Francisco",
+        "NUM": "180750",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416558909635",
+        "LON": "-49,349962652868",
+        "NOME": "Av. Vereador Toaldo Túlio, 2984 - São Braz",
+        "NUM": "190078",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422721889696",
+        "LON": "-49,311290349703",
+        "NOME": "Av. Cândido Hartmann, 2764 - Mercês",
+        "NUM": "190190",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431970146534",
+        "LON": "-49,290604026264",
+        "NOME": "Alameda Julia da Costa, 1054 - São Francisco",
+        "NUM": "180245",
+        "SENTIDO": "Savóia",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430157266985",
+        "LON": "-49,293192186508",
+        "NOME": "Rua Capitão Souza Franco, 53-145 - Batel",
+        "NUM": "190177",
+        "SENTIDO": "Savóia",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426404254378",
+        "LON": "-49,299213790178",
+        "NOME": "Av. Cândido Hartmann, 1420 - Mercês",
+        "NUM": "190179",
+        "SENTIDO": "Savóia",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423642703202",
+        "LON": "-49,302706209822",
+        "NOME": "Avenida Cândido Hartmann, 1858 - Mercês",
+        "NUM": "190183",
+        "SENTIDO": "Savóia",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422592509767",
+        "LON": "-49,311322273645",
+        "NOME": "Av. Cândido Hartmann, 2765 - Mercês",
+        "NUM": "190189",
+        "SENTIDO": "Savóia",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414493681911",
+        "LON": "-49,330800951666",
+        "NOME": "Rua Antônio Escorsin, 3- Santa Felicidade",
+        "NUM": "190936",
+        "SENTIDO": "Savóia",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409245409007",
+        "LON": "-49,36080217424",
+        "NOME": "Rua Hermenegildo Luca, 4124 - São Braz",
+        "NUM": "190069",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418373633848",
+        "LON": "-49,347000116567",
+        "NOME": "Rua Antônio Escorsin, 1771 - Santa Felicidade",
+        "NUM": "190050",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433904877339",
+        "LON": "-49,29412046627",
+        "NOME": "R. Francisco Rocha, 1362 - Bigorrilho",
+        "NUM": "180037",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414694761108",
+        "LON": "-49,339888275808",
+        "NOME": "Rua Antônio Escorsin, 1001 - Santa Felicidade",
+        "NUM": "190341",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422677296544",
+        "LON": "-49,316483411045",
+        "NOME": "Av. Cândido Hartmann, 3235- Mercês",
+        "NUM": "190194",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414236881484",
+        "LON": "-49,334560067601",
+        "NOME": "Rua Antônio Escorsin, 356 - Santa Felicidade",
+        "NUM": "190931",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417203112134",
+        "LON": "-49,344808459282",
+        "NOME": "Rua Antônio Escorsin, 1547 - Santa Felicidade",
+        "NUM": "190942",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4316605189",
+        "LON": "-49,276690066999",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 158 - Centro",
+        "NUM": "110106",
+        "SENTIDO": "Savóia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4170972814",
+        "LON": "-49,344811049686",
+        "NOME": "Rua Antônio Escorsin, 1548 - Santa Felicidade",
+        "NUM": "190047",
+        "SENTIDO": "Savóia",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427784844752",
+        "LON": "-49,29681682209",
+        "NOME": "Avenida Cândido Hartmann, 1106 - Mercês",
+        "NUM": "190178",
+        "SENTIDO": "Savóia",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42278",
+        "LON": "-49,31435",
+        "NOME": "Av. Cândido Hartmann, 3049 - Mercês",
+        "NUM": "190191",
+        "SENTIDO": "Savóia",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42250791665",
+        "LON": "-49,316534023314",
+        "NOME": "Av. Cândido Hartmann, 3236 - Mercês",
+        "NUM": "190193",
+        "SENTIDO": "Savóia",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413633640594",
+        "LON": "-49,337198020167",
+        "NOME": "Rua Antônio Escorsin, 655 - Santa Felicidade",
+        "NUM": "190930",
+        "SENTIDO": "Savóia",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430119444658",
+        "LON": "-49,272456604299",
+        "NOME": "Praça Tiradentes - 876 - Savóia",
+        "NUM": "101004",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421858759926",
+        "LON": "-49,321576093254",
+        "NOME": "Av. Cândido Hartmann, 3748 - Mercês",
+        "NUM": "190025",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433639468899",
+        "LON": "-49,292151660866",
+        "NOME": "Alameda Princesa Isabel, 1555 - São Francisco",
+        "NUM": "180825",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432819531718",
+        "LON": "-49,282832325644",
+        "NOME": "Rua Saldanha Marinho, 1179 - Centro",
+        "NUM": "110193",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409242488974",
+        "LON": "-49,355103106445",
+        "NOME": "Rua Brasílio Cuman, 566 - São Braz",
+        "NUM": "190258",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410054106972",
+        "LON": "-49,352825910992",
+        "NOME": "Rua Brasílio Cuman, 330 - São Braz",
+        "NUM": "190256",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423123352838",
+        "LON": "-49,30586682209",
+        "NOME": "Av. Cândido Hartmann, 2235 - Mercês",
+        "NUM": "190187",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425555685654",
+        "LON": "-49,300407317791",
+        "NOME": "Av. Cândido Hartmann, 1587 - Mercês",
+        "NUM": "190905",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42920186139",
+        "LON": "-49,296769083685",
+        "NOME": "Rua Francisco Rocha, 1926- Bigorrilho",
+        "NUM": "190907",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432206677422",
+        "LON": "-49,292185860119",
+        "NOME": "R. Cap. Souza Franco, 661 - Bigorrilho",
+        "NUM": "180042",
+        "SENTIDO": "Savóia",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409156481373",
+        "LON": "-49,355056167788",
+        "NOME": "Rua Brasílio Cuman, 567- São Braz",
+        "NUM": "190257",
+        "SENTIDO": "Savóia",
+        "SEQ": "38",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411375700116",
+        "LON": "-49,350319386668",
+        "NOME": "Rua Brasílio Cuman, 11 - São Braz",
+        "NUM": "190770",
+        "SENTIDO": "Savóia",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430755003707",
+        "LON": "-49,295877667494",
+        "NOME": "R. Francisco Rocha, 1711 - Bigorrilho",
+        "NUM": "190174",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408847580331",
+        "LON": "-49,357621874383",
+        "NOME": "Rua Brasílio Cuman, 831- São Braz",
+        "NUM": "190259",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411484721818",
+        "LON": "-49,350269765801",
+        "NOME": "Rua Brasílio Cuman, 10 - São Braz",
+        "NUM": "190255",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427053073835",
+        "LON": "-49,298659038029",
+        "NOME": "Av. Cândido Hartmann, 1451 - Mercês",
+        "NUM": "190180",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420502821178",
+        "LON": "-49,323996187395",
+        "NOME": "Av. Cândido Hartmann, 4263 - Santa Felicidade",
+        "NUM": "190939",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40994387261",
+        "LON": "-49,352795065588",
+        "NOME": "Rua Brasílio Cuman, 333 - São Braz",
+        "NUM": "190507",
+        "SENTIDO": "Savóia",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431296247767",
+        "LON": "-49,275700669975",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 32 - Centro",
+        "NUM": "110105",
+        "SENTIDO": "Savóia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432412588888",
+        "LON": "-49,284566373772",
+        "NOME": "Rua Desembargador Motta, 1748 - Água Verde",
+        "NUM": "180716",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414543346081",
+        "LON": "-49,330657453484",
+        "NOME": "Rua Antônio Escorsin, 2 - Santa Felicidade",
+        "NUM": "190935",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417182785607",
+        "LON": "-49,325570644087",
+        "NOME": "Av. Cândido Hartmann, 4690 - Santa Felicidade",
+        "NUM": "190937",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421719718782",
+        "LON": "-49,321552682209",
+        "NOME": "Av. Cândido Hartmann, 3747- Mercês",
+        "NUM": "190026",
+        "SENTIDO": "Savóia",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432682298198",
+        "LON": "-49,28654450292",
+        "NOME": "Alameda Augusto Stelfeld, 1354 - Centro",
+        "NUM": "180244",
+        "SENTIDO": "Savóia",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416592826051",
+        "LON": "-49,34976685161",
+        "NOME": "Av. Vereador Toaldo Túlio, 3033 - São Braz",
+        "NUM": "190079",
+        "SENTIDO": "Savóia",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425384904876",
+        "LON": "-49,300397930059",
+        "NOME": "Av. Cândido Hartmann, 1634 - Mercês",
+        "NUM": "190181",
+        "SENTIDO": "Savóia",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419985611575",
+        "LON": "-49,324080676979",
+        "NOME": "Av. Cândido Hartmann, 4354 - Santa Felicidade",
+        "NUM": "190940",
+        "SENTIDO": "Savóia",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415824916867",
+        "LON": "-49,342355908102",
+        "NOME": "Rua Antônio Escorsin, 1185 - Santa Felicidade",
+        "NUM": "190343",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430859946765",
+        "LON": "-49,28164410705",
+        "NOME": "Alameda Augusto Stelfeld, 1018 - Centro",
+        "NUM": "110108",
+        "SENTIDO": "Savóia",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414585742308",
+        "LON": "-49,339943261093",
+        "NOME": "Rua Antônio Escorsin, 1002 - Santa Felicidade",
+        "NUM": "190340",
+        "SENTIDO": "Savóia",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42284313023",
+        "LON": "-49,305001953373",
+        "NOME": "Av. Cândido Hartmann, 2128 - Mercês",
+        "NUM": "190185",
+        "SENTIDO": "Savóia",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422895213435",
+        "LON": "-49,308693148479",
+        "NOME": "Av. Cândido Hartmann, 2444 - Mercês",
+        "NUM": "190188",
+        "SENTIDO": "Savóia",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414274432524",
+        "LON": "-49,334153712935",
+        "NOME": "Rua Antônio Escorsin, 378 - Santa Felicidade",
+        "NUM": "190932",
+        "SENTIDO": "Savóia",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432574881729",
+        "LON": "-49,289465428537",
+        "NOME": "Alameda Princesa Isabel, 1151 - São Francisco",
+        "NUM": "180561",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431908753005",
+        "LON": "-49,280559153503",
+        "NOME": "Rua Saldanha Marinho, 917 - Centro",
+        "NUM": "110194",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423567917108",
+        "LON": "-49,303157317791",
+        "NOME": "Av. Cândido Hartmann, 1951 - Mercês",
+        "NUM": "190184",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422898449491",
+        "LON": "-49,314225364418",
+        "NOME": "Av. Cândido Hartmann, 3048 - Mercês",
+        "NUM": "190192",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413708743038",
+        "LON": "-49,337136329359",
+        "NOME": "Rua Antônio Escorsin, 654 - Santa Felicidade",
+        "NUM": "190929",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409245409007",
+        "LON": "-49,36080217424",
+        "NOME": "Rua Hermenegildo Luca, 4124 - São Braz",
+        "NUM": "190069",
+        "SENTIDO": "Savóia",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430119444658",
+        "LON": "-49,272456604299",
+        "NOME": "Praça Tiradentes - 876 - Savóia",
+        "NUM": "101004",
+        "SENTIDO": "Savóia",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430726719419",
+        "LON": "-49,273716838306",
+        "NOME": "Rua Cândido Lopes, 76 - Centro",
+        "NUM": "110104",
+        "SENTIDO": "Savóia",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415562062721",
+        "LON": "-49,34218558783",
+        "NOME": "Rua Antônio Escorsin, 1184 - Santa Felicidade",
+        "NUM": "190342",
+        "SENTIDO": "Savóia",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432134862259",
+        "LON": "-49,280061603731",
+        "NOME": "Rua Visconde do Rio Branco, 1186 - Centro",
+        "NUM": "110107",
+        "SENTIDO": "Savóia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432331067462",
+        "LON": "-49,288110912985",
+        "NOME": "Avenida Cândido Hartmann, 176 - Mercês",
+        "NUM": "180728",
+        "SENTIDO": "Savóia",
+        "SEQ": "9",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408739767624",
+        "LON": "-49,357684906295",
+        "NOME": "Rua Brasílio Cuman, 830 - São Braz",
+        "NUM": "190260",
+        "SENTIDO": "Savóia",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412474334388",
+        "LON": "-49,350436062759",
+        "NOME": "Av. Vereador Toaldo Túlio, 2445 - São Braz",
+        "NUM": "190081",
+        "SENTIDO": "Savóia",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415329490834",
+        "LON": "-49,32797256226",
+        "NOME": "Av. Cândido Hartmann, 4920 - Santa Felicidade",
+        "NUM": "190933",
+        "SENTIDO": "Savóia",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192657914",
+        "LON": "-49,350849122948",
+        "NOME": "Av. Vereador Toaldo Túlio, 2558 - São Braz",
+        "NUM": "190080",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42242",
+        "LON": "-49,31891",
+        "NOME": "Av. Cândido Hartmann, 3497 - Mercês",
+        "NUM": "190196",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415683193735",
+        "LON": "-49,327932329125",
+        "NOME": "Av. Cândido Hartmann, 4921 - Santa Felicidade",
+        "NUM": "190934",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    }
+]

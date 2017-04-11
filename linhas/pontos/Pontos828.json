@@ -1,0 +1,822 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471450310611",
+        "LON": "-49,331065998907",
+        "NOME": "Rua Rio do Sul, 256 - Campo Comprido",
+        "NUM": "180733",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466764621748",
+        "LON": "-49,330367283459",
+        "NOME": "Rua Doutor Lubumir Viergbiski, 738 - Campo Comprido",
+        "NUM": "180284",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492687677021",
+        "LON": "-49,306071911739",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1203 - Novo Mundo",
+        "NUM": "170107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492587202584",
+        "LON": "-49,310462687896",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1773 - Novo Mundo",
+        "NUM": "170100",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44919312268",
+        "LON": "-49,351521681336",
+        "NOME": "Rua Eduardo Sprada, 4901 - Cidade Industrial",
+        "NUM": "180222",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468252680702",
+        "LON": "-49,331123666401",
+        "NOME": "Rua Pedro Biernaski, 148 - Campo Comprido",
+        "NUM": "180287",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466879647303",
+        "LON": "-49,330231831903",
+        "NOME": "Rua Doutor Lubumir Viergbiski, 737 - Campo Comprido",
+        "NUM": "180285",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492590834192",
+        "LON": "-49,31257895081",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1992 - Novo Mundo",
+        "NUM": "170113",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444228776465",
+        "LON": "-49,344030947632",
+        "NOME": "Rua Eduardo Sprada, 3958 - Campo Comprido",
+        "NUM": "180228",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472801498607",
+        "LON": "-49,330906407471",
+        "NOME": "Rua Rosa Leonardi, 171 - Campo Comprido",
+        "NUM": "180734",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466270616008",
+        "LON": "-49,327294813032",
+        "NOME": "Rua José Gonçalves Júnior, 181 - Campo Comprido",
+        "NUM": "180283",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484492076515",
+        "LON": "-49,321444992709",
+        "NOME": "R. Gen. Potiguara, 1763 - Fazendinha",
+        "NUM": "180095",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49250730719",
+        "LON": "-49,298540268826",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 518 - Novo Mundo",
+        "NUM": "170101",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48743747261",
+        "LON": "-49,318794970202",
+        "NOME": "Rua General Potiguara, 1710 - Fazendinha",
+        "NUM": "170152",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484361329762",
+        "LON": "-49,321453039335",
+        "NOME": "R. Gen. Potiguara, 1762 - Fazendinha",
+        "NUM": "180094",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491732105446",
+        "LON": "-49,297329212303",
+        "NOME": "R. Francisco Ader, 341 - Novo Mundo",
+        "NUM": "170001",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460832988268",
+        "LON": "-49,336754206594",
+        "NOME": "Rua Renato Polati, 1145 - Campo Comprido",
+        "NUM": "180268",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474230157577",
+        "LON": "-49,331306056614",
+        "NOME": "Rua Rosa Leonardi, 34 - Campo Comprido",
+        "NUM": "180291",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464537947487",
+        "LON": "-49,326783852215",
+        "NOME": "Rua José Benedito Cotolengo, 934 - Campo Comprido",
+        "NUM": "180280",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460863628602",
+        "LON": "-49,328575677134",
+        "NOME": "Rua Renato Polati, 223 - Campo Comprido",
+        "NUM": "180274",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492543623285",
+        "LON": "-49,301383410381",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 738 - Novo Mundo",
+        "NUM": "170103",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,304170225548",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1016 - Novo Mundo",
+        "NUM": "170105",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49139845047",
+        "LON": "-49,314527575659",
+        "NOME": "Rua General Potiguara, 1001- - Fazendinha",
+        "NUM": "170147",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492447270329",
+        "LON": "-49,293168218082",
+        "NOME": "Terminal Capão Raso - 828 - Campo Comprido / Capão Raso",
+        "NUM": "104810",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "41",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461258366777",
+        "LON": "-49,325508571125",
+        "NOME": "Rua Renato Polati, 2 - Campo Comprido",
+        "NUM": "180277",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462036572705",
+        "LON": "-49,332292351898",
+        "NOME": "Rua Luís Ronaldo Canale, 214 - Campo Comprido",
+        "NUM": "180271",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447061791882",
+        "LON": "-49,348944078473",
+        "NOME": "Rua Eduardo Sprada, 4520 - Cidade Industrial",
+        "NUM": "180224",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49142992471",
+        "LON": "-49,314597313093",
+        "NOME": "Rua General Potiguara, 1001 - Fazendinha",
+        "NUM": "170148",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492447270329",
+        "LON": "-49,293168218082",
+        "NOME": "Terminal Capão Raso - 828 - Campo Comprido / Capão Raso",
+        "NUM": "104810",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451180312464",
+        "LON": "-49,350723724154",
+        "NOME": "Rua João Dembinski, 149 - Cidade Industrial",
+        "NUM": "180219",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461239276244",
+        "LON": "-49,343786190537",
+        "NOME": "Rua Luís Tramontin, 2378 - Campo Comprido",
+        "NUM": "180263",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462834314069",
+        "LON": "-49,329030202265",
+        "NOME": "Rua José Benedito Cotolengo, 1158 - Campo Comprido",
+        "NUM": "180279",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492587202584",
+        "LON": "-49,310462687896",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1773 - Novo Mundo",
+        "NUM": "170100",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492486635675",
+        "LON": "-49,296568979167",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 236 - Novo Mundo",
+        "NUM": "170111",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46099076834",
+        "LON": "-49,328591770388",
+        "NOME": "Rua Renato Polati, 222 - Campo Comprido",
+        "NUM": "180273",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461344620278",
+        "LON": "-49,343489806441",
+        "NOME": "Rua Luís Tramontin, 2378 - Campo Comprido",
+        "NUM": "180264",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460167667893",
+        "LON": "-49,340610455064",
+        "NOME": "Rua Luís Tramontin, 2059 - Campo Comprido",
+        "NUM": "180266",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468336224557",
+        "LON": "-49,33123631918",
+        "NOME": "Rua Pedro Biernaski, 147 - Campo Comprido",
+        "NUM": "180286",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492652571504",
+        "LON": "-49,298435662674",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 459 - Novo Mundo",
+        "NUM": "170102",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487449578487",
+        "LON": "-49,318910305189",
+        "NOME": "Rua General Potiguara, 1711 - Fazendinha",
+        "NUM": "170153",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481931593403",
+        "LON": "-49,323107962298",
+        "NOME": "R. Gen. Potiguara, 2429 - Fazendinha",
+        "NUM": "180097",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460966182309",
+        "LON": "-49,334265116629",
+        "NOME": "Rua Luís Ronaldo Canale, 477 - Campo Comprido",
+        "NUM": "180269",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447681819278",
+        "LON": "-49,349527458933",
+        "NOME": "Rua Eduardo Sprada, 4651 - Cidade Industrial",
+        "NUM": "180223",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455608685041",
+        "LON": "-49,348111252574",
+        "NOME": "Rua João Dembinski, 701 - Cidade Industrial",
+        "NUM": "180214",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472791812726",
+        "LON": "-49,330817894573",
+        "NOME": "Rua Rosa Leonardi, 170 - Campo Comprido",
+        "NUM": "180289",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464504044571",
+        "LON": "-49,326665835019",
+        "NOME": "Rua José Benedito Cotolengo, 935 - Campo Comprido",
+        "NUM": "180281",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49273731085",
+        "LON": "-49,312507944775",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1993 - Novo Mundo",
+        "NUM": "170114",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47723753141",
+        "LON": "-49,327455830689",
+        "NOME": "Terminal Fazendinha - 828 - Campo Comprido / Capão Raso - 831 - Fazendinha / Capão Raso",
+        "NUM": "105308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476166084473",
+        "LON": "-49,331110255356",
+        "NOME": "Rua Waldemar Cavanha, 817 - Campo Comprido",
+        "NUM": "180421",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492644097757",
+        "LON": "-49,301477287697",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 839 - Novo Mundo",
+        "NUM": "170104",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492664676856",
+        "LON": "-49,303977106499",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1015 - Novo Mundo",
+        "NUM": "170106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492719150923",
+        "LON": "-49,30850601642",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1601 - Novo Mundo",
+        "NUM": "170109",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47737789311",
+        "LON": "-49,326810612268",
+        "NOME": "Terminal Fazendinha - 828 - Campo Comprido / Capão Raso",
+        "NUM": "105315",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461105799415",
+        "LON": "-49,32572717116",
+        "NOME": "Rua Renato Polati, 3 - Campo Comprido",
+        "NUM": "180276",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460702215793",
+        "LON": "-49,336283478912",
+        "NOME": "Rua Renato Polati, 1086 - Campo Comprido",
+        "NUM": "180267",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445601324109",
+        "LON": "-49,346307467011",
+        "NOME": "Rua Eduardo Sprada, 4300 - Campo Comprido",
+        "NUM": "180225",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453787465399",
+        "LON": "-49,348903845338",
+        "NOME": "Rua João Dembinski, 541 - Cidade Industrial",
+        "NUM": "180216",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476180612887",
+        "LON": "-49,330949322815",
+        "NOME": "Rua Waldemar Cavanha, 818- Campo Comprido",
+        "NUM": "180292",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466250032391",
+        "LON": "-49,327172772522",
+        "NOME": "Rua José Gonçalves Júnior, 182 - Campo Comprido",
+        "NUM": "180282",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492595676336",
+        "LON": "-49,308677677797",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1774 - Novo Mundo",
+        "NUM": "170110",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482331104997",
+        "LON": "-49,322968487429",
+        "NOME": "R. Gen. Potiguara, 2430 - Fazendinha",
+        "NUM": "180096",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441535779008",
+        "LON": "-49,347001457672",
+        "NOME": "Terminal Campo Comprido - 828 - Campo Comprido / Capão Raso",
+        "NUM": "104613",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445918608",
+        "LON": "-49,347224782494",
+        "NOME": "Rua Eduardo Sprada, 4266 - Campo Comprido",
+        "NUM": "180226",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462845211587",
+        "LON": "-49,329098598595",
+        "NOME": "Rua José Benedito Cotolengo, 1157 - Campo Comprido",
+        "NUM": "180278",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489824727953",
+        "LON": "-49,316442672896",
+        "NOME": "Rua General Potiguara, 1324 - Fazendinha",
+        "NUM": "170150",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441535779008",
+        "LON": "-49,347001457672",
+        "NOME": "Terminal Campo Comprido - 828 - Campo Comprido / Capão Raso",
+        "NUM": "104613",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "41",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444503678285",
+        "LON": "-49,344249547666",
+        "NOME": "Rua Eduardo Sprada, 3999 - Campo Comprido",
+        "NUM": "180227",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461882795485",
+        "LON": "-49,33228698748",
+        "NOME": "Rua Luís Ronaldo Canale, 213 - Campo Comprido",
+        "NUM": "180272",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46008169664",
+        "LON": "-49,340831737307",
+        "NOME": "Rua Luís Tramontin, 2058 - Campo Comprido",
+        "NUM": "180265",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471365558169",
+        "LON": "-49,331095503206",
+        "NOME": "Rua Rio do Sul, 257 - Campo Comprido",
+        "NUM": "180288",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,30582514851",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1332 - Novo Mundo",
+        "NUM": "170108",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489730303947",
+        "LON": "-49,316372935461",
+        "NOME": "Rua General Potiguara, 1325 - Fazendinha",
+        "NUM": "170149",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,500873686434",
+        "LON": "-49,27373317791",
+        "NOME": "Rua Aníbal Requião, 427 - Xaxim",
+        "NUM": "150469",
+        "SENTIDO": "Xaxim",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498987579057",
+        "LON": "-49,27269046627",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 237 - Xaxim",
+        "NUM": "150466",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500982764849",
+        "LON": "-49,273752623925",
+        "NOME": "Rua Aníbal Requião, 426 - Xaxim",
+        "NUM": "150468",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503727001953",
+        "LON": "-49,276476093254",
+        "NOME": "Rua José Maria Pinheiro Lima, 271 - Xaxim",
+        "NUM": "150473",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505217867656",
+        "LON": "-49,273351487102",
+        "NOME": "Rua Capitão Doutor Antônio José, 771 - Xaxim",
+        "NUM": "150477",
+        "SENTIDO": "Xaxim",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497457579026",
+        "LON": "-49,272390961971",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 117 - Xaxim",
+        "NUM": "150465",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501663053779",
+        "LON": "-49,275110874834",
+        "NOME": "Rua José Maria Pinheiro Lima, 126 - Xaxim",
+        "NUM": "150470",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508023948099",
+        "LON": "-49,268559271164",
+        "NOME": "Rua Constantino José de Almeida, 2 - Xaxim",
+        "NUM": "150482",
+        "SENTIDO": "Xaxim",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508058732165",
+        "LON": "-49,270991457672",
+        "NOME": "Rua Coronel Rivadávia Pereira de Moraes, 237 - Xaxim",
+        "NUM": "150481",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496640338232",
+        "LON": "-49,27637118136",
+        "NOME": "Estação Xaxim",
+        "NUM": "108206",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50509873312",
+        "LON": "-49,27346",
+        "NOME": "Rua Capitão Doutor Antônio José, 770 - Xaxim",
+        "NUM": "150476",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50721",
+        "LON": "-49,27288",
+        "NOME": "Rua Eurico Fonógrafo dos Santos, 1086 - Xaxim",
+        "NUM": "150478",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508023948099",
+        "LON": "-49,268559271164",
+        "NOME": "Rua Constantino José de Almeida, 2 - Xaxim",
+        "NUM": "150482",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498939683775",
+        "LON": "-49,272818279762",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 238 - Xaxim",
+        "NUM": "150467",
+        "SENTIDO": "Xaxim",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503803443996",
+        "LON": "-49,276624169312",
+        "NOME": "Rua José Maria Pinheiro Lima, 272 - Xaxim",
+        "NUM": "150472",
+        "SENTIDO": "Xaxim",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50741",
+        "LON": "-49,27303",
+        "NOME": "Rua Eurico Fonógrafo dos Santos, 1089 - Xaxim",
+        "NUM": "150479",
+        "SENTIDO": "Xaxim",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50816",
+        "LON": "-49,27101",
+        "NOME": "Rua Coronel Rivadávia Pereira de Moraes, 236 - Xaxim",
+        "NUM": "150480",
+        "SENTIDO": "Xaxim",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504770893719",
+        "LON": "-49,274921341105",
+        "NOME": "Rua Capitão Doutor Antônio José, 491 - Xaxim",
+        "NUM": "150474",
+        "SENTIDO": "Estação Linha Verde",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49665548028",
+        "LON": "-49,272501224537",
+        "NOME": "Rua Francisco Derosso, 259 - Xaxim",
+        "NUM": "150074",
+        "SENTIDO": "Xaxim",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497465787818",
+        "LON": "-49,272557795048",
+        "NOME": "R. Gabriel Frecceiro de Miranda, 82 - Xaxim",
+        "NUM": "150874",
+        "SENTIDO": "Xaxim",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496640338232",
+        "LON": "-49,27637118136",
+        "NOME": "Estação Xaxim",
+        "NUM": "108206",
+        "SENTIDO": "Xaxim",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50155784025",
+        "LON": "-49,275155364418",
+        "NOME": "Rua José Maria Pinheiro Lima, 127 - Xaxim",
+        "NUM": "150471",
+        "SENTIDO": "Xaxim",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504975594311",
+        "LON": "-49,274870525131",
+        "NOME": "Rua Capitão Doutor Antônio José, 492 - Xaxim",
+        "NUM": "150475",
+        "SENTIDO": "Xaxim",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    }
+]

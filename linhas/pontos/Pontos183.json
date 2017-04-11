@@ -1,0 +1,772 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,418497032938",
+        "LON": "-49,271279322996",
+        "NOME": "R. Mateus Leme, 1090 - São Francisco",
+        "NUM": "110083",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "39",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378459966793",
+        "LON": "-49,27456575746",
+        "NOME": "Rua Mateus Leme, 6073 - Abranches",
+        "NUM": "120315",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360176707189",
+        "LON": "-49,272197308598",
+        "NOME": "Rua José Bajerski, 1368 - Abranches",
+        "NUM": "120301",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "34",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384575177121",
+        "LON": "-49,267779768652",
+        "NOME": "R. Mateus Leme, 5012 - Abranches",
+        "NUM": "120510",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388396571975",
+        "LON": "-49,267448515839",
+        "NOME": "Rua Mateus Leme, 4556 - São Lourenço",
+        "NUM": "120512",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381245594364",
+        "LON": "-49,269425974435",
+        "NOME": "R. Mateus Leme, 5411 - Abranches",
+        "NUM": "120505",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380030298023",
+        "LON": "-49,273572669572",
+        "NOME": "Rua Mateus Leme, 6010 - São Francisco",
+        "NUM": "120502",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376946564985",
+        "LON": "-49,277026684231",
+        "NOME": "Rua Mateus Leme, 6641 - Abranches",
+        "NUM": "120312",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367167763213",
+        "LON": "-49,275783480352",
+        "NOME": "Rodovia dos Minérios, 1400 - Pista Lateral - Abranches",
+        "NUM": "120584",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366235888136",
+        "LON": "-49,274746806568",
+        "NOME": "Rua Luís Cavichiolo Primeiro, 74 - Abranches",
+        "NUM": "120688",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36459145646",
+        "LON": "-49,271687688886",
+        "NOME": "Rua José Bajerski, 802 - Abranches",
+        "NUM": "120685",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388946629633",
+        "LON": "-49,26759396781",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120513",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391174700988",
+        "LON": "-49,267470586195",
+        "NOME": "R. Mateus Leme, 4303 - Bom Retiro",
+        "NUM": "120515",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375441626209",
+        "LON": "-49,275094152636",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1351 - Taboão",
+        "NUM": "120277",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366770293318",
+        "LON": "-49,276032925791",
+        "NOME": "Rodovia dos Minérios, 1484 - Pista Lateral - Abranches",
+        "NUM": "120585",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381006898043",
+        "LON": "-49,272363605557",
+        "NOME": "Rua Mateus Leme, 5805 - Abranches",
+        "NUM": "120503",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387223753443",
+        "LON": "-49,267575192347",
+        "NOME": "Rua Mateus Leme, 4671 - Abranches",
+        "NUM": "120511",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39561618219",
+        "LON": "-49,271136553234",
+        "NOME": "R. Mateus Leme, 3573 - Bom Retiro",
+        "NUM": "120518",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380735486422",
+        "LON": "-49,272564158982",
+        "NOME": "Rua Mateus Leme, 5802 - Abranches",
+        "NUM": "120504",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361872096623",
+        "LON": "-49,271612587033",
+        "NOME": "Rua José Bajerski, 1220 - Abranches",
+        "NUM": "120684",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357462095606",
+        "LON": "-49,272016317791",
+        "NOME": "Rua José Bajerski, 1220-1368 - Abranches",
+        "NUM": "120683",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415889116179",
+        "LON": "-49,271495240822",
+        "NOME": "R. Mateus Leme, 1298 - São Francisco",
+        "NUM": "120535",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398860565152",
+        "LON": "-49,271567660466",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120520",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410635561286",
+        "LON": "-49,271625327959",
+        "NOME": "R. Mateus Leme, 1771 - Bom Retiro",
+        "NUM": "120531",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,362336234116",
+        "LON": "-49,271729933677",
+        "NOME": "Rua José Bajerski, 1220 - Abranches",
+        "NUM": "120303",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356388483332",
+        "LON": "-49,273203294477",
+        "NOME": "Rua São Ediges, 48 - Abranches",
+        "NUM": "120135",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35749360484",
+        "LON": "-49,272147746033",
+        "NOME": "Rua José Bajerski, 1631 - Abranches",
+        "NUM": "120682",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428609596",
+        "LON": "-49,271115095562",
+        "NOME": "Praça Tiradentes - 183 - Jardim Chaparral",
+        "NUM": "101020",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407071686833",
+        "LON": "-49,271422208494",
+        "NOME": "R. Mateus Leme, 2252 - Bom Retiro",
+        "NUM": "120528",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367189575547",
+        "LON": "-49,273577363438",
+        "NOME": "Rua Coronel Vergínio Leinig de Melo, 97 - Abranches",
+        "NUM": "120687",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355931464077",
+        "LON": "-49,275214793741",
+        "NOME": "Rua Wilson Gomes Ramos, 273 - Abranches",
+        "NUM": "120300",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407068052645",
+        "LON": "-49,271578389302",
+        "NOME": "R. Mateus Leme, 2309 - Centro Cívico",
+        "NUM": "120529",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413740237598",
+        "LON": "-49,271315532818",
+        "NOME": "R. Mateus Leme, 1517 - São Francisco",
+        "NUM": "120533",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367530685911",
+        "LON": "-49,275943458696",
+        "NOME": "Rodovia dos Minérios - Abranches",
+        "NUM": "120308",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420385698666",
+        "LON": "-49,270935838087",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110086",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405207333944",
+        "LON": "-49,271042675919",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120526",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399998138075",
+        "LON": "-49,271383316463",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120522",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410257616302",
+        "LON": "-49,271434278435",
+        "NOME": "R. Mateus Leme, 1772 - Bom Retiro",
+        "NUM": "120530",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393073193721",
+        "LON": "-49,269535274452",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120516",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390608903185",
+        "LON": "-49,267388166136",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120514",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378482988772",
+        "LON": "-49,274474562353",
+        "NOME": "Rua Mateus Leme, 6072 - Abranches",
+        "NUM": "120316",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383173322499",
+        "LON": "-49,267976182594",
+        "NOME": "R. Mateus Leme, 5217 - Bom Retiro",
+        "NUM": "120508",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40025860321",
+        "LON": "-49,271489876404",
+        "NOME": "R. Mateus Leme, 3053 - São Lourenço",
+        "NUM": "120523",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42054529215",
+        "LON": "-49,27105133523",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110085",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412732407619",
+        "LON": "-49,271372587627",
+        "NOME": "R. Mateus Leme,  1654 - São Francisco",
+        "NUM": "120532",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374355926046",
+        "LON": "-49,274085642046",
+        "NOME": "Rodovia dos Minérios, 708 - Abranches",
+        "NUM": "120278",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356614367227",
+        "LON": "-49,274494996651",
+        "NOME": "Rua São Ediges, 126 - Abranches",
+        "NUM": "120137",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405536838306",
+        "LON": "-49,271129119292",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120527",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366309808268",
+        "LON": "-49,272529960817",
+        "NOME": "Rua José Bajerski, 601 - Abranches",
+        "NUM": "120305",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395348437952",
+        "LON": "-49,271332354493",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120519",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421330479546",
+        "LON": "-49,270628725155",
+        "NOME": "Rua Sen. Xavier da Silva, 406 - Centro Cívico",
+        "NUM": "110087",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417706063681",
+        "LON": "-49,271222834452",
+        "NOME": "R. Mateus Leme, 1016 - São Francisco",
+        "NUM": "110084",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402803863146",
+        "LON": "-49,271324307865",
+        "NOME": "R. Mateus Leme, 2794 - São Lourenço",
+        "NUM": "120524",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38218220025",
+        "LON": "-49,268109009809",
+        "NOME": "R. Mateus Leme, 5242- Abranches",
+        "NUM": "120507",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428609596",
+        "LON": "-49,271115095562",
+        "NOME": "Praça Tiradentes - 183 - Jardim Chaparral",
+        "NUM": "101020",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402880183771",
+        "LON": "-49,271456348791",
+        "NOME": "R. Mateus Leme, 2725 - São Lourenço",
+        "NUM": "120525",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377020478564",
+        "LON": "-49,277146042532",
+        "NOME": "Rua Mateus Leme, 6642 - Abranches",
+        "NUM": "120311",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364597515572",
+        "LON": "-49,271778883992",
+        "NOME": "Rua José Bajerski, 802 - Abranches",
+        "NUM": "120304",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365471836447",
+        "LON": "-49,273710074483",
+        "NOME": "Rua Luís Cavichiolo Primeiro, 149 - Abranches",
+        "NUM": "120306",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415276193047",
+        "LON": "-49,271283184155",
+        "NOME": "R. Mateus Leme, 1290 - São Francisco",
+        "NUM": "120534",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366369186702",
+        "LON": "-49,272465587801",
+        "NOME": "Rua José Bajerski, 602 - Abranches",
+        "NUM": "120686",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381375241408",
+        "LON": "-49,269472855225",
+        "NOME": "R. Mateus Leme, 5412 - Abranches",
+        "NUM": "120506",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384959260638",
+        "LON": "-49,267953383818",
+        "NOME": "R. Mateus Leme, 4917 - Abranches",
+        "NUM": "120509",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393070770648",
+        "LON": "-49,269644516602",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120517",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380140559711",
+        "LON": "-49,273594797796",
+        "NOME": "Rua Mateus Leme, 5922 - Abranches",
+        "NUM": "120501",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377203444771",
+        "LON": "-49,27539590115",
+        "NOME": "Rua Mateus Leme, 6652 - Abranches",
+        "NUM": "120313",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36619832215",
+        "LON": "-49,274816544003",
+        "NOME": "Rua Luís Cavichiolo Primeiro, 73 - Abranches",
+        "NUM": "120307",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360192461454",
+        "LON": "-49,2722871626",
+        "NOME": "Rua José Bajerski, 1269 - Abranches",
+        "NUM": "120302",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355931464077",
+        "LON": "-49,275214793741",
+        "NOME": "Rua Wilson Gomes Ramos, 273 - Abranches",
+        "NUM": "120300",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373998189322",
+        "LON": "-49,274369717055",
+        "NOME": "Rodovia dos Minérios, 701 - Abranches",
+        "NUM": "120279",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397365591456",
+        "LON": "-49,271369905419",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120521",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377190116116",
+        "LON": "-49,275766045993",
+        "NOME": "Rua Mateus Leme, 6651 - Abranches",
+        "NUM": "120314",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375496153304",
+        "LON": "-49,274903715796",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas, 1352 - Taboão",
+        "NUM": "120276",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35634",
+        "LON": "-49,27331",
+        "NOME": "Rua São Ediges, 63 - Abranches",
+        "NUM": "120134",
+        "SENTIDO": "Jd. Chaparral",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    }
+]

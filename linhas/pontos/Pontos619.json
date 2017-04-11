@@ -1,0 +1,742 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,548640028554",
+        "LON": "-49,325004191928",
+        "NOME": "Rua Wiegando Olsen,1600 - Cidade Industrial",
+        "NUM": "170358",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550091984503",
+        "LON": "-49,328834386401",
+        "NOME": "Rua Wiegando Olsen,2020 - Cidade Industrial",
+        "NUM": "170360",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555683607047",
+        "LON": "-49,332996339745",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 32 - Tatuquara",
+        "NUM": "170626",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559630234239",
+        "LON": "-49,338706762738",
+        "NOME": "Rua Enete Dubard, 55 - Tatuquara",
+        "NUM": "170644",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525136114187",
+        "LON": "-49,330091720238",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170050",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526665732502",
+        "LON": "-49,328729038029",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170057",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528908535591",
+        "LON": "-49,32659524785",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11101 - Cidade Industrial",
+        "NUM": "170059",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559667739883",
+        "LON": "-49,338592768855",
+        "NOME": "Rua Enete Dubard, 54 - Tatuquara",
+        "NUM": "170645",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573642009149",
+        "LON": "-49,332666428036",
+        "NOME": "Rua Odir Gomes da Rocha, 882 - Tatuquara",
+        "NUM": "170481",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564231242143",
+        "LON": "-49,336232424921",
+        "NOME": "Av. Pero Vaz de Caminha, 783 - Tatuquara",
+        "NUM": "170651",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564289313161",
+        "LON": "-49,338919998354",
+        "NOME": "Av. Pero Vaz de Caminha, 589 - Tatuquara",
+        "NUM": "170649",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516598692776",
+        "LON": "-49,326762885994",
+        "NOME": "Rua Des. Cid. Campelo, 3564 - Cidade Industrial",
+        "NUM": "170128",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559662900445",
+        "LON": "-49,333409399933",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170438",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567440833518",
+        "LON": "-49,339310259765",
+        "NOME": "Rua Enete Dubard, 842 - Tatuquara",
+        "NUM": "170951",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515244366284",
+        "LON": "-49,328156293577",
+        "NOME": "Rua Des. Cid. Campelo, 3829 -Cidade Industrial",
+        "NUM": "170126",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519747836139",
+        "LON": "-49,326423586554",
+        "NOME": "Rua José Rodrigues Pinheiro, 2950 - Capão Raso",
+        "NUM": "170131",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517744835608",
+        "LON": "-49,324646623081",
+        "NOME": "Rua João Chede, 3368 - Cidade Industrial",
+        "NUM": "170133",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551435028095",
+        "LON": "-49,332069130473",
+        "NOME": "Rua Wiegando Olsen,2540 - Cidade Industrial",
+        "NUM": "170362",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559808083477",
+        "LON": "-49,332178265995",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 394 - Tatuquara",
+        "NUM": "170946",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55942334806",
+        "LON": "-49,33412554974",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 725 - Tatuquara",
+        "NUM": "170947",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520157323039",
+        "LON": "-49,334210495701",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "170028",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519727261682",
+        "LON": "-49,328470112032",
+        "NOME": "Rua Vicente Micheloto, 408 - Cidade Industrial",
+        "NUM": "170349",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545598123819",
+        "LON": "-49,317748816543",
+        "NOME": "Rua Wiegando Olsen,1000 - Cidade Industrial",
+        "NUM": "170353",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561904748795",
+        "LON": "-49,339339764065",
+        "NOME": "Rua Enete Dubard, 268 - Tatuquara",
+        "NUM": "170646",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511660634503",
+        "LON": "-49,324223294477",
+        "NOME": "Terminal CIC - 619 - Santa Rita / CIC - 685 - Rio Bonito / CIC",
+        "NUM": "105207",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "42",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520337232347",
+        "LON": "-49,328635067886",
+        "NOME": "Rua Vicente Micheloto, 1799 -Cidade Industrial",
+        "NUM": "170130",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56519908878",
+        "LON": "-49,33382514233",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1039 - Tatuquara",
+        "NUM": "170653",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52655910826",
+        "LON": "-49,329032798777",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170056",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551284995143",
+        "LON": "-49,332020850711",
+        "NOME": "Rua Wiegando Olsen,2540 - Cidade Industrial",
+        "NUM": "170361",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557623060261",
+        "LON": "-49,332020015663",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 116 - Tatuquara",
+        "NUM": "170629",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565299502421",
+        "LON": "-49,33929684872",
+        "NOME": "Rua Enete Dubard, 628 - Tatuquara",
+        "NUM": "170950",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519389598016",
+        "LON": "-49,324883998579",
+        "NOME": "Rua José Rodrigues Pinheiro, 2949  - Capão Raso",
+        "NUM": "170132",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573303287598",
+        "LON": "-49,334881932682",
+        "NOME": "Rua Odir Gomes da Rocha, 542 - Tatuquara",
+        "NUM": "170483",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570770103902",
+        "LON": "-49,331832261032",
+        "NOME": "Rua Engenheiro João Kloss, 933 - Tatuquara",
+        "NUM": "170956",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568989342884",
+        "LON": "-49,332253367847",
+        "NOME": "Rua Engenheiro João Kloss, 733 - Tatuquara",
+        "NUM": "170958",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566860137342",
+        "LON": "-49,33289978022",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1271 -Tatuquara",
+        "NUM": "170960",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556058410138",
+        "LON": "-49,332413971424",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 31 - Tatuquara",
+        "NUM": "170627",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525224904005",
+        "LON": "-49,330232682209",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10894 - Cidade Industrial",
+        "NUM": "170049",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532393556201",
+        "LON": "-49,320616473541",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170062",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519611092006",
+        "LON": "-49,3332051534",
+        "NOME": "Rua Alfred Nobel, 392 - Cidade Industrial",
+        "NUM": "170169",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546661710266",
+        "LON": "-49,319794000916",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170355",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559527396125",
+        "LON": "-49,331741065926",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 397 - Tatuquara",
+        "NUM": "170437",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53798",
+        "LON": "-49,31388",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170067",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546707084904",
+        "LON": "-49,319567354255",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170356",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557497232683",
+        "LON": "-49,331711561626",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 117 - Tatuquara",
+        "NUM": "170630",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558881328773",
+        "LON": "-49,336001754946",
+        "NOME": "Rua E, 354 - Tatuquara",
+        "NUM": "170948",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571377395421",
+        "LON": "-49,338417084164",
+        "NOME": "Rua Enete Dubard, 1378 - Tatuquara",
+        "NUM": "170953",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511660634503",
+        "LON": "-49,324223294477",
+        "NOME": "Terminal CIC - 619 - Santa Rita / CIC - 685 - Rio Bonito / CIC",
+        "NUM": "105207",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52909910849",
+        "LON": "-49,326616588955",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11100 - Cidade Industrial",
+        "NUM": "170058",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538954656326",
+        "LON": "-49,313221690807",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170068",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558697428815",
+        "LON": "-49,335781813807",
+        "NOME": "Rua E, 357 - Tatuquara",
+        "NUM": "170949",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53026942735",
+        "LON": "-49,32465953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11102 - Cidade Industrial",
+        "NUM": "170061",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542599644552",
+        "LON": "-49,313854084557",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170922",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569173227041",
+        "LON": "-49,338567287868",
+        "NOME": "Rua Enete Dubard, 1044 - Tatuquara",
+        "NUM": "170952",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57260164705",
+        "LON": "-49,332180948204",
+        "NOME": "Rua Engenheiro João Kloss, 1154 - Tatuquara",
+        "NUM": "170954",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534025610825",
+        "LON": "-49,317219504299",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170064",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515064030325",
+        "LON": "-49,328661889977",
+        "NOME": "Rua Des. Cid. Campelo, 3690 - Cidade Industrial",
+        "NUM": "170125",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545737878891",
+        "LON": "-49,317728029423",
+        "NOME": "Rua Wiegando Olsen,1000 - Cidade Industrial",
+        "NUM": "170354",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548618249081",
+        "LON": "-49,324620636039",
+        "NOME": "Rua Wiegando Olsen,1600 - Cidade Industrial",
+        "NUM": "170357",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549938866492",
+        "LON": "-49,328120083755",
+        "NOME": "Rua Wiegando Olsen,2020 - Cidade Industrial",
+        "NUM": "170359",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561820060198",
+        "LON": "-49,339227111286",
+        "NOME": "Rua Enete Dubard, 269 -Tatuquara",
+        "NUM": "170647",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530333949223",
+        "LON": "-49,324835014715",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11103 - Cidade Industrial",
+        "NUM": "170060",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544216294343",
+        "LON": "-49,315904797845",
+        "NOME": "Rua Wiegando Olsen,724 - Cidade Industrial",
+        "NUM": "170352",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54270794233",
+        "LON": "-49,314196066207",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170923",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569173227041",
+        "LON": "-49,338567287868",
+        "NOME": "Rua Enete Dubard, 1044 - Tatuquara",
+        "NUM": "170952",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532645574465",
+        "LON": "-49,319687962952",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170063",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533879879169",
+        "LON": "-49,317158046627",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170065",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516484925097",
+        "LON": "-49,326585860199",
+        "NOME": "Rua Des. Cid. Campelo, 3565 - Cidade Industrial",
+        "NUM": "170127",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544298575353",
+        "LON": "-49,315810920529",
+        "NOME": "Rua Wiegando Olsen,724 - Cidade Industrial",
+        "NUM": "170351",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572654875098",
+        "LON": "-49,337628514713",
+        "NOME": "Rua Odir Gomes da Rocha, 396 - Tatuquara",
+        "NUM": "170485",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    }
+]

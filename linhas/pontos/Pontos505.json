@@ -1,0 +1,202 @@
+[
+    {
+        "GRUPO": "14570",
+        "LAT": "-25,419772264442",
+        "LON": "-49,26913860475",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109023",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26027",
+        "LAT": "-25,432066276608",
+        "LON": "-49,264155250202",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109031",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,50165848872",
+        "LON": "-49,237661537426",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 508 - Sítio Cercado (AH)",
+        "NUM": "109105",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41885",
+        "LAT": "-25,410688881227",
+        "LON": "-49,26614184418",
+        "NOME": "Estação Tubo Museu Oscar Niemeyer",
+        "NUM": "109037",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14567",
+        "LAT": "-25,419830405313",
+        "LON": "-49,268907934775",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109022",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26084",
+        "LAT": "-25,427237118653",
+        "LON": "-49,264801662574",
+        "NOME": "Estação Tubo Círculo Militar",
+        "NUM": "109020",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516362360377",
+        "LON": "-49,23070317791",
+        "NOME": "Terminal Boqueirão - 505 - Boqueirão / Centro Cívico",
+        "NUM": "109103",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516362360377",
+        "LON": "-49,23070317791",
+        "NOME": "Terminal Boqueirão - 505 - Boqueirão / Centro Cívico",
+        "NUM": "109103",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14562",
+        "LAT": "-25,417899341803",
+        "LON": "-49,268459708637",
+        "NOME": "Estação Tubo Prefeitura",
+        "NUM": "109057",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14564",
+        "LAT": "-25,417850890302",
+        "LON": "-49,268689037508",
+        "NOME": "Estação Tubo Prefeitura",
+        "NUM": "109058",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481214801157",
+        "LON": "-49,246965557347",
+        "NOME": "Terminal Hauer - 505 - Boqueirão / Centro Cívico",
+        "NUM": "109110",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,48239154761",
+        "LON": "-49,246932029734",
+        "NOME": "Terminal Hauer - 505 - Boqueirão / Centro Cívico",
+        "NUM": "109107",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448149039186",
+        "LON": "-49,257986359674",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109040",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14560",
+        "LAT": "-25,415626406879",
+        "LON": "-49,266380996651",
+        "NOME": "Estação Tubo Centro Cívico  - Assembléia",
+        "NUM": "109011",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26083",
+        "LAT": "-25,426994816036",
+        "LON": "-49,264729242931",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109018",
+        "SENTIDO": "Centro Cívico",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41885",
+        "LAT": "-25,410688881227",
+        "LON": "-49,26614184418",
+        "NOME": "Estação Tubo Museu Oscar Niemeyer",
+        "NUM": "109037",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41857",
+        "LAT": "-25,433066059432",
+        "LON": "-49,265153436428",
+        "NOME": "Terminal Guadalupe - 256-Barreirinha/Guadalupe - 505-Boqueirão/Centro Cívico",
+        "NUM": "109029",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    }
+]

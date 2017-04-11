@@ -1,0 +1,662 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Ahú",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40002279702",
+        "LON": "-49,256587232155",
+        "NOME": "Rua Coronel Amazonas Marcondes, 1403 - Cabral",
+        "NUM": "120957",
+        "SENTIDO": "Ahú",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39939",
+        "LON": "-49,25309",
+        "NOME": "Rua Coronel Amazonas Marcondes, 1131 - Cabral",
+        "NUM": "120726",
+        "SENTIDO": "Ahú",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409724536433",
+        "LON": "-49,263231109123",
+        "NOME": "Rua Manoel Eufrásio, 1089 - Juveve",
+        "NUM": "120709",
+        "SENTIDO": "Ahú",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452143138887",
+        "LON": "-49,310076527613",
+        "NOME": "Rua Jaime Veiga, 302 - Seminário",
+        "NUM": "180899",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45193707955",
+        "LON": "-49,299865693993",
+        "NOME": "Avenida Silva Jardim, 7591 - Rebouças",
+        "NUM": "180893",
+        "SENTIDO": "Ahú",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440927646741",
+        "LON": "-49,270359305794",
+        "NOME": "Av. Silva Jardim, 989 - Rebouças",
+        "NUM": "110088",
+        "SENTIDO": "Ahú",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406094845623",
+        "LON": "-49,257314519014",
+        "NOME": "Rua S Sebastião, 27 - Ahu",
+        "NUM": "120714",
+        "SENTIDO": "Ahú",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397905134464",
+        "LON": "-49,255102629465",
+        "NOME": "Rua Santo Afonso de Ligório, 288 - Cabral",
+        "NUM": "120958",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410867950571",
+        "LON": "-49,266023353639",
+        "NOME": "R. Mal. Hermes, 910 - Centro Cívico",
+        "NUM": "120100",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39779",
+        "LON": "-49,25883",
+        "NOME": "R. Vereador Washington Mansur, 592 - Ahú",
+        "NUM": "120008",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404509291528",
+        "LON": "-49,258626401424",
+        "NOME": "Rua Santa Rita de Cássia, 257 - Ahú",
+        "NUM": "120989",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397905134464",
+        "LON": "-49,255102629465",
+        "NOME": "Rua Santo Afonso de Ligório, 288 - Cabral",
+        "NUM": "120958",
+        "SENTIDO": "Ahú",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443193510851",
+        "LON": "-49,276324538643",
+        "NOME": "Av. Silva Jardim, 5129 - Água Verde",
+        "NUM": "110081",
+        "SENTIDO": "Ahú",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410835243904",
+        "LON": "-49,265894607606",
+        "NOME": "Rua Mal. Hermes, 910 - Centro Cívico",
+        "NUM": "120705",
+        "SENTIDO": "Ahú",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451439380089",
+        "LON": "-49,305690110869",
+        "NOME": "Rua São Leopoldo, 1 - Seminário",
+        "NUM": "180896",
+        "SENTIDO": "Ahú",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441958250828",
+        "LON": "-49,273061631377",
+        "NOME": "Av. Silva Jardim, 4713 - Água Verde",
+        "NUM": "110082",
+        "SENTIDO": "Ahú",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40755420375",
+        "LON": "-49,260647084656",
+        "NOME": "Rua Marechal Mallet, 470 - Ahu",
+        "NUM": "120712",
+        "SENTIDO": "Ahú",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405612708093",
+        "LON": "-49,259756705523",
+        "NOME": "Rua S Sebastião, 219 - Ahu",
+        "NUM": "120713",
+        "SENTIDO": "Ahú",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451797820784",
+        "LON": "-49,303829998917",
+        "NOME": "Av. Sete de Setembro, 6751 - Seminário",
+        "NUM": "180881",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414183583213",
+        "LON": "-49,265916974491",
+        "NOME": "R. Prefeito Rosalvo G Mello Leitão, 101 - Centro Cívico",
+        "NUM": "120113",
+        "SENTIDO": "Ahú",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409254602716",
+        "LON": "-49,265514643139",
+        "NOME": "R. Manoel Eufrásio, 1223 - Ahú",
+        "NUM": "120973",
+        "SENTIDO": "Ahú",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449965644802",
+        "LON": "-49,294557602353",
+        "NOME": "Avenida Silva Jardim, 7075 - Rebouças",
+        "NUM": "180891",
+        "SENTIDO": "Ahú",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447279893506",
+        "LON": "-49,287251264996",
+        "NOME": "Av. Silva Jardim, 6265 - Água Verde",
+        "NUM": "180888",
+        "SENTIDO": "Ahú",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444464304344",
+        "LON": "-49,279757173008",
+        "NOME": "Av. Silva Jardim, 5437 - Água Verde",
+        "NUM": "180886",
+        "SENTIDO": "Ahú",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395384001468",
+        "LON": "-49,258242155117",
+        "NOME": "R. Vereador Washington Mansur, 892 - Ahú",
+        "NUM": "120007",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399745370803",
+        "LON": "-49,259257371229",
+        "NOME": "R. Vereador Washington Mansur, 462 - Ahú",
+        "NUM": "120009",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405831210926",
+        "LON": "-49,260403693861",
+        "NOME": "Rua Marechal Mallet, 719 - Ahu",
+        "NUM": "120979",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409859076878",
+        "LON": "-49,261351854748",
+        "NOME": "Rua Marechal Mallet, 279 - Ahu",
+        "NUM": "120976",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409654355507",
+        "LON": "-49,262957156843",
+        "NOME": "Rua Manoel Eufrásio, 1018 - Juveve",
+        "NUM": "120974",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409179497499",
+        "LON": "-49,265251786655",
+        "NOME": "R. Manoel Eufrásio, 1223 - Ahú",
+        "NUM": "120099",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451337660238",
+        "LON": "-49,305657924361",
+        "NOME": "Rua São Leopoldo, 144 - Seminário",
+        "NUM": "180895",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432601297492",
+        "LON": "-49,271034629292",
+        "NOME": "Marechal Floriano Peixoto - 265 - Ahú / los Angeles",
+        "NUM": "103272",
+        "SENTIDO": "Ahú",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409587243469",
+        "LON": "-49,261167201223",
+        "NOME": "Rua Marechal Mallet, 280 - Ahu",
+        "NUM": "120975",
+        "SENTIDO": "Ahú",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429998811043",
+        "LON": "-49,274660975879",
+        "NOME": "Rua Ébano Pereira, 218 - Centro",
+        "NUM": "110051",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439232384366",
+        "LON": "-49,275182665533",
+        "NOME": "Av. Visc. de Guarapuava, 2022 - Centro",
+        "NUM": "110089",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441524923468",
+        "LON": "-49,281029881186",
+        "NOME": "Av. Visc. de Guarapuava, 2616 - Batel",
+        "NUM": "180469",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443247023981",
+        "LON": "-49,285362989849",
+        "NOME": "Av. Visc. de Guarapuava, 3118 - Batel",
+        "NUM": "180885",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449025932357",
+        "LON": "-49,296590716786",
+        "NOME": "Av. Sete de Setembro, 6001 - Seminário",
+        "NUM": "180723",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452143138887",
+        "LON": "-49,310076527613",
+        "NOME": "Rua Jaime Veiga, 302 - Seminário",
+        "NUM": "180899",
+        "SENTIDO": "Ahú",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45153383416",
+        "LON": "-49,308306605763",
+        "NOME": "Rua Harry Blas Gom, 1-131 - Seminário",
+        "NUM": "180898",
+        "SENTIDO": "Ahú",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40206",
+        "LON": "-49,25861",
+        "NOME": "Av. Anita Garibaldi, 1076 - Ahú",
+        "NUM": "120003",
+        "SENTIDO": "Ahú",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43503105595",
+        "LON": "-49,27314034205",
+        "NOME": "Praça Rui Barbosa - 265 - Ahú Los Angeles / 289-Mad.Jd.Graziela",
+        "NUM": "102037",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451086993096",
+        "LON": "-49,297603250689",
+        "NOME": "Avenida Silva Jardim, 7299 - Rebouças",
+        "NUM": "180892",
+        "SENTIDO": "Ahú",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448040394038",
+        "LON": "-49,289264262862",
+        "NOME": "Av. Silva Jardim, 6465 - Água Verde",
+        "NUM": "180889",
+        "SENTIDO": "Ahú",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445750400981",
+        "LON": "-49,28318235392",
+        "NOME": "Av. Silva Jardim, 5845 - Água Verde",
+        "NUM": "180887",
+        "SENTIDO": "Ahú",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404545273926",
+        "LON": "-49,257811338847",
+        "NOME": "Av. Anita Garibaldi, 888 - Juvevê",
+        "NUM": "120233",
+        "SENTIDO": "Ahú",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407998401232",
+        "LON": "-49,260911972469",
+        "NOME": "Rua Marechal Mallet, 469 - Ahu",
+        "NUM": "120978",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4478500705",
+        "LON": "-49,293519587464",
+        "NOME": "Av. Sete de Setembro, 6001 - Batel",
+        "NUM": "180724",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450029825926",
+        "LON": "-49,299209893889",
+        "NOME": "Av. Sete de Setembro, 6311 - Seminário",
+        "NUM": "180722",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451093246714",
+        "LON": "-49,307976694054",
+        "NOME": "Rua São Leopoldo, 352 - Seminário",
+        "NUM": "180897",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430175641103",
+        "LON": "-49,271831245369",
+        "NOME": "Praça Tiradentes - 265 - Ahú/ Los Angeles",
+        "NUM": "101006",
+        "SENTIDO": "Ahú",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Ahú",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Ahú",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410028145598",
+        "LON": "-49,261676997518",
+        "NOME": "Rua Manoel Eufrásio, 923 - Juveve",
+        "NUM": "120710",
+        "SENTIDO": "Ahú",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413776385812",
+        "LON": "-49,266247318092",
+        "NOME": "Rua Prof. Benedito N dos Santos, 42 - Centro Cívico",
+        "NUM": "120706",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402697686074",
+        "LON": "-49,259931946796",
+        "NOME": "Rua Vereador Washington Mansur, 134 - Ahú",
+        "NUM": "120232",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440284802082",
+        "LON": "-49,277851463503",
+        "NOME": "Av. Visc. de Guarapuava, 2302 - Centro",
+        "NUM": "110090",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445392954434",
+        "LON": "-49,287607998795",
+        "NOME": "Rua Francisco Rocha, 2-130 - Batel",
+        "NUM": "180884",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446585794272",
+        "LON": "-49,290213764853",
+        "NOME": "Av. Sete de Setembro, 5317 - Batel",
+        "NUM": "180883",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "26",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450809684392",
+        "LON": "-49,30127787704",
+        "NOME": "Av. Sete de Setembro, 6609 - Seminário",
+        "NUM": "180882",
+        "SENTIDO": "Los Angeles",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    }
+]

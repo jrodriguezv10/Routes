@@ -1,0 +1,742 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,515806160069",
+        "LON": "-49,297320355472",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 1766 - Capão Raso",
+        "NUM": "170983",
+        "SENTIDO": "Zoológico",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Zoológico",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53178989363",
+        "LON": "-49,244141754406",
+        "NOME": "Rua Eduardo Pinto da Rocha, 53 - Alto Boqueirão",
+        "NUM": "160202",
+        "SENTIDO": "Zoológico",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527795032863",
+        "LON": "-49,249995480986",
+        "NOME": "Rua Francisco Derosso, 1831 - Alto Boqueirão",
+        "NUM": "150103",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540900958834",
+        "LON": "-49,241701836805",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1121 - Alto Boqueirão",
+        "NUM": "160015",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537240823609",
+        "LON": "-49,280280233135",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4386 -Sítio Cercado",
+        "NUM": "160029",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "Zoológico",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527700446571",
+        "LON": "-49,252658892031",
+        "NOME": "Rua Isaac Ferreira da Cruz, 73 - Xaxim",
+        "NUM": "150127",
+        "SENTIDO": "Zoológico",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531250956497",
+        "LON": "-49,25813842576",
+        "NOME": "Rua Isaac Ferreira da Cruz, 725 - Sítio Cercado",
+        "NUM": "150131",
+        "SENTIDO": "Zoológico",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,53438",
+        "LON": "-49,26826",
+        "NOME": "Terminal Sítio Cercado - 688 - Pinheirinho / Zoológico",
+        "NUM": "106109",
+        "SENTIDO": "Zoológico",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527907962279",
+        "LON": "-49,253038163195",
+        "NOME": "Rua Isaac Ferreira da Cruz, 130 - Xaxim",
+        "NUM": "150128",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533043189797",
+        "LON": "-49,263824489584",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2156 - Sítio Cercado",
+        "NUM": "160021",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536498352218",
+        "LON": "-49,273899504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3018 - Sítio Cercado",
+        "NUM": "160025",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512045500287",
+        "LON": "-49,295335334988",
+        "NOME": "Terminal Pinheirinho - 688 - Pinheirinho / Zoológico",
+        "NUM": "105736",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555848936872",
+        "LON": "-49,23069953373",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 303 - Alto Boqueirão",
+        "NUM": "160161",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534367856916",
+        "LON": "-49,268022179604",
+        "NOME": "Terminal Sítio Cercado - 688 - Pinheirinho / Zoológico",
+        "NUM": "106019",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Zoológico",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537682100813",
+        "LON": "-49,276909766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4022 -Sítio Cercado",
+        "NUM": "160028",
+        "SENTIDO": "Zoológico",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533720616656",
+        "LON": "-49,28669638525",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5155 - Pinheirinho",
+        "NUM": "160033",
+        "SENTIDO": "Zoológico",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55589",
+        "LON": "-49,23074",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 308 - Alto Boqueirão",
+        "NUM": "160162",
+        "SENTIDO": "Zoológico",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554570291888",
+        "LON": "-49,233208250332",
+        "NOME": "Rua João Miqueletto, 1370 - Alto Boqueirão",
+        "NUM": "160163",
+        "SENTIDO": "Zoológico",
+        "SEQ": "35",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55164",
+        "LON": "-49,23502",
+        "NOME": "Rua João Miqueletto, 874 - Alto Boqueirão",
+        "NUM": "160167",
+        "SENTIDO": "Zoológico",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548026798183",
+        "LON": "-49,237362273645",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160170",
+        "SENTIDO": "Zoológico",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544382347644",
+        "LON": "-49,241532683372",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1523 - Alto Boqueirão",
+        "NUM": "160158",
+        "SENTIDO": "Zoológico",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536359242943",
+        "LON": "-49,242055480985",
+        "NOME": "Rua Eduardo Pinto da Rocha, 602 - Alto Boqueirão",
+        "NUM": "160012",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530332485189",
+        "LON": "-49,25592524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 533 - Xaxim",
+        "NUM": "150130",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55211096155",
+        "LON": "-49,233869504299",
+        "NOME": "Rua João Miqueletto, 1067 - Alto Boqueirão",
+        "NUM": "160166",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533253124096",
+        "LON": "-49,263633061342",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2155 -Sítio Cercado",
+        "NUM": "160022",
+        "SENTIDO": "Zoológico",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536796554977",
+        "LON": "-49,274286326389",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3040 - Sítio Cercado",
+        "NUM": "160026",
+        "SENTIDO": "Zoológico",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53746",
+        "LON": "-49,28011",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4387 - Sítio Cercado",
+        "NUM": "160030",
+        "SENTIDO": "Zoológico",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528153440264",
+        "LON": "-49,29169157424",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6018 - Pinheirinho",
+        "NUM": "160038",
+        "SENTIDO": "Zoológico",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554592565752",
+        "LON": "-49,233083906746",
+        "NOME": "Rua João Miqueletto, 1389 - Alto Boqueirão",
+        "NUM": "160164",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551594022259",
+        "LON": "-49,234950262566",
+        "NOME": "Rua João Miqueletto, 883 - Alto Boqueirão",
+        "NUM": "160168",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547955729709",
+        "LON": "-49,237397871199",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160169",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548724092177",
+        "LON": "-49,239676093254",
+        "NOME": "Rua João Miqueletto, 469 - Alto Boqueirão",
+        "NUM": "160172",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534009271077",
+        "LON": "-49,243188229101",
+        "NOME": "Rua Eduardo Pinto da Rocha, 306 - Alto Boqueirão",
+        "NUM": "160740",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53098",
+        "LON": "-49,24467",
+        "NOME": "Rua Francisco Derosso, 1180 - Alto Boqueirão",
+        "NUM": "160003",
+        "SENTIDO": "Zoológico",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538330706356",
+        "LON": "-49,241851457672",
+        "NOME": "Rua Eduardo Pinto da Rocha, 824 - Alto Boqueirão",
+        "NUM": "160013",
+        "SENTIDO": "Zoológico",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536092234573",
+        "LON": "-49,283941807375",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4728 - Pinheirinho",
+        "NUM": "160032",
+        "SENTIDO": "Zoológico",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530323506367",
+        "LON": "-49,288999504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5608 - Pinheirinho",
+        "NUM": "160036",
+        "SENTIDO": "Zoológico",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542404382655",
+        "LON": "-49,242024023314",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1304 - Alto Boqueirão",
+        "NUM": "160156",
+        "SENTIDO": "Zoológico",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528701593137",
+        "LON": "-49,248695976686",
+        "NOME": "Rua Francisco Derosso, 1621 - Alto Boqueirão",
+        "NUM": "150105",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531175224574",
+        "LON": "-49,258401224537",
+        "NOME": "Rua Isaac Ferreira da Cruz, 726 - Sítio Cercado",
+        "NUM": "150132",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542500821379",
+        "LON": "-49,241928542328",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1303 - Alto Boqueirão",
+        "NUM": "160155",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5463",
+        "LON": "-49,24087",
+        "NOME": "Rua João Miqueletto, 75 - Alto Boqueirão",
+        "NUM": "160173",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53649",
+        "LON": "-49,24219",
+        "NOME": "Rua Eduardo Pinto da Rocha, 601 - Alto Boqueirão",
+        "NUM": "160011",
+        "SENTIDO": "Zoológico",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530533122806",
+        "LON": "-49,25601524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 522 - Xaxim",
+        "NUM": "150129",
+        "SENTIDO": "Zoológico",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552162099351",
+        "LON": "-49,233928512897",
+        "NOME": "Rua João Miqueletto, 1054 - Alto Boqueirão",
+        "NUM": "160165",
+        "SENTIDO": "Zoológico",
+        "SEQ": "34",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546328149911",
+        "LON": "-49,240902798777",
+        "NOME": "Rua João Miqueletto, 64 - Alto Boqueirão",
+        "NUM": "160174",
+        "SENTIDO": "Zoológico",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Zoológico",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530788028577",
+        "LON": "-49,244726209822",
+        "NOME": "Rua Francisco Derosso, 1183 - Alto Boqueirão",
+        "NUM": "160004",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538504453294",
+        "LON": "-49,241729271164",
+        "NOME": "Rua Eduardo Pinto da Rocha, 825 - Alto Boqueirão",
+        "NUM": "160014",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53756114281",
+        "LON": "-49,277001953373",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4021 - Sítio Cercado",
+        "NUM": "160027",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528980637297",
+        "LON": "-49,248502944775",
+        "NOME": "Rua Francisco Derosso, 1620 - Alto Boqueirão",
+        "NUM": "150104",
+        "SENTIDO": "Zoológico",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512045500287",
+        "LON": "-49,295335334988",
+        "NOME": "Terminal Pinheirinho - 688 - Pinheirinho / Zoológico",
+        "NUM": "105736",
+        "SENTIDO": "Zoológico",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Zoológico",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54886",
+        "LON": "-49,23971",
+        "NOME": "Rua João Miqueletto, 454 - Alto Boqueirão",
+        "NUM": "160171",
+        "SENTIDO": "Zoológico",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534033473441",
+        "LON": "-49,24328612973",
+        "NOME": "Rua Eduardo Pinto da Rocha, 307 - Alto Boqueirão",
+        "NUM": "160741",
+        "SENTIDO": "Zoológico",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535961343618",
+        "LON": "-49,283845480986",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4729 - Pinheirinho",
+        "NUM": "160031",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53176085025",
+        "LON": "-49,244026419418",
+        "NOME": "Rua Eduardo Pinto da Rocha, 54  - Alto Boqueirão",
+        "NUM": "160203",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195796464",
+        "LON": "-49,249836938658",
+        "NOME": "Rua Francisco Derosso, 1830 - Alto Boqueirão",
+        "NUM": "150102",
+        "SENTIDO": "Zoológico",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54036",
+        "LON": "-49,24173",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1048 - Alto Boqueirão",
+        "NUM": "160433",
+        "SENTIDO": "Zoológico",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519286491621",
+        "LON": "-49,297219650297",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 2152 - Capão Raso",
+        "NUM": "170123",
+        "SENTIDO": "Zoológico",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529877898401",
+        "LON": "-49,247130233135",
+        "NOME": "Rua Francisco Derosso, 1435 - Alto Boqueirão",
+        "NUM": "160002",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544355020884",
+        "LON": "-49,241432595072",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1524 - Alto Boqueirão",
+        "NUM": "160157",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    }
+]

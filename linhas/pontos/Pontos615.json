@@ -1,0 +1,522 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,489070417757",
+        "LON": "-49,307280495701",
+        "NOME": "Rua Pedro Zagonel, 1212 - Novo Mundo",
+        "NUM": "170039",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479505471989",
+        "LON": "-49,300836938658",
+        "NOME": "Rua Itacolomi, 849 - Portão",
+        "NUM": "170047",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489106419454",
+        "LON": "-49,310148542328",
+        "NOME": "Rua Pedro Zagonel, 1540 - Novo Mundo",
+        "NUM": "170040",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476032147778",
+        "LON": "-49,292551310009",
+        "NOME": "Terminal Portão  615 - Uberlândia (Desembarque)",
+        "NUM": "105808",
+        "SENTIDO": "Atendimento Portão Chegada",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48762",
+        "LON": "-49,30527",
+        "NOME": "Rua João Surian, 534 - Novo Mundo",
+        "NUM": "170037",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47791",
+        "LON": "-49,29761",
+        "NOME": "Rua Itatiaia, 472 - Portão",
+        "NUM": "170013",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4837",
+        "LON": "-49,31096",
+        "NOME": "Estrada Curitiba Araucária, 2190-2256 - Novo Mundo",
+        "NUM": "170043",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47791",
+        "LON": "-49,29761",
+        "NOME": "Rua Itatiaia, 472 - Portão",
+        "NUM": "170013",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479568789333",
+        "LON": "-49,304342303076",
+        "NOME": "Rua Itacolomi, 1258 - Portão",
+        "NUM": "170046",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475789418016",
+        "LON": "-49,294408658895",
+        "NOME": "Rua Luiz Parigot de Souza, 1 - Portão",
+        "NUM": "170048",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47878",
+        "LON": "-49,30482",
+        "NOME": "Rua Carlos Blanck, 270 - Portão",
+        "NUM": "170033",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47878",
+        "LON": "-49,30482",
+        "NOME": "Rua Carlos Blanck, 270 - Portão",
+        "NUM": "170033",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48557",
+        "LON": "-49,30387",
+        "NOME": "Rua Dalila Rolim Vargas, 53 - Novo Mundo",
+        "NUM": "170036",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4889",
+        "LON": "-49,30523",
+        "NOME": "Rua João Surian, 674 - Novo Mundo",
+        "NUM": "170038",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48579",
+        "LON": "-49,31112",
+        "NOME": "Rua Doutor Luís Losso Filho, 243 - Novo Mundo",
+        "NUM": "170042",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48334",
+        "LON": "-49,30729",
+        "NOME": "Estrada Curitiba Araucária, 1756 - Novo Mundo",
+        "NUM": "170045",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477931792305",
+        "LON": "-49,300722915344",
+        "NOME": "Rua Itatiaia, 834 - Portão",
+        "NUM": "170031",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48198",
+        "LON": "-49,30469",
+        "NOME": "Rua Carlos Blanck, 548 - Portão",
+        "NUM": "170034",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489070417757",
+        "LON": "-49,307280495701",
+        "NOME": "Rua Pedro Zagonel, 1212 - Novo Mundo",
+        "NUM": "170039",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477931792305",
+        "LON": "-49,300722915344",
+        "NOME": "Rua Itatiaia, 834 - Portão",
+        "NUM": "170031",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48401",
+        "LON": "-49,30527",
+        "NOME": "Rua João Surian, 90 - Novo Mundo",
+        "NUM": "170035",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48202",
+        "LON": "-49,30484",
+        "NOME": "Rua Carlos Blanck, 549 - Portão",
+        "NUM": "170681",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48401",
+        "LON": "-49,30527",
+        "NOME": "Rua João Surian, 90 - Novo Mundo",
+        "NUM": "170035",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479568789333",
+        "LON": "-49,304342303076",
+        "NOME": "Rua Itacolomi, 1258 - Portão",
+        "NUM": "170046",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476032147778",
+        "LON": "-49,292551310009",
+        "NOME": "Terminal Portão  615 - Uberlândia (Desembarque)",
+        "NUM": "105808",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48198",
+        "LON": "-49,30469",
+        "NOME": "Rua Carlos Blanck, 548 - Portão",
+        "NUM": "170034",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48202",
+        "LON": "-49,30484",
+        "NOME": "Rua Carlos Blanck, 549 - Portão",
+        "NUM": "170681",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489106419454",
+        "LON": "-49,310148542328",
+        "NOME": "Rua Pedro Zagonel, 1540 - Novo Mundo",
+        "NUM": "170040",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48841",
+        "LON": "-49,31114",
+        "NOME": "Rua Doutor Luís Losso Filho, 588 - Novo Mundo",
+        "NUM": "170041",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48762",
+        "LON": "-49,30527",
+        "NOME": "Rua João Surian, 534 - Novo Mundo",
+        "NUM": "170037",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48579",
+        "LON": "-49,31112",
+        "NOME": "Rua Doutor Luís Losso Filho, 243 - Novo Mundo",
+        "NUM": "170042",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479505471989",
+        "LON": "-49,300836938658",
+        "NOME": "Rua Itacolomi, 849 - Portão",
+        "NUM": "170047",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475789418016",
+        "LON": "-49,294408658895",
+        "NOME": "Rua Luiz Parigot de Souza, 1 - Portão",
+        "NUM": "170048",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atendimento Portão Chegada",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4837",
+        "LON": "-49,31096",
+        "NOME": "Estrada Curitiba Araucária, 2190-2256 - Novo Mundo",
+        "NUM": "170043",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48432",
+        "LON": "-49,30918",
+        "NOME": "Estrada Curitiba Araucária, 1940 - Novo Mundo",
+        "NUM": "170044",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48334",
+        "LON": "-49,30729",
+        "NOME": "Estrada Curitiba Araucária, 1756 - Novo Mundo",
+        "NUM": "170045",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48432",
+        "LON": "-49,30918",
+        "NOME": "Estrada Curitiba Araucária, 1940 - Novo Mundo",
+        "NUM": "170044",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Atedimento Uberlândia - Praça",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,4762902214",
+        "LON": "-49,292300398777",
+        "NOME": "Terminal Portão - 615 - Uberlândia",
+        "NUM": "105805",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48557",
+        "LON": "-49,30387",
+        "NOME": "Rua Dalila Rolim Vargas, 53 - Novo Mundo",
+        "NUM": "170036",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4889",
+        "LON": "-49,30523",
+        "NOME": "Rua João Surian, 674 - Novo Mundo",
+        "NUM": "170038",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48841",
+        "LON": "-49,31114",
+        "NOME": "Rua Doutor Luís Losso Filho, 588 - Novo Mundo",
+        "NUM": "170041",
+        "SENTIDO": "Atendimento Uberlândia Circular",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    }
+]

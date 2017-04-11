@@ -1,0 +1,132 @@
+[
+    {
+        "GRUPO": "26126",
+        "LAT": "-25,391105811316",
+        "LON": "-49,258135220048",
+        "NOME": "Estação Tubo Ahú",
+        "NUM": "109004",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14560",
+        "LAT": "-25,415626406879",
+        "LON": "-49,266380996651",
+        "NOME": "Estação Tubo Centro Cívico  - Assembléia",
+        "NUM": "109011",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26027",
+        "LAT": "-25,432066276608",
+        "LON": "-49,264155250202",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109031",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26027",
+        "LAT": "-25,432066276608",
+        "LON": "-49,264155250202",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109031",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14567",
+        "LAT": "-25,419830405313",
+        "LON": "-49,268907934775",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109022",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14570",
+        "LAT": "-25,419772264442",
+        "LON": "-49,26913860475",
+        "NOME": "Estação Tubo Comendador Fontana",
+        "NUM": "109023",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377839495353",
+        "LON": "-49,262410418096",
+        "NOME": "Terminal Barreirinha - 256 - Barreirinha / Guadalupe",
+        "NUM": "109078",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41857",
+        "LAT": "-25,433066059432",
+        "LON": "-49,265153436428",
+        "NOME": "Terminal Guadalupe - 256-Barreirinha/Guadalupe - 505-Boqueirão/Centro Cívico",
+        "NUM": "109029",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26126",
+        "LAT": "-25,391105811316",
+        "LON": "-49,258135220048",
+        "NOME": "Estação Tubo Ahú",
+        "NUM": "109004",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26083",
+        "LAT": "-25,426994816036",
+        "LON": "-49,264729242931",
+        "NOME": "Estação Tubo Circulo Militar",
+        "NUM": "109018",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26084",
+        "LAT": "-25,427237118653",
+        "LON": "-49,264801662574",
+        "NOME": "Estação Tubo Círculo Militar",
+        "NUM": "109020",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377839495353",
+        "LON": "-49,262410418096",
+        "NOME": "Terminal Barreirinha - 256 - Barreirinha / Guadalupe",
+        "NUM": "109078",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    }
+]

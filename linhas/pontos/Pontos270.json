@@ -1,0 +1,822 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,38316726432",
+        "LON": "-49,252421439833",
+        "NOME": "Rua Vicente Geronasso, 654 - Boa Vista",
+        "NUM": "120627",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379180196014",
+        "LON": "-49,237984941419",
+        "NOME": "Rua José Serrato, 130 - Santa Candida",
+        "NUM": "120928",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "41",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413712340163",
+        "LON": "-49,26050159449",
+        "NOME": "Rua Campos Sales, 592 - Juvevê",
+        "NUM": "120400",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402697686074",
+        "LON": "-49,259931946796",
+        "NOME": "Rua Vereador Washington Mansur, 134 - Ahú",
+        "NUM": "120232",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377238923391",
+        "LON": "-49,234336192065",
+        "NOME": "Rua José Serrato, 551 - Santa Candida",
+        "NUM": "120923",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404545273926",
+        "LON": "-49,257811338847",
+        "NOME": "Av. Anita Garibaldi, 888 - Juvevê",
+        "NUM": "120233",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38741973299",
+        "LON": "-49,259792150205",
+        "NOME": "Rua Flávio Dallegrave, 9106 - Boa Vista",
+        "NUM": "120642",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382701995207",
+        "LON": "-49,257115305609",
+        "NOME": "Rua Francisco Prestes Maia, 1031 - Boa Vista",
+        "NUM": "120633",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384138992466",
+        "LON": "-49,255206913895",
+        "NOME": "Rua Francisco Prestes Maia, 753 - Boa Vista",
+        "NUM": "120631",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384397068578",
+        "LON": "-49,25354528541",
+        "NOME": "Rua Vicente Geronasso, 412 - Boa Vista",
+        "NUM": "120629",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381208033046",
+        "LON": "-49,250600219912",
+        "NOME": "Rua Vicente Geronasso, 932 - Boa Vista",
+        "NUM": "120625",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "29",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377559682814",
+        "LON": "-49,247227342076",
+        "NOME": "Rua Vicente Geronasso, 1360 - Boa Vista",
+        "NUM": "120620",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374871247263",
+        "LON": "-49,244686836654",
+        "NOME": "Rua Vicente Geronasso, 1860 - Boa Vista",
+        "NUM": "120617",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410028145598",
+        "LON": "-49,261676997518",
+        "NOME": "Rua Manoel Eufrásio, 923 - Juveve",
+        "NUM": "120710",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38307",
+        "LON": "-49,26186",
+        "NOME": "Av. Anita Garibaldi, 3431 - São Lourenço",
+        "NUM": "120020",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39779",
+        "LON": "-49,25883",
+        "NOME": "R. Vereador Washington Mansur, 592 - Ahú",
+        "NUM": "120008",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392588279405",
+        "LON": "-49,258295477574",
+        "NOME": "Rua Flávio Dallegrave, 9880 - Boa Vista",
+        "NUM": "120643",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384335275756",
+        "LON": "-49,253644527143",
+        "NOME": "Rua Vicente Geronasso, 411 - Boa Vista",
+        "NUM": "120628",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381142603624",
+        "LON": "-49,250676662868",
+        "NOME": "Rua Vicente Geronasso, 931 - Boa Vista",
+        "NUM": "120624",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38591",
+        "LON": "-49,26049",
+        "NOME": "Rua Flávio Dallegrave, 8872 - Boa Vista",
+        "NUM": "120640",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39744",
+        "LON": "-49,25669",
+        "NOME": "Av. Anita Garibaldi, 1682 - Ahú",
+        "NUM": "120005",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381997309819",
+        "LON": "-49,243393615899",
+        "NOME": "Rua Marechal Anor Teixeira dos Santos, 201 - Boa Vista",
+        "NUM": "120783",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406094845623",
+        "LON": "-49,257314519014",
+        "NOME": "Rua S Sebastião, 27 - Ahu",
+        "NUM": "120714",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378946894926",
+        "LON": "-49,24503772317",
+        "NOME": "Rua Delegado Miguel Zacarias, 200 - Boa Vista",
+        "NUM": "120165",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377451281829",
+        "LON": "-49,243689544751",
+        "NOME": "Rua Delegado Miguel Zacarias, 36 - Boa Vista",
+        "NUM": "120166",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409254565852",
+        "LON": "-49,25687793011",
+        "NOME": "Av. Anita Garibaldi, 261 - Ahú",
+        "NUM": "120398",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387588144343",
+        "LON": "-49,259953082746",
+        "NOME": "Rua Flávio Dallegrave, 9106 - Boa Vista",
+        "NUM": "120641",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383026415725",
+        "LON": "-49,261333079284",
+        "NOME": "Rua Reverendo Braz Hernandes, 56 - Barreirinha",
+        "NUM": "120638",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382671704187",
+        "LON": "-49,258342416233",
+        "NOME": "Rua Paula Prevedello Gusso, 407- Boa Vista",
+        "NUM": "120635",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383117587234",
+        "LON": "-49,252516658253",
+        "NOME": "Rua Vicente Geronasso, 1 - Boa Vista",
+        "NUM": "120626",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416389209019",
+        "LON": "-49,264020652717",
+        "NOME": "Rua Eusébio da Mota, 214 - Alto da Glória",
+        "NUM": "120646",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399521854456",
+        "LON": "-49,257502884811",
+        "NOME": "Av. Anita Garibaldi, 1400 - Ahú",
+        "NUM": "120004",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385824054058",
+        "LON": "-49,260398329442",
+        "NOME": "Rua Flávio Dallegrave, 8871 - Boa Vista",
+        "NUM": "120639",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382726228017",
+        "LON": "-49,258220375723",
+        "NOME": "Rua Paula Prevedello Gusso, 430 - Boa Vista",
+        "NUM": "120634",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376614441357",
+        "LON": "-49,243944141231",
+        "NOME": "Rua Fernando de Noronha, 1525 - Santa Candida",
+        "NUM": "120615",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379168631855",
+        "LON": "-49,245348859416",
+        "NOME": "Rua Delegado Miguel Zacarias, 315 - Boa Vista",
+        "NUM": "120164",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40755420375",
+        "LON": "-49,260647084656",
+        "NOME": "Rua Marechal Mallet, 470 - Ahu",
+        "NUM": "120712",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399745370803",
+        "LON": "-49,259257371229",
+        "NOME": "R. Vereador Washington Mansur, 462 - Ahú",
+        "NUM": "120009",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376343137679",
+        "LON": "-49,246178598351",
+        "NOME": "Rua Vicente Geronasso, 1637 - Boa Vista",
+        "NUM": "120618",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381614428532",
+        "LON": "-49,243812040504",
+        "NOME": "Rua Marechal Anor Teixeira dos Santos, 258 - Boa Vista",
+        "NUM": "120782",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40206",
+        "LON": "-49,25861",
+        "NOME": "Av. Anita Garibaldi, 1076 - Ahú",
+        "NUM": "120003",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395158054012",
+        "LON": "-49,257438511795",
+        "NOME": "Av. Anita Garibaldi, 1897 - Ahú",
+        "NUM": "120006",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41108",
+        "LON": "-49,26382",
+        "NOME": "Rua Alberto Folloni, 477 - Juvevê",
+        "NUM": "120098",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409587243469",
+        "LON": "-49,261167201223",
+        "NOME": "Rua Marechal Mallet, 280 - Ahu",
+        "NUM": "120975",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377238923391",
+        "LON": "-49,234336192065",
+        "NOME": "Rua José Serrato, 551 - Santa Candida",
+        "NUM": "120923",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395384001468",
+        "LON": "-49,258242155117",
+        "NOME": "R. Vereador Washington Mansur, 892 - Ahú",
+        "NUM": "120007",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384048120465",
+        "LON": "-49,255166680759",
+        "NOME": "Rua Francisco Prestes Maia, 740 - Boa Vista",
+        "NUM": "120630",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428624130155",
+        "LON": "-49,270649732298",
+        "NOME": "Trav. Moreira Garcês - 270 - Fernando de Noronha",
+        "NUM": "101163",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380127722916",
+        "LON": "-49,24126394194",
+        "NOME": "Rua Waldemar Portugal Freixo, 286 - Boa Vista",
+        "NUM": "120779",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409724536433",
+        "LON": "-49,263231109123",
+        "NOME": "Rua Manoel Eufrásio, 1089 - Juveve",
+        "NUM": "120709",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411655485426",
+        "LON": "-49,258606613821",
+        "NOME": "Rua Campos Sales, 842 - Juvevê",
+        "NUM": "120399",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383592249062",
+        "LON": "-49,259529293721",
+        "NOME": "Rua Paula Prevedello Gusso, 261 - Boa Vista",
+        "NUM": "120636",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382620815256",
+        "LON": "-49,257022769398",
+        "NOME": "Rua Francisco Prestes Maia, 1042 - Boa Vista",
+        "NUM": "120632",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382156035565",
+        "LON": "-49,242048488077",
+        "NOME": "Rua Waldemar Portugal Freixo, 85 - Boa Vista",
+        "NUM": "120780",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379145057405",
+        "LON": "-49,238074795421",
+        "NOME": "Rua José Serrato, 125 - Santa Candida",
+        "NUM": "120929",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374505307508",
+        "LON": "-49,244504446441",
+        "NOME": "Rua Vicente Geronasso, 1859 - Boa Vista",
+        "NUM": "120616",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40491",
+        "LON": "-49,25769",
+        "NOME": "Rua Anita Garibaldi, 674 - Cabral",
+        "NUM": "120231",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377479593288",
+        "LON": "-49,243846240602",
+        "NOME": "Rua Delegado Miguel Zacarias, 1-69 - Boa Vista",
+        "NUM": "120167",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417228638685",
+        "LON": "-49,265875400251",
+        "NOME": "Rua Ivo Leão, 530 - Alto da Glória",
+        "NUM": "120645",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39209639258",
+        "LON": "-49,258165390437",
+        "NOME": "Rua Flávio Dallegrave, 9829 - Boa Vista",
+        "NUM": "120644",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379406287671",
+        "LON": "-49,248905063814",
+        "NOME": "Rua Vicente Geronasso, 1172- Boa Vista",
+        "NUM": "120623",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "30",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382326877548",
+        "LON": "-49,242028371509",
+        "NOME": "Rua Waldemar Portugal Freixo, 86 - Boa Vista",
+        "NUM": "120781",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37966001875",
+        "LON": "-49,240066335615",
+        "NOME": "Rua Fernando de Noronha, 987 - Santa Candida",
+        "NUM": "120690",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "40",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379527318923",
+        "LON": "-49,24011096531",
+        "NOME": "Rua Fernando de Noronha, 988 - Santa Candida",
+        "NUM": "120185",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415936320299",
+        "LON": "-49,262600423044",
+        "NOME": "Rua Campos Sales, 276 - Alto da Glória",
+        "NUM": "120401",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379424462776",
+        "LON": "-49,249063314146",
+        "NOME": "Rua Vicente Geronasso, 1171 - Boa Vista",
+        "NUM": "120622",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378285975828",
+        "LON": "-49,235988036807",
+        "NOME": "Rua José Serrato, 319 - Santa Candida",
+        "NUM": "120927",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414071965192",
+        "LON": "-49,263602228111",
+        "NOME": "Rua Alberto Foloni, 2 - Juveve",
+        "NUM": "120647",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384085382163",
+        "LON": "-49,259902120774",
+        "NOME": "Rua Paula Prevedello Gusso, 2 - Boa Vista",
+        "NUM": "120637",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376344349384",
+        "LON": "-49,246065945572",
+        "NOME": "Rua Vicente Geronasso, 1638 - Boa Vista",
+        "NUM": "120619",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378344136692",
+        "LON": "-49,235906229433",
+        "NOME": "Rua José Serrato, 320 - Santa Candida",
+        "NUM": "120924",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "42",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405612708093",
+        "LON": "-49,259756705523",
+        "NOME": "Rua S Sebastião, 219 - Ahu",
+        "NUM": "120713",
+        "SENTIDO": "Fernando de Noronha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428624130155",
+        "LON": "-49,270649732298",
+        "NOME": "Trav. Moreira Garcês - 270 - Fernando de Noronha",
+        "NUM": "101163",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417701181662",
+        "LON": "-49,265145839398",
+        "NOME": "Rua Lysímaco Ferreira da Costa, 1 - Alto da Glória",
+        "NUM": "120403",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377506368344",
+        "LON": "-49,24731183166",
+        "NOME": "Rua Vicente Geronasso, 1363 - Boa Vista",
+        "NUM": "120621",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380126511249",
+        "LON": "-49,241349772628",
+        "NOME": "Rua Waldemar Portugal Freixo, 285 - Boa Vista",
+        "NUM": "120778",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

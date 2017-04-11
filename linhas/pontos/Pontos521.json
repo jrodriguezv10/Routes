@@ -1,0 +1,272 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,500889422314",
+        "LON": "-49,242518046627",
+        "NOME": "Rua Antônio Schiebel, 1625 - Boqueirão",
+        "NUM": "150783",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522214778786",
+        "LON": "-49,24951842576",
+        "NOME": "Rua Júlio Zandoná, 755 - Alto Boqueirão",
+        "NUM": "150342",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506771267432",
+        "LON": "-49,247378921461",
+        "NOME": "Rua Paulo Setúbal, 3377 -Hauer",
+        "NUM": "150046",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503674841697",
+        "LON": "-49,248895743551",
+        "NOME": "Rua Antônio Schiebel, 2272 -Boqueirão",
+        "NUM": "150047",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521197897526",
+        "LON": "-49,250695014715",
+        "NOME": "Rua Max Schubert, 495 - Alto Boqueirão",
+        "NUM": "150339",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51942184602",
+        "LON": "-49,246385422702",
+        "NOME": "Rua Paraíso do Norte, 1 - Boqueirão",
+        "NUM": "150337",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502034114234",
+        "LON": "-49,245051283398",
+        "NOME": "Rua Antônio Schiebel, 1958 - Boqueirão",
+        "NUM": "150336",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520921271997",
+        "LON": "-49,248099883432",
+        "NOME": "Rua Doutor Blei Zorning, 5222 - Boqueirão",
+        "NUM": "150338",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522780318148",
+        "LON": "-49,251546705523",
+        "NOME": "Rua Bom Pastor, 346a - Alto Boqueirão",
+        "NUM": "150341",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512567262007",
+        "LON": "-49,244580262566",
+        "NOME": "Rua Paulo Setúbal, 4103 - Hauer",
+        "NUM": "150044",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500939738711",
+        "LON": "-49,242272565641",
+        "NOME": "Rua Antônio Schiebel, 1624 - Boqueirão",
+        "NUM": "150335",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514934889719",
+        "LON": "-49,244279661836",
+        "NOME": "Rua Desembargador Antonio de Paula, 2877 - Boqueirão",
+        "NUM": "150423",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503482160203",
+        "LON": "-49,248904635582",
+        "NOME": "Rua Antônio Schiebel, 2271 - Boqueirão",
+        "NUM": "150785",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50875",
+        "LON": "-49,24907",
+        "NOME": "Rua Cascavel, 960 - Boqueirão",
+        "NUM": "150786",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519368215215",
+        "LON": "-49,246505480986",
+        "NOME": "Rua Paraíso do Norte, 2 - Boqueirão",
+        "NUM": "150787",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511050575949",
+        "LON": "-49,245312565641",
+        "NOME": "Rua Paulo Setúbal, 3896 - Hauer",
+        "NUM": "150045",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500899575603",
+        "LON": "-49,237871527681",
+        "NOME": "Terminal Carmo - 521 -  Nivaldo Braga",
+        "NUM": "104908",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520898215493",
+        "LON": "-49,253236093254",
+        "NOME": "Rua Max Schubert, 195 - Alto Boqueirão",
+        "NUM": "150340",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520865974364",
+        "LON": "-49,24819319811",
+        "NOME": "Rua Doutor Blei Zorning, 5221 -Boqueirão",
+        "NUM": "150788",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506025703893",
+        "LON": "-49,250347029257",
+        "NOME": "Rua Cascavel, 628 -Boqueirão",
+        "NUM": "150760",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51197",
+        "LON": "-49,24746",
+        "NOME": "Rua Cascavel, 1336 - Boqueirão",
+        "NUM": "150761",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502059161513",
+        "LON": "-49,245363906746",
+        "NOME": "Rua Antônio Schiebel, 1957 - Boqueirão",
+        "NUM": "150784",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515996327471",
+        "LON": "-49,247282400292",
+        "NOME": "Rua Desembargador Antonio de Paula, 3154 - Boqueirão",
+        "NUM": "150421",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500899575603",
+        "LON": "-49,237871527681",
+        "NOME": "Terminal Carmo - 521 -  Nivaldo Braga",
+        "NUM": "104908",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522214778786",
+        "LON": "-49,24951842576",
+        "NOME": "Rua Júlio Zandoná, 755 - Alto Boqueirão",
+        "NUM": "150342",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516118567704",
+        "LON": "-49,247218027276",
+        "NOME": "Rua Desembargador Antonio de Paula, 3153 - Boqueirão",
+        "NUM": "150420",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50347",
+        "LON": "-49,2516",
+        "NOME": "Rua Cascavel, 328 - Boqueirão",
+        "NUM": "150749",
+        "SENTIDO": "Nivaldo Braga",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51210436029",
+        "LON": "-49,295018309193",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr",
+        "NUM": "105732",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554381482932",
+        "LON": "-49,307392984629",
+        "NOME": "Rua Hasdrúbal Belegard, 1271 - Cidade Industrial",
+        "NUM": "170671",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544216294343",
+        "LON": "-49,315904797845",
+        "NOME": "Rua Wiegando Olsen,724 - Cidade Industrial",
+        "NUM": "170352",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545598123819",
+        "LON": "-49,317748816543",
+        "NOME": "Rua Wiegando Olsen,1000 - Cidade Industrial",
+        "NUM": "170353",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546606332004",
+        "LON": "-49,31592643261",
+        "NOME": "Rua Hasdrúbal Belegard, 400 - Cidade Industrial",
+        "NUM": "170664",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549317891498",
+        "LON": "-49,313397109509",
+        "NOME": "Rua Hasdrúbal Belegard, 450 - Cidade Industrial",
+        "NUM": "170666",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550737170604",
+        "LON": "-49,327776432037",
+        "NOME": "Rua João Lunardeli, 2095 - Cidade Industrial",
+        "NUM": "170658",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552010030664",
+        "LON": "-49,331177473068",
+        "NOME": "Rua João Lunardeli, 2008- Cidade Industrial",
+        "NUM": "170655",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546538572481",
+        "LON": "-49,315722584724",
+        "NOME": "Rua Hasdrúbal Belegard, 401 - Cidade Industrial",
+        "NUM": "170663",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51210436029",
+        "LON": "-49,295018309193",
+        "NOME": "Terminal Pinheirinho - 656 - Kamyr",
+        "NUM": "105732",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550091984503",
+        "LON": "-49,328834386401",
+        "NOME": "Rua Wiegando Olsen,2020 - Cidade Industrial",
+        "NUM": "170360",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554381482932",
+        "LON": "-49,307392984629",
+        "NOME": "Rua Hasdrúbal Belegard, 1271 - Cidade Industrial",
+        "NUM": "170671",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551061436617",
+        "LON": "-49,312069416046",
+        "NOME": "Rua Hasdrúbal Belegard, 470 - Cidade Industrial",
+        "NUM": "170668",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526603915867",
+        "LON": "-49,29493537991",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6339 - Pinheirinho",
+        "NUM": "160362",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547383143804",
+        "LON": "-49,319214820862",
+        "NOME": "Rua João Lunardeli, 1351 - Cidade Industrial",
+        "NUM": "170661",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551284995143",
+        "LON": "-49,332020850711",
+        "NOME": "Rua Wiegando Olsen,2540 - Cidade Industrial",
+        "NUM": "170361",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552731150707",
+        "LON": "-49,310578107834",
+        "NOME": "Rua Hasdrúbal Belegard, 904  - Cidade Industrial",
+        "NUM": "170669",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55097069062",
+        "LON": "-49,311908483505",
+        "NOME": "Rua Hasdrúbal Belegard, 471 - Cidade Industrial",
+        "NUM": "170667",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552915059822",
+        "LON": "-49,310653209686",
+        "NOME": "Rua Hasdrúbal Belegard, 905  - Cidade Industrial",
+        "NUM": "170670",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549415898523",
+        "LON": "-49,324262738228",
+        "NOME": "Rua João Lunardeli, 1958 - Cidade Industrial",
+        "NUM": "170660",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549164226",
+        "LON": "-49,313254952431",
+        "NOME": "Rua Hasdrúbal Belegard, 451 - Cidade Industrial",
+        "NUM": "170665",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548640028554",
+        "LON": "-49,325004191928",
+        "NOME": "Rua Wiegando Olsen,1600 - Cidade Industrial",
+        "NUM": "170358",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547571901052",
+        "LON": "-49,319348931312",
+        "NOME": "Rua João Lunardeli, 1352  - Cidade Industrial",
+        "NUM": "170662",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546661710266",
+        "LON": "-49,319794000916",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170355",
+        "SENTIDO": "Hasdrubal Bellegard",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    }
+]

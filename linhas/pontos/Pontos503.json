@@ -1,0 +1,382 @@
+[
+    {
+        "GRUPO": "41786",
+        "LAT": "-25,452485915124",
+        "LON": "-49,261508807956",
+        "NOME": "Estação Tubo Conselheiro Dantas",
+        "NUM": "108073",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517171753547",
+        "LON": "-49,229834851521",
+        "NOME": "Terminal Boqueirão - 503 - Boqueirão",
+        "NUM": "104303",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43354",
+        "LAT": "-25,458132393893",
+        "LON": "-49,25865652849",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108078",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438600202675",
+        "LON": "-49,268210263199",
+        "NOME": "Estação Tubo UTFPR - Desembarque",
+        "NUM": "108068",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41783",
+        "LAT": "-25,44468781723",
+        "LON": "-49,265304383534",
+        "NOME": "Estação Tubo Getúlio Vargas",
+        "NUM": "108070",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26051",
+        "LAT": "-25,447431347258",
+        "LON": "-49,263825145262",
+        "NOME": "Estação Tubo Almirante Gonçalves",
+        "NUM": "108071",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43355",
+        "LAT": "-25,454404028117",
+        "LON": "-49,260474816381",
+        "NOME": "Estação Tubo João Viana Seiler",
+        "NUM": "108075",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43349",
+        "LAT": "-25,472307968783",
+        "LON": "-49,251698207754",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108084",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41784",
+        "LAT": "-25,443625749759",
+        "LON": "-49,26570537378",
+        "NOME": "Estação Tubo Getúlio Vargas",
+        "NUM": "108069",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501615789035",
+        "LON": "-49,237535573802",
+        "NOME": "Terminal Carmo - 503 - Boqueirão / 602 - Circular Sul (AH)",
+        "NUM": "104904",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481586469995",
+        "LON": "-49,247071361484",
+        "NOME": "Terminal Hauer - 503 - Boqueirão",
+        "NUM": "105505",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517171753547",
+        "LON": "-49,229834851521",
+        "NOME": "Terminal Boqueirão - 503 - Boqueirão",
+        "NUM": "104303",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26052",
+        "LAT": "-25,448495803122",
+        "LON": "-49,263417449491",
+        "NOME": "Estação Tubo Almirante Gonçalves",
+        "NUM": "108072",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26044",
+        "LAT": "-25,438864496385",
+        "LON": "-49,268206533687",
+        "NOME": "Estação Tubo UTFPR",
+        "NUM": "108067",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43356",
+        "LAT": "-25,455437896862",
+        "LON": "-49,260086253295",
+        "NOME": "Estação Tubo João Viana Seiler",
+        "NUM": "108076",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25424",
+        "LAT": "-25,495178470521",
+        "LON": "-49,240567811093",
+        "NOME": "Estação Tubo Cel. Luiz José dos Santos",
+        "NUM": "108091",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41785",
+        "LAT": "-25,451454190191",
+        "LON": "-49,261899319189",
+        "NOME": "Estação Tubo Conselheiro Dantas",
+        "NUM": "108074",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43333",
+        "LAT": "-25,506250493174",
+        "LON": "-49,235135987818",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108093",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43352",
+        "LAT": "-25,462976432893",
+        "LON": "-49,256245643318",
+        "NOME": "Estação Tubo Parolin",
+        "NUM": "108080",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43347",
+        "LAT": "-25,475889851024",
+        "LON": "-49,249993093571",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108085",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41797",
+        "LAT": "-25,466699045492",
+        "LON": "-49,254522994577",
+        "NOME": "Estação Tubo Ferrovila",
+        "NUM": "108081",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43344",
+        "LAT": "-25,489675972353",
+        "LON": "-49,243255384526",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108089",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41798",
+        "LAT": "-25,466638897352",
+        "LON": "-49,254349678764",
+        "NOME": "Estação Tubo Ferrovila",
+        "NUM": "108082",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43342",
+        "LAT": "-25,511499875429",
+        "LON": "-49,232588239273",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108095",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43345",
+        "LAT": "-25,485848104211",
+        "LON": "-49,245121181427",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108087",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43353",
+        "LAT": "-25,459149308599",
+        "LON": "-49,258267608183",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108077",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43351",
+        "LAT": "-25,463042423329",
+        "LON": "-49,256412610828",
+        "NOME": "Estação Tubo Parolin",
+        "NUM": "108079",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    }
+]

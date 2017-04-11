@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469209971689",
+        "LON": "-49,208329946941",
+        "NOME": "Terminal Centenário - 334 - Agricola",
+        "NUM": "105106",
+        "SENTIDO": "Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46656605399",
+        "LON": "-49,203063265047",
+        "NOME": "Rua Amador Bueno, 996 - Cajuru",
+        "NUM": "140395",
+        "SENTIDO": "Circular",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466439773669",
+        "LON": "-49,203044023314",
+        "NOME": "Rua Amador Bueno, 996 - Cajuru",
+        "NUM": "140396",
+        "SENTIDO": "Circular",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467141861457",
+        "LON": "-49,205399968133",
+        "NOME": "Rua Amador Bueno, 797 - Cajuru",
+        "NUM": "140685",
+        "SENTIDO": "Circular",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46588",
+        "LON": "-49,20073",
+        "NOME": "Rua Amador Bueno, 1238 - Cajuru",
+        "NUM": "140398",
+        "SENTIDO": "Circular",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460814300647",
+        "LON": "-49,193302186508",
+        "NOME": "Rua Santa Lúcia, 1258 - Cajuru",
+        "NUM": "140406",
+        "SENTIDO": "Circular",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463286096739",
+        "LON": "-49,193789504299",
+        "NOME": "Rua Fernando Zibarth, 1609 - Cajuru",
+        "NUM": "140407",
+        "SENTIDO": "Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465540713767",
+        "LON": "-49,192452915344",
+        "NOME": "Rua Benedito Mário da Silva, 497 - Cajuru",
+        "NUM": "140409",
+        "SENTIDO": "Circular",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465896724608",
+        "LON": "-49,193527317791",
+        "NOME": "Rua Benedito Mário da Silva, 419 - Cajuru",
+        "NUM": "140410",
+        "SENTIDO": "Circular",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466542081746",
+        "LON": "-49,195724046974",
+        "NOME": "Rua Benedito Mário da Silva, 153 - Cajuru",
+        "NUM": "140377",
+        "SENTIDO": "Circular",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467446676849",
+        "LON": "-49,198470669002",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140376",
+        "SENTIDO": "Circular",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469209971689",
+        "LON": "-49,208329946941",
+        "NOME": "Terminal Centenário - 334 - Agricola",
+        "NUM": "105106",
+        "SENTIDO": "Circular",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467723882337",
+        "LON": "-49,19849188643",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140375",
+        "SENTIDO": "Circular",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465991447122",
+        "LON": "-49,200700262566",
+        "NOME": "Rua Amador Bueno, 1238 - Cajuru",
+        "NUM": "140397",
+        "SENTIDO": "Circular",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467305112928",
+        "LON": "-49,200166938658",
+        "NOME": "Rua Tunísia, 528 - Cajuru",
+        "NUM": "140687",
+        "SENTIDO": "Circular",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45921",
+        "LON": "-49,19618",
+        "NOME": "Rua Sebastião Marcos Luis, Cajuru",
+        "NUM": "140404",
+        "SENTIDO": "Circular",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467018360599",
+        "LON": "-49,205428679128",
+        "NOME": "Rua Amador Bueno, 797 - Cajuru",
+        "NUM": "140394",
+        "SENTIDO": "Circular",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467224661206",
+        "LON": "-49,200045976687",
+        "NOME": "Rua Tunísia, 528- Cajuru",
+        "NUM": "140399",
+        "SENTIDO": "Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46656",
+        "LON": "-49,19705",
+        "NOME": "Rua Luís Visinoni, 1455 - Cajuru",
+        "NUM": "140400",
+        "SENTIDO": "Circular",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460458287857",
+        "LON": "-49,196597055225",
+        "NOME": "Rua Leonardo Novicki, 863 - Cajuru",
+        "NUM": "140403",
+        "SENTIDO": "Circular",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45895",
+        "LON": "-49,19418",
+        "NOME": "Rua Santa Lúcia, 1051 - Cajuru",
+        "NUM": "140405",
+        "SENTIDO": "Circular",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46248",
+        "LON": "-49,19627",
+        "NOME": "Rua Leonardo Novicki, 1117 - Cajuru",
+        "NUM": "140402",
+        "SENTIDO": "Circular",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46497",
+        "LON": "-49,19221",
+        "NOME": "Rua Santa Lúcia, 1878 - Cajuru",
+        "NUM": "140408",
+        "SENTIDO": "Circular",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464541339868",
+        "LON": "-49,196342215939",
+        "NOME": "Rua Luís Visinoni, 1351 - Cajuru",
+        "NUM": "140401",
+        "SENTIDO": "Circular",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    }
+]

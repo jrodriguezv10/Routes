@@ -1,0 +1,672 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378361214571",
+        "LON": "-49,277805865951",
+        "NOME": "Rua Catarina Prodlik, 157 - Abranches",
+        "NUM": "120260",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37970011819",
+        "LON": "-49,2770468008",
+        "NOME": "Rua Benedito Corrêa de Freitas, 659 - Abranches",
+        "NUM": "120256",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402803863146",
+        "LON": "-49,271324307865",
+        "NOME": "R. Mateus Leme, 2794 - São Lourenço",
+        "NUM": "120524",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388396571975",
+        "LON": "-49,267448515839",
+        "NOME": "Rua Mateus Leme, 4556 - São Lourenço",
+        "NUM": "120512",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386007305659",
+        "LON": "-49,273035557217",
+        "NOME": "R. João Gava, 664 - Abranches",
+        "NUM": "120075",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382061035603",
+        "LON": "-49,274230481333",
+        "NOME": "Rua Benedito Corrêa de Freitas, 284 - Abranches",
+        "NUM": "120251",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380718523176",
+        "LON": "-49,276263595767",
+        "NOME": "Rua Benedito Corrêa de Freitas, 598 - Abranches",
+        "NUM": "120253",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37968436647",
+        "LON": "-49,276955605692",
+        "NOME": "Rua Benedito Corrêa de Freitas, 695 - Abranches",
+        "NUM": "120255",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374806080814",
+        "LON": "-49,279143617697",
+        "NOME": "Rua Maria de Lourdes Mickosz, 456 - Taboão",
+        "NUM": "120263",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368047771658",
+        "LON": "-49,284976923349",
+        "NOME": "Rua Ver. Vadislau Bugalski, 7622 - Taboão",
+        "NUM": "120421",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428752515113",
+        "LON": "-49,271145940966",
+        "NOME": "Praça Tiradentes - 181 - Mateus Leme",
+        "NUM": "101018",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38211192477",
+        "LON": "-49,274304242081",
+        "NOME": "Rua Benedito Corrêa de Freitas, 284 - Abranches",
+        "NUM": "120252",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37301696319",
+        "LON": "-49,281634719318",
+        "NOME": "Rua Eugênio Flor, 1508 - Abranches",
+        "NUM": "120268",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415276193047",
+        "LON": "-49,271283184155",
+        "NOME": "R. Mateus Leme, 1290 - São Francisco",
+        "NUM": "120534",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370152381054",
+        "LON": "-49,284481884188",
+        "NOME": "Rua Eugênio Flor, 2370 - Abranches",
+        "NUM": "120420",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398860565152",
+        "LON": "-49,271567660466",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120520",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402880183771",
+        "LON": "-49,271456348791",
+        "NOME": "R. Mateus Leme, 2725 - São Lourenço",
+        "NUM": "120525",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405536838306",
+        "LON": "-49,271129119292",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120527",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379265127602",
+        "LON": "-49,278331578916",
+        "NOME": "Rua Clara Kucheny, 723 - Abranches",
+        "NUM": "120258",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393073193721",
+        "LON": "-49,269535274452",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120516",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410635561286",
+        "LON": "-49,271625327959",
+        "NOME": "R. Mateus Leme, 1771 - Bom Retiro",
+        "NUM": "120531",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374404395012",
+        "LON": "-49,281178743786",
+        "NOME": "Rua Eugênio Flor, 1332 - Abranches",
+        "NUM": "120266",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407071686833",
+        "LON": "-49,271422208494",
+        "NOME": "R. Mateus Leme, 2252 - Bom Retiro",
+        "NUM": "120528",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410257616302",
+        "LON": "-49,271434278435",
+        "NOME": "R. Mateus Leme, 1772 - Bom Retiro",
+        "NUM": "120530",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409001851992",
+        "LON": "-49,271733350699",
+        "NOME": "Rua Mateus Leme, 2081 - São Francisco (Bosque do Papa)",
+        "NUM": "120573",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "25",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415889116179",
+        "LON": "-49,271495240822",
+        "NOME": "R. Mateus Leme, 1298 - São Francisco",
+        "NUM": "120535",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391174700988",
+        "LON": "-49,267470586195",
+        "NOME": "R. Mateus Leme, 4303 - Bom Retiro",
+        "NUM": "120515",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393070770648",
+        "LON": "-49,269644516602",
+        "NOME": "R. Mateus Leme, 3690 - São Lourenço",
+        "NUM": "120517",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380808186023",
+        "LON": "-49,276281030126",
+        "NOME": "Rua Benedito Corrêa de Freitas, 598 - Abranches",
+        "NUM": "120254",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375461619481",
+        "LON": "-49,277076305098",
+        "NOME": "Rua Maria de Lourdes Mickosz, 166 - Taboão",
+        "NUM": "120262",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377652983081",
+        "LON": "-49,278013737148",
+        "NOME": "Rua Des. José Carlos Ribeiro Ribas,  1019 - Pilarzinho",
+        "NUM": "120275",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390608903185",
+        "LON": "-49,267388166136",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120514",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387358240445",
+        "LON": "-49,270174981302",
+        "NOME": "R. João Gava, 1 - Abranches",
+        "NUM": "120077",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385176140065",
+        "LON": "-49,274583191819",
+        "NOME": "Rua Antônio Krainiski, 183 - Abranches",
+        "NUM": "120249",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379273609327",
+        "LON": "-49,278248430438",
+        "NOME": "Rua Clara Kucheny,  723 - Abranches",
+        "NUM": "120257",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378276396648",
+        "LON": "-49,277564467138",
+        "NOME": "Rua Clara Kucheny, 798 - Abranches",
+        "NUM": "120259",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "26",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372481373892",
+        "LON": "-49,285045148081",
+        "NOME": "Rua Eugênio Flor, 2028  - Abranches",
+        "NUM": "120417",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "32",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407068052645",
+        "LON": "-49,271578389302",
+        "NOME": "R. Mateus Leme, 2309 - Centro Cívico",
+        "NUM": "120529",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418497032938",
+        "LON": "-49,271279322996",
+        "NOME": "R. Mateus Leme, 1090 - São Francisco",
+        "NUM": "110083",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395348437952",
+        "LON": "-49,271332354493",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120519",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372549231491",
+        "LON": "-49,285112203307",
+        "NOME": "Rua Eugênio Flor, 2028 - Abranches",
+        "NUM": "120418",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368047771658",
+        "LON": "-49,284976923349",
+        "NOME": "Rua Ver. Vadislau Bugalski, 7622 - Taboão",
+        "NUM": "120421",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428752515113",
+        "LON": "-49,271145940966",
+        "NOME": "Praça Tiradentes - 181 - Mateus Leme",
+        "NUM": "101018",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420385698666",
+        "LON": "-49,270935838087",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110086",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417706063681",
+        "LON": "-49,271222834452",
+        "NOME": "R. Mateus Leme, 1016 - São Francisco",
+        "NUM": "110084",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399998138075",
+        "LON": "-49,271383316463",
+        "NOME": "R. Mateus Leme, 3002 - São Lourenço",
+        "NUM": "120522",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397365591456",
+        "LON": "-49,271369905419",
+        "NOME": "R. Mateus Leme, 3380 - São Lourenço",
+        "NUM": "120521",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39561618219",
+        "LON": "-49,271136553234",
+        "NOME": "R. Mateus Leme, 3573 - Bom Retiro",
+        "NUM": "120518",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376946564985",
+        "LON": "-49,277026684231",
+        "NOME": "Rua Mateus Leme, 6641 - Abranches",
+        "NUM": "120312",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374302610162",
+        "LON": "-49,281198860354",
+        "NOME": "Rua Eugênio Flor, 1332 - Abranches",
+        "NUM": "120265",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385196737532",
+        "LON": "-49,274677069134",
+        "NOME": "Rua Antônio Krainiski, 183 - Abranches",
+        "NUM": "120250",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388946629633",
+        "LON": "-49,26759396781",
+        "NOME": "R. Mateus Leme, 4360 - São Lourenço",
+        "NUM": "120513",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413740237598",
+        "LON": "-49,271315532818",
+        "NOME": "R. Mateus Leme, 1517 - São Francisco",
+        "NUM": "120533",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405207333944",
+        "LON": "-49,271042675919",
+        "NOME": "R. Mateus Leme, 2523 - Bom Retiro",
+        "NUM": "120526",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40025860321",
+        "LON": "-49,271489876404",
+        "NOME": "R. Mateus Leme, 3053 - São Lourenço",
+        "NUM": "120523",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42054529215",
+        "LON": "-49,27105133523",
+        "NOME": "Rua Mateus Leme, 774 - São Francisco",
+        "NUM": "110085",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374941187503",
+        "LON": "-49,279392392582",
+        "NOME": "Rua Maria de Lourdes Mickosz, 456 - Taboão",
+        "NUM": "120264",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370355957661",
+        "LON": "-49,284597219176",
+        "NOME": "Rua Eugênio Flor, 2308 - Abranches",
+        "NUM": "120419",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421330479546",
+        "LON": "-49,270628725155",
+        "NOME": "Rua Sen. Xavier da Silva, 406 - Centro Cívico",
+        "NUM": "110087",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412732407619",
+        "LON": "-49,271372587627",
+        "NOME": "R. Mateus Leme,  1654 - São Francisco",
+        "NUM": "120532",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375690633074",
+        "LON": "-49,277101786084",
+        "NOME": "Rua Maria de Lourdes Mickosz, 166 - Taboão",
+        "NUM": "120261",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373025445354",
+        "LON": "-49,281544865316",
+        "NOME": "Rua Eugênio Flor, 1508 - Abranches",
+        "NUM": "120267",
+        "SENTIDO": "Mateus Leme",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    }
+]

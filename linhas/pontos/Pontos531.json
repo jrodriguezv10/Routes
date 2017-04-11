@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195796464",
+        "LON": "-49,249836938658",
+        "NOME": "Rua Francisco Derosso, 1830 - Alto Boqueirão",
+        "NUM": "150102",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534033473441",
+        "LON": "-49,24328612973",
+        "NOME": "Rua Eduardo Pinto da Rocha, 307 - Alto Boqueirão",
+        "NUM": "160741",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545590180102",
+        "LON": "-49,24536364418",
+        "NOME": "Rua Hilda Amaral Visinoni, 396 - Alto Boqueirão",
+        "NUM": "160472",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53869",
+        "LON": "-49,24743",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 768 - Alto Boqueirão",
+        "NUM": "160476",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53098",
+        "LON": "-49,24467",
+        "NOME": "Rua Francisco Derosso, 1180 - Alto Boqueirão",
+        "NUM": "160003",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545526439934",
+        "LON": "-49,245272069941",
+        "NOME": "Rua Hilda Amaral Visinoni, 395 - Alto Boqueirão",
+        "NUM": "160132",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54056",
+        "LON": "-49,24648",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 925 - Alto Boqueirão",
+        "NUM": "160135",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53871",
+        "LON": "-49,24732",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 767 - Alto Boqueirão",
+        "NUM": "160136",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536999747801",
+        "LON": "-49,247879038029",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 595 - Alto Boqueirão",
+        "NUM": "160137",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534009271077",
+        "LON": "-49,243188229101",
+        "NOME": "Rua Eduardo Pinto da Rocha, 306 - Alto Boqueirão",
+        "NUM": "160740",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542542238218",
+        "LON": "-49,246046209822",
+        "NOME": "Rua Hilda Amaral Visinoni, 86 - Alto Boqueirão",
+        "NUM": "160474",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537000890793",
+        "LON": "-49,24797475215",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 596 - Alto Boqueirão",
+        "NUM": "160477",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5355",
+        "LON": "-49,24415",
+        "NOME": "Rua Antônio Zak, 90 - Alto Boqueirão",
+        "NUM": "160479",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5302",
+        "LON": "-49,24684",
+        "NOME": "Rua Francisco Derosso, 1430 - Alto Boqueirão",
+        "NUM": "160001",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516667744765",
+        "LON": "-49,230904139881",
+        "NOME": "Terminal Boqueirão - 531 - Santa Inês",
+        "NUM": "104318",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54379",
+        "LON": "-49,24617",
+        "NOME": "Rua Hilda Amaral Visinoni, 228 - Alto Boqueirão",
+        "NUM": "160133",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529877898401",
+        "LON": "-49,247130233135",
+        "NOME": "Rua Francisco Derosso, 1435 - Alto Boqueirão",
+        "NUM": "160002",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543777371969",
+        "LON": "-49,246294985285",
+        "NOME": "Rua Hilda Amaral Visinoni, 229 - Alto Boqueirão",
+        "NUM": "160473",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54056089047",
+        "LON": "-49,246590845404",
+        "NOME": "Rua Expedicionario Francisco Alves de Oliveira, 926 - Alto Boqueirão",
+        "NUM": "160475",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542528858909",
+        "LON": "-49,245945976686",
+        "NOME": "Rua Hilda Amaral Visinoni, 87 - Alto Boqueirão",
+        "NUM": "160134",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53618",
+        "LON": "-49,24629",
+        "NOME": "Rua Antônio Zak, 375 - Alto Boqueirão",
+        "NUM": "160138",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530788028577",
+        "LON": "-49,244726209822",
+        "NOME": "Rua Francisco Derosso, 1183 - Alto Boqueirão",
+        "NUM": "160004",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53178989363",
+        "LON": "-49,244141754406",
+        "NOME": "Rua Eduardo Pinto da Rocha, 53 - Alto Boqueirão",
+        "NUM": "160202",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535576688874",
+        "LON": "-49,244094373016",
+        "NOME": "Rua Antônio Zak, 89 - Alto Boqueirão",
+        "NUM": "160139",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528701593137",
+        "LON": "-49,248695976686",
+        "NOME": "Rua Francisco Derosso, 1621 - Alto Boqueirão",
+        "NUM": "150105",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536100386026",
+        "LON": "-49,246413906746",
+        "NOME": "Rua Antônio Zak, 376 - Alto Boqueirão",
+        "NUM": "160478",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528980637297",
+        "LON": "-49,248502944775",
+        "NOME": "Rua Francisco Derosso, 1620 - Alto Boqueirão",
+        "NUM": "150104",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544147009699",
+        "LON": "-49,244632857637",
+        "NOME": "Rua Artur Ângelo Pelanda, 2 - Alto Boqueirão",
+        "NUM": "160045",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542409749166",
+        "LON": "-49,244442798777",
+        "NOME": "Rua Santinor Pinto da Rocha, 2-106 - Alto Boqueirão",
+        "NUM": "160130",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Sta Inês",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542409749166",
+        "LON": "-49,244442798777",
+        "NOME": "Rua Santinor Pinto da Rocha, 2-106 - Alto Boqueirão",
+        "NUM": "160130",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544133699522",
+        "LON": "-49,244852798777",
+        "NOME": "Rua Artur Ângelo Pelanda, 1 - Alto Boqueirão",
+        "NUM": "160131",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527795032863",
+        "LON": "-49,249995480986",
+        "NOME": "Rua Francisco Derosso, 1831 - Alto Boqueirão",
+        "NUM": "150103",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516667744765",
+        "LON": "-49,230904139881",
+        "NOME": "Terminal Boqueirão - 531 - Santa Inês",
+        "NUM": "104318",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53176085025",
+        "LON": "-49,244026419418",
+        "NOME": "Rua Eduardo Pinto da Rocha, 54  - Alto Boqueirão",
+        "NUM": "160203",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    }
+]

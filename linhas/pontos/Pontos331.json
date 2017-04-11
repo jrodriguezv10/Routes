@@ -1,0 +1,192 @@
+[
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,468933593845",
+        "LON": "-49,208375367734",
+        "NOME": "Terminal Centenário - 331 - Mercúrio",
+        "NUM": "105104",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47138",
+        "LON": "-49,20001",
+        "NOME": "Rua Deputado Acir José, 763 - Cajuru",
+        "NUM": "140220",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47739",
+        "LON": "-49,20262",
+        "NOME": "Rua Deputado Acir José, 28 - Cajuru",
+        "NUM": "140097",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47335",
+        "LON": "-49,20042",
+        "NOME": "Rua Deputado Acir José, 533 - Cajuru",
+        "NUM": "140219",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46914",
+        "LON": "-49,20388",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140647",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46962",
+        "LON": "-49,20589",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 570 - Cajuru",
+        "NUM": "140228",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46873",
+        "LON": "-49,19958",
+        "NOME": "Rua Deputado Acir José, 1081 - Cajuru",
+        "NUM": "140223",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47542",
+        "LON": "-49,20156",
+        "NOME": "Rua Deputado Acir José, 280 - Cajuru",
+        "NUM": "140099",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4754",
+        "LON": "-49,20139",
+        "NOME": "Rua Deputado Acir José, 280 - Cajuru",
+        "NUM": "140098",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4734",
+        "LON": "-49,20032",
+        "NOME": "Rua Deputado Acir José, 533 - Cajuru",
+        "NUM": "140218",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46901",
+        "LON": "-49,19976",
+        "NOME": "Rua Deputado Acir José, 1081 - Cajuru",
+        "NUM": "140222",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468698161648",
+        "LON": "-49,201938046627",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140225",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4774",
+        "LON": "-49,20248",
+        "NOME": "Rua Deputado Acir José, 28 - Cajuru",
+        "NUM": "140096",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46853",
+        "LON": "-49,20197",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140224",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469461524619",
+        "LON": "-49,205732565641",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 569 - Cajuru",
+        "NUM": "140227",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,468933593845",
+        "LON": "-49,208375367734",
+        "NOME": "Terminal Centenário - 331 - Mercúrio",
+        "NUM": "105104",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4774",
+        "LON": "-49,20248",
+        "NOME": "Rua Deputado Acir José, 28 - Cajuru",
+        "NUM": "140096",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47124",
+        "LON": "-49,20008",
+        "NOME": "Rua Deputado Acir José, 763 - Cajuru",
+        "NUM": "140221",
+        "SENTIDO": "Mercúrio",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469009161939",
+        "LON": "-49,203829567134",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140226",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    }
+]

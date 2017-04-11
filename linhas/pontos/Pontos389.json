@@ -1,0 +1,1492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,432913331797",
+        "LON": "-49,270474531707",
+        "NOME": "Rua José Loureiro - 389 - Madrugueiro Tarumã / Augusta",
+        "NUM": "103244",
+        "SENTIDO": "Tarumã",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438175113121",
+        "LON": "-49,277019978708",
+        "NOME": "Rua Doutor Pedrosa, 299- Centro",
+        "NUM": "110400",
+        "SENTIDO": "Tarumã",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Tarumã",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448254539211",
+        "LON": "-49,307778210587",
+        "NOME": "Avenida Nossa Senhora Aparecida, 785- Seminário",
+        "NUM": "180589",
+        "SENTIDO": "Tarumã",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449492156587",
+        "LON": "-49,303560436911",
+        "NOME": "Avenida Nossa Senhora Aparecida, 336 -  Seminário",
+        "NUM": "180663",
+        "SENTIDO": "Tarumã",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452609908541",
+        "LON": "-49,322724820322",
+        "NOME": "Rua Eduardo Sprada, 1083 - Campo Comprido",
+        "NUM": "180595",
+        "SENTIDO": "Tarumã",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422056936003",
+        "LON": "-49,199140698856",
+        "NOME": "Rua Epaminondas Santos, 2999 - Bairro Alto",
+        "NUM": "130377",
+        "SENTIDO": "Tarumã",
+        "SEQ": "66",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "Augusta",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Augusta",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Augusta",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442260028458",
+        "LON": "-49,287587882227",
+        "NOME": "Av. do Batel, 338 -  Batel",
+        "NUM": "180068",
+        "SENTIDO": "Augusta",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41514415979",
+        "LON": "-49,213906259483",
+        "NOME": "Rua Percy Feliciano de Castilho, 441 - Bairro Alto",
+        "NUM": "130390",
+        "SENTIDO": "Augusta",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447061791882",
+        "LON": "-49,348944078473",
+        "NOME": "Rua Eduardo Sprada, 4520 - Cidade Industrial",
+        "NUM": "180224",
+        "SENTIDO": "Augusta",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "Augusta",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Tarumã",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Tarumã",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44754732357",
+        "LON": "-49,310555638021",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1081- Seminário",
+        "NUM": "180474",
+        "SENTIDO": "Tarumã",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427524374154",
+        "LON": "-49,256165803617",
+        "NOME": "Rua Sete de Abril, 476 - Alto da Rua XV",
+        "NUM": "130902",
+        "SENTIDO": "Tarumã",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430822400891",
+        "LON": "-49,208425165361",
+        "NOME": "Rua Vitor Ferreira do Amaral, 473 - Tarumã",
+        "NUM": "130265",
+        "SENTIDO": "Tarumã",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410306390921",
+        "LON": "-49,204293906746",
+        "NOME": "Rua Albino Kaminski, 423 - Bairro Alto",
+        "NUM": "130192",
+        "SENTIDO": "Tarumã",
+        "SEQ": "71",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Augusta",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445831339586",
+        "LON": "-49,295767278618",
+        "NOME": "Rua Bispo Dom José, 130 - Batel",
+        "NUM": "180061",
+        "SENTIDO": "Augusta",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427451702698",
+        "LON": "-49,23764515037",
+        "NOME": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+        "NUM": "130200",
+        "SENTIDO": "Augusta",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427844128035",
+        "LON": "-49,23368218655",
+        "NOME": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+        "NUM": "130869",
+        "SENTIDO": "Augusta",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450660282056",
+        "LON": "-49,319675148672",
+        "NOME": "Rua Eduardo Sprada, 641 -  Campo Comprido",
+        "NUM": "180587",
+        "SENTIDO": "Augusta",
+        "SEQ": "57",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412636711787",
+        "LON": "-49,221714169926",
+        "NOME": "Rodovia BR476, 5151 - Bairro Alto",
+        "NUM": "130398",
+        "SENTIDO": "Augusta",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "Augusta",
+        "SEQ": "70",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Tarumã",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449521219856",
+        "LON": "-49,301673502869",
+        "NOME": "Av. Nossa Senhora Aparecida, 305 - Seminário",
+        "NUM": "180560",
+        "SENTIDO": "Tarumã",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Tarumã",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430542623207",
+        "LON": "-49,203904302067",
+        "NOME": "Rua Brasílio de Lara, 281 - Tarumã",
+        "NUM": "130248",
+        "SENTIDO": "Tarumã",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405285463033",
+        "LON": "-49,204431224537",
+        "NOME": "Rua Alberico Flores Bueno, 1287 - Bairro Alto",
+        "NUM": "130188",
+        "SENTIDO": "Tarumã",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Augusta",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437398806104",
+        "LON": "-49,277986915058",
+        "NOME": "Rua Emíliano Perneta, 724 - Centro",
+        "NUM": "110401",
+        "SENTIDO": "Augusta",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Augusta",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452527564707",
+        "LON": "-49,322748960203",
+        "NOME": "Rua Eduardo Sprada, 1082 -  Campo Comprido",
+        "NUM": "180585",
+        "SENTIDO": "Augusta",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410268518578",
+        "LON": "-49,207436771339",
+        "NOME": "Rua José de Oliveira Franco, 1327 - Bairro Alto",
+        "NUM": "130296",
+        "SENTIDO": "Augusta",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40349922706",
+        "LON": "-49,210627258963",
+        "NOME": "Rua José de Oliveira Franco, 482 - Bairro Alto",
+        "NUM": "130299",
+        "SENTIDO": "Augusta",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Tarumã",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449970488661",
+        "LON": "-49,313539595551",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1449- Seminário",
+        "NUM": "180472",
+        "SENTIDO": "Tarumã",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429388548952",
+        "LON": "-49,261842698997",
+        "NOME": "Rua Benjamin Constant, 316 - Centro",
+        "NUM": "110077",
+        "SENTIDO": "Tarumã",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415790836958",
+        "LON": "-49,202077542554",
+        "NOME": "Rua Epaminondas Santos, 2254 - Bairro Alto",
+        "NUM": "130383",
+        "SENTIDO": "Tarumã",
+        "SEQ": "69",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408620926872",
+        "LON": "-49,202871457672",
+        "NOME": "Rua Alberico Flores Bueno, 1767 - Bairro Alto",
+        "NUM": "130190",
+        "SENTIDO": "Tarumã",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446312184184",
+        "LON": "-49,336257229832",
+        "NOME": "Rua Eduardo Sprada, 3031 - Campo Comprido",
+        "NUM": "180547",
+        "SENTIDO": "Tarumã",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445601324109",
+        "LON": "-49,346307467011",
+        "NOME": "Rua Eduardo Sprada, 4300 - Campo Comprido",
+        "NUM": "180225",
+        "SENTIDO": "Tarumã",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Tarumã",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457290504784",
+        "LON": "-49,349505336232",
+        "NOME": "Rua Robert Redzimski, 190 - Cidade Industrial",
+        "NUM": "180262",
+        "SENTIDO": "Tarumã",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43257223014",
+        "LON": "-49,272639931387",
+        "NOME": "Praça Zacarias - 366 - Itupava / Hospital Militar - 393 - C. Imbuia / Parque Barigui",
+        "NUM": "103502",
+        "SENTIDO": "Augusta",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Augusta",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Augusta",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428264409307",
+        "LON": "-49,230169833845",
+        "NOME": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+        "NUM": "130208",
+        "SENTIDO": "Augusta",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449328675569",
+        "LON": "-49,31802022571",
+        "NOME": "Rua Eduardo Sprada, 331- Campo Comprido",
+        "NUM": "180588",
+        "SENTIDO": "Augusta",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450717651668",
+        "LON": "-49,315588803238",
+        "NOME": "Rua Eduardo Sprada, 80 -  Campo Comprido",
+        "NUM": "180471",
+        "SENTIDO": "Augusta",
+        "SEQ": "55",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439714013117",
+        "LON": "-49,281028014889",
+        "NOME": "Rua Benjamin Lins,-228 - Batel",
+        "NUM": "110020",
+        "SENTIDO": "Augusta",
+        "SEQ": "41",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405586506164",
+        "LON": "-49,209649593777",
+        "NOME": "Rua José de Oliveira Franco, 642 - Bairro Alto",
+        "NUM": "130662",
+        "SENTIDO": "Augusta",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449426840182",
+        "LON": "-49,330081443576",
+        "NOME": "Rua Eduardo Sprada, 1990 - Campo Comprido",
+        "NUM": "180669",
+        "SENTIDO": "Augusta",
+        "SEQ": "61",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "Augusta",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426311484368",
+        "LON": "-49,227804125494",
+        "NOME": "Rodovia BR476 - Jardim Botanico",
+        "NUM": "130909",
+        "SENTIDO": "Augusta",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42356",
+        "LON": "-49,22657",
+        "NOME": "Rodovia BR476 - Bacacheri",
+        "NUM": "130643",
+        "SENTIDO": "Augusta",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415349817674",
+        "LON": "-49,222078621387",
+        "NOME": "Rua Santa Madalena Sofia Barat, 84 - Bairro Alto",
+        "NUM": "130195",
+        "SENTIDO": "Augusta",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Tarumã",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430942305414",
+        "LON": "-49,265317500776",
+        "NOME": "Rua José Loureiro, 161 - Centro",
+        "NUM": "110402",
+        "SENTIDO": "Tarumã",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Tarumã",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Tarumã",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Tarumã",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Tarumã",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417800544201",
+        "LON": "-49,201148332304",
+        "NOME": "Rua Epaminondas Santos, 2544 - Bairro Alto",
+        "NUM": "130380",
+        "SENTIDO": "Tarumã",
+        "SEQ": "68",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419893632142",
+        "LON": "-49,20013848061",
+        "NOME": "Rua Epaminondas Santos, 2805 - Bairro Alto",
+        "NUM": "130378",
+        "SENTIDO": "Tarumã",
+        "SEQ": "67",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428119067247",
+        "LON": "-49,204321385569",
+        "NOME": "Rua Brasílio de Lara, 1 - Bairro Alto",
+        "NUM": "130246",
+        "SENTIDO": "Tarumã",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444503678285",
+        "LON": "-49,344249547666",
+        "NOME": "Rua Eduardo Sprada, 3999 - Campo Comprido",
+        "NUM": "180227",
+        "SENTIDO": "Tarumã",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445354278057",
+        "LON": "-49,338213901309",
+        "NOME": "Rua Eduardo Sprada, 3238 - Campo Comprido",
+        "NUM": "180548",
+        "SENTIDO": "Tarumã",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444244986598",
+        "LON": "-49,340635936049",
+        "NOME": "Rua Eduardo Sprada, 3611 - Campo Comprido",
+        "NUM": "180550",
+        "SENTIDO": "Tarumã",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Tarumã",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Augusta",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447480719143",
+        "LON": "-49,310633422083",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1080- Seminário",
+        "NUM": "180583",
+        "SENTIDO": "Augusta",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413232689659",
+        "LON": "-49,216947884506",
+        "NOME": "Rua Santa Madalena Sofia Barat, 665 - Bairro Alto",
+        "NUM": "130394",
+        "SENTIDO": "Augusta",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448747483905",
+        "LON": "-49,332565169123",
+        "NOME": "Rua Eduardo Sprada, 2374 - Campo Comprido",
+        "NUM": "180543",
+        "SENTIDO": "Augusta",
+        "SEQ": "62",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "Augusta",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399126824605",
+        "LON": "-49,212285876274",
+        "NOME": "Rua Rio Tietê, 26 - Bairro Alto",
+        "NUM": "130209",
+        "SENTIDO": "Augusta",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436444418977",
+        "LON": "-49,272614629083",
+        "NOME": "Praça Rui Barbosa - 365 - Jd Social/Batel  /  370-Rua XV / Barigui",
+        "NUM": "102025",
+        "SENTIDO": "Tarumã",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Tarumã",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Tarumã",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450745049082",
+        "LON": "-49,319559813684",
+        "NOME": "Rua Eduardo Sprada, 640 -  Campo Comprido",
+        "NUM": "180661",
+        "SENTIDO": "Tarumã",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413104124889",
+        "LON": "-49,203865234862",
+        "NOME": "Rua Jornalista Alceu Chichorro, 425 - Bairro Alto",
+        "NUM": "130384",
+        "SENTIDO": "Tarumã",
+        "SEQ": "70",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424217778594",
+        "LON": "-49,203291417307",
+        "NOME": "Rua Pedro Eloy da Souza, 1543 - Bairro Alto",
+        "NUM": "130242",
+        "SENTIDO": "Tarumã",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423411100857",
+        "LON": "-49,201568098015",
+        "NOME": "Rua José Veríssimo, 1313 - Bairro Alto",
+        "NUM": "130241",
+        "SENTIDO": "Tarumã",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451460042214",
+        "LON": "-49,324640582588",
+        "NOME": "Rua Eduardo Sprada, 1304 - Campo Comprido",
+        "NUM": "180666",
+        "SENTIDO": "Tarumã",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464601763882",
+        "LON": "-49,344926129368",
+        "NOME": "Rua Chapecó, 229 - Cidade Industrial",
+        "NUM": "180564",
+        "SENTIDO": "Tarumã",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452584889467",
+        "LON": "-49,353454889006",
+        "NOME": "Rua Robert Redzimski, 908 - Cidade Industrial",
+        "NUM": "180234",
+        "SENTIDO": "Tarumã",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428606306924",
+        "LON": "-49,265269813709",
+        "NOME": "Rua Quinze de Novembro, 971 - Centro (Teatro Guaíra)",
+        "NUM": "110092",
+        "SENTIDO": "Augusta",
+        "SEQ": "33",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444630015144",
+        "LON": "-49,293201745695",
+        "NOME": "Rua Bispo Dom José, 216 - Batel",
+        "NUM": "180065",
+        "SENTIDO": "Augusta",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44367572872",
+        "LON": "-49,290547699875",
+        "NOME": "Avenida do Batel, 744 - Batel",
+        "NUM": "180066",
+        "SENTIDO": "Augusta",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Augusta",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449681067709",
+        "LON": "-49,313371957487",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1450- Seminário",
+        "NUM": "180473",
+        "SENTIDO": "Augusta",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447663578481",
+        "LON": "-49,308270395941",
+        "NOME": "Avenida Nossa Senhora Aparecida, 786- Seminário",
+        "NUM": "180590",
+        "SENTIDO": "Augusta",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451472151712",
+        "LON": "-49,324471603421",
+        "NOME": "Rua Eduardo Sprada, 1305 - Campo Comprido",
+        "NUM": "180665",
+        "SENTIDO": "Augusta",
+        "SEQ": "59",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449305743087",
+        "LON": "-49,326074223307",
+        "NOME": "Rua Eduardo Sprada, 1408 - Campo Comprido",
+        "NUM": "180721",
+        "SENTIDO": "Augusta",
+        "SEQ": "60",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446172918912",
+        "LON": "-49,336335013894",
+        "NOME": "Rua Eduardo Sprada, 3032- Campo Comprido",
+        "NUM": "180546",
+        "SENTIDO": "Augusta",
+        "SEQ": "64",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445236809904",
+        "LON": "-49,338655124692",
+        "NOME": "Rua Eduardo Sprada, 3237- Campo Comprido",
+        "NUM": "180549",
+        "SENTIDO": "Augusta",
+        "SEQ": "65",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445918608",
+        "LON": "-49,347224782494",
+        "NOME": "Rua Eduardo Sprada, 4266 - Campo Comprido",
+        "NUM": "180226",
+        "SENTIDO": "Augusta",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "Augusta",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462757674447",
+        "LON": "-49,345736156491",
+        "NOME": "R. João Dembinski, 1532 - Cidade Industrial",
+        "NUM": "180175",
+        "SENTIDO": "Augusta",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428392794649",
+        "LON": "-49,259401888794",
+        "NOME": "Rua Benjamin Constant, 481- Centro",
+        "NUM": "110078",
+        "SENTIDO": "Tarumã",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449346840137",
+        "LON": "-49,299661846107",
+        "NOME": "Av. Nossa Senhora Aparecida, 83 - Seminário",
+        "NUM": "180660",
+        "SENTIDO": "Tarumã",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449432819058",
+        "LON": "-49,30559221024",
+        "NOME": "Av. Nossa Senhora Aparecida, 779 - Seminário",
+        "NUM": "180662",
+        "SENTIDO": "Tarumã",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Tarumã",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Tarumã",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426864273496",
+        "LON": "-49,202375442928",
+        "NOME": "Rua Visconde de Abaeté, 237 - Bairro Alto",
+        "NUM": "130245",
+        "SENTIDO": "Tarumã",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401237268728",
+        "LON": "-49,206344868717",
+        "NOME": "Rua Alberico Flores Bueno, 801 - Bairro Alto",
+        "NUM": "130186",
+        "SENTIDO": "Tarumã",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440213349386",
+        "LON": "-49,281829179472",
+        "NOME": "Rua Benjamin Lins, 134 -  Batel",
+        "NUM": "180958",
+        "SENTIDO": "Tarumã",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449872476443",
+        "LON": "-49,329679112224",
+        "NOME": "Rua Eduardo Sprada, 1989- Campo Comprido",
+        "NUM": "180668",
+        "SENTIDO": "Tarumã",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44919312268",
+        "LON": "-49,351521681336",
+        "NOME": "Rua Eduardo Sprada, 4901 - Cidade Industrial",
+        "NUM": "180222",
+        "SENTIDO": "Tarumã",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454226910973",
+        "LON": "-49,352918447203",
+        "NOME": "Rua Robert Redzimski, 699 - Cidade Industrial",
+        "NUM": "180254",
+        "SENTIDO": "Tarumã",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456005742328",
+        "LON": "-49,352023930496",
+        "NOME": "Rua Robert Redzimski, 504 - Cidade Industrial",
+        "NUM": "180256",
+        "SENTIDO": "Tarumã",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "Augusta",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411953032013",
+        "LON": "-49,220856691094",
+        "NOME": "Rodovia BR476 - Bairro Alto",
+        "NUM": "130285",
+        "SENTIDO": "Augusta",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449045307946",
+        "LON": "-49,299357415384",
+        "NOME": "Av. Nossa Senhora Aparecida, 84 - Seminário",
+        "NUM": "180596",
+        "SENTIDO": "Augusta",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449309300026",
+        "LON": "-49,302755774206",
+        "NOME": "Av. Nossa Senhora Aparecida, 334 - Seminário",
+        "NUM": "180470",
+        "SENTIDO": "Augusta",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413048566728",
+        "LON": "-49,207769365257",
+        "NOME": "Rua Antônio Cândido Cavalim, 109 - Bairro Alto",
+        "NUM": "130386",
+        "SENTIDO": "Augusta",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41463419512",
+        "LON": "-49,215596051163",
+        "NOME": "Rua Sebastião Silva, 251 - Bairro Alto",
+        "NUM": "130392",
+        "SENTIDO": "Augusta",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414393142186",
+        "LON": "-49,219571084922",
+        "NOME": "Rua Santa Madalena Sofia Barat, 359 - Bairro Alto",
+        "NUM": "130397",
+        "SENTIDO": "Augusta",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416298537406",
+        "LON": "-49,223308743185",
+        "NOME": "Rodovia BR476, 5151 - Bairro Alto",
+        "NUM": "130440",
+        "SENTIDO": "Augusta",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444228776465",
+        "LON": "-49,344030947632",
+        "NOME": "Rua Eduardo Sprada, 3958 - Campo Comprido",
+        "NUM": "180228",
+        "SENTIDO": "Augusta",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "Augusta",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465363376178",
+        "LON": "-49,345147807741",
+        "NOME": "R. João Dembinski, 1792 - Cidade Industrial",
+        "NUM": "180173",
+        "SENTIDO": "Augusta",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431968150347",
+        "LON": "-49,267909855789",
+        "NOME": "Rua José Loureiro, 274 - Centro",
+        "NUM": "110200",
+        "SENTIDO": "Tarumã",
+        "SEQ": "43",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Tarumã",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Tarumã",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449418287414",
+        "LON": "-49,317970604843",
+        "NOME": "Rua Eduardo Sprada, 332 - Campo Comprido",
+        "NUM": "180594",
+        "SENTIDO": "Tarumã",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450875076021",
+        "LON": "-49,315331311172",
+        "NOME": "Rua Eduardo Sprada, 81 - Campo Comprido",
+        "NUM": "180586",
+        "SENTIDO": "Tarumã",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Tarumã",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449797396536",
+        "LON": "-49,326999585417",
+        "NOME": "Rua Eduardo Sprada, 1658 - Campo Comprido",
+        "NUM": "180667",
+        "SENTIDO": "Tarumã",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44936629165",
+        "LON": "-49,332553099183",
+        "NOME": "Rua Eduardo Sprada, 2297 - Campo Comprido",
+        "NUM": "180541",
+        "SENTIDO": "Tarumã",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448389034129",
+        "LON": "-49,334804813651",
+        "NOME": "Rua Eduardo Sprada, 2738 - Campo Comprido",
+        "NUM": "180544",
+        "SENTIDO": "Tarumã",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447681819278",
+        "LON": "-49,349527458933",
+        "NOME": "Rua Eduardo Sprada, 4651 - Cidade Industrial",
+        "NUM": "180223",
+        "SENTIDO": "Tarumã",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399126824605",
+        "LON": "-49,212285876274",
+        "NOME": "Rua Rio Tietê, 26 - Bairro Alto",
+        "NUM": "130209",
+        "SENTIDO": "Tarumã",
+        "SEQ": "75",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411953032013",
+        "LON": "-49,220856691094",
+        "NOME": "Rodovia BR476 - Bairro Alto",
+        "NUM": "130285",
+        "SENTIDO": "Augusta",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411953032013",
+        "LON": "-49,220856691094",
+        "NOME": "Rodovia BR476 - Bairro Alto",
+        "NUM": "130285",
+        "SENTIDO": "Augusta",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449168827248",
+        "LON": "-49,306097806639",
+        "NOME": "Av. Nossa Senhora Aparecida, 778 - Seminário",
+        "NUM": "180584",
+        "SENTIDO": "Augusta",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Augusta",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Augusta",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Augusta",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Augusta",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439144636631",
+        "LON": "-49,279914985285",
+        "NOME": "Rua Emíliano Perneta, 922- Centro",
+        "NUM": "110019",
+        "SENTIDO": "Augusta",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414050337435",
+        "LON": "-49,211124808735",
+        "NOME": "Rua Percy Feliciano de Castilho, 733 - Bairro Alto",
+        "NUM": "130388",
+        "SENTIDO": "Augusta",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419240757338",
+        "LON": "-49,224639118856",
+        "NOME": "Rodovia BR476  - Bacacheri",
+        "NUM": "130441",
+        "SENTIDO": "Augusta",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407830018361",
+        "LON": "-49,208572686857",
+        "NOME": "Rua José de Oliveira Franco, 962 - Bairro Alto",
+        "NUM": "130294",
+        "SENTIDO": "Augusta",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448196488031",
+        "LON": "-49,334690819768",
+        "NOME": "Rua Eduardo Sprada, 2739 - Campo Comprido",
+        "NUM": "180545",
+        "SENTIDO": "Augusta",
+        "SEQ": "63",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444091186648",
+        "LON": "-49,340947072295",
+        "NOME": "Rua Eduardo Sprada, 3613 - Campo Comprido",
+        "NUM": "180720",
+        "SENTIDO": "Augusta",
+        "SEQ": "66",
+        "TIPO": "Placa em poste"
+    }
+]

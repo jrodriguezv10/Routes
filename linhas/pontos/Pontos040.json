@@ -1,0 +1,2502 @@
+[
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400519010066",
+        "LON": "-49,330765623977",
+        "NOME": "Terminal Santa Felicidade - 040 - Interbairros lV",
+        "NUM": "106001",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410445377579",
+        "LON": "-49,346344352907",
+        "NOME": "Av. Vereador Toaldo Túlio, 1868 - São Braz",
+        "NUM": "190251",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476050721268",
+        "LON": "-49,33679004445",
+        "NOME": "R. João Dembinski, 3322 - Cidade Industrial",
+        "NUM": "180132",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501185385051",
+        "LON": "-49,327111573166",
+        "NOME": "R. João Bettega, 4701 - Cidade Industrial",
+        "NUM": "180084",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404229718282",
+        "LON": "-49,335376800245",
+        "NOME": "Av. Vereador Toaldo Túlio, 641 - São Braz",
+        "NUM": "190244",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512038218809",
+        "LON": "-49,304108668708",
+        "NOME": "Rua João Rodrigues Pinheiro, 846 - Capão Raso",
+        "NUM": "170054",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512115680535",
+        "LON": "-49,308153439903",
+        "NOME": "Rua João Rodrigues Pinheiro, 1392 - Capão Raso",
+        "NUM": "170055",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512217348975",
+        "LON": "-49,313764621162",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 1622 - Cidade Industrial",
+        "NUM": "170070",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491103566424",
+        "LON": "-49,322432459539",
+        "NOME": "R. João Bettega, 3350 - Fazendinha",
+        "NUM": "180091",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487807191315",
+        "LON": "-49,319746227211",
+        "NOME": "R. João Bettega, 2967 - Cidade Industrial",
+        "NUM": "180092",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400519010066",
+        "LON": "-49,330765623977",
+        "NOME": "Terminal Santa Felicidade - 040 - Interbairros lV",
+        "NUM": "106001",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "61",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410601643194",
+        "LON": "-49,346396655983",
+        "NOME": "Av. Vereador Toaldo Túlio, 1977 - São Braz",
+        "NUM": "190252",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404229718282",
+        "LON": "-49,335376800245",
+        "NOME": "Av. Vereador Toaldo Túlio, 641 - São Braz",
+        "NUM": "190244",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "111",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482331104997",
+        "LON": "-49,322968487429",
+        "NOME": "R. Gen. Potiguara, 2430 - Fazendinha",
+        "NUM": "180096",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476057985482",
+        "LON": "-49,336623747491",
+        "NOME": "R. João Dembinski, 3323 - Cidade Industrial",
+        "NUM": "180131",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513730262009",
+        "LON": "-49,303941030645",
+        "NOME": "Rua José Rodrigues Pinheiro, 913 - Capão Raso",
+        "NUM": "170081",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "124",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435506094865",
+        "LON": "-49,349913930988",
+        "NOME": "Rua Prof. João Falarz, 650 - Orleans",
+        "NUM": "190297",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433111466638",
+        "LON": "-49,352018566078",
+        "NOME": "Rua Prof. João Falarz, 10 - Orleans",
+        "NUM": "190295",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406928742016",
+        "LON": "-49,3368211698",
+        "NOME": "Av. Vereador Toaldo Túlio, 920 - Santa Felicidade",
+        "NUM": "190245",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484492076515",
+        "LON": "-49,321444992709",
+        "NOME": "R. Gen. Potiguara, 1763 - Fazendinha",
+        "NUM": "180095",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50900869992",
+        "LON": "-49,330526025242",
+        "NOME": "Rua João Bettega, 5772 - Cidade Industrial",
+        "NUM": "180081",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474872702043",
+        "LON": "-49,338318903589",
+        "NOME": "R. João Dembinski, 3086 - Cidade Industrial",
+        "NUM": "180134",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465363376178",
+        "LON": "-49,345147807741",
+        "NOME": "R. João Dembinski, 1792 - Cidade Industrial",
+        "NUM": "180173",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513819825863",
+        "LON": "-49,307779271745",
+        "NOME": "Rua José Rodrigues Pinheiro, 1171 - Capão Raso",
+        "NUM": "170079",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400519010066",
+        "LON": "-49,330765623977",
+        "NOME": "Terminal Santa Felicidade - 040 - Interbairros lV",
+        "NUM": "106001",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "60",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407821538641",
+        "LON": "-49,338895858473",
+        "NOME": "Av. Vereador Toaldo Túlio, 1159 - Santa Felicidade",
+        "NUM": "190248",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453787465399",
+        "LON": "-49,348903845338",
+        "NOME": "Rua João Dembinski, 541 - Cidade Industrial",
+        "NUM": "180216",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482331104997",
+        "LON": "-49,322968487429",
+        "NOME": "R. Gen. Potiguara, 2430 - Fazendinha",
+        "NUM": "180096",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511802796662",
+        "LON": "-49,324250758266",
+        "NOME": "Terminal CIC - 040 -Interbairros IV",
+        "NUM": "105206",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501185385051",
+        "LON": "-49,327111573166",
+        "NOME": "R. João Bettega, 4701 - Cidade Industrial",
+        "NUM": "180084",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494513639716",
+        "LON": "-49,324894727415",
+        "NOME": "R. João Bettega, 4100 - Cidade Industrial",
+        "NUM": "180089",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408017783418",
+        "LON": "-49,339948625511",
+        "NOME": "Av. Vereador Toaldo Túlio, 1062 - São Braz",
+        "NUM": "190247",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453787465399",
+        "LON": "-49,348903845338",
+        "NOME": "Rua João Dembinski, 541 - Cidade Industrial",
+        "NUM": "180216",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455608685041",
+        "LON": "-49,348111252574",
+        "NOME": "Rua João Dembinski, 701 - Cidade Industrial",
+        "NUM": "180214",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411327245994",
+        "LON": "-49,349471808619",
+        "NOME": "Av. Vereador Toaldo Túlio, 2297 - São Braz",
+        "NUM": "190254",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406928742016",
+        "LON": "-49,3368211698",
+        "NOME": "Av. Vereador Toaldo Túlio, 920 - Santa Felicidade",
+        "NUM": "190245",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192657914",
+        "LON": "-49,350849122948",
+        "NOME": "Av. Vereador Toaldo Túlio, 2558 - São Braz",
+        "NUM": "190080",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42366297912",
+        "LON": "-49,351036877579",
+        "NOME": "Av. Vereador Toaldo Túlio, 3985 - São Braz",
+        "NUM": "190075",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515147541642",
+        "LON": "-49,320860405111",
+        "NOME": "Rua Padre Gaston, 458 - Cidade Industrial",
+        "NUM": "170084",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "115",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441539065196",
+        "LON": "-49,347181690807",
+        "NOME": "Terminal Campo Comprido - 040 - Interbairros IV",
+        "NUM": "104612",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494513639716",
+        "LON": "-49,324894727415",
+        "NOME": "R. João Bettega, 4100 - Cidade Industrial",
+        "NUM": "180089",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462757674447",
+        "LON": "-49,345736156491",
+        "NOME": "R. João Dembinski, 1532 - Cidade Industrial",
+        "NUM": "180175",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192657914",
+        "LON": "-49,350849122948",
+        "NOME": "Av. Vereador Toaldo Túlio, 2558 - São Braz",
+        "NUM": "190080",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423547912277",
+        "LON": "-49,351122708267",
+        "NOME": "Av. Vereador Toaldo Túlio, 3900 - São Braz",
+        "NUM": "190074",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425724473852",
+        "LON": "-49,352981479115",
+        "NOME": "Av. Vereador Toaldo Túlio, 4222 - São Braz",
+        "NUM": "190072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481931593403",
+        "LON": "-49,323107962298",
+        "NOME": "R. Gen. Potiguara, 2429 - Fazendinha",
+        "NUM": "180097",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470620598323",
+        "LON": "-49,343152244233",
+        "NOME": "R. João Dembinski, 2281 - Cidade Industrial",
+        "NUM": "180138",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515147541642",
+        "LON": "-49,320860405111",
+        "NOME": "Rua Padre Gaston, 458 - Cidade Industrial",
+        "NUM": "170084",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477396729701",
+        "LON": "-49,326659620866",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV (H) - 720 - Fazendinha / Campo Comprido",
+        "NUM": "105316",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491461888934",
+        "LON": "-49,322366745419",
+        "NOME": "R. João Bettega, 3291 - Cidade Industrial",
+        "NUM": "180090",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51505555816",
+        "LON": "-49,320761163377",
+        "NOME": "Rua Padre Gaston, 457 - Cidade Industrial",
+        "NUM": "170083",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513914230934",
+        "LON": "-49,317782570266",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2362 - Cidade Industrial",
+        "NUM": "170071",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441539065196",
+        "LON": "-49,347181690807",
+        "NOME": "Terminal Campo Comprido - 040 - Interbairros IV",
+        "NUM": "104612",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "79",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496967331551",
+        "LON": "-49,325934083408",
+        "NOME": "R. João Bettega, 4280 - Cidade Industrial",
+        "NUM": "180087",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "110",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447681819278",
+        "LON": "-49,349527458933",
+        "NOME": "Rua Eduardo Sprada, 4651 - Cidade Industrial",
+        "NUM": "180223",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411111624917",
+        "LON": "-49,349199564404",
+        "NOME": "Av. Vereador Toaldo Túlio, 2268 - São Braz",
+        "NUM": "190253",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404280598103",
+        "LON": "-49,335549802727",
+        "NOME": "Av. Vereador Toaldo Túlio, 640 - São Braz",
+        "NUM": "190243",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50900869992",
+        "LON": "-49,330526025242",
+        "NOME": "Rua João Bettega, 5772 - Cidade Industrial",
+        "NUM": "180081",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "108",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511046946372",
+        "LON": "-49,331872494167",
+        "NOME": "Rua João Bettega, 6006 - Cidade Industrial",
+        "NUM": "180078",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474790373444",
+        "LON": "-49,338207591915",
+        "NOME": "R. João Dembinski, 3087 - Cidade Industrial",
+        "NUM": "180133",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472319278518",
+        "LON": "-49,340770442628",
+        "NOME": "R. João Dembinski, 2751 - Cidade Industrial",
+        "NUM": "180135",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472205468906",
+        "LON": "-49,341156680726",
+        "NOME": "R. João Dembinski, 2684 - Cidade Industrial",
+        "NUM": "180136",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465167224798",
+        "LON": "-49,34506734147",
+        "NOME": "R. João Dembinski, 1811 - Cidade Industrial",
+        "NUM": "180172",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51505555816",
+        "LON": "-49,320761163377",
+        "NOME": "Rua Padre Gaston, 457 - Cidade Industrial",
+        "NUM": "170083",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517024715466",
+        "LON": "-49,318824608469",
+        "NOME": "Rua José Rodrigues Pinheiro, 2261 - Cidade Industrial",
+        "NUM": "170075",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "119",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512217348975",
+        "LON": "-49,313764621162",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 1622 - Cidade Industrial",
+        "NUM": "170070",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513203217113",
+        "LON": "-49,295115364418",
+        "NOME": "Terminal Pinheirinho - 040 - Interbairros IV",
+        "NUM": "105718",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "65",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477217845889",
+        "LON": "-49,327605364418",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV",
+        "NUM": "105309",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444228776465",
+        "LON": "-49,344030947632",
+        "NOME": "Rua Eduardo Sprada, 3958 - Campo Comprido",
+        "NUM": "180228",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401274959875",
+        "LON": "-49,33459581845",
+        "NOME": "Rua Domingos Strapasson, 2 - Santa Felicidade",
+        "NUM": "190241",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447061791882",
+        "LON": "-49,348944078473",
+        "NOME": "Rua Eduardo Sprada, 4520 - Cidade Industrial",
+        "NUM": "180224",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419740954667",
+        "LON": "-49,348436475939",
+        "NOME": "Av. Vereador Toaldo Túlio, 3380 - São Braz",
+        "NUM": "190076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518377811594",
+        "LON": "-49,321508158588",
+        "NOME": "Rua José Rodrigues Pinheiro - Cidade Industrial",
+        "NUM": "170449",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51597781041",
+        "LON": "-49,316582281731",
+        "NOME": "Rua José Rodrigues Pinheiro, 2062 - Cidade Industrial",
+        "NUM": "170076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "59",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513730262009",
+        "LON": "-49,303941030645",
+        "NOME": "Rua José Rodrigues Pinheiro, 913 - Capão Raso",
+        "NUM": "170081",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511802796662",
+        "LON": "-49,324250758266",
+        "NOME": "Terminal CIC - 040 -Interbairros IV",
+        "NUM": "105206",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441699100568",
+        "LON": "-49,346051341104",
+        "NOME": "Terminal Campo Comprido - 040 - Interbairros IV (Horário)",
+        "NUM": "104603",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "42",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487807191315",
+        "LON": "-49,319746227211",
+        "NOME": "R. João Bettega, 2967 - Cidade Industrial",
+        "NUM": "180092",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435073727705",
+        "LON": "-49,350422209597",
+        "NOME": "Rua Prof. João Falarz, 679 - Orleans",
+        "NUM": "190296",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463116081435",
+        "LON": "-49,345543037442",
+        "NOME": "R. João Dembinski, 1597 - Cidade Industrial",
+        "NUM": "180174",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416592826051",
+        "LON": "-49,34976685161",
+        "NOME": "Av. Vereador Toaldo Túlio, 3033 - São Braz",
+        "NUM": "190079",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474790373444",
+        "LON": "-49,338207591915",
+        "NOME": "R. João Dembinski, 3087 - Cidade Industrial",
+        "NUM": "180133",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472319278518",
+        "LON": "-49,340770442628",
+        "NOME": "R. João Dembinski, 2751 - Cidade Industrial",
+        "NUM": "180135",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468809292085",
+        "LON": "-49,343581397676",
+        "NOME": "R. João Dembinski, 2101 - Cidade Industrial",
+        "NUM": "180139",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437816871195",
+        "LON": "-49,347698426342",
+        "NOME": "Rua Prof. João Falarz, 989 - Orleans",
+        "NUM": "190298",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407821538641",
+        "LON": "-49,338895858473",
+        "NOME": "Av. Vereador Toaldo Túlio, 1159 - Santa Felicidade",
+        "NUM": "190248",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435073727705",
+        "LON": "-49,350422209597",
+        "NOME": "Rua Prof. João Falarz, 679 - Orleans",
+        "NUM": "190296",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401274959875",
+        "LON": "-49,33459581845",
+        "NOME": "Rua Domingos Strapasson, 2 - Santa Felicidade",
+        "NUM": "190241",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451180312464",
+        "LON": "-49,350723724154",
+        "NOME": "Rua João Dembinski, 149 - Cidade Industrial",
+        "NUM": "180219",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410445377579",
+        "LON": "-49,346344352907",
+        "NOME": "Av. Vereador Toaldo Túlio, 1868 - São Braz",
+        "NUM": "190251",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40709591475",
+        "LON": "-49,336839945263",
+        "NOME": "Av. Vereador Toaldo Túlio, 895 - Santa Felicidade",
+        "NUM": "190246",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416558909635",
+        "LON": "-49,349962652868",
+        "NOME": "Av. Vereador Toaldo Túlio, 2984 - São Braz",
+        "NUM": "190078",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419373939673",
+        "LON": "-49,348279566711",
+        "NOME": "Av. Vereador Toaldo Túlio, 3373 - São Braz",
+        "NUM": "190077",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419740954667",
+        "LON": "-49,348436475939",
+        "NOME": "Av. Vereador Toaldo Túlio, 3380 - São Braz",
+        "NUM": "190076",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484492076515",
+        "LON": "-49,321444992709",
+        "NOME": "R. Gen. Potiguara, 1763 - Fazendinha",
+        "NUM": "180095",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "101",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46913862252",
+        "LON": "-49,343675274991",
+        "NOME": "R. João Dembinski, 2282 - Cidade Industrial",
+        "NUM": "180171",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51597781041",
+        "LON": "-49,316582281731",
+        "NOME": "Rua José Rodrigues Pinheiro, 2062 - Cidade Industrial",
+        "NUM": "170076",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "120",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518254327262",
+        "LON": "-49,325014139881",
+        "NOME": "Rua João Chede, 3185 - Cidade Industrial",
+        "NUM": "170073",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "117",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51481",
+        "LON": "-49,31401",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170077",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "121",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511470575877",
+        "LON": "-49,324922652779",
+        "NOME": "Terminal CIC - 040 - Interbairros IV",
+        "NUM": "105211",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "52",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501107916274",
+        "LON": "-49,3273596775",
+        "NOME": "R. João Bettega, 4800 - Cidade Industrial",
+        "NUM": "180085",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496967331551",
+        "LON": "-49,325934083408",
+        "NOME": "R. João Bettega, 4280 - Cidade Industrial",
+        "NUM": "180087",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438238328765",
+        "LON": "-49,347503966189",
+        "NOME": "Rua Prof. João Falarz, 1022 - Orleans",
+        "NUM": "190299",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416558909635",
+        "LON": "-49,349962652868",
+        "NOME": "Av. Vereador Toaldo Túlio, 2984 - São Braz",
+        "NUM": "190078",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510701996169",
+        "LON": "-49,331935526079",
+        "NOME": "Rua João Bettega, 6000 - Cidade Industrial",
+        "NUM": "180079",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513203217113",
+        "LON": "-49,295115364418",
+        "NOME": "Terminal Pinheirinho - 040 - Interbairros IV",
+        "NUM": "105718",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437816871195",
+        "LON": "-49,347698426342",
+        "NOME": "Rua Prof. João Falarz, 989 - Orleans",
+        "NUM": "190298",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412474334388",
+        "LON": "-49,350436062759",
+        "NOME": "Av. Vereador Toaldo Túlio, 2445 - São Braz",
+        "NUM": "190081",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42366297912",
+        "LON": "-49,351036877579",
+        "NOME": "Av. Vereador Toaldo Túlio, 3985 - São Braz",
+        "NUM": "190075",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471091581907",
+        "LON": "-49,34250851407",
+        "NOME": "R. João Dembinski, 2501 - Cidade Industrial",
+        "NUM": "180137",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511470575877",
+        "LON": "-49,324922652779",
+        "NOME": "Terminal CIC - 040 - Interbairros IV",
+        "NUM": "105211",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "113",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513203217113",
+        "LON": "-49,295115364418",
+        "NOME": "Terminal Pinheirinho - 040 - Interbairros IV",
+        "NUM": "105718",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513203217113",
+        "LON": "-49,295115364418",
+        "NOME": "Terminal Pinheirinho - 040 - Interbairros IV",
+        "NUM": "105718",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "126",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477217845889",
+        "LON": "-49,327605364418",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV",
+        "NUM": "105309",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "98",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501107916274",
+        "LON": "-49,3273596775",
+        "NOME": "R. João Bettega, 4800 - Cidade Industrial",
+        "NUM": "180085",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432956441336",
+        "LON": "-49,35193273539",
+        "NOME": "Rua Prof. João Falarz, 267 - Orleans",
+        "NUM": "190294",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428948725822",
+        "LON": "-49,353563518471",
+        "NOME": "Av. Vereador Toaldo Túlio, 4577 - São Braz",
+        "NUM": "190071",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445918608",
+        "LON": "-49,347224782494",
+        "NOME": "Rua Eduardo Sprada, 4266 - Campo Comprido",
+        "NUM": "180226",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "83",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463116081435",
+        "LON": "-49,345543037442",
+        "NOME": "R. João Dembinski, 1597 - Cidade Industrial",
+        "NUM": "180174",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508900976906",
+        "LON": "-49,33008211965",
+        "NOME": "Rua João Bettega, 5800 - Fazendinha",
+        "NUM": "180080",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474872702043",
+        "LON": "-49,338318903589",
+        "NOME": "R. João Dembinski, 3086 - Cidade Industrial",
+        "NUM": "180134",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471091581907",
+        "LON": "-49,34250851407",
+        "NOME": "R. João Dembinski, 2501 - Cidade Industrial",
+        "NUM": "180137",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468809292085",
+        "LON": "-49,343581397676",
+        "NOME": "R. João Dembinski, 2101 - Cidade Industrial",
+        "NUM": "180139",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465363376178",
+        "LON": "-49,345147807741",
+        "NOME": "R. João Dembinski, 1792 - Cidade Industrial",
+        "NUM": "180173",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513966274723",
+        "LON": "-49,323102731847",
+        "NOME": "Rua Padre Gaston, 262 - Cidade Industrial",
+        "NUM": "170086",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "114",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51456901278",
+        "LON": "-49,322571654462",
+        "NOME": "Rua Padre Gaston, 349 - Cidade Industrial",
+        "NUM": "170085",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516254968822",
+        "LON": "-49,323125530624",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2582 - Cidade Industrial",
+        "NUM": "170072",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "116",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513914230934",
+        "LON": "-49,317782570266",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2362 - Cidade Industrial",
+        "NUM": "170071",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491103566424",
+        "LON": "-49,322432459539",
+        "NOME": "R. João Bettega, 3350 - Fazendinha",
+        "NUM": "180091",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408017783418",
+        "LON": "-49,339948625511",
+        "NOME": "Av. Vereador Toaldo Túlio, 1062 - São Braz",
+        "NUM": "190247",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445918608",
+        "LON": "-49,347224782494",
+        "NOME": "Rua Eduardo Sprada, 4266 - Campo Comprido",
+        "NUM": "180226",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411111624917",
+        "LON": "-49,349199564404",
+        "NOME": "Av. Vereador Toaldo Túlio, 2268 - São Braz",
+        "NUM": "190253",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408806393465",
+        "LON": "-49,342162789053",
+        "NOME": "Av. Vereador Toaldo Túlio, 1362- São Braz",
+        "NUM": "190249",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472205468906",
+        "LON": "-49,341156680726",
+        "NOME": "R. João Dembinski, 2684 - Cidade Industrial",
+        "NUM": "180136",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516254968822",
+        "LON": "-49,323125530624",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2582 - Cidade Industrial",
+        "NUM": "170072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51481",
+        "LON": "-49,31401",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "60",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497003646298",
+        "LON": "-49,325665862507",
+        "NOME": "R. João Bettega, 4215 - Cidade Industrial",
+        "NUM": "180086",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494834426153",
+        "LON": "-49,32481292004",
+        "NOME": "R. João Bettega, 3665 - Cidade Industrial",
+        "NUM": "180088",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401036303155",
+        "LON": "-49,33440538161",
+        "NOME": "Rua Domingos Strapasson, 1 - Santa Felicidade",
+        "NUM": "190242",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432956441336",
+        "LON": "-49,35193273539",
+        "NOME": "Rua Prof. João Falarz, 267 - Orleans",
+        "NUM": "190294",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44919312268",
+        "LON": "-49,351521681336",
+        "NOME": "Rua Eduardo Sprada, 4901 - Cidade Industrial",
+        "NUM": "180222",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411327245994",
+        "LON": "-49,349471808619",
+        "NOME": "Av. Vereador Toaldo Túlio, 2297 - São Braz",
+        "NUM": "190254",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425765654939",
+        "LON": "-49,352805794424",
+        "NOME": "Av. Vereador Toaldo Túlio, 4265 - São Braz",
+        "NUM": "190073",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "47",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511046946372",
+        "LON": "-49,331872494167",
+        "NOME": "Rua João Bettega, 6006 - Cidade Industrial",
+        "NUM": "180078",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51456901278",
+        "LON": "-49,322571654462",
+        "NOME": "Rua Padre Gaston, 349 - Cidade Industrial",
+        "NUM": "170085",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494834426153",
+        "LON": "-49,32481292004",
+        "NOME": "R. João Bettega, 3665 - Cidade Industrial",
+        "NUM": "180088",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487419803801",
+        "LON": "-49,319756956047",
+        "NOME": "R. João Bettega, 2966 - Fazendinha",
+        "NUM": "180093",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438238328765",
+        "LON": "-49,347503966189",
+        "NOME": "Rua Prof. João Falarz, 1022 - Orleans",
+        "NUM": "190299",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435506094865",
+        "LON": "-49,349913930988",
+        "NOME": "Rua Prof. João Falarz, 650 - Orleans",
+        "NUM": "190297",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445601324109",
+        "LON": "-49,346307467011",
+        "NOME": "Rua Eduardo Sprada, 4300 - Campo Comprido",
+        "NUM": "180225",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447061791882",
+        "LON": "-49,348944078473",
+        "NOME": "Rua Eduardo Sprada, 4520 - Cidade Industrial",
+        "NUM": "180224",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409166172373",
+        "LON": "-49,342752875036",
+        "NOME": "Av. Vereador Toaldo Túlio, 1577 - São Braz",
+        "NUM": "190250",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "55",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412474334388",
+        "LON": "-49,350436062759",
+        "NOME": "Av. Vereador Toaldo Túlio, 2445 - São Braz",
+        "NUM": "190081",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510701996169",
+        "LON": "-49,331935526079",
+        "NOME": "Rua João Bettega, 6000 - Cidade Industrial",
+        "NUM": "180079",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "109",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470620598323",
+        "LON": "-49,343152244233",
+        "NOME": "R. João Dembinski, 2281 - Cidade Industrial",
+        "NUM": "180138",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513885183227",
+        "LON": "-49,310154367828",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170078",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "122",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513819825863",
+        "LON": "-49,307779271745",
+        "NOME": "Rua José Rodrigues Pinheiro, 1171 - Capão Raso",
+        "NUM": "170079",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "123",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511922026127",
+        "LON": "-49,299999524497",
+        "NOME": "Rua João Rodrigues Pinheiro, 482 - Capão Raso",
+        "NUM": "170053",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487419803801",
+        "LON": "-49,319756956047",
+        "NOME": "R. João Bettega, 2966 - Fazendinha",
+        "NUM": "180093",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504957521859",
+        "LON": "-49,328673959917",
+        "NOME": "R. João Bettega, 5124 - Cidade Industrial",
+        "NUM": "180083",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46913862252",
+        "LON": "-49,343675274991",
+        "NOME": "R. João Dembinski, 2282 - Cidade Industrial",
+        "NUM": "180171",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513966274723",
+        "LON": "-49,323102731847",
+        "NOME": "Rua Padre Gaston, 262 - Cidade Industrial",
+        "NUM": "170086",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517024715466",
+        "LON": "-49,318824608469",
+        "NOME": "Rua José Rodrigues Pinheiro, 2261 - Cidade Industrial",
+        "NUM": "170075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "58",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513885183227",
+        "LON": "-49,310154367828",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170078",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "61",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513640698089",
+        "LON": "-49,300207395696",
+        "NOME": "Rua José Rodrigues Pinheiro, 525 - Capão Raso",
+        "NUM": "170082",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518254327262",
+        "LON": "-49,325014139881",
+        "NOME": "Rua João Chede, 3185 - Cidade Industrial",
+        "NUM": "170073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444503678285",
+        "LON": "-49,344249547666",
+        "NOME": "Rua Eduardo Sprada, 3999 - Campo Comprido",
+        "NUM": "180227",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428948725822",
+        "LON": "-49,353563518471",
+        "NOME": "Av. Vereador Toaldo Túlio, 4577 - São Braz",
+        "NUM": "190071",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447681819278",
+        "LON": "-49,349527458933",
+        "NOME": "Rua Eduardo Sprada, 4651 - Cidade Industrial",
+        "NUM": "180223",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451180312464",
+        "LON": "-49,350723724154",
+        "NOME": "Rua João Dembinski, 149 - Cidade Industrial",
+        "NUM": "180219",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455608685041",
+        "LON": "-49,348111252574",
+        "NOME": "Rua João Dembinski, 701 - Cidade Industrial",
+        "NUM": "180214",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409166172373",
+        "LON": "-49,342752875036",
+        "NOME": "Av. Vereador Toaldo Túlio, 1577 - São Braz",
+        "NUM": "190250",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "54",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419373939673",
+        "LON": "-49,348279566711",
+        "NOME": "Av. Vereador Toaldo Túlio, 3373 - São Braz",
+        "NUM": "190077",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484361329762",
+        "LON": "-49,321453039335",
+        "NOME": "R. Gen. Potiguara, 1762 - Fazendinha",
+        "NUM": "180094",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504976888437",
+        "LON": "-49,328405739016",
+        "NOME": "R. João Bettega, 5125 - Cidade Industrial",
+        "NUM": "180082",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508900976906",
+        "LON": "-49,33008211965",
+        "NOME": "Rua João Bettega, 5800 - Fazendinha",
+        "NUM": "180080",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476057985482",
+        "LON": "-49,336623747491",
+        "NOME": "R. João Dembinski, 3323 - Cidade Industrial",
+        "NUM": "180131",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465167224798",
+        "LON": "-49,34506734147",
+        "NOME": "R. João Dembinski, 1811 - Cidade Industrial",
+        "NUM": "180172",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511922026127",
+        "LON": "-49,299999524497",
+        "NOME": "Rua João Rodrigues Pinheiro, 482 - Capão Raso",
+        "NUM": "170053",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441699100568",
+        "LON": "-49,346051341104",
+        "NOME": "Terminal Campo Comprido - 040 - Interbairros IV (Horário)",
+        "NUM": "104603",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "43",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477396729701",
+        "LON": "-49,326659620866",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV (H) - 720 - Fazendinha / Campo Comprido",
+        "NUM": "105316",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497003646298",
+        "LON": "-49,325665862507",
+        "NOME": "R. João Bettega, 4215 - Cidade Industrial",
+        "NUM": "180086",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444503678285",
+        "LON": "-49,344249547666",
+        "NOME": "Rua Eduardo Sprada, 3999 - Campo Comprido",
+        "NUM": "180227",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408806393465",
+        "LON": "-49,342162789053",
+        "NOME": "Av. Vereador Toaldo Túlio, 1362- São Braz",
+        "NUM": "190249",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416592826051",
+        "LON": "-49,34976685161",
+        "NOME": "Av. Vereador Toaldo Túlio, 3033 - São Braz",
+        "NUM": "190079",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481931593403",
+        "LON": "-49,323107962298",
+        "NOME": "R. Gen. Potiguara, 2429 - Fazendinha",
+        "NUM": "180097",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504957521859",
+        "LON": "-49,328673959917",
+        "NOME": "R. João Bettega, 5124 - Cidade Industrial",
+        "NUM": "180083",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "107",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504976888437",
+        "LON": "-49,328405739016",
+        "NOME": "R. João Bettega, 5125 - Cidade Industrial",
+        "NUM": "180082",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512115680535",
+        "LON": "-49,308153439903",
+        "NOME": "Rua João Rodrigues Pinheiro, 1392 - Capão Raso",
+        "NUM": "170055",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429986699386",
+        "LON": "-49,353638620323",
+        "NOME": "Av. Vereador Toaldo Túlio, 4686 - São Braz",
+        "NUM": "190070",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404280598103",
+        "LON": "-49,335549802727",
+        "NOME": "Av. Vereador Toaldo Túlio, 640 - São Braz",
+        "NUM": "190243",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445601324109",
+        "LON": "-49,346307467011",
+        "NOME": "Rua Eduardo Sprada, 4300 - Campo Comprido",
+        "NUM": "180225",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410601643194",
+        "LON": "-49,346396655983",
+        "NOME": "Av. Vereador Toaldo Túlio, 1977 - São Braz",
+        "NUM": "190252",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40709591475",
+        "LON": "-49,336839945263",
+        "NOME": "Av. Vereador Toaldo Túlio, 895 - Santa Felicidade",
+        "NUM": "190246",
+        "SENTIDO": "Terminal Sta Felicidade",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491461888934",
+        "LON": "-49,322366745419",
+        "NOME": "R. João Bettega, 3291 - Cidade Industrial",
+        "NUM": "180090",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444228776465",
+        "LON": "-49,344030947632",
+        "NOME": "Rua Eduardo Sprada, 3958 - Campo Comprido",
+        "NUM": "180228",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401036303155",
+        "LON": "-49,33440538161",
+        "NOME": "Rua Domingos Strapasson, 1 - Santa Felicidade",
+        "NUM": "190242",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433111466638",
+        "LON": "-49,352018566078",
+        "NOME": "Rua Prof. João Falarz, 10 - Orleans",
+        "NUM": "190295",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429986699386",
+        "LON": "-49,353638620323",
+        "NOME": "Av. Vereador Toaldo Túlio, 4686 - São Braz",
+        "NUM": "190070",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44919312268",
+        "LON": "-49,351521681336",
+        "NOME": "Rua Eduardo Sprada, 4901 - Cidade Industrial",
+        "NUM": "180222",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462757674447",
+        "LON": "-49,345736156491",
+        "NOME": "R. João Dembinski, 1532 - Cidade Industrial",
+        "NUM": "180175",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423547912277",
+        "LON": "-49,351122708267",
+        "NOME": "Av. Vereador Toaldo Túlio, 3900 - São Braz",
+        "NUM": "190074",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425765654939",
+        "LON": "-49,352805794424",
+        "NOME": "Av. Vereador Toaldo Túlio, 4265 - São Braz",
+        "NUM": "190073",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "48",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425724473852",
+        "LON": "-49,352981479115",
+        "NOME": "Av. Vereador Toaldo Túlio, 4222 - São Braz",
+        "NUM": "190072",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "112",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484361329762",
+        "LON": "-49,321453039335",
+        "NOME": "R. Gen. Potiguara, 1762 - Fazendinha",
+        "NUM": "180094",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476050721268",
+        "LON": "-49,33679004445",
+        "NOME": "R. João Dembinski, 3322 - Cidade Industrial",
+        "NUM": "180132",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518377811594",
+        "LON": "-49,321508158588",
+        "NOME": "Rua José Rodrigues Pinheiro - Cidade Industrial",
+        "NUM": "170449",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "118",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513640698089",
+        "LON": "-49,300207395696",
+        "NOME": "Rua José Rodrigues Pinheiro, 525 - Capão Raso",
+        "NUM": "170082",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "125",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512038218809",
+        "LON": "-49,304108668708",
+        "NOME": "Rua João Rodrigues Pinheiro, 846 - Capão Raso",
+        "NUM": "170054",
+        "SENTIDO": "Atendimento Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "PUC",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428057764996",
+        "LON": "-49,271696557684",
+        "NOME": "Travessa. Nestor de Castro - Centro",
+        "NUM": "101131",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "PUC",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414115420076",
+        "LON": "-49,276023837256",
+        "NOME": "R. Albino Silva, 332 - Bom Retiro",
+        "NUM": "120064",
+        "SENTIDO": "PUC",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406519777418",
+        "LON": "-49,276052050075",
+        "NOME": "R. Nilo Peçanha, 1571 - Bom Retiro",
+        "NUM": "120058",
+        "SENTIDO": "PUC",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401868627243",
+        "LON": "-49,277511667134",
+        "NOME": "R. P-min. Brochado da Rocha, 2-160 - Pilarzinho",
+        "NUM": "120538",
+        "SENTIDO": "PUC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409954378395",
+        "LON": "-49,275623290553",
+        "NOME": "R. Nilo Peçanha, 1204 - Bom Retiro",
+        "NUM": "120062",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402030961202",
+        "LON": "-49,279607813479",
+        "NOME": "R. Cláudio Manoel da Costa, 533 - Pilarzinho",
+        "NUM": "120954",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44775367633",
+        "LON": "-49,265955544974",
+        "NOME": "Rua Des. Westphalen, 1771 - Rebouças",
+        "NUM": "110062",
+        "SENTIDO": "PUC",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "PUC",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "PUC",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45034",
+        "LON": "-49,25677",
+        "NOME": "Rua Comendador Roseira, 257 - Prado Velho",
+        "NUM": "140268",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433406983068",
+        "LON": "-49,272047163195",
+        "NOME": "Rua José Loureiro - 175-Bom Retiro / PUC",
+        "NUM": "103243",
+        "SENTIDO": "PUC",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "PUC",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404092287633",
+        "LON": "-49,275649006075",
+        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
+        "NUM": "120057",
+        "SENTIDO": "PUC",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399735159139",
+        "LON": "-49,278406019643",
+        "NOME": "R. Rolfe Mertens, 42 - Pilarzinho",
+        "NUM": "120948",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443455059371",
+        "LON": "-49,262939445506",
+        "NOME": "Rua Rockefeller, 615 - Rebouças",
+        "NUM": "140212",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440709570169",
+        "LON": "-49,264190064557",
+        "NOME": "Rua Rockefeller, 290 - Rebouças",
+        "NUM": "140213",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440982096737",
+        "LON": "-49,266481978174",
+        "NOME": "Av. Iguaçu, 462 - Rebouças",
+        "NUM": "110052",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406362644792",
+        "LON": "-49,275850723943",
+        "NOME": "R. Nilo Peçanha, 1572 - Bom Retiro",
+        "NUM": "120059",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "PUC",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429160241369",
+        "LON": "-49,273873372562",
+        "NOME": "Alameda Dr. Muricy, 949 - Centro",
+        "NUM": "110341",
+        "SENTIDO": "PUC",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45043",
+        "LON": "-49,25676",
+        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
+        "NUM": "140267",
+        "SENTIDO": "PUC",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414232095024",
+        "LON": "-49,273642244636",
+        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
+        "NUM": "120065",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412286976107",
+        "LON": "-49,274096713905",
+        "NOME": "R. Nilo Peçanha, 897 - São Francisco",
+        "NUM": "120066",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402225145404",
+        "LON": "-49,275841595383",
+        "NOME": "R. Nilo Peçanha, 1993 - Bom Retiro",
+        "NUM": "120536",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404054412746",
+        "LON": "-49,275486877311",
+        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
+        "NUM": "120056",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402068516042",
+        "LON": "-49,277653824212",
+        "NOME": "R. Cláudio Manoel da Costa, 247 - Pilarzinho",
+        "NUM": "120949",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399735159139",
+        "LON": "-49,278406019643",
+        "NOME": "R. Rolfe Mertens, 42 - Pilarzinho",
+        "NUM": "120948",
+        "SENTIDO": "PUC",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "PUC",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "PUC",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402691102461",
+        "LON": "-49,275231032841",
+        "NOME": "R. Cláudio Manoel da Costa, 1-149 - Pilarzinho",
+        "NUM": "120537",
+        "SENTIDO": "PUC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416661529486",
+        "LON": "-49,276681068932",
+        "NOME": "R. Albino Silva, 122 - Bom Retiro",
+        "NUM": "110009",
+        "SENTIDO": "PUC",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "PUC",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450261873841",
+        "LON": "-49,259898163195",
+        "NOME": "Rua Rockefeller, 1424 - Prado Velho",
+        "NUM": "140265",
+        "SENTIDO": "PUC",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449217492473",
+        "LON": "-49,26025226263",
+        "NOME": "Rua Rockefeller, 1315 - Prado Velho",
+        "NUM": "140210",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401102989506",
+        "LON": "-49,280927460314",
+        "NOME": "R. Des. José Pacheco Júnior, 5 - Pilarzinho",
+        "NUM": "120955",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400790433464",
+        "LON": "-49,279491137387",
+        "NOME": "R. José Luiz Rissardi, 265 - Pilarzinho",
+        "NUM": "120956",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446724912813",
+        "LON": "-49,26143212234",
+        "NOME": "Rua Rockefeller, 1020 - Rebouças",
+        "NUM": "140211",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431562135301",
+        "LON": "-49,271588505453",
+        "NOME": "Av. Mal. Floriano Peixoto - 175 - Bom Retiro / PUC",
+        "NUM": "103277",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450492536974",
+        "LON": "-49,259268192625",
+        "NOME": "Rua Comendador Roseira, 31 - Prado Velho",
+        "NUM": "140266",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "PUC",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450001590139",
+        "LON": "-49,264899030118",
+        "NOME": "Rua Des. Westphalen, 2046 - Rebouças",
+        "NUM": "150033",
+        "SENTIDO": "PUC",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411727316186",
+        "LON": "-49,275359376192",
+        "NOME": "R. Albino Silva, 688 - Bom Retiro",
+        "NUM": "120063",
+        "SENTIDO": "PUC",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408545550262",
+        "LON": "-49,276305912747",
+        "NOME": "R. Nilo Peçanha, 1377 - Bom Retiro",
+        "NUM": "120060",
+        "SENTIDO": "PUC",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "PUC",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408220402306",
+        "LON": "-49,276207968194",
+        "NOME": "R. Nilo Peçanha, 1378 - Bom Retiro",
+        "NUM": "120061",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Bom Retiro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    }
+]

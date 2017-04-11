@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,436623661775",
+        "LON": "-49,274535090738",
+        "NOME": "Praça Rui Barbosa - 861 - Tramontina",
+        "NUM": "102032",
+        "SENTIDO": "Tramontina",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445831339586",
+        "LON": "-49,295767278618",
+        "NOME": "Rua Bispo Dom José, 130 - Batel",
+        "NUM": "180061",
+        "SENTIDO": "Tramontina",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456697286548",
+        "LON": "-49,334830294637",
+        "NOME": "Rua Luís Tramontin, 1313 - Campo Comprido",
+        "NUM": "180591",
+        "SENTIDO": "Tramontina",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438175113121",
+        "LON": "-49,277019978708",
+        "NOME": "Rua Doutor Pedrosa, 299- Centro",
+        "NUM": "110400",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440213349386",
+        "LON": "-49,281829179472",
+        "NOME": "Rua Benjamin Lins, 134 -  Batel",
+        "NUM": "180958",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449309300026",
+        "LON": "-49,302755774206",
+        "NOME": "Av. Nossa Senhora Aparecida, 334 - Seminário",
+        "NUM": "180470",
+        "SENTIDO": "Tramontina",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447663578481",
+        "LON": "-49,308270395941",
+        "NOME": "Avenida Nossa Senhora Aparecida, 786- Seminário",
+        "NUM": "180590",
+        "SENTIDO": "Tramontina",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439232384366",
+        "LON": "-49,275182665533",
+        "NOME": "Av. Visc. de Guarapuava, 2022 - Centro",
+        "NUM": "110089",
+        "SENTIDO": "Tramontina",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440284802082",
+        "LON": "-49,277851463503",
+        "NOME": "Av. Visc. de Guarapuava, 2302 - Centro",
+        "NUM": "110090",
+        "SENTIDO": "Tramontina",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436623661775",
+        "LON": "-49,274535090738",
+        "NOME": "Praça Rui Barbosa - 861 - Tramontina",
+        "NUM": "102032",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44754732357",
+        "LON": "-49,310555638021",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1081- Seminário",
+        "NUM": "180474",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461344620278",
+        "LON": "-49,343489806441",
+        "NOME": "Rua Luís Tramontin, 2378 - Campo Comprido",
+        "NUM": "180264",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460167667893",
+        "LON": "-49,340610455064",
+        "NOME": "Rua Luís Tramontin, 2059 - Campo Comprido",
+        "NUM": "180266",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458072857909",
+        "LON": "-49,336149941472",
+        "NOME": "Rua Luís Tramontin, 1551- Campo Comprido",
+        "NUM": "180656",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453443561789",
+        "LON": "-49,332291583804",
+        "NOME": "Rua Luís Tramontin, 850 - Campo Comprido",
+        "NUM": "180654",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451981960484",
+        "LON": "-49,324660699157",
+        "NOME": "Rua Luís Tramontin, 334 - Campo Comprido",
+        "NUM": "180686",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444630015144",
+        "LON": "-49,293201745695",
+        "NOME": "Rua Bispo Dom José, 216 - Batel",
+        "NUM": "180065",
+        "SENTIDO": "Tramontina",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449168827248",
+        "LON": "-49,306097806639",
+        "NOME": "Av. Nossa Senhora Aparecida, 778 - Seminário",
+        "NUM": "180584",
+        "SENTIDO": "Tramontina",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452334344858",
+        "LON": "-49,328692059306",
+        "NOME": "Rua Luís Tramontin, 408- Campo Comprido",
+        "NUM": "180683",
+        "SENTIDO": "Tramontina",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449346840137",
+        "LON": "-49,299661846107",
+        "NOME": "Av. Nossa Senhora Aparecida, 83 - Seminário",
+        "NUM": "180660",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449418287414",
+        "LON": "-49,317970604843",
+        "NOME": "Rua Eduardo Sprada, 332 - Campo Comprido",
+        "NUM": "180594",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44367572872",
+        "LON": "-49,290547699875",
+        "NOME": "Avenida do Batel, 744 - Batel",
+        "NUM": "180066",
+        "SENTIDO": "Tramontina",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447480719143",
+        "LON": "-49,310633422083",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1080- Seminário",
+        "NUM": "180583",
+        "SENTIDO": "Tramontina",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450660282056",
+        "LON": "-49,319675148672",
+        "NOME": "Rua Eduardo Sprada, 641 -  Campo Comprido",
+        "NUM": "180587",
+        "SENTIDO": "Tramontina",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461239276244",
+        "LON": "-49,343786190537",
+        "NOME": "Rua Luís Tramontin, 2378 - Campo Comprido",
+        "NUM": "180263",
+        "SENTIDO": "Tramontina",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463081021666",
+        "LON": "-49,349083560119",
+        "NOME": "Rua Luís Casagrande, 363 - Cidade Industrial",
+        "NUM": "180658",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449521219856",
+        "LON": "-49,301673502869",
+        "NOME": "Av. Nossa Senhora Aparecida, 305 - Seminário",
+        "NUM": "180560",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448254539211",
+        "LON": "-49,307778210587",
+        "NOME": "Avenida Nossa Senhora Aparecida, 785- Seminário",
+        "NUM": "180589",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449328675569",
+        "LON": "-49,31802022571",
+        "NOME": "Rua Eduardo Sprada, 331- Campo Comprido",
+        "NUM": "180588",
+        "SENTIDO": "Tramontina",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450717651668",
+        "LON": "-49,315588803238",
+        "NOME": "Rua Eduardo Sprada, 80 -  Campo Comprido",
+        "NUM": "180471",
+        "SENTIDO": "Tramontina",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463230769136",
+        "LON": "-49,345885366201",
+        "NOME": "Rua Fioravante Bagio, 2 - Cidade Industrial",
+        "NUM": "180650",
+        "SENTIDO": "Tramontina",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449432819058",
+        "LON": "-49,30559221024",
+        "NOME": "Av. Nossa Senhora Aparecida, 779 - Seminário",
+        "NUM": "180662",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450875076021",
+        "LON": "-49,315331311172",
+        "NOME": "Rua Eduardo Sprada, 81 - Campo Comprido",
+        "NUM": "180586",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449970488661",
+        "LON": "-49,313539595551",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1449- Seminário",
+        "NUM": "180472",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463081021666",
+        "LON": "-49,349083560119",
+        "NOME": "Rua Luís Casagrande, 363 - Cidade Industrial",
+        "NUM": "180658",
+        "SENTIDO": "Tramontina",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452527564707",
+        "LON": "-49,322748960203",
+        "NOME": "Rua Eduardo Sprada, 1082 -  Campo Comprido",
+        "NUM": "180585",
+        "SENTIDO": "Tramontina",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441524923468",
+        "LON": "-49,281029881186",
+        "NOME": "Av. Visc. de Guarapuava, 2616 - Batel",
+        "NUM": "180469",
+        "SENTIDO": "Tramontina",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457989306928",
+        "LON": "-49,336194197921",
+        "NOME": "Rua Luís Tramontin, 1552- Campo Comprido",
+        "NUM": "180593",
+        "SENTIDO": "Tramontina",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4533036993",
+        "LON": "-49,332081030397",
+        "NOME": "Rua Luís Tramontin, 851 - Campo Comprido",
+        "NUM": "180684",
+        "SENTIDO": "Tramontina",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450745049082",
+        "LON": "-49,319559813684",
+        "NOME": "Rua Eduardo Sprada, 640 -  Campo Comprido",
+        "NUM": "180661",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452609908541",
+        "LON": "-49,322724820322",
+        "NOME": "Rua Eduardo Sprada, 1083 - Campo Comprido",
+        "NUM": "180595",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46334821973",
+        "LON": "-49,345843791962",
+        "NOME": "Rua Fioravante Bagio, 1 - Cidade Industrial",
+        "NUM": "180659",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Tramontina",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442260028458",
+        "LON": "-49,287587882227",
+        "NOME": "Av. do Batel, 338 -  Batel",
+        "NUM": "180068",
+        "SENTIDO": "Tramontina",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449045307946",
+        "LON": "-49,299357415384",
+        "NOME": "Av. Nossa Senhora Aparecida, 84 - Seminário",
+        "NUM": "180596",
+        "SENTIDO": "Tramontina",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451975905761",
+        "LON": "-49,324852477101",
+        "NOME": "Rua Luís Tramontin, 335 - Campo Comprido",
+        "NUM": "180652",
+        "SENTIDO": "Tramontina",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45231618074",
+        "LON": "-49,328442613868",
+        "NOME": "Rua Luís Tramontin, 409 - Campo Comprido",
+        "NUM": "180653",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Tramontina",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449681067709",
+        "LON": "-49,313371957487",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1450- Seminário",
+        "NUM": "180473",
+        "SENTIDO": "Tramontina",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46008169664",
+        "LON": "-49,340831737307",
+        "NOME": "Rua Luís Tramontin, 2058 - Campo Comprido",
+        "NUM": "180265",
+        "SENTIDO": "Tramontina",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455200608301",
+        "LON": "-49,333752046613",
+        "NOME": "Rua Luís Tramontin, 873 - Campo Comprido",
+        "NUM": "180682",
+        "SENTIDO": "Tramontina",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456754198703",
+        "LON": "-49,334767262725",
+        "NOME": "Rua Luís Tramontin, 1312- Campo Comprido",
+        "NUM": "180592",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455021393153",
+        "LON": "-49,333656828193",
+        "NOME": "Rua Luís Tramontin, 873 - Campo Comprido",
+        "NUM": "180655",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    }
+]

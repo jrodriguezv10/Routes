@@ -1,0 +1,642 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,54581",
+        "LON": "-49,26354",
+        "NOME": "Rua Tijucas do Sul, 876 - Sítio Cercado",
+        "NUM": "160095",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55636",
+        "LON": "-49,24951",
+        "NOME": "Rua Pelegrino Azzolin, 30 - Ganchinho",
+        "NUM": "160188",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558833878778",
+        "LON": "-49,258696138859",
+        "NOME": "Rua Alexandre Glenski, 28 - Ganchinho",
+        "NUM": "160770",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534265877458",
+        "LON": "-49,267778424572",
+        "NOME": "Terminal Sítio Cercado - 548 - Osternack / Sítio Cercado",
+        "NUM": "106106",
+        "SENTIDO": "Osternack",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542232921852",
+        "LON": "-49,27066358532",
+        "NOME": "Rua Filósofo Humberto Rohden, 2 - Sítio Cercado",
+        "NUM": "160082",
+        "SENTIDO": "Osternack",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54516",
+        "LON": "-49,26536",
+        "NOME": "Rua Tijucas do Sul, 1081 - Sítio Cercado",
+        "NUM": "160179",
+        "SENTIDO": "Osternack",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551590497057",
+        "LON": "-49,249055626984",
+        "NOME": "Rua Eduardo Pinto da Rocha, 2669 - Ganchinho",
+        "NUM": "160468",
+        "SENTIDO": "Osternack",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548221156887",
+        "LON": "-49,25973839633",
+        "NOME": "Rua Tijucas do Sul, 375 - Sítio Cercado",
+        "NUM": "160464",
+        "SENTIDO": "Osternack",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56285057219",
+        "LON": "-49,25139516592",
+        "NOME": "Acesso 11 - Ganchinho",
+        "NUM": "160783",
+        "SENTIDO": "Osternack",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54151",
+        "LON": "-49,27056",
+        "NOME": "Rua Tijucas do Sul, 1401 - Sítio Cercado",
+        "NUM": "160097",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55239",
+        "LON": "-49,25197",
+        "NOME": "Rua Guacui, 110 - Sítio Cercado",
+        "NUM": "160183",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55812",
+        "LON": "-49,25124",
+        "NOME": "Rua Reinaldo de Carvalho-bola, 72 - Ganchinho",
+        "NUM": "160189",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562889286652",
+        "LON": "-49,251269102097",
+        "NOME": "Acesso 3 - Moradias Iguaçu - Ganchinho",
+        "NUM": "160768",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55112",
+        "LON": "-49,25443",
+        "NOME": "Rua Guacui, 350 - Sítio Cercado",
+        "NUM": "160466",
+        "SENTIDO": "Osternack",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552490611873",
+        "LON": "-49,251899918632",
+        "NOME": "Rua Guacui, 109 - Sítio Cercado",
+        "NUM": "160467",
+        "SENTIDO": "Osternack",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560591947128",
+        "LON": "-49,25087070633",
+        "NOME": "Rua Antonio José Bonato, 1193 - Ganchinho",
+        "NUM": "160191",
+        "SENTIDO": "Osternack",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554267740827",
+        "LON": "-49,264670058861",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 22 - Osternack",
+        "NUM": "160196",
+        "SENTIDO": "Osternack",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538372100743",
+        "LON": "-49,271995635582",
+        "NOME": "Rua Tijucas do Sul, 985 - Sítio Cercado",
+        "NUM": "160019",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54011",
+        "LON": "-49,27119",
+        "NOME": "Rua Tijucas do Sul, 1363 - Sítio Cercado",
+        "NUM": "160020",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54803",
+        "LON": "-49,25948",
+        "NOME": "Rua Tijucas do Sul, 378 - Sítio Cercado",
+        "NUM": "160094",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555522859614",
+        "LON": "-49,245547376652",
+        "NOME": "Rua Guacui, 782 - Ganchinho",
+        "NUM": "160186",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557718395168",
+        "LON": "-49,247925830688",
+        "NOME": "Rua Pelegrino Azzolin, 267 - Ganchinho",
+        "NUM": "160187",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54929",
+        "LON": "-49,25715",
+        "NOME": "Rua Tijucas do Sul, 130 - Sítio Cercado",
+        "NUM": "160223",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Osternack",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55368",
+        "LON": "-49,24703",
+        "NOME": "Rua Reinaldo de Carvalho Bola, 73 - Ganchinho",
+        "NUM": "160471",
+        "SENTIDO": "Osternack",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55805",
+        "LON": "-49,25125",
+        "NOME": "Rua Reinaldo de Carvalho-bola, 72 - Ganchinho",
+        "NUM": "160190",
+        "SENTIDO": "Osternack",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55492",
+        "LON": "-49,26325",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 190 - Osternack",
+        "NUM": "160195",
+        "SENTIDO": "Osternack",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560597699507",
+        "LON": "-49,25679259161",
+        "NOME": "Rua Alexandro Glenski, 315 - Ganchinho",
+        "NUM": "160222",
+        "SENTIDO": "Osternack",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563127622282",
+        "LON": "-49,253623411059",
+        "NOME": "Rua Alexandro Glenski, 650 - Ganchinho",
+        "NUM": "160785",
+        "SENTIDO": "Osternack",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534265877458",
+        "LON": "-49,267778424572",
+        "NOME": "Terminal Sítio Cercado - 548 - Osternack / Sítio Cercado",
+        "NUM": "106106",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560694142298",
+        "LON": "-49,250755487909",
+        "NOME": "Rua Antonio José Bonato, 1193 - Ganchinho",
+        "NUM": "160483",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55858",
+        "LON": "-49,25922",
+        "NOME": "Rua Domingos J. Velho, 22 - Ganchinho",
+        "NUM": "160220",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556728690493",
+        "LON": "-49,267528653145",
+        "NOME": "Rua Odinir Polydoro, 545 Osternack",
+        "NUM": "160771",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563192952778",
+        "LON": "-49,253669679165",
+        "NOME": "Rua Alexandro Glenski, 700 - Ganchinho",
+        "NUM": "160784",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543440820981",
+        "LON": "-49,268539271164",
+        "NOME": "Rua Tijucas do Sul, 1458 - Sítio Cercado",
+        "NUM": "160083",
+        "SENTIDO": "Osternack",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Osternack",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54971",
+        "LON": "-49,25693",
+        "NOME": "Rua Tijucas do Sul, 5 - Sítio Cercado",
+        "NUM": "160465",
+        "SENTIDO": "Osternack",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55624",
+        "LON": "-49,24941",
+        "NOME": "Rua Pelegrino Azzolin, 25 - Ganchinho",
+        "NUM": "160482",
+        "SENTIDO": "Osternack",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555817419375",
+        "LON": "-49,267266996365",
+        "NOME": "Rua Radialista Souza Moreno, 247 - Osternack",
+        "NUM": "160773",
+        "SENTIDO": "Osternack",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54317",
+        "LON": "-49,26844",
+        "NOME": "Rua Tijucas do Sul, 1471 - Sítio Cercado",
+        "NUM": "160084",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55871",
+        "LON": "-49,26409",
+        "NOME": "Rua Odinir Polydoro, 123 - Osternack",
+        "NUM": "160199",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560652195387",
+        "LON": "-49,256787661671",
+        "NOME": "Rua Alexandro Glenski, 314 - Ganchinho",
+        "NUM": "160221",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56221783093",
+        "LON": "-49,252858310938",
+        "NOME": "Rua Rosildo Portela, 997 - Ganchinho",
+        "NUM": "160772",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55245",
+        "LON": "-49,24761",
+        "NOME": "Rua Jornalista José Pedro dos Santos, 600 - Ganchinho",
+        "NUM": "160470",
+        "SENTIDO": "Osternack",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557187580231",
+        "LON": "-49,257190116568",
+        "NOME": "Rua Lúcio de Oliveira Lara, 445 - Ganchinho",
+        "NUM": "160192",
+        "SENTIDO": "Osternack",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55391",
+        "LON": "-49,26049",
+        "NOME": "Rua Hussein Ibrahim Omairy, 262 - Osternack",
+        "NUM": "160194",
+        "SENTIDO": "Osternack",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558833878778",
+        "LON": "-49,258696138859",
+        "NOME": "Rua Alexandre Glenski, 28 - Ganchinho",
+        "NUM": "160770",
+        "SENTIDO": "Osternack",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551502132301",
+        "LON": "-49,249134898148",
+        "NOME": "Rua Eduardo Pinto da Rocha, 2668 - Sitio Cercado",
+        "NUM": "160469",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553723236461",
+        "LON": "-49,246964898148",
+        "NOME": "Rua Reinaldo de Carvalho Bola, 78 - Ganchinho",
+        "NUM": "160185",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540093195488",
+        "LON": "-49,271327434359",
+        "NOME": "Rua Tijucas do Sul, 1368 - Sítio Cercado",
+        "NUM": "160463",
+        "SENTIDO": "Osternack",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686",
+        "LON": "-49,27271",
+        "NOME": "Rua Tijucas do Sul, 787 - Sítio Cercado",
+        "NUM": "160017",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54489",
+        "LON": "-49,26516",
+        "NOME": "Rua Tijucas do Sul, 1070 - Sítio Cercado",
+        "NUM": "160096",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550976016389",
+        "LON": "-49,254456296959",
+        "NOME": "Rua Guacui, 349 - Sítio Cercado",
+        "NUM": "160182",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552353381474",
+        "LON": "-49,247637084656",
+        "NOME": "Rua Jornalista José Pedro dos Santos, 607 - Ganchinho",
+        "NUM": "160184",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555817419375",
+        "LON": "-49,267266996365",
+        "NOME": "Rua Radialista Souza Moreno, 247 - Osternack",
+        "NUM": "160773",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556861457082",
+        "LON": "-49,261999038029",
+        "NOME": "Rua Helena de Almeida, 279 - Ganchinho",
+        "NUM": "160218",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55779",
+        "LON": "-49,26046",
+        "NOME": "Rua Geraldo Micheletto Pelanda, 644 - Ganchinho",
+        "NUM": "160219",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Osternack",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54678",
+        "LON": "-49,26235",
+        "NOME": "Rua Tijucas do Sul, 715 - Sítio Cercado",
+        "NUM": "160181",
+        "SENTIDO": "Osternack",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555786764479",
+        "LON": "-49,245790728836",
+        "NOME": "Rua Guacui, 781 - Ganchinho",
+        "NUM": "160480",
+        "SENTIDO": "Osternack",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55757",
+        "LON": "-49,2479",
+        "NOME": "Rua Pelegrino Azzolin, 254 - Ganchinho",
+        "NUM": "160481",
+        "SENTIDO": "Osternack",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55433",
+        "LON": "-49,25821",
+        "NOME": "Rua Lúcio de Oliveira Lara, 101 - Osternack",
+        "NUM": "160193",
+        "SENTIDO": "Osternack",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562298889748",
+        "LON": "-49,252883791924",
+        "NOME": "Rua Rosildo Portela, 1 - Ganchinho",
+        "NUM": "160769",
+        "SENTIDO": "Osternack",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    }
+]

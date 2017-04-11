@@ -1,0 +1,742 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469951703947",
+        "LON": "-49,283786676092",
+        "NOME": "Av. Pres. Kennedy, 3046 - Água Verde",
+        "NUM": "150018",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475184658744",
+        "LON": "-49,288000942415",
+        "NOME": "Rua Ponta Grossa, 552 - Portão",
+        "NUM": "150862",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485310620325",
+        "LON": "-49,285899431652",
+        "NOME": "Rua João Stenzowski, 175 - Novo Mundo",
+        "NUM": "150774",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488481163941",
+        "LON": "-49,281531454271",
+        "NOME": "Rua Elói de Assis Fabris, 341 - Novo Mundo",
+        "NUM": "150724",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483420844547",
+        "LON": "-49,28250107283",
+        "NOME": "Rua Américo Vespúcio, 757 - Lindóia",
+        "NUM": "150150",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491283617581",
+        "LON": "-49,277930588669",
+        "NOME": "Rua Brasílio Ribas, 647 - Novo Mundo",
+        "NUM": "150179",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493477112372",
+        "LON": "-49,278788895554",
+        "NOME": "Rua Maestro Francisco Antonello, 3045 - Novo Mundo",
+        "NUM": "150850",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462720313308",
+        "LON": "-49,275764139881",
+        "NOME": "Av. Pres. Kennedy, 1840 - Água Verde",
+        "NUM": "150010",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481324018204",
+        "LON": "-49,287937910503",
+        "NOME": "Rua Ildefonso Stockler de França, 587 - Novo Mundo",
+        "NUM": "150110",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484532196105",
+        "LON": "-49,284259260839",
+        "NOME": "Rua João Stenzowski, 4 - Novo Mundo",
+        "NUM": "150119",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488532008174",
+        "LON": "-49,281416119284",
+        "NOME": "Rua Elói de Assis Fabris, 342- Novo Mundo",
+        "NUM": "150853",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486727024716",
+        "LON": "-49,279963703102",
+        "NOME": "Rua Elói de Assis Fabris, 41 - Novo Mundo",
+        "NUM": "150854",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495536201012",
+        "LON": "-49,279484928793",
+        "NOME": "Rua São Judas Tadeu, 81 - Capão Raso",
+        "NUM": "150849",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435758933924",
+        "LON": "-49,274266869836",
+        "NOME": "Praça Rui Barbosa - 663 - V. Cubas",
+        "NUM": "102002",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464509686549",
+        "LON": "-49,277767055225",
+        "NOME": "Av. Pres. Kennedy, 2192 - Portão",
+        "NUM": "150012",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485362676509",
+        "LON": "-49,279993207401",
+        "NOME": "Rua Djalma Ferreira Maciel, 1125 - Guaíra",
+        "NUM": "150855",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49819119772",
+        "LON": "-49,280062985879",
+        "NOME": "Rua São Judas Tadeu, 447 - Capão Raso",
+        "NUM": "150524",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466782195459",
+        "LON": "-49,279901195106",
+        "NOME": "Av. Pres. Kennedy, 2511 - Água Verde",
+        "NUM": "150015",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479245315346",
+        "LON": "-49,285788119978",
+        "NOME": "Rua Paulo Betes, 105 - Novo Mundo",
+        "NUM": "150069",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496885907811",
+        "LON": "-49,279782653994",
+        "NOME": "Rua São Judas Tadeu, 252 - Capão Raso",
+        "NUM": "150848",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486681022101",
+        "LON": "-49,280073673672",
+        "NOME": "Rua Elói de Assis Fabris, 40- Novo Mundo",
+        "NUM": "150725",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493065532516",
+        "LON": "-49,278630645222",
+        "NOME": "Rua Maestro Francisco Antonello, 2892 - Novo Mundo",
+        "NUM": "150851",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435758933924",
+        "LON": "-49,274266869836",
+        "NOME": "Praça Rui Barbosa - 663 - V. Cubas",
+        "NUM": "102002",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468860313802",
+        "LON": "-49,282199067459",
+        "NOME": "Av. Pres. Kennedy, 2731 - Guaíra",
+        "NUM": "150017",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482721099406",
+        "LON": "-49,288306714243",
+        "NOME": "Rua José Palú, 337 - Novo Mundo",
+        "NUM": "150114",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484988597853",
+        "LON": "-49,289025546259",
+        "NOME": "Rua José Palú, 711 - Novo Mundo",
+        "NUM": "150116",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485206507891",
+        "LON": "-49,285910160488",
+        "NOME": "Rua João Stenzowski, 174 - Novo Mundo",
+        "NUM": "150118",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485352991639",
+        "LON": "-49,279885919041",
+        "NOME": "Rua Djalma Ferreira Maciel, 1126 - Guaíra",
+        "NUM": "150654",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4684",
+        "LON": "-49,282072449074",
+        "NOME": "Av. Pres. Kennedy, 2760 - Água Verde",
+        "NUM": "150016",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448215787776",
+        "LON": "-49,269060523457",
+        "NOME": "Rua Vinte e Quatro de Maio, 1316 - Rebouças",
+        "NUM": "150180",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482753786554",
+        "LON": "-49,288572252935",
+        "NOME": "Rua José Palú, 346 - Novo Mundo",
+        "NUM": "150115",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483080657539",
+        "LON": "-49,28112644071",
+        "NOME": "Rua Américo Vespúcio, 599 - Lindóia",
+        "NUM": "150151",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490288542172",
+        "LON": "-49,279420555777",
+        "NOME": "Rua Brasílio Ribas, 378 - Novo Mundo",
+        "NUM": "150177",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466311567991",
+        "LON": "-49,279762915344",
+        "NOME": "Av. Pres. Kennedy, 2416 - Água Verde",
+        "NUM": "150014",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471857578511",
+        "LON": "-49,285907084656",
+        "NOME": "Av. Pres. Kennedy, 3298 - Água Verde",
+        "NUM": "150020",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45389637276",
+        "LON": "-49,266295165962",
+        "NOME": "Rua 24 de Maio, 2006 - Rebouças",
+        "NUM": "150182",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496914959629",
+        "LON": "-49,279896647877",
+        "NOME": "Rua São Judas Tadeu, 251 - Capão Raso",
+        "NUM": "150723",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470490313933",
+        "LON": "-49,28399635582",
+        "NOME": "Av. Pres. Kennedy, 3145 - Guaíra",
+        "NUM": "150019",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728851113",
+        "LON": "-49,286652099371",
+        "NOME": "Av. Pres. Kennedy, 3399 - Água Verde",
+        "NUM": "150021",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485213771552",
+        "LON": "-49,287420244164",
+        "NOME": "Rua João Stenzowski, 276 - Novo Mundo",
+        "NUM": "150117",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475125333884",
+        "LON": "-49,287896336264",
+        "NOME": "Rua Ponta Grossa, 551 - Portão",
+        "NUM": "150863",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478215030544",
+        "LON": "-49,284975410646",
+        "NOME": "Av. Santa Bernadethe, 458 - Lindóia",
+        "NUM": "150638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490150538363",
+        "LON": "-49,279369593805",
+        "NOME": "Rua Brasílio Ribas, 379 - Novo Mundo",
+        "NUM": "150178",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491226721764",
+        "LON": "-49,277787090487",
+        "NOME": "Rua Brasílio Ribas, 646 - Novo Mundo",
+        "NUM": "150280",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473616904179",
+        "LON": "-49,287850495701",
+        "NOME": "Av. Pres. Kennedy, 3568 - Portão",
+        "NUM": "150022",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49597",
+        "LON": "-49,28082",
+        "NOME": "Rua José Gomes de Abreu, 281 - Capão Raso",
+        "NUM": "150073",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451248049822",
+        "LON": "-49,267590672916",
+        "NOME": "Rua Vinte e Quatro de Maio, 1700 - Rebouças",
+        "NUM": "150181",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485313041544",
+        "LON": "-49,287388057655",
+        "NOME": "Rua João Stenzowski, 273 - Novo Mundo",
+        "NUM": "150773",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47724769283",
+        "LON": "-49,286776514",
+        "NOME": "Rua José de Almeida Garrete, 22 - Portão",
+        "NUM": "150769",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479221101938",
+        "LON": "-49,285906137175",
+        "NOME": "Rua Paulo Betes, 104 - Novo Mundo",
+        "NUM": "150770",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484550355359",
+        "LON": "-49,284094304985",
+        "NOME": "Rua João Stenzowski, 1 - Novo Mundo",
+        "NUM": "150775",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465042464796",
+        "LON": "-49,277976705523",
+        "NOME": "Av. Pres. Kennedy, 2159 - Guaíra",
+        "NUM": "150013",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49819119772",
+        "LON": "-49,280062985879",
+        "NOME": "Rua São Judas Tadeu, 447 - Capão Raso",
+        "NUM": "150524",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485097552922",
+        "LON": "-49,289134175724",
+        "NOME": "Rua José Palú, 712 - Novo Mundo",
+        "NUM": "150772",
+        "SENTIDO": "Vila Cubas",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463483675138",
+        "LON": "-49,276244868717",
+        "NOME": "Av. Pres. Kennedy, 2043 - Portão",
+        "NUM": "150011",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477121780966",
+        "LON": "-49,286730916447",
+        "NOME": "Rua José de Almeida Garrete, 33 - Portão",
+        "NUM": "150068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481385761304",
+        "LON": "-49,287610681004",
+        "NOME": "Rua Ildefonso Stockler de França, 547 - Novo Mundo",
+        "NUM": "150109",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483420844547",
+        "LON": "-49,282746494955",
+        "NOME": "Rua Américo Vespúcio, 780 - Lindóia",
+        "NUM": "150148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482980175072",
+        "LON": "-49,281212271399",
+        "NOME": "Rua Américo Vespúcio, 600 - Lindóia",
+        "NUM": "150149",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    }
+]

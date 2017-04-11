@@ -1,0 +1,842 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,47485",
+        "LON": "-49,22985",
+        "NOME": "Rua Senador Salgado Filho, 3542 - Uberaba",
+        "NUM": "140054",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4907",
+        "LON": "-49,22236",
+        "NOME": "Rua Senador Salgado Filho, 5529 - Uberaba",
+        "NUM": "140063",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487952105826",
+        "LON": "-49,204179271164",
+        "NOME": "Rua Eunice Betini Bartoszeck, 661 - Uberaba",
+        "NUM": "140083",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688",
+        "LON": "-49,22696",
+        "NOME": "Rua Senador Salgado Filho, 3857 - Uberaba",
+        "NUM": "140056",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4832",
+        "LON": "-49,20518",
+        "NOME": "Rua Matias Cadori, 569 - Uberaba",
+        "NUM": "140645",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49871",
+        "LON": "-49,21341",
+        "NOME": "Rua Senador Salgado Filho, 6855 - Uberaba",
+        "NUM": "140074",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47124",
+        "LON": "-49,20008",
+        "NOME": "Rua Deputado Acir José, 763 - Cajuru",
+        "NUM": "140221",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468698161648",
+        "LON": "-49,201938046627",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140225",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46889126142",
+        "LON": "-49,208217552246",
+        "NOME": "Terminal Centenário - 338 - Centenário/ Hauer",
+        "NUM": "105105",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "42",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485036782917",
+        "LON": "-49,203547084656",
+        "NOME": "Rua Avelino Mantovani, 261 - Uberaba",
+        "NUM": "140085",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484653681532",
+        "LON": "-49,205411224537",
+        "NOME": "Rua Avelino Mantovani, 480 - Uberaba",
+        "NUM": "140086",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49238",
+        "LON": "-49,22102",
+        "NOME": "Rua Senador Salgado Filho, 5768 - Uberaba",
+        "NUM": "140065",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4774",
+        "LON": "-49,20248",
+        "NOME": "Rua Deputado Acir José, 28 - Cajuru",
+        "NUM": "140096",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4754",
+        "LON": "-49,20139",
+        "NOME": "Rua Deputado Acir José, 280 - Cajuru",
+        "NUM": "140098",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47448",
+        "LON": "-49,23014",
+        "NOME": "Rua Senador Salgado Filho, 3544 - Uberaba",
+        "NUM": "140040",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489940895063",
+        "LON": "-49,205007201223",
+        "NOME": "Rua Eunice Betini Bartoszeck, 481 - Uberaba",
+        "NUM": "140082",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49387",
+        "LON": "-49,21942",
+        "NOME": "Rua Senador Salgado Filho, 6001 -  Uberaba",
+        "NUM": "140068",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470940000146",
+        "LON": "-49,236840741612",
+        "NOME": "Rua Capitão Zeppin, 23 - Uberaba",
+        "NUM": "140987",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "38",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47303",
+        "LON": "-49,23483",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140036",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495813947483",
+        "LON": "-49,208614519014",
+        "NOME": "Rua Velci Bolívar Grandó, 305 - Uberaba",
+        "NUM": "140077",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49579",
+        "LON": "-49,21777",
+        "NOME": "Rua Senador Salgado Filho, 6180 - Uberaba",
+        "NUM": "140069",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49904",
+        "LON": "-49,21326",
+        "NOME": "Rua Senador Salgado Filho, 6848 -  Uberaba",
+        "NUM": "140073",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47881",
+        "LON": "-49,20056",
+        "NOME": "Marginal Rodovia BR277, 12033 - Cajuru",
+        "NUM": "140094",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4734",
+        "LON": "-49,20032",
+        "NOME": "Rua Deputado Acir José, 533 - Cajuru",
+        "NUM": "140218",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477701443292",
+        "LON": "-49,242505665773",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 161 - Hauer",
+        "NUM": "140013",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49784",
+        "LON": "-49,20965",
+        "NOME": "Rua Velci Bolívar Grandó, 384 - Uberaba",
+        "NUM": "140644",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496186946996",
+        "LON": "-49,209049038029",
+        "NOME": "Rua Velci Bolívar Grandó, 370 - Uberaba",
+        "NUM": "140076",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46962",
+        "LON": "-49,20589",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 570 - Cajuru",
+        "NUM": "140228",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486356567272",
+        "LON": "-49,205961556381",
+        "NOME": "Rua Matias Cadori, 932 - Uberaba",
+        "NUM": "140110",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48807",
+        "LON": "-49,2234",
+        "NOME": "Rua Senador Salgado Filho, 5185 - Uberaba",
+        "NUM": "140061",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50093",
+        "LON": "-49,20928",
+        "NOME": "Av. Comendador Franco, 8001 -  Uberaba",
+        "NUM": "140807",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47937",
+        "LON": "-49,20123",
+        "NOME": "Marginal Rodovia BR277, 5756 - Uberaba",
+        "NUM": "140092",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46873",
+        "LON": "-49,19958",
+        "NOME": "Rua Deputado Acir José, 1081 - Cajuru",
+        "NUM": "140223",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4906",
+        "LON": "-49,22223",
+        "NOME": "Rua Senador Salgado Filho, 5530 - Uberaba",
+        "NUM": "140064",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49702",
+        "LON": "-49,21612",
+        "NOME": "Rua Senador Salgado Filho, 6449 - Uberaba",
+        "NUM": "140072",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46914",
+        "LON": "-49,20388",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140647",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47655",
+        "LON": "-49,22749",
+        "NOME": "Rua Senador Salgado Filho, 3860 - Uberaba",
+        "NUM": "140055",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489795737333",
+        "LON": "-49,20485524785",
+        "NOME": "Rua Eunice Betini Bartoszeck, 479 - Uberaba",
+        "NUM": "140081",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500173315055",
+        "LON": "-49,211349154596",
+        "NOME": "Rua José Fernandes Alves, 263 - Uberaba",
+        "NUM": "140641",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47905",
+        "LON": "-49,20306",
+        "NOME": "Rua Deputado Tenório Cavalcante, 1- Uberaba",
+        "NUM": "140091",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47138",
+        "LON": "-49,20001",
+        "NOME": "Rua Deputado Acir José, 763 - Cajuru",
+        "NUM": "140220",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46853",
+        "LON": "-49,20197",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140224",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47954",
+        "LON": "-49,22519",
+        "NOME": "Rua Senador Salgado Filho, 4203 - Uberaba",
+        "NUM": "140058",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48811455256",
+        "LON": "-49,22321317791",
+        "NOME": "Rua Senador Salgado Filho, 5186 - Uberaba",
+        "NUM": "140062",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492545736973",
+        "LON": "-49,205185860119",
+        "NOME": "Rua Aviador Armin Buhrer, 840 - Uberaba",
+        "NUM": "140080",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48493",
+        "LON": "-49,20566",
+        "NOME": "Rua Dep. Tenório Cavalcanti, 772 - Uberaba",
+        "NUM": "140087",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49233",
+        "LON": "-49,22081",
+        "NOME": "Rua Senador Salgado Filho, 5711 - Uberaba",
+        "NUM": "140066",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49562",
+        "LON": "-49,21772",
+        "NOME": "Rua Senador Salgado Filho, 6182 - Uberaba",
+        "NUM": "140070",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481332106493",
+        "LON": "-49,204473148479",
+        "NOME": "Rua Deputado Tenório Cavalcante, 330 - Uberaba",
+        "NUM": "140090",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47885",
+        "LON": "-49,20068",
+        "NOME": "Marginal Rodovia BR277, 12034 - Cajuru",
+        "NUM": "140095",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476163372831",
+        "LON": "-49,240004736666",
+        "NOME": "Rua José Rietmeyer, 471 - Uberaba",
+        "NUM": "140035",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49356",
+        "LON": "-49,20784",
+        "NOME": "Rua Velci Bolívar Grandó, 9 - Uberaba",
+        "NUM": "140078",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492663315887",
+        "LON": "-49,205127930059",
+        "NOME": "Rua Aviador Armin Buhrer, 842 - Uberaba",
+        "NUM": "140079",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48316",
+        "LON": "-49,20507",
+        "NOME": "Rua Matias Cadori, 568 - Uberaba",
+        "NUM": "140088",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48136",
+        "LON": "-49,20438",
+        "NOME": "Rua Deputado Tenório Cavalcante, 329 - Uberaba",
+        "NUM": "140089",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48415426193",
+        "LON": "-49,223540262566",
+        "NOME": "Av. Sen. Salgado Filho, 4704 - Uberaba",
+        "NUM": "140319",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473017389493",
+        "LON": "-49,234534695597",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140037",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487680996658",
+        "LON": "-49,204186705523",
+        "NOME": "Rua Eunice Betini Bartoszeck, 720 - Uberaba",
+        "NUM": "140084",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47739",
+        "LON": "-49,20262",
+        "NOME": "Rua Deputado Acir José, 28 - Cajuru",
+        "NUM": "140097",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469009161939",
+        "LON": "-49,203829567134",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140226",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481699898842",
+        "LON": "-49,246841103977",
+        "NOME": "Terminal Hauer - 338 - Centenário / Hauer",
+        "NUM": "105509",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474304528641",
+        "LON": "-49,231671341105",
+        "NOME": "Rua Senador Salgado Filho, 3344 - Uberaba",
+        "NUM": "140039",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48617",
+        "LON": "-49,22343",
+        "NOME": "Av. Sen. Salgado Filho, 4912 - Uberaba",
+        "NUM": "140059",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49426",
+        "LON": "-49,2192",
+        "NOME": "Rua Senador Salgado Filho, 6002 - Uberaba",
+        "NUM": "140067",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498709118387",
+        "LON": "-49,210996823244",
+        "NOME": "Rua José Fernandes Alves, 101 -  Uberaba",
+        "NUM": "140642",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49779",
+        "LON": "-49,20932",
+        "NOME": "Rua Velcy Bolívar Grandó, 386 - Uberaba",
+        "NUM": "140643",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469461524619",
+        "LON": "-49,205732565641",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 569 - Cajuru",
+        "NUM": "140227",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,46889126142",
+        "LON": "-49,208217552246",
+        "NOME": "Terminal Centenário - 338 - Centenário/ Hauer",
+        "NUM": "105105",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47934",
+        "LON": "-49,20332",
+        "NOME": "Rua Deputado Tenório Cavalcante, 44 - Uberaba",
+        "NUM": "140646",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47542",
+        "LON": "-49,20156",
+        "NOME": "Rua Deputado Acir José, 280 - Cajuru",
+        "NUM": "140099",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46901",
+        "LON": "-49,19976",
+        "NOME": "Rua Deputado Acir José, 1081 - Cajuru",
+        "NUM": "140222",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47972",
+        "LON": "-49,22531",
+        "NOME": "Rua Senador Salgado Filho, 4201 - Uberaba",
+        "NUM": "140057",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49719",
+        "LON": "-49,21615",
+        "NOME": "Rua Senador Salgado Filho, 6444 - Uberaba",
+        "NUM": "140071",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481699898842",
+        "LON": "-49,246841103977",
+        "NOME": "Terminal Hauer - 338 - Centenário / Hauer",
+        "NUM": "105509",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "42",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474124168273",
+        "LON": "-49,231875480986",
+        "NOME": "Rua Senador Salgado Filho, 3346 - Uberaba",
+        "NUM": "140038",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47931",
+        "LON": "-49,20105",
+        "NOME": "Marginal Rodova BR277, 5757 - Uberaba",
+        "NUM": "140093",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47335",
+        "LON": "-49,20042",
+        "NOME": "Rua Deputado Acir José, 533 - Cajuru",
+        "NUM": "140219",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483873681296",
+        "LON": "-49,223441370535",
+        "NOME": "Av. Sen. Salgado Filho, 4761 - Uberaba",
+        "NUM": "140318",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482230853781",
+        "LON": "-49,224018045473",
+        "NOME": "Rua Senador Salgado Filho, 4555 - Uberaba",
+        "NUM": "140979",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,515546452302",
+        "LON": "-49,27588562245",
+        "NOME": "Rua Primeiro de Maio, 1168 - Xaxim",
+        "NUM": "150369",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497756359328",
+        "LON": "-49,291421728958",
+        "NOME": "Rua Del. Naby Paraná, 152 - Capão Raso",
+        "NUM": "150366",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50336",
+        "LON": "-49,28962",
+        "NOME": "Rua Mal. Althayr Roszanniy, 423 - Capão Raso",
+        "NUM": "150354",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511721829191",
+        "LON": "-49,281404267498",
+        "NOME": "Rua Primeiro de Maio, 497 - Xaxim",
+        "NUM": "150199",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50433",
+        "LON": "-49,29059",
+        "NOME": "Rua Ipiranga, 657 - Capão Raso",
+        "NUM": "150356",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14581",
+        "LAT": "-25,506813852496",
+        "LON": "-49,284278333535",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108203",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518486526164",
+        "LON": "-49,27141915523",
+        "NOME": "Rua Primeiro de Maio, 1801 - Xaxim",
+        "NUM": "150441",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500380577777",
+        "LON": "-49,291072682209",
+        "NOME": "Rua Prof. João Mazzarotto, 447 - Capão Raso",
+        "NUM": "150358",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504733714901",
+        "LON": "-49,285771356687",
+        "NOME": "Rua Mal. Althayr Roszanniy, 781 - Capão Raso",
+        "NUM": "150238",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516246006259",
+        "LON": "-49,274561952301",
+        "NOME": "Rua Primeiro de Maio, 1369 - Xaxim",
+        "NUM": "150197",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510563525306",
+        "LON": "-49,283147703358",
+        "NOME": "Rua Primeiro de Maio, 261 - Xaxim",
+        "NUM": "150235",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511828339332",
+        "LON": "-49,281448523947",
+        "NOME": "Rua Primeiro de Maio, 498 -Xaxim",
+        "NUM": "150727",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492299584689",
+        "LON": "-49,293184311337",
+        "NOME": "Terminal Capão Raso - 624 - Vila São Pedro / 613 - V.Urano",
+        "NUM": "104811",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49763968388",
+        "LON": "-49,294029620867",
+        "NOME": "Rua Prof. João Mazzarotto, 117 - Capão Raso",
+        "NUM": "150360",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514045665354",
+        "LON": "-49,277851681658",
+        "NOME": "Rua Primeiro de Maio, 976 - Xaxim",
+        "NUM": "150198",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50814679701",
+        "LON": "-49,281372403427",
+        "NOME": "Rua Hermenegildo Bonat, 323 - Xaxim",
+        "NUM": "150236",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518413909651",
+        "LON": "-49,271315890183",
+        "NOME": "Rua Primeiro de Maio, 1800 - Xaxim",
+        "NUM": "150442",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "47548",
+        "LAT": "-25,506738808136",
+        "LON": "-49,284472793689",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108204",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492299584689",
+        "LON": "-49,293184311337",
+        "NOME": "Terminal Capão Raso - 624 - Vila São Pedro / 613 - V.Urano",
+        "NUM": "104811",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520766441859",
+        "LON": "-49,270006893848",
+        "NOME": "Rua Laudelino Afonso da Rocha, 204 - Xaxim",
+        "NUM": "150443",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50036515817",
+        "LON": "-49,291288542328",
+        "NOME": "Rua Prof. João Mazzarotto, 446 - Capão Raso",
+        "NUM": "150359",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510212521922",
+        "LON": "-49,283170502134",
+        "NOME": "Rua Hermenegildo Bonat, 570 - Xaxim",
+        "NUM": "150726",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517157356769",
+        "LON": "-49,273215483376",
+        "NOME": "Rua Primeiro de Maio, 1558 - Xaxim",
+        "NUM": "150196",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50317",
+        "LON": "-49,29135",
+        "NOME": "Rua Elói Orestes Zeglin, 2 - Capão Raso",
+        "NUM": "150355",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50559242081",
+        "LON": "-49,287583557043",
+        "NOME": "Rua Ipiranga, 742 - Capão Raso",
+        "NUM": "150357",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517312273565",
+        "LON": "-49,273199390121",
+        "NOME": "Rua Primeiro de Maio, 1557 - Xaxim",
+        "NUM": "150440",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514219951253",
+        "LON": "-49,277835588404",
+        "NOME": "Rua Primeiro de Maio, 975 - Xaxim",
+        "NUM": "150728",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508253310322",
+        "LON": "-49,283609365746",
+        "NOME": "Rua Barão de Santo Ângelo, 86 - Xaxim",
+        "NUM": "150194",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495372999651",
+        "LON": "-49,29250685152",
+        "NOME": "Rua Paulinas, 109 - Capão Raso",
+        "NUM": "150361",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520766441859",
+        "LON": "-49,270006893848",
+        "NOME": "Rua Laudelino Afonso da Rocha, 204 - Xaxim",
+        "NUM": "150443",
+        "SENTIDO": "Vila São Pedro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "V. Machado",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "V. Machado",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "V. Machado",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "V. Machado",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "V. Machado",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427451702698",
+        "LON": "-49,23764515037",
+        "NOME": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+        "NUM": "130200",
+        "SENTIDO": "V. Machado",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428264409307",
+        "LON": "-49,230169833845",
+        "NOME": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+        "NUM": "130208",
+        "SENTIDO": "V. Machado",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43153",
+        "LON": "-49,21102",
+        "NOME": "Rua Mal. José Agostinho dos Santos, 241 - Capão da Imbuia",
+        "NUM": "130223",
+        "SENTIDO": "V. Machado",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440590935023",
+        "LON": "-49,299167990685",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 2600 - Centro",
+        "NUM": "181012",
+        "SENTIDO": "V. Machado",
+        "SEQ": "35",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430089648435",
+        "LON": "-49,271423549599",
+        "NOME": "Praça Tiradentes - 380 - Detran/ Vicente Machado",
+        "NUM": "101010",
+        "SENTIDO": "Detran",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Detran",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4394164673",
+        "LON": "-49,292375625319",
+        "NOME": "Avenida Vicente Machado, 1643- Centro",
+        "NUM": "180935",
+        "SENTIDO": "Detran",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427080030571",
+        "LON": "-49,257855364418",
+        "NOME": "Rua Marechal Deodoro, 1590 - Centro",
+        "NUM": "110076",
+        "SENTIDO": "Detran",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Detran",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445442340456",
+        "LON": "-49,304393604398",
+        "NOME": "Rua Major Heitor Guimarães, 556 - Seminário",
+        "NUM": "181018",
+        "SENTIDO": "Detran",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "V. Machado",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435475577779",
+        "LON": "-49,28647610659",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1208 - Centro",
+        "NUM": "180246",
+        "SENTIDO": "V. Machado",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433995591501",
+        "LON": "-49,282597632355",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 805 - Centro",
+        "NUM": "110114",
+        "SENTIDO": "V. Machado",
+        "SEQ": "29",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428962048761",
+        "LON": "-49,223138422913",
+        "NOME": "Av. Victor Ferreira do Amaral, 1858 - Tarumã",
+        "NUM": "130211",
+        "SENTIDO": "V. Machado",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444741163385",
+        "LON": "-49,303269088268",
+        "NOME": "Rua Altevir Bassete, 40 - Seminário",
+        "NUM": "181017",
+        "SENTIDO": "V. Machado",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445442340456",
+        "LON": "-49,304393604398",
+        "NOME": "Rua Major Heitor Guimarães, 556 - Seminário",
+        "NUM": "181018",
+        "SENTIDO": "V. Machado",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433027310274",
+        "LON": "-49,276453985285",
+        "NOME": "Praça Osório - 207 -Cabral / Osório",
+        "NUM": "103303",
+        "SENTIDO": "Detran",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441268180636",
+        "LON": "-49,29705608005",
+        "NOME": "Avenida Vicente Machado, 2133- Centro",
+        "NUM": "180931",
+        "SENTIDO": "Detran",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "V. Machado",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433835722828",
+        "LON": "-49,279274375385",
+        "NOME": "Rua Visconde do Rio Branco, 1335 - Centro",
+        "NUM": "110112",
+        "SENTIDO": "V. Machado",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435367045923",
+        "LON": "-49,277721376366",
+        "NOME": "Rua Visconde do Rio Branco, 1625 - Centro",
+        "NUM": "110111",
+        "SENTIDO": "V. Machado",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439019235354",
+        "LON": "-49,295225472397",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 2118- Centro",
+        "NUM": "180939",
+        "SENTIDO": "V. Machado",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "V. Machado",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430056946982",
+        "LON": "-49,212904454416",
+        "NOME": "Av. Victor Ferreira do Amaral, 2711 - Tarumã",
+        "NUM": "130217",
+        "SENTIDO": "V. Machado",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43385146748",
+        "LON": "-49,212262065357",
+        "NOME": "Rua Mal. José Agostinho dos Santos, 1-239 - Capão da Imbuia",
+        "NUM": "130222",
+        "SENTIDO": "V. Machado",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435484055553",
+        "LON": "-49,28240585441",
+        "NOME": "Avenida Vicente Machado, 589 - Centro",
+        "NUM": "110115",
+        "SENTIDO": "Detran",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434478829609",
+        "LON": "-49,279877872414",
+        "NOME": "Avenida Vicente Machado, 249-317 - Centro",
+        "NUM": "110116",
+        "SENTIDO": "Detran",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Detran",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Detran",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "V. Machado",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427844128035",
+        "LON": "-49,23368218655",
+        "NOME": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+        "NUM": "130869",
+        "SENTIDO": "V. Machado",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438514457376",
+        "LON": "-49,290079925131",
+        "NOME": "Avenida Vicente Machado, 1432 - Centro",
+        "NUM": "180936",
+        "SENTIDO": "Detran",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Detran",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440364732165",
+        "LON": "-49,29474133367",
+        "NOME": "Avenida Vicente Machado, 1939 - Centro",
+        "NUM": "180934",
+        "SENTIDO": "Detran",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Detran",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43176",
+        "LON": "-49,21226",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130221",
+        "SENTIDO": "Detran",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436402073846",
+        "LON": "-49,288679541296",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1410 - Centro",
+        "NUM": "180247",
+        "SENTIDO": "V. Machado",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "V. Machado",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429560368269",
+        "LON": "-49,217533947176",
+        "NOME": "Av. Victor Ferreira do Amaral, 1447 - Tarumã",
+        "NUM": "130215",
+        "SENTIDO": "V. Machado",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43176",
+        "LON": "-49,21226",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130221",
+        "SENTIDO": "V. Machado",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442750725897",
+        "LON": "-49,30013257379",
+        "NOME": "Avenida Vicente Machado, 2499- Centro",
+        "NUM": "180929",
+        "SENTIDO": "Detran",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Detran",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Detran",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Detran",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427916533799",
+        "LON": "-49,248138964176",
+        "NOME": "Rua Marechal Deodoro, 2400 - Centro",
+        "NUM": "130333",
+        "SENTIDO": "Detran",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443909191513",
+        "LON": "-49,302679002285",
+        "NOME": "Av. Vicente Machado, 2791 - Centro",
+        "NUM": "181016",
+        "SENTIDO": "Detran",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432663065592",
+        "LON": "-49,272776724047",
+        "NOME": "Praça Zacarias - 380-Detran/Vicente Machado",
+        "NUM": "103501",
+        "SENTIDO": "V. Machado",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443777189625",
+        "LON": "-49,302732646465",
+        "NOME": "Av. Vicente Machado, 2786 - Centro",
+        "NUM": "181015",
+        "SENTIDO": "V. Machado",
+        "SEQ": "36",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Detran",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Detran",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Detran",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433070288062",
+        "LON": "-49,280226559586",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 552 - Centro",
+        "NUM": "110113",
+        "SENTIDO": "V. Machado",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "V. Machado",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428618074257",
+        "LON": "-49,226473749823",
+        "NOME": "Av. Victor Ferreira do Amaral, 2272 - Tarumã",
+        "NUM": "130029",
+        "SENTIDO": "V. Machado",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Detran",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Detran",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437370951001",
+        "LON": "-49,291116328186",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1731 - Centro",
+        "NUM": "180248",
+        "SENTIDO": "V. Machado",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438161791202",
+        "LON": "-49,293153465933",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1828 - Centro",
+        "NUM": "180938",
+        "SENTIDO": "V. Machado",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "V. Machado",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "V. Machado",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429249097155",
+        "LON": "-49,220429391808",
+        "NOME": "Av. Victor Ferreira do Amaral, 1468 - Tarumã",
+        "NUM": "130213",
+        "SENTIDO": "V. Machado",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428277513404",
+        "LON": "-49,266261920936",
+        "NOME": "Praça Santos Andrade - 380 - Detran/Vicente Machado - 366 - Itupava/Hospital Militar",
+        "NUM": "103407",
+        "SENTIDO": "Detran",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Detran",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Detran",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Detran",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    }
+]

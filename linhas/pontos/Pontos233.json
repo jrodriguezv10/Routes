@@ -1,0 +1,192 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,367955764231",
+        "LON": "-49,216232449074",
+        "NOME": "Estrada Santa Cândida, 953 - Tingui",
+        "NUM": "120460",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36962364685",
+        "LON": "-49,209864139881",
+        "NOME": "Rua Antônio Scheidt, 402 - Santa Candida",
+        "NUM": "120467",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37453",
+        "LON": "-49,22203",
+        "NOME": "Rua Padre João Wislinski, 1048  - Santa Candida",
+        "NUM": "120155",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374863328913",
+        "LON": "-49,221240845404",
+        "NOME": "Rua Padre João Wislinski, 621 - Santa Candida",
+        "NUM": "130557",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366323940975",
+        "LON": "-49,215845364418",
+        "NOME": "Estrada Santa Cândida, 1169 - Tingui",
+        "NUM": "130577",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366256680565",
+        "LON": "-49,210357550926",
+        "NOME": "Rua Aírton Luciano Franco, 54 - Santa Candida",
+        "NUM": "120464",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367235850487",
+        "LON": "-49,209974197588",
+        "NOME": "Rua Buda, 359 - Santa Candida",
+        "NUM": "120465",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376890496315",
+        "LON": "-49,223998280917",
+        "NOME": "Terminal Santa Cândida - 233 - Olaria",
+        "NUM": "105908",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374518202156",
+        "LON": "-49,219165743551",
+        "NOME": "Estrada Santa Cândida, 116 - Tingui",
+        "NUM": "120457",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37096395319",
+        "LON": "-49,216915976686",
+        "NOME": "Estrada Santa Cândida, 603 - Tingui",
+        "NUM": "120459",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368045458549",
+        "LON": "-49,208871457672",
+        "NOME": "Rua Elias Toufic Mansur, 359 - Santa Candida",
+        "NUM": "120466",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374647869597",
+        "LON": "-49,216644635582",
+        "NOME": "Rua Máximo João Kop, 203 - Santa Candida",
+        "NUM": "120471",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376890496315",
+        "LON": "-49,223998280917",
+        "NOME": "Terminal Santa Cândida - 233 - Olaria",
+        "NUM": "105908",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364472423647",
+        "LON": "-49,210323411045",
+        "NOME": "Rua Antônio Teixeira,  3946 - Santa Candida",
+        "NUM": "120463",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364965132773",
+        "LON": "-49,214167842923",
+        "NOME": "Estrada Santa Cândida, 1357 - Tingui",
+        "NUM": "120462",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371485446819",
+        "LON": "-49,210039154596",
+        "NOME": "Rua Antônio Fernandes Apolinário, 34 - Santa Candida",
+        "NUM": "120468",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372563941288",
+        "LON": "-49,21110839633",
+        "NOME": "Estrada das Olarias, 1317 - Atuba - Curitiba - PR",
+        "NUM": "120469",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373099706579",
+        "LON": "-49,218540379133",
+        "NOME": "Estrada Santa Cândida, 303 - Tingui",
+        "NUM": "120458",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373423941332",
+        "LON": "-49,21422475215",
+        "NOME": "Rua Máximo João Kop, 510 - Santa Candida",
+        "NUM": "120470",
+        "SENTIDO": "Olaria (Circular)",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    }
+]

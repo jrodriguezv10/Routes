@@ -1,0 +1,372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451180312464",
+        "LON": "-49,350723724154",
+        "NOME": "Rua João Dembinski, 149 - Cidade Industrial",
+        "NUM": "180219",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462757674447",
+        "LON": "-49,345736156491",
+        "NOME": "R. João Dembinski, 1532 - Cidade Industrial",
+        "NUM": "180175",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442310626807",
+        "LON": "-49,352797418833",
+        "NOME": "Rua Angelo Nebosne, 75 - Cidade Industrial",
+        "NUM": "190736",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453787465399",
+        "LON": "-49,348903845338",
+        "NOME": "Rua João Dembinski, 541 - Cidade Industrial",
+        "NUM": "180216",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472319278518",
+        "LON": "-49,340770442628",
+        "NOME": "R. João Dembinski, 2751 - Cidade Industrial",
+        "NUM": "180135",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476050721268",
+        "LON": "-49,33679004445",
+        "NOME": "R. João Dembinski, 3322 - Cidade Industrial",
+        "NUM": "180132",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477396729701",
+        "LON": "-49,326659620866",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV (H) - 720 - Fazendinha / Campo Comprido",
+        "NUM": "105316",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468809292085",
+        "LON": "-49,343581397676",
+        "NOME": "R. João Dembinski, 2101 - Cidade Industrial",
+        "NUM": "180139",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44154923084",
+        "LON": "-49,347128619098",
+        "NOME": "Terminal Campo Comprido - 720 - Fazendinha / C.Comprido",
+        "NUM": "104612",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472205468906",
+        "LON": "-49,341156680726",
+        "NOME": "R. João Dembinski, 2684 - Cidade Industrial",
+        "NUM": "180136",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46913862252",
+        "LON": "-49,343675274991",
+        "NOME": "R. João Dembinski, 2282 - Cidade Industrial",
+        "NUM": "180171",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465363376178",
+        "LON": "-49,345147807741",
+        "NOME": "R. João Dembinski, 1792 - Cidade Industrial",
+        "NUM": "180173",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476057985482",
+        "LON": "-49,336623747491",
+        "NOME": "R. João Dembinski, 3323 - Cidade Industrial",
+        "NUM": "180131",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471091581907",
+        "LON": "-49,34250851407",
+        "NOME": "R. João Dembinski, 2501 - Cidade Industrial",
+        "NUM": "180137",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474872702043",
+        "LON": "-49,338318903589",
+        "NOME": "R. João Dembinski, 3086 - Cidade Industrial",
+        "NUM": "180134",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474790373444",
+        "LON": "-49,338207591915",
+        "NOME": "R. João Dembinski, 3087 - Cidade Industrial",
+        "NUM": "180133",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465167224798",
+        "LON": "-49,34506734147",
+        "NOME": "R. João Dembinski, 1811 - Cidade Industrial",
+        "NUM": "180172",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477396729701",
+        "LON": "-49,326659620866",
+        "NOME": "Terminal Fazendinha - 040 - Interbairros IV (H) - 720 - Fazendinha / Campo Comprido",
+        "NUM": "105316",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443906769461",
+        "LON": "-49,355211406946",
+        "NOME": "Rua Prof. Pedro Viriato Parigot de Souza, 4716 - Cidade Industrial",
+        "NUM": "190737",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455608685041",
+        "LON": "-49,348111252574",
+        "NOME": "Rua João Dembinski, 701 - Cidade Industrial",
+        "NUM": "180214",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470620598323",
+        "LON": "-49,343152244233",
+        "NOME": "R. João Dembinski, 2281 - Cidade Industrial",
+        "NUM": "180138",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44154923084",
+        "LON": "-49,347128619098",
+        "NOME": "Terminal Campo Comprido - 720 - Fazendinha / C.Comprido",
+        "NUM": "104612",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    }
+]

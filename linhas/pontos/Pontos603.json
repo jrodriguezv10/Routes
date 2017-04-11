@@ -1,0 +1,422 @@
+[
+    {
+        "GRUPO": "26093",
+        "LAT": "-25,441600910618",
+        "LON": "-49,277095755077",
+        "NOME": "Estação Tubo Praça Oswaldo Cruz",
+        "NUM": "108032",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26110",
+        "LAT": "-25,487814027983",
+        "LON": "-49,29433070633",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108055",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26106",
+        "LAT": "-25,448330003815",
+        "LON": "-49,287868593254",
+        "NOME": "Estação Tubo Silva Jardim",
+        "NUM": "108038",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26120",
+        "LAT": "-25,4810211",
+        "LON": "-49,29261829",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108052",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26101",
+        "LAT": "-25,444886124648",
+        "LON": "-49,285470404369",
+        "NOME": "Estação Tubo Bento Viana",
+        "NUM": "108035",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26105",
+        "LAT": "-25,448322747926",
+        "LON": "-49,287777398148",
+        "NOME": "Estação Tubo Silva Jardim",
+        "NUM": "108037",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26109",
+        "LAT": "-25,452294327996",
+        "LON": "-49,287844382803",
+        "NOME": "Estação Tubo Petit Carneiro",
+        "NUM": "108039",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26123",
+        "LAT": "-25,464646632699",
+        "LON": "-49,291212519455",
+        "NOME": "Estação Tubo Vital Brasil",
+        "NUM": "108045",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26104",
+        "LAT": "-25,46116926485",
+        "LON": "-49,289856957969",
+        "NOME": "Estação Tubo Sebastião Paraná",
+        "NUM": "108044",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476410212996",
+        "LON": "-49,292681397146",
+        "NOME": "Terminal  Portão - 203 - Sta. Cândida/C. Raso / 603-Pinheirinho/R. Barbosa  / 602-Circular Sul (AH)",
+        "NUM": "105802",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26108",
+        "LAT": "-25,452287022347",
+        "LON": "-49,287927521283",
+        "NOME": "Estação Tubo Petit Carneiro",
+        "NUM": "108040",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26112",
+        "LAT": "-25,484383755499",
+        "LON": "-49,293780854121",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108054",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492092582379",
+        "LON": "-49,293635601957",
+        "NOME": "Terminal Capão Raso - 602 - Circular Sul (AH) / 603-Pinheirinho/Rui Barbosa",
+        "NUM": "104803",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26096",
+        "LAT": "-25,44298821663",
+        "LON": "-49,280469406152",
+        "NOME": "Estação Tubo Coronel Dulcídio",
+        "NUM": "108033",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26114",
+        "LAT": "-25,472597214349",
+        "LON": "-49,294372161675",
+        "NOME": "Estação Tubo Carlos Dietzsch",
+        "NUM": "108049",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26097",
+        "LAT": "-25,456920160003",
+        "LON": "-49,288507511664",
+        "NOME": "Estação Tubo Dom Pedro l",
+        "NUM": "108041",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512251957076",
+        "LON": "-49,295580139565",
+        "NOME": "Terminal Pinheirinho - 603 - Pinheirinho",
+        "NUM": "105701",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26121",
+        "LAT": "-25,464606514037",
+        "LON": "-49,291301908896",
+        "NOME": "Estação Tubo Vital Brasil",
+        "NUM": "108046",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26102",
+        "LAT": "-25,49551353773",
+        "LON": "-49,294531722719",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108057",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26091",
+        "LAT": "-25,503476168282",
+        "LON": "-49,296020771793",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108061",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26117",
+        "LAT": "-25,467671216077",
+        "LON": "-49,293124934483",
+        "NOME": "Estação Tubo Morretes",
+        "NUM": "108047",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26118",
+        "LAT": "-25,467604592786",
+        "LON": "-49,29319991057",
+        "NOME": "Estação Tubo Morretes",
+        "NUM": "108048",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26107",
+        "LAT": "-25,461204927891",
+        "LON": "-49,289782206746",
+        "NOME": "Estação Tubo Sebastião Paraná",
+        "NUM": "108043",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,47637224",
+        "LON": "-49,29260731",
+        "NOME": "Terminal Portão - 203 - Sta. Cândida / C. Raso - Pinheirinho / Rui Barbosa-Circular Sul (H)",
+        "NUM": "105801",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26099",
+        "LAT": "-25,4448158457",
+        "LON": "-49,285595177088",
+        "NOME": "Estação Tubo Bento Viana",
+        "NUM": "108036",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26094",
+        "LAT": "-25,45693318",
+        "LON": "-49,28858994",
+        "NOME": "Estação Tubo Dom Pedro I",
+        "NUM": "108042",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26046",
+        "LAT": "-25,507655816928",
+        "LON": "-49,295913842957",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108063",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47549",
+        "LAT": "-25,436117675899",
+        "LON": "-49,274253767142",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 603 -Pinheirinho / Rui Barbosa",
+        "NUM": "108170",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512251957076",
+        "LON": "-49,295580139565",
+        "NOME": "Terminal Pinheirinho - 603 - Pinheirinho",
+        "NUM": "105701",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26092",
+        "LAT": "-25,441207339035",
+        "LON": "-49,275852571199",
+        "NOME": "Estação Tubo Praça Oswaldo Cruz",
+        "NUM": "108031",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47549",
+        "LAT": "-25,436117675899",
+        "LON": "-49,274253767142",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 603 -Pinheirinho / Rui Barbosa",
+        "NUM": "108170",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26095",
+        "LAT": "-25,443372665226",
+        "LON": "-49,281736143522",
+        "NOME": "Estação Tubo Coronel Dulcídio",
+        "NUM": "108034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26113",
+        "LAT": "-25,472633207004",
+        "LON": "-49,294487371045",
+        "NOME": "Estação Tubo Carlos Dietzsch",
+        "NUM": "108050",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26098",
+        "LAT": "-25,499463087151",
+        "LON": "-49,296060725166",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108059",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    }
+]

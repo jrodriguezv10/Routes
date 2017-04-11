@@ -1,0 +1,532 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,497304001451",
+        "LON": "-49,342281457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7724 - Cidade Industrial",
+        "NUM": "180204",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508734899184",
+        "LON": "-49,33946364418",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8789 - Cidade Industrial",
+        "NUM": "180210",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483618232253",
+        "LON": "-49,35027346015",
+        "NOME": "Terminal Caiuá - 826 - C.Comprido/CIC",
+        "NUM": "105006",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47397",
+        "LON": "-49,35165",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4542 - Cidade Industrial",
+        "NUM": "180191",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506112737603",
+        "LON": "-49,340196093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8515 - Cidade Industrial",
+        "NUM": "180209",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502602793046",
+        "LON": "-49,341131953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8110 - Cidade Industrial",
+        "NUM": "180206",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505849479903",
+        "LON": "-49,340431457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8514 - Cidade Industrial",
+        "NUM": "180208",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512811527676",
+        "LON": "-49,33760475215",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira,9008 - Cidade Industrial",
+        "NUM": "180212",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441530658577",
+        "LON": "-49,346710612269",
+        "NOME": "Terminal Campo Comprido  - 826 - Campo Comprido / CIC - 732 Campo Comprido / Caiuá",
+        "NUM": "104615",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451780937284",
+        "LON": "-49,361862798777",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 2203 - Cidade Industrial",
+        "NUM": "180181",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459036054369",
+        "LON": "-49,358901224537",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3145 - Cidade Industrial",
+        "NUM": "180183",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497027579018",
+        "LON": "-49,342178046627",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7725 - Cidade Industrial",
+        "NUM": "180205",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508992103706",
+        "LON": "-49,33918682209",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9009 - Cidade Industrial",
+        "NUM": "180211",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513755678785",
+        "LON": "-49,335573942608",
+        "NOME": "Rua João Bettega, 6618 - Portão",
+        "NUM": "170092",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451979726387",
+        "LON": "-49,362002565641",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 2203 - Cidade Industrial",
+        "NUM": "180180",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458966054372",
+        "LON": "-49,359097930059",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3145 - Cidade Industrial",
+        "NUM": "180182",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47044094179",
+        "LON": "-49,353811457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4547 - Cidade Industrial",
+        "NUM": "180188",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51376294072",
+        "LON": "-49,335112602657",
+        "NOME": "Rua João Bettega, 6474 - Portão",
+        "NUM": "170091",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483566923709",
+        "LON": "-49,350309871164",
+        "NOME": "Terminal Caiuá - 826 - Campo Comprido / CIC - 732 Campo Comprido / Caiuá",
+        "NUM": "105008",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46951",
+        "LON": "-49,35415",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180189",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482631525547",
+        "LON": "-49,347798775463",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5923 - Cidade Industrial",
+        "NUM": "180197",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512550191478",
+        "LON": "-49,333355755753",
+        "NOME": "Rua João Bettega, 6378 - Portão",
+        "NUM": "180954",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47404",
+        "LON": "-49,35181",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4543 - Cidade Industrial",
+        "NUM": "180190",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485609338699",
+        "LON": "-49,346676387558",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6232 - Cidade Industrial",
+        "NUM": "180198",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512758214015",
+        "LON": "-49,337462186508",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9009  - Cidade Industrial",
+        "NUM": "180213",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47981",
+        "LON": "-49,34922",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5527 - Cidade Industrial",
+        "NUM": "180194",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47969",
+        "LON": "-49,34908",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5526 - Cidade Industrial",
+        "NUM": "180195",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485669419707",
+        "LON": "-49,346483527613",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6233 - Cidade Industrial",
+        "NUM": "180199",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488627945253",
+        "LON": "-49,345207317791",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6721 - Cidade Industrial",
+        "NUM": "180201",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441530658577",
+        "LON": "-49,346710612269",
+        "NOME": "Terminal Campo Comprido  - 826 - Campo Comprido / CIC - 732 Campo Comprido / Caiuá",
+        "NUM": "104615",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463239373304",
+        "LON": "-49,357337813492",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3565 - Cidade Industrial",
+        "NUM": "180184",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46727",
+        "LON": "-49,35555",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180186",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46697",
+        "LON": "-49,35553",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180187",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502926107917",
+        "LON": "-49,340926093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8111 - Cidade Industrial",
+        "NUM": "180207",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476556100479",
+        "LON": "-49,350640728836",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5178 - Cidade Industrial",
+        "NUM": "180192",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488796155004",
+        "LON": "-49,345326093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6720 - Cidade Industrial",
+        "NUM": "180200",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492234315199",
+        "LON": "-49,343819387732",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7042 - Cidade Industrial",
+        "NUM": "180202",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512426737275",
+        "LON": "-49,332958788818",
+        "NOME": "Rua João Bettega, 6205 - Portão",
+        "NUM": "170089",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47696",
+        "LON": "-49,35027",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5179 - Cidade Industrial",
+        "NUM": "180193",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492029157268",
+        "LON": "-49,343741953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7043 - Cidade Industrial",
+        "NUM": "180203",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482751259688",
+        "LON": "-49,347922419643",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5951 - Cidade Industrial",
+        "NUM": "180196",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463039686667",
+        "LON": "-49,357237813492",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3565 - Cidade Industrial",
+        "NUM": "180185",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    }
+]

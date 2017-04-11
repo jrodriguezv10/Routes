@@ -1,0 +1,522 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,45777121197",
+        "LON": "-49,373635829634",
+        "NOME": "Rua Pedro Cruzetta, 49 - Augusta",
+        "NUM": "180357",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459570575705",
+        "LON": "-49,37425944323",
+        "NOME": "Rua Pedro Cruzetta, 350 - Augusta",
+        "NUM": "180358",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474467025721",
+        "LON": "-49,374904514498",
+        "NOME": "Rua Ângelo Marqueto, 1531 - Cidade Industrial",
+        "NUM": "180372",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472456005703",
+        "LON": "-49,375225038475",
+        "NOME": "Rua Ângelo Marqueto, 1532 - Cidade Industrial",
+        "NUM": "180370",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452311261",
+        "LON": "-49,376551390833",
+        "NOME": "Rua Eduardo Sprada, 7997 - Campo Comprido",
+        "NUM": "180381",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451865574132",
+        "LON": "-49,363617778963",
+        "NOME": "Rua Eduardo Sprada, 6222 - Cidade Industrial",
+        "NUM": "180338",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476886016684",
+        "LON": "-49,375664920753",
+        "NOME": "Rua Ângelo Marqueto, 2054 - Cidade Industrial",
+        "NUM": "180374",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472433001667",
+        "LON": "-49,375286729282",
+        "NOME": "Rua Ângelo Marqueto, 1532 - Cidade Industrial",
+        "NUM": "180753",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466951802421",
+        "LON": "-49,369794906324",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180364",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455718801661",
+        "LON": "-49,373795421071",
+        "NOME": "Rua Eduardo Sprada, 7450 - Campo Comprido",
+        "NUM": "180378",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463233190799",
+        "LON": "-49,363452494144",
+        "NOME": "Rua Maria Helena Brandão, 305 - Cidade Industrial",
+        "NUM": "180952",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442222486137",
+        "LON": "-49,351466031022",
+        "NOME": "Rua Dep. Heitor Alencar Furtado - Cidade Industrial",
+        "NUM": "190739",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452563076897",
+        "LON": "-49,366523952431",
+        "NOME": "Rua Eduardo Sprada, 6580 - Cidade Industrial",
+        "NUM": "180340",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459577840914",
+        "LON": "-49,374337227291",
+        "NOME": "Rua Pedro Cruzetta, 348 - Augusta",
+        "NUM": "180751",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453692937124",
+        "LON": "-49,374225915617",
+        "NOME": "Rua Eduardo Sprada, 7511 - Campo Comprido",
+        "NUM": "180380",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457737307146",
+        "LON": "-49,373744459099",
+        "NOME": "Rua Pedro Cruzetta, 48 - Augusta",
+        "NUM": "180356",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475780647972",
+        "LON": "-49,375813783354",
+        "NOME": "Rua Ângelo Marqueto, 2054 - Cidade Industrial",
+        "NUM": "180754",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452632100388",
+        "LON": "-49,366475672668",
+        "NOME": "Rua Eduardo Sprada, 6581 - Cidade Industrial",
+        "NUM": "180341",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464537454932",
+        "LON": "-49,369310767597",
+        "NOME": "Rua Ângelo Marqueto, 429 - Cidade Industrial",
+        "NUM": "180362",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475809704892",
+        "LON": "-49,375746728129",
+        "NOME": "Rua Ângelo Marqueto, 2053 - Cidade Industrial",
+        "NUM": "180373",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467786096232",
+        "LON": "-49,371650994963",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180366",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456051800638",
+        "LON": "-49,375412793106",
+        "NOME": "Rua Cidade Jardim Olinda, 98 - Augusta",
+        "NUM": "180345",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478555182551",
+        "LON": "-49,375604717791",
+        "NOME": "Rua Ângelo Marqueto, 2318 - Cidade Industrial",
+        "NUM": "180376",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453208505543",
+        "LON": "-49,368300915903",
+        "NOME": "Rua Eduardo Sprada, 6582- Cidade Industrial",
+        "NUM": "180342",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464568936204",
+        "LON": "-49,369416714853",
+        "NOME": "Rua Ângelo Marqueto, 430 - Cidade Industrial",
+        "NUM": "180361",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474430704164",
+        "LON": "-49,374972910828",
+        "NOME": "Rua Ângelo Marqueto, 1532 - Cidade Industrial",
+        "NUM": "180371",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441466749156",
+        "LON": "-49,34695",
+        "NOME": "Terminal Campo Comprido - 825 - Vila Marqueto",
+        "NUM": "104611",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471041854694",
+        "LON": "-49,375676990694",
+        "NOME": "Rua Ângelo Marqueto, 581 - Cidade Industrial",
+        "NUM": "180369",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455822939621",
+        "LON": "-49,378960014528",
+        "NOME": "Rua Cidade Jardim Olinda, 478 - Augusta",
+        "NUM": "180349",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441466749156",
+        "LON": "-49,34695",
+        "NOME": "Terminal Campo Comprido - 825 - Vila Marqueto",
+        "NUM": "104611",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46270910539",
+        "LON": "-49,371730120129",
+        "NOME": "Rua Pedro Cruzetta, 1 - Augusta",
+        "NUM": "180359",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463233190799",
+        "LON": "-49,363452494144",
+        "NOME": "Rua Maria Helena Brandão, 305 - Cidade Industrial",
+        "NUM": "180952",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451962449757",
+        "LON": "-49,363255680746",
+        "NOME": "Rua Eduardo Sprada, 6221 - Cidade Industrial",
+        "NUM": "180339",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453355028262",
+        "LON": "-49,368302257008",
+        "NOME": "Rua Eduardo Sprada, 6579 - Cidade Industrial",
+        "NUM": "180343",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466928797332",
+        "LON": "-49,369849891609",
+        "NOME": "Rua Ângelo Marqueto, 581 - Cidade Industrial",
+        "NUM": "180363",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468875798351",
+        "LON": "-49,373289824671",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180367",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467712238286",
+        "LON": "-49,371751577801",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180365",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478555182551",
+        "LON": "-49,375604717791",
+        "NOME": "Rua Ângelo Marqueto, 2318 - Cidade Industrial",
+        "NUM": "180376",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456223689205",
+        "LON": "-49,373407841867",
+        "NOME": "Rua Eduardo Sprada, 6819 - Cidade Industrial",
+        "NUM": "180344",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468992032661",
+        "LON": "-49,373305917925",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180368",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455906492106",
+        "LON": "-49,377298386044",
+        "NOME": "Rua Cidade Jardim Olinda, 288 - Augusta",
+        "NUM": "180347",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46270184037",
+        "LON": "-49,371676475948",
+        "NOME": "Rua Pedro Cruzetta, 2 - Augusta",
+        "NUM": "180360",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47689085946",
+        "LON": "-49,375569702333",
+        "NOME": "Rua Ângelo Marqueto, 2054 - Cidade Industrial",
+        "NUM": "180375",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454333250632",
+        "LON": "-49,37939286232",
+        "NOME": "Rua Sargento Haroldo Cordeiro Júnior, 2 - Augusta",
+        "NUM": "180949",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470998267583",
+        "LON": "-49,375762821383",
+        "NOME": "Rua Ângelo Marqueto, 582 - Cidade Industrial",
+        "NUM": "180752",
+        "SENTIDO": "Vila Marqueto",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    }
+]

@@ -1,0 +1,1352 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,6010162",
+        "LON": "-49,274194506152",
+        "NOME": "Rua Vergília Calixto, 606 - Umbará",
+        "NUM": "160292",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56146073791",
+        "LON": "-49,291365773624",
+        "NOME": "Rua Nicola Pellanda, 3958 - Umbara",
+        "NUM": "160272",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56562977802",
+        "LON": "-49,288625897116",
+        "NOME": "Rua Nicola Pellanda, 4445 - Umbara",
+        "NUM": "160274",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568690530526",
+        "LON": "-49,283537746614",
+        "NOME": "Rua Nicola Pellanda, 4652 - Umbara",
+        "NUM": "160278",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569855531578",
+        "LON": "-49,282105447001",
+        "NOME": "Rua Nicola Pellanda, 5278 - Umbara",
+        "NUM": "160440",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58870205225",
+        "LON": "-49,275346280283",
+        "NOME": "Rua Nicola Pellanda, 7652 - Umbará",
+        "NUM": "160447",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569609950783",
+        "LON": "-49,282164455599",
+        "NOME": "Rua Nicola Pellanda, 5277 - Umbara",
+        "NUM": "160280",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550725336291",
+        "LON": "-49,292839647478",
+        "NOME": "Rua Nicola Pellanda, 2476 - Pinheirinho",
+        "NUM": "160328",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566981115945",
+        "LON": "-49,287078262514",
+        "NOME": "Rua Nicola Pellanda, 4459 - Umbara",
+        "NUM": "160276",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568690530526",
+        "LON": "-49,283537746614",
+        "NOME": "Rua Nicola Pellanda, 4652 - Umbara",
+        "NUM": "160278",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569855531578",
+        "LON": "-49,282105447001",
+        "NOME": "Rua Nicola Pellanda, 5278 - Umbara",
+        "NUM": "160440",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565745918673",
+        "LON": "-49,28827318663",
+        "NOME": "Rua Nicola Pellanda, 4446 - Umbara",
+        "NUM": "160275",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,600895404382",
+        "LON": "-49,274074584245",
+        "NOME": "Rua Vergília Calixto, 606 - Umbará",
+        "NUM": "160758",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574539616626",
+        "LON": "-49,277372689194",
+        "NOME": "Rua Nicola Pellanda, 6011 - Umbará",
+        "NUM": "160442",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56039",
+        "LON": "-49,29424",
+        "NOME": "Rua Bortolo Pelanda - Pinheirinho",
+        "NUM": "160298",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528638092388",
+        "LON": "-49,292818189806",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 680 - Pinheirinho",
+        "NUM": "160317",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572433494654",
+        "LON": "-49,279227436728",
+        "NOME": "Rua Nicola Pellanda, 5731 - Umbará",
+        "NUM": "160281",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,60137279361",
+        "LON": "-49,277239919847",
+        "NOME": "Rua Nicola Pellanda, 9090 - Umbará",
+        "NUM": "160291",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55709",
+        "LON": "-49,29617",
+        "NOME": "Rua Valdomiro Rodrigues - Umbará",
+        "NUM": "160294",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56562977802",
+        "LON": "-49,288625897116",
+        "NOME": "Rua Nicola Pellanda, 4445 - Umbara",
+        "NUM": "160274",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572523014664",
+        "LON": "-49,279271693176",
+        "NOME": "Rua Nicola Pellanda, 5730 - Umbará",
+        "NUM": "160441",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58870205225",
+        "LON": "-49,275346280283",
+        "NOME": "Rua Nicola Pellanda, 7652 - Umbará",
+        "NUM": "160447",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556490607301",
+        "LON": "-49,29250705356",
+        "NOME": "Rua Nicola Pellanda, 3568 - Umbará",
+        "NUM": "160271",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569609950783",
+        "LON": "-49,282164455599",
+        "NOME": "Rua Nicola Pellanda, 5277 - Umbara",
+        "NUM": "160280",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596019437097",
+        "LON": "-49,274454116821",
+        "NOME": "Rua Pedro Calisto, 250 - Umbará",
+        "NUM": "160736",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597736903295",
+        "LON": "-49,273016452789",
+        "NOME": "Rua Vergília Calixto, 223 - Umbará",
+        "NUM": "160738",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550725336291",
+        "LON": "-49,292839647478",
+        "NOME": "Rua Nicola Pellanda, 2476 - Pinheirinho",
+        "NUM": "160328",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585503917252",
+        "LON": "-49,274348498529",
+        "NOME": "Rua Nicola Pellanda, 7247 - Umbará",
+        "NUM": "160446",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577088446451",
+        "LON": "-49,275617183393",
+        "NOME": "Rua Nicola Pellanda, 6214 - Umbará",
+        "NUM": "160283",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593353952285",
+        "LON": "-49,276955605692",
+        "NOME": "Rua Nicola Pellanda, 8114 - Umbará",
+        "NUM": "160288",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595688300935",
+        "LON": "-49,27758592481",
+        "NOME": "Rua Nicola Pellanda, 8459 - Umbará",
+        "NUM": "160289",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56146073791",
+        "LON": "-49,291365773624",
+        "NOME": "Rua Nicola Pellanda, 3958 - Umbara",
+        "NUM": "160272",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553654588396",
+        "LON": "-49,293381453699",
+        "NOME": "Rua Nicola Pellanda, 2860 - Pinheirinho",
+        "NUM": "160355",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585503917252",
+        "LON": "-49,274348498529",
+        "NOME": "Rua Nicola Pellanda, 7247 - Umbará",
+        "NUM": "160446",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553654588396",
+        "LON": "-49,293381453699",
+        "NOME": "Rua Nicola Pellanda, 2860 - Pinheirinho",
+        "NUM": "160355",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55718",
+        "LON": "-49,29636",
+        "NOME": "Rua Valdomiro Rodrigues - Umbará",
+        "NUM": "160293",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530292386736",
+        "LON": "-49,294841916508",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 346 - Pinheirinho",
+        "NUM": "160319",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550445837615",
+        "LON": "-49,292767227835",
+        "NOME": "Rua Nicola Pellanda, 2460 - Pinheirinho",
+        "NUM": "160329",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561172795366",
+        "LON": "-49,291316152758",
+        "NOME": "Rua Nicola Pellanda, 3957 - Umbara",
+        "NUM": "160273",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568216300477",
+        "LON": "-49,284210981077",
+        "NOME": "Rua Nicola Pellanda, 4653 - Umbara",
+        "NUM": "160279",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56021",
+        "LON": "-49,29438",
+        "NOME": "Rua Bortolo Pelanda - Pinheirinho",
+        "NUM": "160297",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582990345719",
+        "LON": "-49,274332405275",
+        "NOME": "Rua Nicola Pellanda, 6901 - Umbará",
+        "NUM": "160445",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561172795366",
+        "LON": "-49,291316152758",
+        "NOME": "Rua Nicola Pellanda, 3957 - Umbara",
+        "NUM": "160273",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567050073693",
+        "LON": "-49,286799312777",
+        "NOME": "Rua Nicola Pellanda, 4534 - Umbara",
+        "NUM": "160277",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577088446451",
+        "LON": "-49,275617183393",
+        "NOME": "Rua Nicola Pellanda, 6214 - Umbará",
+        "NUM": "160283",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585528109215",
+        "LON": "-49,274206341452",
+        "NOME": "Rua Nicola Pellanda, 7248 - Umbará",
+        "NUM": "160286",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581752894334",
+        "LON": "-49,275192053265",
+        "NOME": "Rua Nicola Pellanda, 6732 - Umbará",
+        "NUM": "160444",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59346522797",
+        "LON": "-49,27720505113",
+        "NOME": "Rua Nicola Pellanda, 8071 - Umbará",
+        "NUM": "160448",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597877467339",
+        "LON": "-49,27717822904",
+        "NOME": "Rua Nicola Pellanda, 8717 - Umbará",
+        "NUM": "160450",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "32",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51284",
+        "LON": "-49,29483",
+        "NOME": "Terminal Pinheirinho - 643 - Umbará",
+        "NUM": "105714",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "35",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553701775267",
+        "LON": "-49,293251366562",
+        "NOME": "Rua Nicola Pellanda, 2811 - Pinheirinho",
+        "NUM": "160354",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585528109215",
+        "LON": "-49,274206341452",
+        "NOME": "Rua Nicola Pellanda, 7248 - Umbará",
+        "NUM": "160286",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558198469119",
+        "LON": "-49,296988163195",
+        "NOME": "Rua Valdomiro Rodrigues - Umbará",
+        "NUM": "160296",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51284",
+        "LON": "-49,29483",
+        "NOME": "Terminal Pinheirinho - 643 - Umbará",
+        "NUM": "105714",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556463989688",
+        "LON": "-49,29267066831",
+        "NOME": "Rua Nicola Pellanda, 3569 - Umbará",
+        "NUM": "160270",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577125946628",
+        "LON": "-49,275790185875",
+        "NOME": "Rua Nicola Pellanda, 6215 - Umbará",
+        "NUM": "160443",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581752894334",
+        "LON": "-49,275192053265",
+        "NOME": "Rua Nicola Pellanda, 6732 - Umbará",
+        "NUM": "160444",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596075338795",
+        "LON": "-49,27761542911",
+        "NOME": "Rua Nicola Pellanda, 8500 - Umbará",
+        "NUM": "160449",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568216300477",
+        "LON": "-49,284210981077",
+        "NOME": "Rua Nicola Pellanda, 4653 - Umbara",
+        "NUM": "160279",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582874221793",
+        "LON": "-49,274270714468",
+        "NOME": "Rua Nicola Pellanda, 6902 - Umbará",
+        "NUM": "160285",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595688300935",
+        "LON": "-49,27758592481",
+        "NOME": "Rua Nicola Pellanda, 8459 - Umbará",
+        "NUM": "160289",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,601411495612",
+        "LON": "-49,277387441343",
+        "NOME": "Rua Nicola Pellanda, 9091 - Umbará",
+        "NUM": "160451",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "30",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581639188482",
+        "LON": "-49,275090129322",
+        "NOME": "Rua Nicola Pellanda, 6733 - Umbará",
+        "NUM": "160284",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566981115945",
+        "LON": "-49,287078262514",
+        "NOME": "Rua Nicola Pellanda, 4459 - Umbara",
+        "NUM": "160276",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577125946628",
+        "LON": "-49,275790185875",
+        "NOME": "Rua Nicola Pellanda, 6215 - Umbará",
+        "NUM": "160443",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596075338795",
+        "LON": "-49,27761542911",
+        "NOME": "Rua Nicola Pellanda, 8500 - Umbará",
+        "NUM": "160449",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55820249391",
+        "LON": "-49,29711682209",
+        "NOME": "Rua Valdomiro Rodrigues - Umbará",
+        "NUM": "160295",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,6010162",
+        "LON": "-49,274194506152",
+        "NOME": "Rua Vergília Calixto, 606 - Umbará",
+        "NUM": "160292",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "32",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565745918673",
+        "LON": "-49,28827318663",
+        "NOME": "Rua Nicola Pellanda, 4446 - Umbara",
+        "NUM": "160275",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567050073693",
+        "LON": "-49,286799312777",
+        "NOME": "Rua Nicola Pellanda, 4534 - Umbara",
+        "NUM": "160277",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574462195222",
+        "LON": "-49,277310998386",
+        "NOME": "Rua Nicola Pellanda, 6012 - Umbará",
+        "NUM": "160282",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582874221793",
+        "LON": "-49,274270714468",
+        "NOME": "Rua Nicola Pellanda, 6902 - Umbará",
+        "NUM": "160285",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,588839942684",
+        "LON": "-49,275228263086",
+        "NOME": "Rua Nicola Pellanda, 7651 - Umbará",
+        "NUM": "160287",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596135548266",
+        "LON": "-49,274400472641",
+        "NOME": "Rua Pedro Calisto, 250 - Umbará",
+        "NUM": "160735",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,600895404382",
+        "LON": "-49,274074584245",
+        "NOME": "Rua Vergília Calixto, 606 - Umbará",
+        "NUM": "160758",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531962390077",
+        "LON": "-49,296896488613",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 471 - Pinheirinho",
+        "NUM": "160321",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550445837615",
+        "LON": "-49,292767227835",
+        "NOME": "Rua Nicola Pellanda, 2460 - Pinheirinho",
+        "NUM": "160329",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572433494654",
+        "LON": "-49,279227436728",
+        "NOME": "Rua Nicola Pellanda, 5731 - Umbará",
+        "NUM": "160281",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574462195222",
+        "LON": "-49,277310998386",
+        "NOME": "Rua Nicola Pellanda, 6012 - Umbará",
+        "NUM": "160282",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593353952285",
+        "LON": "-49,276955605692",
+        "NOME": "Rua Nicola Pellanda, 8114 - Umbará",
+        "NUM": "160288",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51284",
+        "LON": "-49,29483",
+        "NOME": "Terminal Pinheirinho - 643 - Umbará",
+        "NUM": "105714",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572523014664",
+        "LON": "-49,279271693176",
+        "NOME": "Rua Nicola Pellanda, 5730 - Umbará",
+        "NUM": "160441",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582990345719",
+        "LON": "-49,274332405275",
+        "NOME": "Rua Nicola Pellanda, 6901 - Umbará",
+        "NUM": "160445",
+        "SENTIDO": "Umbará Via Campo Belo",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531962390077",
+        "LON": "-49,296896488613",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 471 - Pinheirinho",
+        "NUM": "160321",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581639188482",
+        "LON": "-49,275090129322",
+        "NOME": "Rua Nicola Pellanda, 6733 - Umbará",
+        "NUM": "160284",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,598046793457",
+        "LON": "-49,276982427782",
+        "NOME": "Rua Nicola Pellanda, 8716 - Umbará",
+        "NUM": "160290",
+        "SENTIDO": "Terminal Pinheirinho Via Campo Belo",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574539616626",
+        "LON": "-49,277372689194",
+        "NOME": "Rua Nicola Pellanda, 6011 - Umbará",
+        "NUM": "160442",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59346522797",
+        "LON": "-49,27720505113",
+        "NOME": "Rua Nicola Pellanda, 8071 - Umbará",
+        "NUM": "160448",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597741741193",
+        "LON": "-49,273172020912",
+        "NOME": "Rua Vergília Calixto, 222 - Umbará",
+        "NUM": "160737",
+        "SENTIDO": "Umbará Via Calixto",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51284",
+        "LON": "-49,29483",
+        "NOME": "Terminal Pinheirinho - 643 - Umbará",
+        "NUM": "105714",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "33",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528638092388",
+        "LON": "-49,292818189806",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 680 - Pinheirinho",
+        "NUM": "160317",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530292386736",
+        "LON": "-49,294841916508",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 346 - Pinheirinho",
+        "NUM": "160319",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553701775267",
+        "LON": "-49,293251366562",
+        "NOME": "Rua Nicola Pellanda, 2811 - Pinheirinho",
+        "NUM": "160354",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,588839942684",
+        "LON": "-49,275228263086",
+        "NOME": "Rua Nicola Pellanda, 7651 - Umbará",
+        "NUM": "160287",
+        "SENTIDO": "Terminal Pinheirinho  Via Calixto",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    }
+]

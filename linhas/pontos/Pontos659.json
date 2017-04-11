@@ -1,0 +1,982 @@
+[
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513165712824",
+        "LON": "-49,294993906746",
+        "NOME": "Terminal Pinheirinho - 659 - Caximba / Olaria",
+        "NUM": "105719",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,579000940455",
+        "LON": "-49,317101569122",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1097 - Campo de Santana",
+        "NUM": "170550",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,590811516595",
+        "LON": "-49,32010296101",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2336 - Campo de Santana",
+        "NUM": "170556",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,603182098843",
+        "LON": "-49,325934083408",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3987  - Campo de Santana",
+        "NUM": "170563",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,613464141102",
+        "LON": "-49,341120750851",
+        "NOME": "Estrada da Caximba, 6990  - Caximba",
+        "NUM": "170576",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "38",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,619014770158",
+        "LON": "-49,347300560421",
+        "NOME": "Estrada da Caximba, 7966 - Caximba",
+        "NUM": "170582",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "41",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "41",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569569124529",
+        "LON": "-49,315094618855",
+        "NOME": "Estrada Delegado Bruno de Almeida, 59 - Campo de Santana",
+        "NUM": "170545",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581996030954",
+        "LON": "-49,31762459988",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1294  - Campo de Santana",
+        "NUM": "170552",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,614765357454",
+        "LON": "-49,342526228374",
+        "NOME": "Estrada da Caximba, 5003  - Caximba",
+        "NUM": "170579",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,622862306235",
+        "LON": "-49,348767399787",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2 - Caximba",
+        "NUM": "170406",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "43",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,631296320396",
+        "LON": "-49,352102726698",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2494 - Caximba",
+        "NUM": "170991",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "46",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,63451378519",
+        "LON": "-49,353630244732",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1708 - Caximba",
+        "NUM": "170414",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "47",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "50",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571400686047",
+        "LON": "-49,316575198231",
+        "NOME": "Estrada Delegado Bruno de Almeida, 244  - Campo de Santana",
+        "NUM": "170547",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,61674375963",
+        "LON": "-49,345192344135",
+        "NOME": "Estrada da Caximba, 7600 - Caximba",
+        "NUM": "170581",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,60462",
+        "LON": "-49,32785",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4048  - Campo de Santana",
+        "NUM": "170565",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,587647306131",
+        "LON": "-49,318287105507",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2074 - Campo de Santana",
+        "NUM": "170554",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595526228458",
+        "LON": "-49,323155314869",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2594- Campo de Santana",
+        "NUM": "170751",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,606979615706",
+        "LON": "-49,331306548065",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4687 - Campo de Santana",
+        "NUM": "170568",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,608237365399",
+        "LON": "-49,333361120171",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4977 - Campo de Santana",
+        "NUM": "170570",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,611350238983",
+        "LON": "-49,337478311008",
+        "NOME": "Estrada Delegado Bruno de Almeida, 6592 - Campo de Santana",
+        "NUM": "170574",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,636939219938",
+        "LON": "-49,354335665703",
+        "NOME": "Estrada Delegado Bruno de Almeida, 471 - Caximba",
+        "NUM": "170417",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "48",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58762553375",
+        "LON": "-49,318136901802",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2073 - Campo de Santana",
+        "NUM": "170555",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59767669463",
+        "LON": "-49,323745400852",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3345 - Campo de Santana",
+        "NUM": "170560",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,609054895604",
+        "LON": "-49,334986538834",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4980 - Campo de Santana",
+        "NUM": "170573",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562511181011",
+        "LON": "-49,315381615219",
+        "NOME": "Estrada Delegado Bruno de Almeida, 408 - Tatuquara",
+        "NUM": "170507",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581787973778",
+        "LON": "-49,317731888241",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1295  - Campo de Santana",
+        "NUM": "170737",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597725073627",
+        "LON": "-49,323922426647",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3344 -Campo de Santana",
+        "NUM": "170559",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,62531699832",
+        "LON": "-49,348295331001",
+        "NOME": "Estrada Delegado Bruno de Almeida, 22 - Caximba",
+        "NUM": "170408",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "44",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568528727042",
+        "LON": "-49,314450888691",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1086 -Tatuquara",
+        "NUM": "170909",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,608237365399",
+        "LON": "-49,333130450195",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4978 - Campo de Santana",
+        "NUM": "170571",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,62156601499",
+        "LON": "-49,348523318768",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1923 - Caximba",
+        "NUM": "170405",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,631314457419",
+        "LON": "-49,351996779442",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2493 - Caximba",
+        "NUM": "170413",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564127503731",
+        "LON": "-49,315480856953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 668 - Tatuquara",
+        "NUM": "170509",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565768000596",
+        "LON": "-49,314858584461",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1010 - Tatuquara",
+        "NUM": "170511",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,6146952179",
+        "LON": "-49,342684478706",
+        "NOME": "Estrada da Caximba, 5004 - Caximba",
+        "NUM": "170578",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "39",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,616746178194",
+        "LON": "-49,345404238647",
+        "NOME": "Estrada da Caximba, 7601 - Caximba",
+        "NUM": "170580",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "40",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,60456",
+        "LON": "-49,32791",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4049  - Campo de Santana",
+        "NUM": "170739",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,513165712824",
+        "LON": "-49,294993906746",
+        "NOME": "Terminal Pinheirinho - 659 - Caximba / Olaria",
+        "NUM": "105719",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "51",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "48",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,590741362989",
+        "LON": "-49,319861562199",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2335 - Campo de Santana",
+        "NUM": "170557",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,603140978573",
+        "LON": "-49,325834841675",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3986 - Campo de Santana",
+        "NUM": "170564",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,605322752162",
+        "LON": "-49,329302937931",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4425 - Campo de Santana",
+        "NUM": "170567",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,613481071517",
+        "LON": "-49,340938360638",
+        "NOME": "Estrada da Caximba, 6991  - Caximba",
+        "NUM": "170577",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571553113286",
+        "LON": "-49,316655664501",
+        "NOME": "Estrada Delegado Bruno de Almeida, 243 - Campo de Santana",
+        "NUM": "170546",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575501636992",
+        "LON": "-49,316792457161",
+        "NOME": "Estrada Delegado Bruno de Almeida, 730 - Campo de Santana",
+        "NUM": "170736",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,619355911266",
+        "LON": "-49,347205313492",
+        "NOME": "Estrada da Caximba, 7966  - Caximba",
+        "NUM": "170403",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "49",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595852792178",
+        "LON": "-49,323048026508",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2593- Campo de Santana",
+        "NUM": "170558",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,61141070581",
+        "LON": "-49,33733883614",
+        "NOME": "Estrada Delegado Bruno de Almeida, 6591 - Campo de Santana",
+        "NUM": "170575",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,625297651191",
+        "LON": "-49,348102211953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 21 - Caximba",
+        "NUM": "170409",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,627972362122",
+        "LON": "-49,348968565464",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2631 - Caximba",
+        "NUM": "170411",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,600608426489",
+        "LON": "-49,324571521229",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3616- Campo de Santana",
+        "NUM": "170561",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,605317914571",
+        "LON": "-49,329533607906",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4424  - Campo de Santana",
+        "NUM": "170566",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "47",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,584870086098",
+        "LON": "-49,318099350876",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1767 - Campo de Santana",
+        "NUM": "170553",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,600601169815",
+        "LON": "-49,324413270897",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3617 - Campo de Santana",
+        "NUM": "170562",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,622884072199",
+        "LON": "-49,348566234111",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1 - Caximba",
+        "NUM": "170407",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568417428171",
+        "LON": "-49,314598410187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1085 - Tatuquara",
+        "NUM": "170910",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569573963566",
+        "LON": "-49,315218000469",
+        "NOME": "Estrada Delegado Bruno de Almeida, 58 - Campo de Santana",
+        "NUM": "170544",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585039430628",
+        "LON": "-49,318212003654",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1768 - Campo de Santana",
+        "NUM": "170738",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,608970240369",
+        "LON": "-49,335064322895",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4981 - Campo de Santana",
+        "NUM": "170572",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,621527319513",
+        "LON": "-49,348641335964",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1924 - Caximba",
+        "NUM": "170404",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "42",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,627928832043",
+        "LON": "-49,349075853825",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2632 - Caximba",
+        "NUM": "170410",
+        "SENTIDO": "Caximba / Olaria",
+        "SEQ": "45",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56250876135",
+        "LON": "-49,315252869187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 367 - Tatuquara",
+        "NUM": "170508",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575501636993",
+        "LON": "-49,316663711128",
+        "NOME": "Estrada Delegado Bruno de Almeida, 731 - Campo de Santana",
+        "NUM": "170548",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578936828248",
+        "LON": "-49,316975505298",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1098 - Campo de Santana",
+        "NUM": "170551",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,607073947392",
+        "LON": "-49,331236810631",
+        "NOME": "Estrada Delegado Bruno de Almeida, 4688 - Campo de Santana",
+        "NUM": "170569",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,634542803643",
+        "LON": "-49,353544414043",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1707 - Caximba",
+        "NUM": "170415",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,636939219938",
+        "LON": "-49,354335665703",
+        "NOME": "Estrada Delegado Bruno de Almeida, 471 - Caximba",
+        "NUM": "170417",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,367533635378",
+        "LON": "-49,25983157424",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120037",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363940896821",
+        "LON": "-49,262326472387",
+        "NOME": "Avenida Anita Garibaldi,  5800 - Barreirinha",
+        "NUM": "120039",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351824234308",
+        "LON": "-49,253687442488",
+        "NOME": "Rua Nair Schultz Helvig, 124 - Cachoeira",
+        "NUM": "120125",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,353548827268",
+        "LON": "-49,257757694668",
+        "NOME": "Rua David Bodziak, 536 - Cachoeira",
+        "NUM": "120119",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,352597456119",
+        "LON": "-49,255107672161",
+        "NOME": "Rua David Bodziak, 914 - Cachoeira",
+        "NUM": "120121",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,353642146074",
+        "LON": "-49,257714779324",
+        "NOME": "Rua David Bodziak, 536 - Cachoeira",
+        "NUM": "120567",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,349967777215",
+        "LON": "-49,253763555156",
+        "NOME": "Rua Engenheiro Francisco Xavier Driesel, 250 - Cachoeira",
+        "NUM": "120123",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366113104384",
+        "LON": "-49,260314271751",
+        "NOME": "Av. Anita Garibaldi, 5470 - Barreirinha",
+        "NUM": "120787",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359089711128",
+        "LON": "-49,26326157424",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Barreirinha",
+        "NUM": "120046",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356483516146",
+        "LON": "-49,263492186508",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120055",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3697",
+        "LON": "-49,26006",
+        "NOME": "Avenida Anita Garibaldi, 5062 - Barreirinha",
+        "NUM": "120034",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,352569243891",
+        "LON": "-49,254526973909",
+        "NOME": "Rua David Bodziak, 914 - Cachoeira",
+        "NUM": "120120",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36922",
+        "LON": "-49,25998",
+        "NOME": "Avenida Anita Garibaldi, 5094 - Barreirinha",
+        "NUM": "120035",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356323947612",
+        "LON": "-49,263579387732",
+        "NOME": "Av. Anita Garibaldi, 1000 - Cachoeira",
+        "NUM": "120116",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35417",
+        "LON": "-49,26317",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120154",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372308494636",
+        "LON": "-49,262506209822",
+        "NOME": "Av. Anita Garibaldi, 4644 - Barreirinha",
+        "NUM": "120028",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,354120858293",
+        "LON": "-49,260560603088",
+        "NOME": "Rua David Bodziak, 210 - Cachoeira",
+        "NUM": "120117",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,352133887117",
+        "LON": "-49,252976657099",
+        "NOME": "Rua David Bodziak, 1030 - Cachoeira",
+        "NUM": "120568",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351261281997",
+        "LON": "-49,252940447277",
+        "NOME": "Rua Engenheiro Francisco Xavier Driesel, 162 - Cachoeira",
+        "NUM": "120122",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377564849969",
+        "LON": "-49,262483939881",
+        "NOME": "Terminal Barreirinha - 242 - Vila Leonice",
+        "NUM": "104109",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371146376771",
+        "LON": "-49,261400728836",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120029",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,354023337582",
+        "LON": "-49,263066705523",
+        "NOME": "Av. Anita Garibaldi, 694 - Cachoeira",
+        "NUM": "120153",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37256",
+        "LON": "-49,26282",
+        "NOME": "Av. Anita Garibaldi, 4608 - Barreirinha",
+        "NUM": "120027",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361599389638",
+        "LON": "-49,263017550926",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120044",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361753626635",
+        "LON": "-49,263096588955",
+        "NOME": "Avenida Anita Garibaldi, 6049 - Barreirinha",
+        "NUM": "120045",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,349967777215",
+        "LON": "-49,253763555156",
+        "NOME": "Rua Engenheiro Francisco Xavier Driesel, 250 - Cachoeira",
+        "NUM": "120123",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367411823091",
+        "LON": "-49,259725597553",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120036",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363196224926",
+        "LON": "-49,262677055225",
+        "NOME": "Avenida Anita Garibaldi, 5800 - Barreirinha",
+        "NUM": "120040",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371198482293",
+        "LON": "-49,261667550926",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120031",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359170914964",
+        "LON": "-49,263415364418",
+        "NOME": "Avenida Anita Garibaldi, 6300 - Cachoeira",
+        "NUM": "120047",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,350095980849",
+        "LON": "-49,25478312487",
+        "NOME": "Rua Nair Schultz Helvig, 289 - Cachoeira",
+        "NUM": "120124",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35400330129",
+        "LON": "-49,26055523867",
+        "NOME": "Rua David Bodziak, 210 - Cachoeira",
+        "NUM": "120118",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377564849969",
+        "LON": "-49,262483939881",
+        "NOME": "Terminal Barreirinha - 242 - Vila Leonice",
+        "NUM": "104109",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365268187323",
+        "LON": "-49,260806093254",
+        "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
+        "NUM": "120038",
+        "SENTIDO": "V. Leonice",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413146684904",
+        "LON": "-49,20773449654",
+        "NOME": "Rua Antônio Cândido Cavalim, 104-132 - Bairro Alto",
+        "NUM": "130387",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415133257955",
+        "LON": "-49,213522703594",
+        "NOME": "Rua Percy Feliciano de Castilho, 438 - Bairro Alto",
+        "NUM": "130391",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419484223124",
+        "LON": "-49,22434273476",
+        "NOME": "Rodovia BR476  - Bairro Alto",
+        "NUM": "130454",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427924066373",
+        "LON": "-49,228080393023",
+        "NOME": "Rodovia BR476 - Jardim Botanico",
+        "NUM": "130453",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423493464597",
+        "LON": "-49,229693741745",
+        "NOME": "Rua Papa Rafael, 1272 - Jardim Social",
+        "NUM": "130443",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414050337435",
+        "LON": "-49,211124808735",
+        "NOME": "Rua Percy Feliciano de Castilho, 733 - Bairro Alto",
+        "NUM": "130388",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414607546076",
+        "LON": "-49,215735526031",
+        "NOME": "Rua Sebastião Silva, 240 - Bairro Alto",
+        "NUM": "130393",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422701316883",
+        "LON": "-49,227572114414",
+        "NOME": "Rua Papa Rafael, 1572 - Jardim Social",
+        "NUM": "130445",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41514415979",
+        "LON": "-49,213906259483",
+        "NOME": "Rua Percy Feliciano de Castilho, 441 - Bairro Alto",
+        "NUM": "130390",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41463419512",
+        "LON": "-49,215596051163",
+        "NOME": "Rua Sebastião Silva, 251 - Bairro Alto",
+        "NUM": "130392",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423349328015",
+        "LON": "-49,22961193437",
+        "NOME": "Rua Papa Rafael, 1273 - Jardim Social",
+        "NUM": "130442",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414393142186",
+        "LON": "-49,219571084922",
+        "NOME": "Rua Santa Madalena Sofia Barat, 359 - Bairro Alto",
+        "NUM": "130397",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419240757338",
+        "LON": "-49,224639118856",
+        "NOME": "Rodovia BR476  - Bacacheri",
+        "NUM": "130441",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428382801276",
+        "LON": "-49,266501696056",
+        "NOME": "Praça Santos Andrade - 341 - Higienópolis",
+        "NUM": "103405",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427080030571",
+        "LON": "-49,257855364418",
+        "NOME": "Rua Marechal Deodoro, 1590 - Centro",
+        "NUM": "110076",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414114537692",
+        "LON": "-49,210916937536",
+        "NOME": "Rua Percy Feliciano de Castilho, 720 - Bairro Alto",
+        "NUM": "130389",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413321117019",
+        "LON": "-49,216821820683",
+        "NOME": "Rua Santa Madalena Sofia Barat, 672 - Bairro Alto",
+        "NUM": "130395",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41299",
+        "LON": "-49,20551",
+        "NOME": "Terminal Bairro Alto - 371 - Higienópolis",
+        "NUM": "104011",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413232689659",
+        "LON": "-49,216947884506",
+        "NOME": "Rua Santa Madalena Sofia Barat, 665 - Bairro Alto",
+        "NUM": "130394",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412636711787",
+        "LON": "-49,221714169926",
+        "NOME": "Rodovia BR476, 5151 - Bairro Alto",
+        "NUM": "130398",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425231568634",
+        "LON": "-49,228548438496",
+        "NOME": "Rua Afonso Pena, 342 - Tarumã",
+        "NUM": "130452",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425507725016",
+        "LON": "-49,234962941355",
+        "NOME": "Rua Papa Rafael, 654 - Jardim Social",
+        "NUM": "130449",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426649891404",
+        "LON": "-49,237869114822",
+        "NOME": "Rua Papa Rafael, 374- Jardim Social",
+        "NUM": "130451",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413048566728",
+        "LON": "-49,207769365257",
+        "NOME": "Rua Antônio Cândido Cavalim, 109 - Bairro Alto",
+        "NUM": "130386",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425126193005",
+        "LON": "-49,234256179279",
+        "NOME": "Rua Papa Rafael, 791 - Jardim Social",
+        "NUM": "130448",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414434327144",
+        "LON": "-49,219312251753",
+        "NOME": "Rua Santa Madalena Sofia Barat, 356 - Bairro Alto",
+        "NUM": "130396",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422512363448",
+        "LON": "-49,227415205187",
+        "NOME": "Rua Papa Rafael, 1573 - Jardim Social",
+        "NUM": "130444",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42474950466",
+        "LON": "-49,226636023468",
+        "NOME": "Rodovia BR476 - Jardim Botanico",
+        "NUM": "130622",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428382801276",
+        "LON": "-49,266501696056",
+        "NOME": "Praça Santos Andrade - 341 - Higienópolis",
+        "NUM": "103405",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416298537406",
+        "LON": "-49,223308743185",
+        "NOME": "Rodovia BR476, 5151 - Bairro Alto",
+        "NUM": "130440",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41299",
+        "LON": "-49,20551",
+        "NOME": "Terminal Bairro Alto - 371 - Higienópolis",
+        "NUM": "104011",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426282897446",
+        "LON": "-49,237256230062",
+        "NOME": "Rua Papa Rafael, 373 - Jardim Social",
+        "NUM": "130450",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    }
+]
