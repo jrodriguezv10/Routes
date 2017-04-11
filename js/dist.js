@@ -1,4 +1,4 @@
-let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/tmp';
+let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/linhas/';
 let radius = 60; //meters
 var loadedShape = false;
 var loadedStops = false;
@@ -16,14 +16,14 @@ function getJsonFromServer(linha, sent, identifier) {
     return new Promise(function(resolve, reject) {
         /*****/
         $.ajax({
-            url: server + '/linha' + linha + '.json',
+            url: server + '/shapes/Shape' + linha + '.json',
             type: 'GET',
             dataType: "json",
             success: function(response) {
                 shape = response;
                 loadedShape = true;
                 if (loadedShape && loadedStops) {
-                    console.log("on Linha");
+                    console.log("on Shape");
                     resolve(createJsonResponse(identifier));
                 }
             },
@@ -33,7 +33,7 @@ function getJsonFromServer(linha, sent, identifier) {
         });
 
         $.ajax({
-            url: server + '/pontos' + linha + '.json',
+            url: server + '/pontos/Pontos' + linha + '.json',
             type: 'GET',
             dataType: "json",
             success: function(response) {
@@ -246,8 +246,4 @@ function compare(a, b) {
     if (a.SEQ > b.SEQ)
         return 1;
     return 0;
-}
-
-function name() {
-    return "DotA";
 }
