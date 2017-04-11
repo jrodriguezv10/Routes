@@ -24,7 +24,7 @@ function getJsonFromServer(linha, sent, identifier) {
                 loadedShape = true;
                 if (loadedShape && loadedStops) {
                     console.log("on Shape");
-                    resolve(createJsonResponse(identifier));
+                    resolve(createJsonResponse(sent, identifier));
                 }
             },
             error: function(response) {
@@ -41,7 +41,7 @@ function getJsonFromServer(linha, sent, identifier) {
                 loadedStops = true;
                 if (loadedShape && loadedStops) {
                     console.log("on Ponto");
-                    resolve(createJsonResponse(identifier));
+                    resolve(createJsonResponse(sent, identifier));
                     //createJsonResponse();
                 }
             },
@@ -56,7 +56,7 @@ function getJsonFromServer(linha, sent, identifier) {
 
 
 
-function createJsonResponse(identifier) {
+function createJsonResponse(sent, identifier) {
     var shapeSHP = shape[0].SHP;
     var stopsWay = stops[0].SENTIDO;
 
@@ -79,10 +79,18 @@ function createJsonResponse(identifier) {
         item.LAT = item.LAT.replace(",", ".");
         item.LON = item.LON.replace(",", ".");
         item.SEQ = parseInt(item.SEQ);
-        if (stopsWay != item.SENTIDO) { //TODO change for ==
-            stopsGo.push(item);
-        } else {
-            stopsBack.push(item);
+        if(sent){
+          if (stopsWay == item.SENTIDO) { //TODO improve condition
+              stopsGo.push(item);
+          } else {
+              stopsBack.push(item);
+          }
+        }else{
+          if (stopsWay != item.SENTIDO) { //TODO improve condition
+              stopsGo.push(item);
+          } else {
+              stopsBack.push(item);
+          }
         }
     });
 
