@@ -1,5 +1,5 @@
 let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/linhas/';
-let radius = 60; //meters
+let radius = 100; //meters
 var loadedShape = false;
 var loadedStops = false;
 var shape;
