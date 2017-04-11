@@ -1,70 +1,62 @@
 let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/tmp';
-let colorGreen = "#4caf50";
-let colorRed = "#ff9800";
 let radius = 60; //meters
 var loadedShape = false;
 var loadedStops = false;
 var shape;
 var stops;
-var map;
 var routeName;
 var jsonResponse = {
     success: true,
-    points: []
+    points: [],
+    identifier: ''
 }
 
-google.maps.event.addDomListener(window, 'load', initialize);
+function getJsonFromServer(linha, sent, identifier) {
 
-function initialize() {
-    var mapCanvas = document.getElementById('map');
-    var mapOptions = {
-        center: new google.maps.LatLng(-25.383677, -49.260799),
-        zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
-        scrollwheel: false,
-        styles: mapStylesGray
-    }
-
-    map = new google.maps.Map(mapCanvas, mapOptions);
-    getJsonFromServer();
-}
-
-function getJsonFromServer() {
-    //routeName = routeNameReceived.toLowerCase().trim();
-    $.ajax({
-        url: server + '/linha225.json',
-        type: 'GET',
-        dataType: "json",
-        success: function(response) {
-            shape = response;
-            loadedShape = true;
-            if (loadedShape && loadedStops) {
-                createJsonResponse();
+    return new Promise(function(resolve, reject) {
+        /*****/
+        $.ajax({
+            url: server + '/linha' + linha + '.json',
+            type: 'GET',
+            dataType: "json",
+            success: function(response) {
+                shape = response;
+                loadedShape = true;
+                if (loadedShape && loadedStops) {
+                    console.log("on Linha");
+                    resolve(createJsonResponse(identifier));
+                }
+            },
+            error: function(response) {
+                reject(Error("Problems getting Shape"));
             }
-        },
-        error: function(response) {
-            console.log("Problems getting Shape");
-        }
+        });
+
+        $.ajax({
+            url: server + '/pontos' + linha + '.json',
+            type: 'GET',
+            dataType: "json",
+            success: function(response) {
+                stops = response;
+                loadedStops = true;
+                if (loadedShape && loadedStops) {
+                    console.log("on Ponto");
+                    resolve(createJsonResponse(identifier));
+                    //createJsonResponse();
+                }
+            },
+            error: function(response) {
+                reject(Error("Problems getting Stops (pontos)"));
+            }
+        });
+        /******/
     });
 
-    $.ajax({
-        url: server + '/pontos225.json',
-        type: 'GET',
-        dataType: "json",
-        success: function(response) {
-            stops = response;
-            loadedStops = true;
-            if (loadedShape && loadedStops) {
-                createJsonResponse();
-            }
-        },
-        error: function(response) {
-            console.log("Problems getting Stops (pontos)");
-        }
-    });
 }
 
-function createJsonResponse() {
+
+
+function createJsonResponse(identifier) {
     var shapeSHP = shape[0].SHP;
     var stopsWay = stops[0].SENTIDO;
 
@@ -107,13 +99,9 @@ function createJsonResponse() {
     console.log("=====================");
     getReferentShapePoint(shapeBack, stopsBack);
 
-    printShape(shapeGo, true);
-    printStops(stopsGo, true);
-    printShape(shapeBack, false);
-    printStops(stopsBack, false);
-    printLegend(jsonResponse);
-
-    console.log(jsonResponse);
+    jsonResponse.identifier = identifier;
+    return jsonResponse;
+    //console.log(jsonResponse);
 }
 
 function getReferentShapePoint(shapeTmp, stopsTmp) {
@@ -136,7 +124,6 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
             //TODO mark shape as referente with number stop
             //TODO set distance from stop to shape reference
             //TODO set distance to next shape
-            createMarker2(shapePoint, stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
             stopIndex++; //next stop
         } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
             //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
@@ -145,7 +132,6 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
             //createMarker2(shapePoint).setMap(map);
             //TODO add shape
             addShapePoint(shapePoint, 0);
-            createMarker2(shapePoint, stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
             //TODO add last stop
             addStop(stopsTmp[stopIndex], distShapeToStop);
             //TODO mark shape as referente with number stop
@@ -176,7 +162,6 @@ function getReferentShapePoint(shapeTmp, stopsTmp) {
                     //TODO mark shape as referente with number stop
                     //TODO set distance from shape reference to stop
                     //TODO set distance to next shape
-                    createMarker2(shapeTmp[indexController], stopsTmp[stopIndex].NOME, distShapeToStop).setMap(map);
                     //console.log("-> goes: " + getNearestShapePoint(reclutedShapePoints)); //just index, get object
                     //createMarker2(shapeTmp[getNearestShapePoint(reclutedShapePoints)]).setMap(map);
                     distController = radius + 1;
@@ -263,151 +248,6 @@ function compare(a, b) {
     return 0;
 }
 
-/** For test **/
-function printShape(shapeTmp, go) {
-    var routeLine = [];
-    $.each(shapeTmp, function(i, item) {
-        routeLine.push({
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        });
-        //createMarker(item, false).setMap(map);
-    });
-
-    var routePath = new google.maps.Polyline({
-        path: routeLine,
-        geodesic: true,
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 1.0,
-        strokeWeight: 2
-    });
-    routePath.setMap(map);
+function name() {
+    return "DotA";
 }
-
-function printStops(stopsTmp, go) {
-    $.each(stopsTmp, function(i, item) {
-        createMarker(item, go).setMap(map);
-        printArea(item, go);
-    });
-}
-
-function createMarker(item, go) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = go ?
-        "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
-        "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
-
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
-    });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + item.NOME + '</strong> <br> Seq: ' +
-            item.SEQ + '<br> Sentido: ' + item.SENTIDO;
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
-
-    return marker;
-}
-
-function createMarker2(item, name, distance) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = "img/point3.png";
-
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
-    });
-    marker.addListener('click', function() {
-        var contentString = '<strong>(' + distance + 'm) -> ' + name + '</strong> <br>SHP: ' +item.SHP ;
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
-
-    return marker;
-}
-
-function printArea(item, go) {
-    var cityCircle = new google.maps.Circle({
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: go ? colorGreen : colorRed,
-        fillOpacity: 0.35,
-        map: map,
-        center: {
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        },
-        radius: radius
-    });
-}
-
-function printLegend(jsonResponse) {
-    var firstTime = true;
-    var distStop = 0;
-
-    var html = '<div class="rem"><div class="btn" onclick="hideTouteLegend()">[225] Boa Vista / Barreirinha</div><br>';
-    html += '<div id="r-225">';
-    html += '<div class="route-title"><strong>Sentido '+jsonResponse.points[0].sentido+'</strong></div><br>';
-    $("#sentido-go").text("S: " + jsonResponse.points[0].sentido);
-    console.log(jsonResponse.points[0].sentido);
-
-    $.each(jsonResponse.points, function(i, point) {
-        if(point.stop){
-          if(point.sentido != jsonResponse.points[0].sentido && firstTime){
-            html += '<br>';
-            html += '<div class="route-title"><strong>Sentido Terminal '+point.sentido+'</strong></div><br>';
-            $("#sentido-back").text("S: " + point.sentido);
-            console.log(point.sentido);
-            firstTime = false;
-          }
-          var space = distStop < 100 ? "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" : "&nbsp;&nbsp;&nbsp;";
-          space = distStop < 10 ? "&nbsp;&nbsp;&nbsp;" + space : space;
-          html += '<div class="route-row"><div class="route-distance">' + (distStop + point.disStop) + 'm</div>' + space + '<div class="route-name">' + point.nome + '</div><br>';
-          console.log("-> [" + (distStop + point.disStop) + "m] " + point.nome);
-          distStop = 0;
-        }else{
-          distStop += point.disNext;
-        }
-
-    });
-    html += "</div><br><br></div>";
-    $("#routes").append(html);
-
-}
-
-function closeSettings(close) {
-    var distance = (close ? "-" + ($("#setting-container").width() + 20) : "0") + "px";
-    $("#setting-container").animate({
-        left: distance
-    }, 300);
-    $("#open-settings").css("display", close ? "inline-block" : "none");
-    $("#close-settings").css("display", close ? "none" : "inline-block");
-}
-
-var r225 = true;
-function hideTouteLegend() {
-    if (!r225) {
-        $("#r-225").fadeIn("fast", function() {
-            // Animation complete
-            r225 = true;
-        });
-    } else {
-        $("#r-225").fadeOut("fast", function() {
-            // Animation complete
-            r225 = false;
-        });
-    }
-}
-
-
-
-
-
-//
