@@ -112,7 +112,7 @@
           }
       });
 
-      
+
       stopsGo.sort(compare);
       stopsBack.sort(compare);
       console.log("=====================");
