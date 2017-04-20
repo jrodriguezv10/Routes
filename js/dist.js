@@ -179,6 +179,7 @@
       if (nStops == 3) {
           if (stopsA[0].LAT == stopsB[0].LAT && stopsA[0].LON == stopsB[0].LON) {
               stopsA = mergeStops(stopsA, stopsB); //merge A and B
+              stopsB = stopsC;
           } else if (stopsA[0].LAT == stopsC[0].LAT && stopsA[0].LON == stopsC[0].LON) {
               stopsA = mergeStops(stopsA, stopsC); //merge A and C
           } else {
@@ -195,6 +196,9 @@
 
       var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
       var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+
+      console.log("Distance to A: " + distanceToA);
+      console.log("Distance to B: " + distanceToB);
 
       stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
       stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
@@ -255,7 +259,7 @@
                 retake = false;
               }
 
-              console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
+              //console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
 
               if (distShapeToStop <= radius) { //radius in meters
                   recluting = true;
@@ -264,7 +268,7 @@
                       indexController = i;
                   }
 
-                  //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " ("+stopsTmp[stopIndex].SENTIDO+") " + stopsTmp[stopIndex].SEQ);
+                  console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " ("+stopsTmp[stopIndex].SENTIDO+") " + stopsTmp[stopIndex].SEQ);
 
               } else {
                   if (recluting) {

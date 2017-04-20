@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     getJsonFromServer('307', false, 111).then(function(result) {
-        console.log(result); // "Stuff worked!"
+        parseJson(result); // "Stuff worked!"
     }, function(err) {
         console.log(err); // Error: "It broke"
     });
