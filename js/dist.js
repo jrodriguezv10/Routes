@@ -1,18 +1,16 @@
-  let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/linhas/';
-  let radius = 100; //meters
-
+  let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/linhas';
 
   function getJsonFromServer(linha, sent, identifier) {
-    var loadedShape = false;
-    var loadedStops = false;
-    var routeName;
-    var shape;
-    var stops;
-    /*var jsonResponse = {
-        success: true,
-        points: [],
-        identifier: ''
-    }*/
+      var loadedShape = false;
+      var loadedStops = false;
+      var routeName;
+      var shape;
+      var stops;
+      /*var jsonResponse = {
+          success: true,
+          points: [],
+          identifier: ''
+      }*/
 
       return new Promise(function(resolve, reject) {
 
@@ -27,9 +25,9 @@
                   console.log(" shape loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
                   if (loadedShape && loadedStops) {
                       cleanVars();
-                      console.log("----------------------");
                       console.log("on Shape [" + identifier + "]");
-                      resolve(createJsonResponse(sent, identifier, shape, stops));
+                      console.log("----------------------");
+                      resolve(createJsonResponse(sent, identifier, shape, stops, linha));
                   }
               },
               error: function(response) {
@@ -47,9 +45,9 @@
                   console.log("pontos loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
                   if (loadedShape && loadedStops) {
                       cleanVars();
-                      console.log("----------------------");
                       console.log("on Ponto [" + identifier + "]");
-                      resolve(createJsonResponse(sent, identifier, shape, stops));
+                      console.log("----------------------");
+                      resolve(createJsonResponse(sent, identifier, shape, stops, linha));
                       //createJsonResponse();
                   }
               },
@@ -74,64 +72,304 @@
       }
   }
 
-  function createJsonResponse(sent, identifier, shape, stops) {
-      var shapeSHP = shape[0].SHP;
-      var stopsWay = stops[0].SENTIDO;
+  function createJsonResponse(sent, identifier, shape, stops, linha) {
+      var firstShapeSHP = shape[0].SHP;
+      var firstStopsWay = stops[0].SENTIDO;
+      var tmpStopWay = "";
+      var secondGotten = false;
 
-      var shapeGo = [];
-      var stopsGo = [];
-      var shapeBack = [];
-      var stopsBack = [];
+      var nShp = 0;
+      var nStops = 0;
 
+      var stopsA = [];
+      var stopsB = [];
+      var stopsC = [];
+
+      var radius = 0;
+
+      /**
+       * Determinate number of SHP
+       * Getting radius, if radius > 200, set 200m and show message
+       **/
       $.each(shape, function(i, item) {
           item.LAT = item.LAT.replace(",", ".");
           item.LON = item.LON.replace(",", ".");
-          if (shapeSHP == item.SHP) {
-              shapeGo.push(item);
-          } else {
-              shapeBack.push(item);
+          nShp = firstShapeSHP == item.SHP ? 1 : 2;
+      });
+
+      $.each(shape, function(i, item) {
+          if (i < shape.length - 1) {
+              var shapePoint = new google.maps.LatLng(item.LAT, item.LON);
+              var nextShapePoint = new google.maps.LatLng(shape[i + 1].LAT, shape[i + 1].LON);
+              var distance = distanceBetweenPoints(shapePoint, nextShapePoint);
+              if (radius <= distance) {
+                  radius = distance;
+              }
           }
       });
 
+      //radius = (radius / 2) + 1;
+
+      if (radius > 200) {
+          radius = 200;
+          console.log("radius forced to be 200m: possible bug. Linha [" + linha + "]");
+      }
+
+      console.log("radius: " + radius);
+
+      /**
+       * Separe stops
+       **/
+      stops.sort(compare);
       $.each(stops, function(i, item) {
           item.LAT = item.LAT.replace(",", ".");
           item.LON = item.LON.replace(",", ".");
           item.SEQ = parseInt(item.SEQ);
-          if (sent) {
-              if (stopsWay == item.SENTIDO) { //TODO improve condition
-                  stopsGo.push(item);
-              } else {
-                  stopsBack.push(item);
-              }
+
+          if (!secondGotten) {
+              tmpStopWay = item.SENTIDO;
+          }
+
+          if (item.SENTIDO == firstStopsWay) {
+              stopsA.push(item);
+              nStops = 1;
+          } else if (!secondGotten || item.SENTIDO == tmpStopWay) {
+              secondGotten = true;
+              stopsB.push(item);
+              nStops = 2;
           } else {
-              if (stopsWay != item.SENTIDO) { //TODO improve condition
-                  stopsGo.push(item);
-              } else {
-                  stopsBack.push(item);
-              }
+              stopsC.push(item);
+              nStops = 3;
           }
       });
 
+      console.log("nShp: " + nShp);
+      console.log("nStops: " + nStops);
+      console.log("shape: " + shape.length);
+      console.log("stops: " + stops.length);
+      console.log("[" + stopsA.length + "] A: " + firstStopsWay);
+      console.log("[" + stopsB.length + "] B: " + tmpStopWay);
+      console.log("[" + stopsC.length + "] C: " + stops[stops.length - 1].SENTIDO);
 
-      stopsGo.sort(compare);
-      stopsBack.sort(compare);
-      console.log("=====================");
-      console.log("stopsGo: " + stopsGo.length);
-      console.log("shapeGo: " + shapeGo.length);
-      getReferentShapePoint(shapeGo, stopsGo);
+      /**
+       * Determinate 'sentidos'
+       **/
+      /*if (nShp == 1 && nStops == 1) {
+          console.log("nShp: 1 and nStops: 1 on linha[" + linha + "]");
+          //it just has one SHP and one Sentido
+          getReferentShapePoint(shape, stops, radius);
+      } else if (nShp = 1 && nStops == 2) {
+        console.log("nShp: 1 and nStops: 2 on linha[" + linha + "]");
+          //it has one SHP and two Sentidos: possible use of shp (shape)
+          //for go and back. ex. 222
+          //So, duplicate an inverse shape
+          var tmpShape = shape;
+          tmpShape.reverse();
+          $.each(tmpShape, function(i, item) {
+              shape.push(item);
+          });
+          //Determinate wich Stops is first
+          var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+          var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+          var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
 
-      console.log("=====================");
-      console.log("stopsBack: " + stopsBack.length);
-      console.log("shapeBack: " + shapeBack.length);
-      console.log("=====================");
-      getReferentShapePoint(shapeBack, stopsBack);
+          var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+          var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
 
+          var sortedStops = [];
+
+          if(distanceToA < distanceToB){
+            sortedStops = getSortedStops(stopsA, stopsB, stopsC);
+          }else{
+            sortedStops = getSortedStops(stopsB, stopsA, stopsC);
+          }
+
+          //build Json
+          getReferentShapePoint(shape, sortedStops, radius);
+      } else if (nShp == 1 && nStops == 3) {
+          //Unnormal state, report
+          console.log("[unnormal state] nShp: 1 and nStops: 3 on linha[" + linha + "]");
+      } else if (nShp == 2 && nStops == 1) {
+          //Unnormal state, report
+          console.log("[unnormal state] nShp: 2 and nStops: 1 on linha[" + linha + "]");
+      } else if (nShp == 2 && nStops == 2){
+        console.log("nShp: 2 and nStops: 2 on linha[" + linha + "]");
+        //it jhas two SHP and two Sentido
+        //Determinate wich Stops is first
+        var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+        var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+        var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
+
+        var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+        var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+
+        var sortedStops = [];
+
+        if(distanceToA < distanceToB){
+          sortedStops = getSortedStops(stopsA, stopsB, stopsC);
+        }else{
+          sortedStops = getSortedStops(stopsB, stopsA, stopsC);
+        }
+
+        //build Json
+        getReferentShapePoint(shape, sortedStops, radius);
+      }else if(nShp == 2 && nStops == 3){
+        console.log("nShp: 2 and nStops: 3 on linha[" + linha + "]");
+        //Determinate wich Stops is first
+        var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+        var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+        var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
+        var firstStopC = new google.maps.LatLng(stopsC[0].LAT, stopsC[0].LON);
+
+        var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+        var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+        var distanceToc = distanceBetweenPoints(firstShape, firstStopC);
+
+        //Determinate wich Stops is last
+        var lastShape = new google.maps.LatLng(shape[shape.length - 1].LAT, shape[shape.length - 1].LON);
+        var lastStopA = new google.maps.LatLng(stopsA[stopsA.length - 1].LAT, stopsA[stopsA.length - 1].LON);
+        var lastStopB = new google.maps.LatLng(stopsB[stopsB.length - 1].LAT, stopsB[stopsB.length - 1].LON);
+        var lastStopC = new google.maps.LatLng(stopsC[stopsC.length - 1].LAT, stopsC[stopsC.length - 1].LON);
+
+        var distanceToLastA = distanceBetweenPoints(lastShape, lastStopA);
+        var distanceToLastB = distanceBetweenPoints(lastShape, lastStopB);
+        var distanceToLastc = distanceBetweenPoints(lastShape, lastStopC);
+
+        var sortedStops = [];
+
+        if(distanceToA < distanceToB && distanceToA < distanceToC){
+          // stopsA is first
+          if(distanceToLastB < distanceToLastC){
+            //stopsB is the last one, stopsA can't be the last one
+            sortedStops = getSortedStops(stopsA, stopsC, stopsB);
+          }else{
+            //stopsC is the last one
+            sortedStops = getSortedStops(stopsA, stopsB, stopsC);
+          }
+
+        }else if(distanceToB < distanceToA && distanceToB < distanceToC){
+          // stopsB is first
+          if(distanceToLastA < distanceToLastC){
+            //stopsA is the last one, stopsB can't be the last one
+            sortedStops = getSortedStops(stopsB, stopsC, stopsA);
+          }else{
+            //stopsC is the last one
+            sortedStops = getSortedStops(stopsB, stopsA, stopsC);
+          }
+
+        }else if(distanceToC < distanceToA && distanceToC < distanceToB){
+          // stopsC is first
+          if(distanceToLastA < distanceToLastB){
+            //stopsA is the last one, stopsB can't be the last one
+            sortedStops = getSortedStops(stopsC, stopsB, stopsA);
+          }else{
+            //stopsB is the last one
+            sortedStops = getSortedStops(stopsC, stopsA, stopsA);
+          }
+        }else{
+          console.log("Something went wrong :(, nShp:2 and nStops: 3 on linha["+linha+"]");
+        }
+
+        console.log("=====================");
+        console.log("nStops: " + nStops);
+        console.log("nShp: "   + nShp);
+        console.log("stops: "  + stops.length);
+        console.log("shape: "  + shape.length);
+        //build Json
+        getReferentShapePoint(shape, sortedStops, radius);
+
+      }else{
+        console.log("ah?");
+      }*/
+
+      if (nShp == 2 && nStops == 3) {
+          console.log("nShp: 2 and nStops: 3 on linha[" + linha + "]");
+          //Determinate wich Stops is first
+          var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+          var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+          var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
+          var firstStopC = new google.maps.LatLng(stopsC[0].LAT, stopsC[0].LON);
+
+          var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+          var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+          var distanceToC = distanceBetweenPoints(firstShape, firstStopC);
+
+          console.log("Distance to A: " + distanceToA);
+          console.log("Distance to B: " + distanceToB);
+          console.log("Distance to C: " + distanceToC);
+
+          //Determinate wich Stops is last
+          var lastShape = new google.maps.LatLng(shape[shape.length - 1].LAT, shape[shape.length - 1].LON);
+          var lastStopA = new google.maps.LatLng(stopsA[stopsA.length - 1].LAT, stopsA[stopsA.length - 1].LON);
+          var lastStopB = new google.maps.LatLng(stopsB[stopsB.length - 1].LAT, stopsB[stopsB.length - 1].LON);
+          var lastStopC = new google.maps.LatLng(stopsC[stopsC.length - 1].LAT, stopsC[stopsC.length - 1].LON);
+
+          var distanceToLastA = distanceBetweenPoints(lastShape, lastStopA);
+          var distanceToLastB = distanceBetweenPoints(lastShape, lastStopB);
+          var distanceToLastC = distanceBetweenPoints(lastShape, lastStopC);
+
+          console.log("Distance to Last A: " + distanceToLastA);
+          console.log("Distance to Last B: " + distanceToLastB);
+          console.log("Distance to Last C: " + distanceToLastC);
+
+          var sortedStops = [];
+
+          if (distanceToA < distanceToB && distanceToA < distanceToC) {
+              // stopsA is first
+              if (distanceToLastB < distanceToLastC) {
+                  //stopsB is the last one, stopsA can't be the last one
+                  sortedStops = getSortedStops(stopsA, stopsC, stopsB);
+              } else {
+                  //stopsC is the last one
+                  sortedStops = getSortedStops(stopsA, stopsB, stopsC);
+              }
+
+          } else if (distanceToB < distanceToA && distanceToB < distanceToC) {
+              // stopsB is first
+              if (distanceToLastA < distanceToLastC) {
+                  //stopsA is the last one, stopsB can't be the last one
+                  sortedStops = getSortedStops(stopsB, stopsC, stopsA);
+              } else {
+                  //stopsC is the last one
+                  sortedStops = getSortedStops(stopsB, stopsA, stopsC);
+              }
+
+          } else if (distanceToC < distanceToA && distanceToC < distanceToB) {
+              // stopsC is first
+              if (distanceToLastA < distanceToLastB) {
+                  //stopsA is the last one, stopsB can't be the last one
+                  sortedStops = getSortedStops(stopsC, stopsB, stopsA);
+              } else {
+                  //stopsB is the last one
+                  sortedStops = getSortedStops(stopsC, stopsA, stopsA);
+              }
+
+          } else {
+              console.log("Something went wrong :(, nShp:2 and nStops: 3 on linha[" + linha + "]");
+              console.log("Takinf default: A->B->C");
+              //taken default
+              sortedStops = getSortedStops(stopsA, stopsB, stopsC);
+          }
+          
+          //build Json
+          getReferentShapePoint(shape, sortedStops, radius);
+          console.log("=====================");
+
+
+      } else {
+          console.log("damm");
+      }
+
+
+
+
+      //TODO check out for possible duplicate on different threads
       jsonResponse.identifier = identifier;
       return jsonResponse;
       //console.log(jsonResponse);
   }
 
-  function getReferentShapePoint(shapeTmp, stopsTmp) {
+  function getReferentShapePoint(shapeTmp, stopsTmp, radius) {
       var stopIndex = 0;
       var recluting = false;
       var distController = radius + 1;
@@ -266,6 +504,25 @@
       var d = R * c;
       return Math.round(d);
   };
+
+  function getSortedStops(firstStops, secondStops, thirdStops) {
+
+      var sortedStops = [];
+      $.each(firstStops, function(i, stop) {
+          sortedStops.push(stop);
+      });
+
+      $.each(secondStops, function(i, stop) {
+          sortedStops.push(stop);
+      });
+
+      $.each(thirdStops, function(i, stop) {
+          sortedStops.push(stop);
+      });
+
+      return sortedStops;
+
+  }
 
   function compare(a, b) {
       if (a.SEQ < b.SEQ)

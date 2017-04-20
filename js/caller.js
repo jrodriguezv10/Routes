@@ -1,10 +1,11 @@
 $(document).ready(function() {
 
-    /*getJsonFromServer('225', false, 111).then(function(result) {
+    getJsonFromServer('307', false, 111).then(function(result) {
         console.log(result); // "Stuff worked!"
+        //parseJson(result); // "Stuff worked!"
     }, function(err) {
         console.log(err); // Error: "It broke"
-    });*/
+    });
 
 
 
@@ -47,8 +48,8 @@ function parseJson(result) {
     });
 
     console.log(newJson);
-    $(".code").remove();
-    var html = "<div class='code'><pre>" + JSON.stringify(newJson, undefined, 2) + "</pre>";
-    $("#div-code").append(html)
+    //$(".code").remove();
+    //var html = "<div class='code'><pre>" + JSON.stringify(newJson, undefined, 2) + "</pre>";
+    //$("#div-code").append(html)
 
 }
