@@ -139,7 +139,6 @@
               tmpStopWay = item.SENTIDO;
           }
 
-
           if (item.SENTIDO == firstStopsWay) {
               stopsA.push(item);
           } else if (!secondGotten || item.SENTIDO == tmpStopWay) {
@@ -187,21 +186,37 @@
           }
       }
 
+      /*else if (nShp == 1 && nStops == 2) {
+          //it has one SHP and two Sentidos: possible use of shp (shape)
+          //for go and back. ex. 222
+          //So, duplicate an inverse shape
+          var tmpShape = shape;
+          tmpShape.reverse();
+          $.each(tmpShape, function(i, item) {
+            item.SENTIDO = item.SENTIDO + " (volta)";
+              shapeBack.push(item);
+          });
+      }*/
+
       /**
        * Determinate 'Sentido'
        **/
-      var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
-      var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
-      var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
+      if(stopsB.length > 0){
+        var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+        var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+        var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
 
-      var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
-      var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+        var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+        var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
 
-      console.log("Distance to A: " + distanceToA);
-      console.log("Distance to B: " + distanceToB);
+        console.log("Distance to A: " + distanceToA);
+        console.log("Distance to B: " + distanceToB);
 
-      stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
-      stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
+        stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
+        stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
+      }else{
+        stopsGo = stopsA;
+      }
 
       stopsGo.sort(compare);
       stopsBack.sort(compare);
@@ -215,7 +230,11 @@
       console.log("=====================");
 
       getReferentShapePoint(shapeGo, stopsGo, radius);
-      getReferentShapePoint(shapeBack, stopsBack, radius);
+      if (shapeBack.length > 0 && stopsBack.length > 0) {
+          getReferentShapePoint(shapeBack, stopsBack, radius);
+      }else{
+        console.log("can't handle back");
+      }
 
       //TODO check out for possible duplicate on different threads
       jsonResponse.identifier = identifier;
@@ -251,12 +270,12 @@
               addShapePoint(shapePoint, 0);
               addStop(stopsTmp[stopIndex], distShapeToStop);
           } else {
-              if(!retake){
-                addShapePoint(shapePoint, distanceBetweenPoints(
-                    new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
-                    new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
-              }else{
-                retake = false;
+              if (!retake) {
+                  addShapePoint(shapePoint, distanceBetweenPoints(
+                      new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
+                      new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
+              } else {
+                  retake = false;
               }
 
               //console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
@@ -268,7 +287,7 @@
                       indexController = i;
                   }
 
-                  console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " ("+stopsTmp[stopIndex].SENTIDO+") " + stopsTmp[stopIndex].SEQ);
+                  //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
 
               } else {
                   if (recluting) {
@@ -278,11 +297,11 @@
 
                       distShapeToStop = distanceBetweenPoints(p1, p2); //get distance between shape to next stop (stopsTmp[stopIndex])
                       addStop(stopsTmp[stopIndex], distShapeToStop);
-                      console.log("-> goes: " + indexController); //just index, get object
+                      //console.log("-> goes: " + indexController); //just index, get object
                       distController = radius + 1;
                       indexController = -1;
-                      console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                      console.log("---------");
+                      //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+                      //console.log("---------");
                       stopIndex++; //next stop
                       i--;
                       retake = true;
