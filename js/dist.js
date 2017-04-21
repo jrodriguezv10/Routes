@@ -22,12 +22,12 @@
               success: function(response) {
                   shape = response;
                   loadedShape = true;
-                  console.log(" shape loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
+                  console.log("shape  loadedShape[" + loadedShape + "] loadedStops[" + loadedStops + "]");
                   if (loadedShape && loadedStops) {
                       cleanVars();
                       console.log("on Shape [" + identifier + "]");
                       console.log("----------------------");
-                      resolve(createJsonResponse(sent, identifier, shape, stops));
+                      resolve(createJsonResponse(sent, identifier, shape, stops, linha));
                   }
               },
               error: function(response) {
@@ -47,7 +47,7 @@
                       cleanVars();
                       console.log("on Ponto [" + identifier + "]");
                       console.log("----------------------");
-                      resolve(createJsonResponse(sent, identifier, shape, stops));
+                      resolve(createJsonResponse(sent, identifier, shape, stops, linha));
                       //createJsonResponse();
                   }
               },
@@ -72,7 +72,7 @@
       }
   }
 
-  function createJsonResponse(sent, identifier, shape, stops) {
+  function createJsonResponse(sent, identifier, shape, stops, linha) {
       var firstShapeSHP = shape[0].SHP;
       var firstStopsWay = stops[0].SENTIDO;
       var tmpStopWay = "";
@@ -120,9 +120,10 @@
 
       radius = (radius / 2) + 1;
 
-      if (radius > 200) {
-          radius = 200;
-          console.log("radius forced to be 200m: possible bug. Linha [" + linha + "]");
+      if (radius > 100) {
+          console.log("radius (" + radius + ") forced to be 100m: possible bug. Linha [" + linha + "]");
+          radius = 100;
+
       }
 
       console.log("radius: " + radius);
@@ -184,19 +185,15 @@
           } else {
               stopsB = mergeStops(stopsB, stopsC); //merge B and C
           }
-      }
-
-      /*else if (nShp == 1 && nStops == 2) {
+      }else if (nShp == 1 && nStops == 2) {
           //it has one SHP and two Sentidos: possible use of shp (shape)
           //for go and back. ex. 222
           //So, duplicate an inverse shape
           var tmpShape = shape;
-          tmpShape.reverse();
-          $.each(tmpShape, function(i, item) {
-            item.SENTIDO = item.SENTIDO + " (volta)";
-              shapeBack.push(item);
-          });
-      }*/
+          for(var i = tmpShape.length - 1; i >=0; i--){
+            shapeBack.push(tmpShape[i]);
+          }
+      }
 
       /**
        * Determinate 'Sentido'
@@ -228,10 +225,13 @@
       console.log("stopsBack: " + stopsBack.length);
       console.log("shapeBack: " + shapeBack.length);
       console.log("=====================");
+      printShape(shapeGo, true);
+      printStops(stopsGo, true, radius);
+
 
       getReferentShapePoint(shapeGo, stopsGo, radius);
       if (shapeBack.length > 0 && stopsBack.length > 0) {
-          getReferentShapePoint(shapeBack, stopsBack, radius);
+          //getReferentShapePoint(shapeBack, stopsBack, radius);
       }else{
         console.log("can't handle back");
       }
@@ -262,6 +262,11 @@
                   new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
                   new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
               stopIndex++; //next stop
+              createMarker(shapePoint,false, shapePoint.NOME).setMap(map);
+              console.log("-> goes: " + indexController); //just index, get object
+              console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+              console.log("---------");
+
           } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
               //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
               //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
@@ -269,6 +274,10 @@
               //createMarker2(shapePoint).setMap(map);
               addShapePoint(shapePoint, 0);
               addStop(stopsTmp[stopIndex], distShapeToStop);
+              createMarker(shapePoint,false, shapePoint.NOME).setMap(map);
+              console.log("-> goes: " + indexController); //just index, get object
+              console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+              console.log("---------");
           } else {
               if (!retake) {
                   addShapePoint(shapePoint, distanceBetweenPoints(
@@ -278,8 +287,8 @@
                   retake = false;
               }
 
-              //console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
-
+              console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
+              //createMarker2(shapePoint).setMap(map);
               if (distShapeToStop <= radius) { //radius in meters
                   recluting = true;
                   if (distShapeToStop < distController) {
@@ -297,11 +306,12 @@
 
                       distShapeToStop = distanceBetweenPoints(p1, p2); //get distance between shape to next stop (stopsTmp[stopIndex])
                       addStop(stopsTmp[stopIndex], distShapeToStop);
-                      //console.log("-> goes: " + indexController); //just index, get object
+                      createMarker(shapeTmp[indexController], false, indexController).setMap(map);
+                      console.log("-> goes: " + indexController); //just index, get object
                       distController = radius + 1;
                       indexController = -1;
-                      //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                      //console.log("---------");
+                      console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
+                      console.log("---------");
                       stopIndex++; //next stop
                       i--;
                       retake = true;
@@ -379,7 +389,7 @@
   function mergeStops(firstStop, secondStop) {
       var stopsMerged = [];
       $.each(firstStop, function(i, stop) {
-          stop.SENTIDO = firstStop[i].SENTIDO + "/" + secondStop[i];
+          stop.SENTIDO = firstStop[i].SENTIDO + "/" + secondStop[i].SENTIDO;
           stopsMerged.push(stop);
       });
 
@@ -393,3 +403,99 @@
           return 1;
       return 0;
   }
+
+
+
+
+
+
+
+  var map;
+  let colorGreen = "#4caf50";
+  let colorRed = "#ff9800";
+
+  /** For test **/
+function printShape(shapeTmp, go) {
+    var routeLine = [];
+    $.each(shapeTmp, function(i, item) {
+        routeLine.push({
+            lat: parseFloat(item.LAT),
+            lng: parseFloat(item.LON)
+        });
+        //createMarker(item, false, i).setMap(map);
+    });
+
+    var routePath = new google.maps.Polyline({
+        path: routeLine,
+        geodesic: true,
+        strokeColor: go ? colorGreen : colorRed,
+        strokeOpacity: 1.0,
+        strokeWeight: 2
+    });
+    routePath.setMap(map);
+}
+
+function printStops(stopsTmp, go, radius) {
+    $.each(stopsTmp, function(i, item) {
+        createMarker(item, go).setMap(map);
+        printArea(item, go, radius);
+    });
+}
+
+function createMarker(item, go, num) {
+    var latLng = new google.maps.LatLng(item.LAT, item.LON);
+    var iconURL = go ?
+        "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
+        "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
+
+    var marker = new google.maps.Marker({
+        position: latLng,
+        icon: iconURL
+    });
+    marker.addListener('click', function() {
+        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
+            item.SEQ + '<br>' + item.SENTIDO + '<br>' + num;
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+        infowindow.open(map, marker);
+    });
+
+    return marker;
+}
+
+function printArea(item, go, radius) {
+    var cityCircle = new google.maps.Circle({
+        strokeColor: go ? colorGreen : colorRed,
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: go ? colorGreen : colorRed,
+        fillOpacity: 0.35,
+        map: map,
+        center: {
+            lat: parseFloat(item.LAT),
+            lng: parseFloat(item.LON)
+        },
+        radius: radius
+    });
+}
+
+function createMarker2(item) {
+    var latLng = new google.maps.LatLng(item.LAT, item.LON);
+    var iconURL = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
+
+    var marker = new google.maps.Marker({
+        position: latLng,
+        icon: iconURL
+    });
+    marker.addListener('click', function() {
+        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
+            item.SEQ + '<br>' + item.SENTIDO;
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+        infowindow.open(map, marker);
+    });
+
+    return marker;
+}
