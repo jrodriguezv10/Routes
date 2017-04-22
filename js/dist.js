@@ -225,13 +225,13 @@
       console.log("stopsBack: " + stopsBack.length);
       console.log("shapeBack: " + shapeBack.length);
       console.log("=====================");
-      printShape(shapeGo, true);
-      printStops(stopsGo, true, radius);
+      printShape(shapeBack, true);
+      printStops(stopsBack, true, radius, linha);
 
 
-      getReferentShapePoint(shapeGo, stopsGo, radius);
+      //getReferentShapePoint(shapeGo, stopsGo, getCustomRadius(linha, radius));
       if (shapeBack.length > 0 && stopsBack.length > 0) {
-          //getReferentShapePoint(shapeBack, stopsBack, radius);
+          getReferentShapePoint(shapeBack, stopsBack, radius);
       }else{
         console.log("can't handle back");
       }
@@ -404,6 +404,18 @@
       return 0;
   }
 
+  function getCustomRadius(linha, radius) {
+
+    switch (linha) {
+      case "024":
+        return 150;
+        break;
+      default:
+        radius;
+    }
+
+  }
+
 
 
 
@@ -422,7 +434,7 @@ function printShape(shapeTmp, go) {
             lat: parseFloat(item.LAT),
             lng: parseFloat(item.LON)
         });
-        //createMarker(item, false, i).setMap(map);
+        createMarker(item, false, i).setMap(map);
     });
 
     var routePath = new google.maps.Polyline({
@@ -435,10 +447,10 @@ function printShape(shapeTmp, go) {
     routePath.setMap(map);
 }
 
-function printStops(stopsTmp, go, radius) {
+function printStops(stopsTmp, go, radius, linha) {
     $.each(stopsTmp, function(i, item) {
         createMarker(item, go).setMap(map);
-        printArea(item, go, radius);
+        printArea(item, go, getCustomRadius(linha, radius));
     });
 }
 
