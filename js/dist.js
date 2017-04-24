@@ -6,11 +6,6 @@
       var routeName;
       var shape;
       var stops;
-      /*var jsonResponse = {
-          success: true,
-          points: [],
-          identifier: ''
-      }*/
 
       return new Promise(function(resolve, reject) {
 
@@ -167,11 +162,6 @@
 
       console.log("nShp: " + nShp);
       console.log("nStops: " + nStops);
-      //console.log("shape: " + shape.length);
-      //console.log("stops: " + stops.length);
-      //console.log("[" + stopsA.length + "] A: " + firstStopsWay);
-      //console.log("[" + stopsB.length + "] B: " + tmpStopWay);
-      //console.log("[" + stopsC.length + "] C: " + stops[stops.length - 1].SENTIDO);
 
       /**
        * merge stops if needed
@@ -228,12 +218,6 @@
       console.log("stopsBack: " + stopsBack.length);
       console.log("shapeBack: " + shapeBack.length);
       console.log("=====================");
-      printShape(shapeGo, true);
-      printStops(stopsGo, true, radius, linha);
-
-      //printShape(shapeBack, true);
-      //printStops(stopsBack, true, radius, linha);
-
 
       getReferentShapePoint(shapeGo, stopsGo, getCustomRadius(linha, radius));
       if (shapeBack.length > 0 && stopsBack.length > 0) {
@@ -268,23 +252,11 @@
                 addShapePoint(shapePoint, distanceBetweenPoints(
                     new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
                     new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
-                createMarker(shapePoint,false, shapePoint.NOME).setMap(map);
-                console.log("-> goes: " + indexController); //just index, get object
-                console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                console.log("---------");
                 stopIndex++; //next stop
 
             } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
-                //console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                //console.log("---------");
-                //createMarker2(shapePoint).setMap(map);
                 addShapePoint(shapePoint, 0);
                 addStop(stopsTmp[stopIndex], distShapeToStop);
-                createMarker(shapePoint,false, shapePoint.NOME).setMap(map);
-                console.log("-> goes: " + indexController); //just index, get object
-                console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                console.log("---------");
             } else {
                 if (!retake) {
                     addShapePoint(shapePoint, distanceBetweenPoints(
@@ -294,16 +266,12 @@
                     retake = false;
                 }
 
-                console.log("shape [" + i + "] dist(" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
-                //createMarker2(shapePoint).setMap(map);
                 if (distShapeToStop <= radius) { //radius in meters
                     recluting = true;
                     if (distShapeToStop < distController) {
                         distController = distShapeToStop;
                         indexController = i;
                     }
-
-                    //console.log("shape [" + i + "] is on radius (" + distShapeToStop + "m) for: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME + " (" + stopsTmp[stopIndex].SENTIDO + ") " + stopsTmp[stopIndex].SEQ);
 
                 } else {
                     if (recluting) {
@@ -313,12 +281,8 @@
 
                         distShapeToStop = distanceBetweenPoints(p1, p2); //get distance between shape to next stop (stopsTmp[stopIndex])
                         addStop(stopsTmp[stopIndex], distShapeToStop);
-                        createMarker(shapeTmp[indexController], false, indexController).setMap(map);
-                        console.log("-> goes: " + indexController); //just index, get object
                         distController = radius + 1;
                         indexController = -1;
-                        console.log("add: [" + stopIndex + "]" + stopsTmp[stopIndex].NOME);
-                        console.log("---------");
                         stopIndex++; //next stop
                         i--;
                         retake = true;
@@ -327,7 +291,7 @@
                 }
             }
           }else{
-            console.log("no more stops");
+            //console.log("no more stops");
           }
       }
       //});
@@ -446,99 +410,3 @@
         return radius;
     }
   }
-
-
-
-
-
-
-
-  var map;
-  let colorGreen = "#4caf50";
-  let colorRed = "#ff9800";
-
-  /** For test **/
-function printShape(shapeTmp, go) {
-    var routeLine = [];
-    $.each(shapeTmp, function(i, item) {
-        routeLine.push({
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        });
-        createMarker(item, false, i).setMap(map);
-    });
-
-    var routePath = new google.maps.Polyline({
-        path: routeLine,
-        geodesic: true,
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 1.0,
-        strokeWeight: 2
-    });
-    routePath.setMap(map);
-}
-
-function printStops(stopsTmp, go, radius, linha) {
-    $.each(stopsTmp, function(i, item) {
-        createMarker(item, go).setMap(map);
-        printArea(item, go, getCustomRadius(linha, radius));
-    });
-}
-
-function createMarker(item, go, num) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = go ?
-        "http://maps.google.com/mapfiles/ms/icons/green-dot.png" :
-        "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
-
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
-    });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
-            item.SEQ + '<br>' + item.SENTIDO + '<br>' + num;
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
-
-    return marker;
-}
-
-function printArea(item, go, radius) {
-    var cityCircle = new google.maps.Circle({
-        strokeColor: go ? colorGreen : colorRed,
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: go ? colorGreen : colorRed,
-        fillOpacity: 0.35,
-        map: map,
-        center: {
-            lat: parseFloat(item.LAT),
-            lng: parseFloat(item.LON)
-        },
-        radius: radius
-    });
-}
-
-function createMarker2(item) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
-
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
-    });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
-            item.SEQ + '<br>' + item.SENTIDO;
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
-
-    return marker;
-}
