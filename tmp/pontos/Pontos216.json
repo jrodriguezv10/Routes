@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,42632",
+        "LON": "-49,24894",
+        "NOME": "Rua Padre Germano Maier, 1017 - Cristo Rei",
+        "NUM": "130141",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408811353523",
+        "LON": "-49,251591296142",
+        "NOME": "Av. Munhoz da Rocha, 706 - Cabral",
+        "NUM": "130866",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42182",
+        "LON": "-49,24834",
+        "NOME": "Rua Padre Germano Maier, 1407 - Cristo Rei",
+        "NUM": "130142",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448795818253",
+        "LON": "-49,256840233135",
+        "NOME": "Rua Guabirotuba,  124 - Prado Velho",
+        "NUM": "140350",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44814",
+        "LON": "-49,25354",
+        "NOME": "Rua Guabirotuba, 379 - Prado Velho",
+        "NUM": "140351",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466782195459",
+        "LON": "-49,279901195106",
+        "NOME": "Av. Pres. Kennedy, 2511 - Água Verde",
+        "NUM": "150015",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468860313802",
+        "LON": "-49,282199067459",
+        "NOME": "Av. Pres. Kennedy, 2731 - Guaíra",
+        "NUM": "150017",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476126582545",
+        "LON": "-49,292362214273",
+        "NOME": "Terminal Portão - 216 - Cabral / Portão",
+        "NUM": "105806",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "37",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45056406034",
+        "LON": "-49,265392069941",
+        "NOME": "Rua Chile, 1626 - Rebouças",
+        "NUM": "150001",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44597",
+        "LON": "-49,25391",
+        "NOME": "Rua Chile, 410 - Rebouças",
+        "NUM": "140050",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471857578511",
+        "LON": "-49,285907084656",
+        "NOME": "Av. Pres. Kennedy, 3298 - Água Verde",
+        "NUM": "150020",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414407603725",
+        "LON": "-49,252092332506",
+        "NOME": "Rua José de Alencar, 1-195 - Juveve",
+        "NUM": "130107",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440295190708",
+        "LON": "-49,23944524785",
+        "NOME": "Rua Engenheiro Ostoja Roguski, 119 - Jardim Botanico",
+        "NUM": "140043",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465042464796",
+        "LON": "-49,277976705523",
+        "NOME": "Av. Pres. Kennedy, 2159 - Guaíra",
+        "NUM": "150013",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419066068313",
+        "LON": "-49,248012900352",
+        "NOME": "R. Padre Germano Mayer, 1826 - Hugo Lange",
+        "NUM": "130938",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462720313308",
+        "LON": "-49,275764139881",
+        "NOME": "Av. Pres. Kennedy, 1840 - Água Verde",
+        "NUM": "150010",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447454019728",
+        "LON": "-49,257707463789",
+        "NOME": "Rua Chile, 821 - Rebouças",
+        "NUM": "140051",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406417371249",
+        "LON": "-49,252209977212",
+        "NOME": "Terminal Cabral - 216 - Cabral / Portão",
+        "NUM": "104404",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "33",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428806708195",
+        "LON": "-49,249060233135",
+        "NOME": "Rua Padre Germano Maier, 711 - Cristo Rei",
+        "NUM": "130138",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443337680633",
+        "LON": "-49,24255944313",
+        "NOME": "Rua Engenheiro Ostoja Roguski, 567 - Jardim Botanico",
+        "NUM": "140044",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474786053576",
+        "LON": "-49,288743906746",
+        "NOME": "Av. Pres. Kennedy, 3683 - Portão",
+        "NUM": "150023",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417286956887",
+        "LON": "-49,249937714285",
+        "NOME": "Rua Augusto Stresser, 893 - Alto da Glória",
+        "NUM": "130106",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421747887515",
+        "LON": "-49,248463411045",
+        "NOME": "Rua Padre Germano Maier, 1523 - Cristo Rei",
+        "NUM": "130143",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431466087779",
+        "LON": "-49,246799504299",
+        "NOME": "Av. Senador Souza Naves, 1082 - Cristo Rei",
+        "NUM": "130145",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432",
+        "LON": "-49,24134",
+        "NOME": "Av. Senador Souza Naves, 1710 - Cristo Rei",
+        "NUM": "130148",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464509686549",
+        "LON": "-49,277767055225",
+        "NOME": "Av. Pres. Kennedy, 2192 - Portão",
+        "NUM": "150012",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437588947287",
+        "LON": "-49,237879843658",
+        "NOME": "Rua Oyapock, 184 - Cristo Rei",
+        "NUM": "130891",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41716",
+        "LON": "-49,25002",
+        "NOME": "Rua Augusto Stresser, 894 - Alto da Glória",
+        "NUM": "130105",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411635049361",
+        "LON": "-49,254118309193",
+        "NOME": "Rua Bom Jesus, 299 - Juveve",
+        "NUM": "130108",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43165329057",
+        "LON": "-49,249314635582",
+        "NOME": "Rua Padre Germano Maier, 423 - Cristo Rei",
+        "NUM": "130137",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44758",
+        "LON": "-49,25056",
+        "NOME": "Rua Guabirotuba, 721 - Prado Velho",
+        "NUM": "140352",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437342830459",
+        "LON": "-49,240457117558",
+        "NOME": "Av. Pres. Affonso Camargo, 1827 - Cristo Rei",
+        "NUM": "130916",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416976865373",
+        "LON": "-49,252921671814",
+        "NOME": "Rua Augusto Stresser, 1161 - Alto da Glória",
+        "NUM": "130301",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411772473701",
+        "LON": "-49,251316209822",
+        "NOME": "Rua Professor Artur Loiola, 145 - Cabral",
+        "NUM": "130101",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43163",
+        "LON": "-49,24487",
+        "NOME": "Av. Senador Souza Naves, 1242 - Cristo Rei",
+        "NUM": "130147",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473616904179",
+        "LON": "-49,287850495701",
+        "NOME": "Av. Pres. Kennedy, 3568 - Portão",
+        "NUM": "150022",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419005504521",
+        "LON": "-49,248157739639",
+        "NOME": "R. Padre Germano Mayer, 1805 - Hugo Lange",
+        "NUM": "130939",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413314794867",
+        "LON": "-49,25326064229",
+        "NOME": "R. Paraguassu, 913 - Juveve",
+        "NUM": "130941",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476126582545",
+        "LON": "-49,292362214273",
+        "NOME": "Terminal Portão - 216 - Cabral / Portão",
+        "NUM": "105806",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463483675138",
+        "LON": "-49,276244868717",
+        "NOME": "Av. Pres. Kennedy, 2043 - Portão",
+        "NUM": "150011",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437909155684",
+        "LON": "-49,238713525305",
+        "NOME": "Av. Pres. Affonso Camargo, 1991 - Cristo Rei",
+        "NUM": "130150",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436814793253",
+        "LON": "-49,244579672813",
+        "NOME": "Av. Pres. Affonso Camargo, 1631-1701 - Cristo Rei",
+        "NUM": "130917",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4348",
+        "LON": "-49,23941",
+        "NOME": "Rua Oyapock, 336 - Cristo Rei",
+        "NUM": "130149",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466311567991",
+        "LON": "-49,279762915344",
+        "NOME": "Av. Pres. Kennedy, 2416 - Água Verde",
+        "NUM": "150014",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47614",
+        "LON": "-49,29057",
+        "NOME": "Av. Pres. Kennedy, 3860 - Portão",
+        "NUM": "150024",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449009924282",
+        "LON": "-49,261531233788",
+        "NOME": "Rua Chile, 1164 - Rebouças",
+        "NUM": "150052",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434899598872",
+        "LON": "-49,24965127532",
+        "NOME": "Rua Padre Germano Maier, 71 - Cristo Rei",
+        "NUM": "130136",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42619",
+        "LON": "-49,24874",
+        "NOME": "Rua Padre Germano Maier, 1039 - Cristo Rei",
+        "NUM": "130140",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406417371249",
+        "LON": "-49,252209977212",
+        "NOME": "Terminal Cabral - 216 - Cabral / Portão",
+        "NUM": "104404",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42897",
+        "LON": "-49,2492",
+        "NOME": "Rua Padre Germano Maier, 712 - Cristo Rei",
+        "NUM": "130139",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439542733582",
+        "LON": "-49,238837550926",
+        "NOME": "Rua Engenheiro Ostoja Roguski, 60 - Jardim Botanico",
+        "NUM": "140042",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44593023834",
+        "LON": "-49,245999766865",
+        "NOME": "Rua Alberto Twardovski, 316 - Jardim Botanico",
+        "NUM": "140047",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4684",
+        "LON": "-49,282072449074",
+        "NOME": "Av. Pres. Kennedy, 2760 - Água Verde",
+        "NUM": "150016",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469951703947",
+        "LON": "-49,283786676092",
+        "NOME": "Av. Pres. Kennedy, 3046 - Água Verde",
+        "NUM": "150018",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44612944984",
+        "LON": "-49,246061457672",
+        "NOME": "Rua Alberto Twardovski, 315 - Jardim Botanico",
+        "NUM": "140048",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43131627069",
+        "LON": "-49,248765597553",
+        "NOME": "Av. Sen. Souza Naves, 837-899 - Alto da XV",
+        "NUM": "130144",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44339398083",
+        "LON": "-49,242749504299",
+        "NOME": "Rua Engenheiro Ostoja Roguski, 568 - Jardim Botanico",
+        "NUM": "140046",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44489",
+        "LON": "-49,25083",
+        "NOME": "Rua Chile, 106 - Rebouças",
+        "NUM": "140049",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45389637276",
+        "LON": "-49,266295165962",
+        "NOME": "Rua 24 de Maio, 2006 - Rebouças",
+        "NUM": "150182",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45312035175",
+        "LON": "-49,264788279762",
+        "NOME": "Av. Pres. Kennedy, 333 - Rebouças",
+        "NUM": "150002",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470490313933",
+        "LON": "-49,28399635582",
+        "NOME": "Av. Pres. Kennedy, 3145 - Guaíra",
+        "NUM": "150019",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728851113",
+        "LON": "-49,286652099371",
+        "NOME": "Av. Pres. Kennedy, 3399 - Água Verde",
+        "NUM": "150021",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

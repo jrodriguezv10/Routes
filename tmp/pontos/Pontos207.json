@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406519777418",
+        "LON": "-49,276052050075",
+        "NOME": "R. Nilo Peçanha, 1571 - Bom Retiro",
+        "NUM": "120058",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401709096951",
+        "LON": "-49,262440699406",
+        "NOME": "R. Eça de Queiroz, 921 - Ahú",
+        "NUM": "120049",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406362644792",
+        "LON": "-49,275850723943",
+        "NOME": "R. Nilo Peçanha, 1572 - Bom Retiro",
+        "NUM": "120059",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406335841992",
+        "LON": "-49,252463445965",
+        "NOME": "Terminal Cabral - 207 - Cabral / Osório",
+        "NUM": "104412",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426928549988",
+        "LON": "-49,271383145224",
+        "NOME": "Rua Treze de Maio, 503 - São Francisco",
+        "NUM": "110187",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406335841992",
+        "LON": "-49,252463445965",
+        "NOME": "Terminal Cabral - 207 - Cabral / Osório",
+        "NUM": "104412",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401424251116",
+        "LON": "-49,267849008598",
+        "NOME": "R. Brasilino Moura, 331 - São Lourenço",
+        "NUM": "120053",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403497908439",
+        "LON": "-49,273584139881",
+        "NOME": "R. Carlos Augusto Cornelsen, 122 - Bom Retiro",
+        "NUM": "120101",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402914104034",
+        "LON": "-49,27084955687",
+        "NOME": "R. Brasilino Moura, 79 - São Lourenço",
+        "NUM": "120103",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414232095024",
+        "LON": "-49,273642244636",
+        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
+        "NUM": "120065",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402083054858",
+        "LON": "-49,255968661255",
+        "NOME": "Rua dos Funcionários, 157 - Cabral",
+        "NUM": "120002",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404812910545",
+        "LON": "-49,272736490912",
+        "NOME": "Rua Albano Reis, 702 - Bom Retiro",
+        "NUM": "110096",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433027310274",
+        "LON": "-49,276453985285",
+        "NOME": "Praça Osório - 207 -Cabral / Osório",
+        "NUM": "103303",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430217696146",
+        "LON": "-49,279159152809",
+        "NOME": "R. Visc. de Nacar, 866 - Centro",
+        "NUM": "110423",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432983631758",
+        "LON": "-49,277847234116",
+        "NOME": "R. Visc. de Nacar, 1210 - Centro",
+        "NUM": "110014",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412286976107",
+        "LON": "-49,274096713905",
+        "NOME": "R. Nilo Peçanha, 897 - São Francisco",
+        "NUM": "120066",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409954378395",
+        "LON": "-49,275623290553",
+        "NOME": "R. Nilo Peçanha, 1204 - Bom Retiro",
+        "NUM": "120062",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404092287633",
+        "LON": "-49,275649006075",
+        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
+        "NUM": "120057",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4011",
+        "LON": "-49,26497",
+        "NOME": "R. Brasilino Moura, 602 - Ahú",
+        "NUM": "120051",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401900925253",
+        "LON": "-49,262234023313",
+        "NOME": "R. Eça de Queiroz, 940 - Ahú",
+        "NUM": "120050",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40126",
+        "LON": "-49,26492",
+        "NOME": "R. Brasilino Moura, 605 - Ahú",
+        "NUM": "120052",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401762136668",
+        "LON": "-49,268438163195",
+        "NOME": "Rua Brasilino Moura, 330 - São Lourenço",
+        "NUM": "120054",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403061899352",
+        "LON": "-49,270802618212",
+        "NOME": "R. Brasilino Moura, 90 - São Lourenço",
+        "NUM": "120102",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416661529486",
+        "LON": "-49,276681068932",
+        "NOME": "R. Albino Silva, 122 - Bom Retiro",
+        "NUM": "110009",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433027310274",
+        "LON": "-49,276453985285",
+        "NOME": "Praça Osório - 207 -Cabral / Osório",
+        "NUM": "103303",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408220402306",
+        "LON": "-49,276207968194",
+        "NOME": "R. Nilo Peçanha, 1378 - Bom Retiro",
+        "NUM": "120061",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402382962766",
+        "LON": "-49,25947409834",
+        "NOME": "R. Eça de Queiroz, 1260 - Ahú",
+        "NUM": "120010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402078890163",
+        "LON": "-49,255738374231",
+        "NOME": "Rua dos Funcionários, 152 - Cabral",
+        "NUM": "120001",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408545550262",
+        "LON": "-49,276305912747",
+        "NOME": "R. Nilo Peçanha, 1377 - Bom Retiro",
+        "NUM": "120060",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430195019723",
+        "LON": "-49,271926463789",
+        "NOME": "Praça Tiradentes - 207 - Cabral/ Osório - 260 - Mal.Hermes/Sta.Efigênia",
+        "NUM": "101005",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411727316186",
+        "LON": "-49,275359376192",
+        "NOME": "R. Albino Silva, 688 - Bom Retiro",
+        "NUM": "120063",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414115420076",
+        "LON": "-49,276023837256",
+        "NOME": "R. Albino Silva, 332 - Bom Retiro",
+        "NUM": "120064",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40235",
+        "LON": "-49,25898",
+        "NOME": "R. Eça de Queiroz, 1251 - Ahú",
+        "NUM": "120048",
+        "SENTIDO": "Praça Osório",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -22,9 +22,14 @@ var routePath225;
  * Initialize the map, the clusters, the polygons,
  * the Slider for years range and the components
  *****************************************************/
-google.maps.event.addDomListener(window, 'load', initialize);
+google.maps.event.addDomListener(window, 'load', initializeIndex);
 
-function initialize() {
+
+    
+
+
+function initializeIndex() {
+    $("option").prop("selected", false);
     var mapCanvas = document.getElementById('map');
     var mapOptions = {
         center: new google.maps.LatLng(-25.383948, -49.246980),
@@ -38,12 +43,12 @@ function initialize() {
     //setPoints();
     $('#linhaSelector').multiselect({
         columns: 1,
-        placeholder: 'Selecionar linha',
+        placeholder: 'Selecionar linha de ônibus',
         search: true
     });
 }
 
-function setPoints() {
+/*function setPoints() {
 
     database2.sort(compare);
     sentido = database2.length > 0 ? database2[0].SENTIDO : "";
@@ -60,7 +65,7 @@ function setPoints() {
         strokeWeight: 2
     });
     routePath.setMap(map);
-}
+}*/
 
 /******/
 function closeSettings(close) {
@@ -73,6 +78,7 @@ function closeSettings(close) {
 }
 
 function showLinhas() {
+
     cleaMap();
 
     var linhas = $('#linhaSelector').val();
@@ -191,6 +197,10 @@ function showLinhas() {
     }
 }
 
+
+
+
+
 function cleaMap(){
   if (routePath342 != null) {
       routePath342.setMap(null);
@@ -208,6 +218,7 @@ function cleaMap(){
   markers = [];
 }
 
+/*
 function showPath(route, r342) {
     if (r342) {
         routePath342 = new google.maps.Polyline({
@@ -228,7 +239,7 @@ function showPath(route, r342) {
         });
         routePath225.setMap(map);
     }
-}
+}*/
 
 var r225 = true;
 var r342 = true;

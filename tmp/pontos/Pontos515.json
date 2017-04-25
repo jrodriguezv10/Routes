@@ -1,0 +1,462 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,494608157734",
+        "LON": "-49,23412524785",
+        "NOME": "Rua das Carmelitas, 2316 - Boqueirão",
+        "NUM": "140329",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491850579238",
+        "LON": "-49,235464285879",
+        "NOME": "Rua das Carmelitas, 2160 - Hauer",
+        "NUM": "140192",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49697036985",
+        "LON": "-49,23245524785",
+        "NOME": "Rua Antônio Schiebel, 598 - Boqueirão",
+        "NUM": "140194",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481842754932",
+        "LON": "-49,246768684334",
+        "NOME": "Terminal Hauer - 515 - Iguape II",
+        "NUM": "105508",
+        "SENTIDO": "Hauer",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47883",
+        "LON": "-49,24168",
+        "NOME": "Rua das Carmelitas, 489 - Hauer",
+        "NUM": "140009",
+        "SENTIDO": "Hauer",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481842754932",
+        "LON": "-49,246768684334",
+        "NOME": "Terminal Hauer - 515 - Iguape II",
+        "NUM": "105508",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480957941932",
+        "LON": "-49,24077682209",
+        "NOME": "Rua das Carmelitas, 712 - Hauer",
+        "NUM": "140002",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515106369073",
+        "LON": "-49,223214023314",
+        "NOME": "Rua Maestro Carlos Frank, 477 - Boqueirão",
+        "NUM": "140264",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495739052103",
+        "LON": "-49,229636588955",
+        "NOME": "Rua Antônio Schiebel, 319 - Boqueirão",
+        "NUM": "140197",
+        "SENTIDO": "Hauer",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499628211633",
+        "LON": "-49,227274635582",
+        "NOME": "Rua William Booth, 1408 - Boqueirão",
+        "NUM": "140258",
+        "SENTIDO": "Hauer",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504020633271",
+        "LON": "-49,225129271164",
+        "NOME": "Rua William Booth, 1803 - Boqueirão",
+        "NUM": "140490",
+        "SENTIDO": "Hauer",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48513667852",
+        "LON": "-49,238770414566",
+        "NOME": "Rua das Carmelitas, 1230 - Hauer",
+        "NUM": "140006",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481602784795",
+        "LON": "-49,243458163195",
+        "NOME": "Rua Waldemar Kost, 415 - Hauer",
+        "NUM": "140001",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497347316831",
+        "LON": "-49,228514402447",
+        "NOME": "Rua William Booth, 1026 - Boqueirão",
+        "NUM": "140198",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484570994872",
+        "LON": "-49,23887157424",
+        "NOME": "Rua das Carmelitas, 1167 - Hauer",
+        "NUM": "140007",
+        "SENTIDO": "Hauer",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515301527852",
+        "LON": "-49,223340612268",
+        "NOME": "Rua Maestro Carlos Frank, 476 - Boqueirão",
+        "NUM": "140294",
+        "SENTIDO": "Hauer",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506291210398",
+        "LON": "-49,224018542328",
+        "NOME": "Rua William Booth, 2180 - Boqueirão",
+        "NUM": "140488",
+        "SENTIDO": "Hauer",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48699921818",
+        "LON": "-49,237860961971",
+        "NOME": "Rua das Carmelitas, 1538 - Hauer",
+        "NUM": "140188",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508756167273",
+        "LON": "-49,222973790178",
+        "NOME": "Rua William Booth, 2436 - Boqueirão",
+        "NUM": "140487",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486410365488",
+        "LON": "-49,237962303076",
+        "NOME": "Rua das Carmelitas, 1537 - Hauer",
+        "NUM": "140189",
+        "SENTIDO": "Hauer",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497290053886",
+        "LON": "-49,228410495701",
+        "NOME": "Rua William Booth, 1027 - Boqueirão",
+        "NUM": "140199",
+        "SENTIDO": "Hauer",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501718528463",
+        "LON": "-49,226271341105",
+        "NOME": "Rua William Booth, 1626 - Boqueirão",
+        "NUM": "140260",
+        "SENTIDO": "Hauer",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51168",
+        "LON": "-49,22139",
+        "NOME": "Rua William Booth, 2810 - Boqueirão",
+        "NUM": "140262",
+        "SENTIDO": "Hauer",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483014576724",
+        "LON": "-49,239776093254",
+        "NOME": "Rua das Carmelitas, 1050 - Hauer",
+        "NUM": "140004",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517127579423",
+        "LON": "-49,230344723873",
+        "NOME": "Terminal Boqueirão - 515 - Iguape II",
+        "NUM": "104309",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499756107023",
+        "LON": "-49,227351224537",
+        "NOME": "Rua William Booth, 1407 - Boqueirão",
+        "NUM": "140257",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516259107325",
+        "LON": "-49,226044519014",
+        "NOME": "Rua Maestro Carlos Frank, 699 - Boqueirão",
+        "NUM": "140295",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494317894816",
+        "LON": "-49,234119271164",
+        "NOME": "Rua das Carmelitas, 2317 - Boqueirão",
+        "NUM": "140328",
+        "SENTIDO": "Hauer",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5163149014",
+        "LON": "-49,225871224537",
+        "NOME": "Rua Maestro Carlos Frank, 698 - Boqueirão",
+        "NUM": "140296",
+        "SENTIDO": "Hauer",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490201767917",
+        "LON": "-49,236284006809",
+        "NOME": "Rua das Carmelitas, 1822 - Hauer",
+        "NUM": "140986",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511779741442",
+        "LON": "-49,221489766865",
+        "NOME": "Rua William Booth, 2811 - Boqueirão",
+        "NUM": "140261",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514159742042",
+        "LON": "-49,220853906746",
+        "NOME": "Rua Maestro Carlos Frank, 243 - Boqueirão",
+        "NUM": "140263",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503884897766",
+        "LON": "-49,225351341104",
+        "NOME": "Rua William Booth, 1803 - Boqueirão",
+        "NUM": "140491",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Hauer",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Hauer",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49205",
+        "LON": "-49,23523",
+        "NOME": "Rua das Carmelitas, 2161 - Hauer",
+        "NUM": "140193",
+        "SENTIDO": "Hauer",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49575431683",
+        "LON": "-49,229463411045",
+        "NOME": "Rua Antônio Schiebel, 318 - Boqueirão",
+        "NUM": "140196",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501801843356",
+        "LON": "-49,226359650297",
+        "NOME": "Rua William Booth, 1625 - Boqueirão",
+        "NUM": "140259",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50636795294",
+        "LON": "-49,224135860119",
+        "NOME": "Rua William Booth, 2180 - Boqueirão",
+        "NUM": "140489",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517127579423",
+        "LON": "-49,230344723873",
+        "NOME": "Terminal Boqueirão - 515 - Iguape II",
+        "NUM": "104309",
+        "SENTIDO": "Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489906368311",
+        "LON": "-49,236257813492",
+        "NOME": "Rua das Carmelitas, 1821 - Hauer",
+        "NUM": "140190",
+        "SENTIDO": "Hauer",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49693",
+        "LON": "-49,23261",
+        "NOME": "Rua Antônio Schiebel, 597 -Boqueirão",
+        "NUM": "140195",
+        "SENTIDO": "Hauer",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51436950392",
+        "LON": "-49,221023993883",
+        "NOME": "Rua Maestro Carlos Frank, 244 - Boqueirão",
+        "NUM": "140648",
+        "SENTIDO": "Hauer",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508792103726",
+        "LON": "-49,222796588955",
+        "NOME": "Rua William Booth, 2436 - Boqueirão",
+        "NUM": "140486",
+        "SENTIDO": "Hauer",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480833995147",
+        "LON": "-49,240703411045",
+        "NOME": "Rua das Carmelitas, 711 - Hauer",
+        "NUM": "140003",
+        "SENTIDO": "Hauer",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482515206427",
+        "LON": "-49,239889008598",
+        "NOME": "Rua das Carmelitas, 1051 - Hauer",
+        "NUM": "140005",
+        "SENTIDO": "Hauer",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    }
+]

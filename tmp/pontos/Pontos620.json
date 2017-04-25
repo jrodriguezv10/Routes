@@ -1,0 +1,122 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,49781",
+        "LON": "-49,30083",
+        "NOME": "Rua Pedro Gusso, 600 - Novo Mundo",
+        "NUM": "170175",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4957214",
+        "LON": "-49,3023882",
+        "NOME": "Rua Primo Lourenço Tosin, 1083- Novo Mundo",
+        "NUM": "170302",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494475566952",
+        "LON": "-49,298993470005",
+        "NOME": "Rua João Bonat, 431 - Novo Mundo",
+        "NUM": "170243",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49549089456",
+        "LON": "-49,295826472387",
+        "NOME": "Rua Antônio Gasparin, 5556 -Novo Mundo",
+        "NUM": "170171",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4957214",
+        "LON": "-49,3023882",
+        "NOME": "Rua Primo Lourenço Tosin, 1083- Novo Mundo",
+        "NUM": "170302",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493928736722",
+        "LON": "-49,295499154596",
+        "NOME": "Rua Antônio Gasparin, 5452 - Novo Mundo",
+        "NUM": "170170",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496998998031",
+        "LON": "-49,297864402447",
+        "NOME": "Rua Pedro Gusso, 232 - Novo Mundo",
+        "NUM": "170172",
+        "SENTIDO": "Santa Cruz",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494421399661",
+        "LON": "-49,30096271748",
+        "NOME": "Rua João Bonat, 631 - Novo Mundo",
+        "NUM": "170245",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

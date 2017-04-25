@@ -1,0 +1,432 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Londrina",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535961343618",
+        "LON": "-49,283845480986",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4729 - Pinheirinho",
+        "NUM": "160031",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539154666697",
+        "LON": "-49,291752011723",
+        "NOME": "Rua Maringá, 824 - Pinheirinho",
+        "NUM": "160252",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533720616656",
+        "LON": "-49,28669638525",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5155 - Pinheirinho",
+        "NUM": "160033",
+        "SENTIDO": "Londrina",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54031",
+        "LON": "-49,28925",
+        "NOME": "Rua Londrina, 678 - Pinheirinho",
+        "NUM": "160044",
+        "SENTIDO": "Londrina",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53951",
+        "LON": "-49,2835",
+        "NOME": "Rua Londrina, 97 - Pinheirinho",
+        "NUM": "160249",
+        "SENTIDO": "Londrina",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541946693756",
+        "LON": "-49,298307330555",
+        "NOME": "Rua Vidal Henrique Mengue, 251 - Pinheirinho",
+        "NUM": "160258",
+        "SENTIDO": "Londrina",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539720202835",
+        "LON": "-49,298493744081",
+        "NOME": "Rua Vidal Henrique Mengue, 90 - Pinheirinho",
+        "NUM": "160257",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528153440264",
+        "LON": "-49,29169157424",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6018 - Pinheirinho",
+        "NUM": "160038",
+        "SENTIDO": "Londrina",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539035343666",
+        "LON": "-49,281649038029",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 2 - Sítio Cercado",
+        "NUM": "160050",
+        "SENTIDO": "Londrina",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53999367623",
+        "LON": "-49,298587621397",
+        "NOME": "Rua Vidal Henrique Mengue, 91 - Pinheirinho",
+        "NUM": "160256",
+        "SENTIDO": "Londrina",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53987732841",
+        "LON": "-49,285373061342",
+        "NOME": "Rua Londrina, 289 - Pinheirinho",
+        "NUM": "160251",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54352",
+        "LON": "-49,30035",
+        "NOME": "Av. Quarto Centenário da Cidade do Rio de Janeiro, 36 - Cidade Industrial",
+        "NUM": "160255",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54099",
+        "LON": "-49,29395",
+        "NOME": "Rua Londrina, 1154 - Pinheirinho",
+        "NUM": "160040",
+        "SENTIDO": "Londrina",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Londrina",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540519613777",
+        "LON": "-49,291415394491",
+        "NOME": "Rua Inajá, 356 - Pinheirinho",
+        "NUM": "160253",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536092234573",
+        "LON": "-49,283941807375",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4728 - Pinheirinho",
+        "NUM": "160032",
+        "SENTIDO": "Londrina",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Londrina",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Londrina",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512157579323",
+        "LON": "-49,294859271164",
+        "NOME": "Terminal Pinheirinho - 635 - Londrina",
+        "NUM": "105709",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512157579323",
+        "LON": "-49,294859271164",
+        "NOME": "Terminal Pinheirinho - 635 - Londrina",
+        "NUM": "105709",
+        "SENTIDO": "Londrina",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539100890603",
+        "LON": "-49,281536588955",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 1 - Sítio Cercado",
+        "NUM": "160049",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538441461916",
+        "LON": "-49,278971224537",
+        "NOME": "Rua Pedro Claudino da Rocha, 1 - Sítio Cercado",
+        "NUM": "160051",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538144693521",
+        "LON": "-49,2968924653",
+        "NOME": "Rua Doutor Plínio Gonçalves Marques, 755 - Pinheirinho",
+        "NUM": "160254",
+        "SENTIDO": "Londrina",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54352",
+        "LON": "-49,30035",
+        "NOME": "Av. Quarto Centenário da Cidade do Rio de Janeiro, 36 - Cidade Industrial",
+        "NUM": "160255",
+        "SENTIDO": "Londrina",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537240823609",
+        "LON": "-49,280280233135",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4386 -Sítio Cercado",
+        "NUM": "160029",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541917652836",
+        "LON": "-49,298229546494",
+        "NOME": "Rua Vidal Henrique Mengue, 252 - Pinheirinho",
+        "NUM": "160259",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53746",
+        "LON": "-49,28011",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4387 - Sítio Cercado",
+        "NUM": "160030",
+        "SENTIDO": "Londrina",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530323506367",
+        "LON": "-49,288999504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5608 - Pinheirinho",
+        "NUM": "160036",
+        "SENTIDO": "Londrina",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54067",
+        "LON": "-49,29191",
+        "NOME": "Rua Londrina, 964 - Pinheirinho",
+        "NUM": "160042",
+        "SENTIDO": "Londrina",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53978",
+        "LON": "-49,28558",
+        "NOME": "Rua Londrina, 288 - Pinheirinho",
+        "NUM": "160250",
+        "SENTIDO": "Londrina",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538361597035",
+        "LON": "-49,27913892383",
+        "NOME": "Rua Pedro Claudino da Rocha, 3 - Sítio Cercado",
+        "NUM": "160052",
+        "SENTIDO": "Londrina",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Londrina",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54044",
+        "LON": "-49,28929",
+        "NOME": "Rua Londrina, 677 - Pinheirinho",
+        "NUM": "160043",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53958",
+        "LON": "-49,28338",
+        "NOME": "Rua Londrina, 98 - Pinheirinho",
+        "NUM": "160047",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538231819001",
+        "LON": "-49,296806634611",
+        "NOME": "Rua Doutor Plínio Gonçalves Marques, 756 -Pinheirinho",
+        "NUM": "160263",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479204473362",
+        "LON": "-49,224323959297",
+        "NOME": "Av. Comendador Franco, 5620 - Uberaba",
+        "NUM": "140611",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489610947985",
+        "LON": "-49,216730625576",
+        "NOME": "Av. Comendador Franco, 6915 - Uberaba",
+        "NUM": "140615",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44131086437",
+        "LON": "-49,253258959598",
+        "NOME": "Rua Sérgio Venci, 276 - Rebouças",
+        "NUM": "140532",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472798644242",
+        "LON": "-49,22857660169",
+        "NOME": "Av. Comendador Franco, 4751 - Uberaba",
+        "NUM": "140624",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493370970043",
+        "LON": "-49,210829595225",
+        "NOME": "Rua Aviador Armin Buhrer, 335 - Uberaba",
+        "NUM": "140764",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492375848607",
+        "LON": "-49,214265675491",
+        "NOME": "Av. Comendador Franco, 7398 - Jardim Botanico",
+        "NUM": "140618",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435384701039",
+        "LON": "-49,271721453481",
+        "NOME": "Praça Rui Barbosa - 474 - Jd Itiberê",
+        "NUM": "102021",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492663315887",
+        "LON": "-49,205127930059",
+        "NOME": "Rua Aviador Armin Buhrer, 842 - Uberaba",
+        "NUM": "140079",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462242386564",
+        "LON": "-49,23672582323",
+        "NOME": "Av. Comendador Franco, 3379 - Uberaba",
+        "NUM": "140988",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438425807142",
+        "LON": "-49,263713539785",
+        "NOME": "Av. Silva Jardim, 3776 - Água Verde",
+        "NUM": "140214",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477737131561",
+        "LON": "-49,225415618366",
+        "NOME": "Av. Comendador Franco, 5350 - Uberaba",
+        "NUM": "140610",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48717647538",
+        "LON": "-49,218507589048",
+        "NOME": "Av. Comendador Franco, 6511 - Uberaba",
+        "NUM": "140614",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487030848959",
+        "LON": "-49,202178403254",
+        "NOME": "Rua Doutor Fábio Rogério Bertolli Arns, 544 -Uberaba",
+        "NUM": "140757",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487493649642",
+        "LON": "-49,217853130049",
+        "NOME": "Av. Comendador Franco, 6502 - Uberaba",
+        "NUM": "140808",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495813947483",
+        "LON": "-49,208614519014",
+        "NOME": "Rua Velci Bolívar Grandó, 305 - Uberaba",
+        "NUM": "140077",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49779",
+        "LON": "-49,20932",
+        "NOME": "Rua Velcy Bolívar Grandó, 386 - Uberaba",
+        "NUM": "140643",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459524016899",
+        "LON": "-49,23869858796",
+        "NOME": "Av. Comendador Franco, 2801 - Uberaba",
+        "NUM": "140536",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440299334828",
+        "LON": "-49,268672944254",
+        "NOME": "Av. Silva Jardim, 813 - Rebouças",
+        "NUM": "110428",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439504875451",
+        "LON": "-49,266567410177",
+        "NOME": "Av. Silva Jardim, 589 - Água Verde",
+        "NUM": "110429",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47117261593",
+        "LON": "-49,230196655935",
+        "NOME": "Av. Comendador Franco, 4562 - Uberaba",
+        "NUM": "140607",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472981465112",
+        "LON": "-49,228870303577",
+        "NOME": "Av. Comendador Franco, 4772 - Uberaba",
+        "NUM": "140608",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475318157719",
+        "LON": "-49,22717514748",
+        "NOME": "Av. Comendador Franco, 5050 - Uberaba",
+        "NUM": "140609",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437577611875",
+        "LON": "-49,261461457672",
+        "NOME": "Av. Silva Jardim, 3474 - Água Verde",
+        "NUM": "140215",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492356479998",
+        "LON": "-49,214716286606",
+        "NOME": "Av. Comendador Franco, 7399 - Jardim Botanico",
+        "NUM": "140616",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484645959354",
+        "LON": "-49,201293274279",
+        "NOME": "Rua Doutor Fábio Rogério Bertolli Arns, 867 - Uberaba",
+        "NUM": "140759",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48364755261",
+        "LON": "-49,220643968529",
+        "NOME": "Av. Comendador Franco, 6287 - Uberaba",
+        "NUM": "140620",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484599955942",
+        "LON": "-49,201376422758",
+        "NOME": "Rua Doutor Fábio Rogério Bertolli Arns, 849 - Uberaba",
+        "NUM": "140760",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483261006821",
+        "LON": "-49,202540501471",
+        "NOME": "Rua Eunice Betini Bartoszeck, 1174 - Uberaba",
+        "NUM": "140762",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467945919827",
+        "LON": "-49,232540906614",
+        "NOME": "Avenida Comendador Franco, 4121 - Uberaba",
+        "NUM": "140606",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492545736973",
+        "LON": "-49,205185860119",
+        "NOME": "Rua Aviador Armin Buhrer, 840 - Uberaba",
+        "NUM": "140080",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489940895063",
+        "LON": "-49,205007201223",
+        "NOME": "Rua Eunice Betini Bartoszeck, 481 - Uberaba",
+        "NUM": "140082",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487680996658",
+        "LON": "-49,204186705523",
+        "NOME": "Rua Eunice Betini Bartoszeck, 720 - Uberaba",
+        "NUM": "140084",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49356",
+        "LON": "-49,20784",
+        "NOME": "Rua Velci Bolívar Grandó, 9 - Uberaba",
+        "NUM": "140078",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487952105826",
+        "LON": "-49,204179271164",
+        "NOME": "Rua Eunice Betini Bartoszeck, 661 - Uberaba",
+        "NUM": "140083",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464527222606",
+        "LON": "-49,235022620505",
+        "NOME": "Av. Comendador Franco, 3661 - Uberaba",
+        "NUM": "140989",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435384701039",
+        "LON": "-49,271721453481",
+        "NOME": "Praça Rui Barbosa - 474 - Jd Itiberê",
+        "NUM": "102021",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450178168957",
+        "LON": "-49,245062128848",
+        "NOME": "Av. Comendador Franco - Pista Lateral  - Jardim Botânico",
+        "NUM": "140601",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467792150159",
+        "LON": "-49,23221233601",
+        "NOME": "Av. Comendador Franco, 4051 - Uberaba",
+        "NUM": "140626",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479053139434",
+        "LON": "-49,223994047588",
+        "NOME": "Av. Comendador Franco, 5627 - Uberaba",
+        "NUM": "140622",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49366021515",
+        "LON": "-49,212649747248",
+        "NOME": "Rua Aviador Armin Buhrer, 145 - Uberaba",
+        "NUM": "140765",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50093",
+        "LON": "-49,20928",
+        "NOME": "Av. Comendador Franco, 8001 -  Uberaba",
+        "NUM": "140807",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48152881186",
+        "LON": "-49,222625774136",
+        "NOME": "Av. Comendador Franco, 5930 - Uberaba",
+        "NUM": "140612",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495986563928",
+        "LON": "-49,212234914303",
+        "NOME": "Av. Comendador Franco, 7870 - Jardim Botanico",
+        "NUM": "140617",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476492540487",
+        "LON": "-49,225885004944",
+        "NOME": "Av. Comendador Franco, 5361 - Uberaba",
+        "NUM": "140993",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45835310111",
+        "LON": "-49,239111648149",
+        "NOME": "Av. Comendador Franco, 2857 - Jardim das Américas",
+        "NUM": "140280",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460248114239",
+        "LON": "-49,237737016028",
+        "NOME": "Av. Comendador Franco, 3057 - Uberaba",
+        "NUM": "140600",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470018764188",
+        "LON": "-49,230596305079",
+        "NOME": "Av. Comendador Franco, 4325 - Uberaba",
+        "NUM": "140625",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461210745262",
+        "LON": "-49,237478182858",
+        "NOME": "Av. Comendador Franco, 3234 - Uberaba",
+        "NUM": "140537",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484359398546",
+        "LON": "-49,220563502258",
+        "NOME": "Av. Comendador Franco, 6144 - Uberaba",
+        "NUM": "140613",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481661148871",
+        "LON": "-49,201556130762",
+        "NOME": "Rua Delourdes Loiola de Paula, 77 - Uberaba",
+        "NUM": "140761",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474791497805",
+        "LON": "-49,227128208822",
+        "NOME": "Av. Comendador Franco, 5047 - Uberaba",
+        "NUM": "140623",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480997336538",
+        "LON": "-49,222565771288",
+        "NOME": "Av. Comendador Franco, 5935 - Uberaba",
+        "NUM": "140621",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489470522263",
+        "LON": "-49,216394008345",
+        "NOME": "Av. Comendador Franco, 6900 - Uberaba",
+        "NUM": "140619",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481661148871",
+        "LON": "-49,201556130762",
+        "NOME": "Rua Delourdes Loiola de Paula, 77 - Uberaba",
+        "NUM": "140761",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489795737333",
+        "LON": "-49,20485524785",
+        "NOME": "Rua Eunice Betini Bartoszeck, 479 - Uberaba",
+        "NUM": "140081",
+        "SENTIDO": "Jd. Itiberê",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462626222678",
+        "LON": "-49,236005650109",
+        "NOME": "Av. Comendador Franco, 3733 - Uberaba",
+        "NUM": "140549",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    }
+]

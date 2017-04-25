@@ -1,0 +1,1062 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,399041075309",
+        "LON": "-49,339095683044",
+        "NOME": "Av. Manoel Ribas, 6780 - Santa Felicidade",
+        "NUM": "190304",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975489925",
+        "LON": "-49,344752461857",
+        "NOME": "Av. Manoel Ribas, 7406 - Butiatuvinha",
+        "NUM": "190482",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386737902761",
+        "LON": "-49,361274869389",
+        "NOME": "Rua Prof. Iolanda Romeu, 472 - Passaúna - Campo Magro - PR",
+        "NUM": "660094",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386283551849",
+        "LON": "-49,362809092945",
+        "NOME": "Rua Prof. Iolanda Romeu, 200 - Passaúna - Campo Magro - PR",
+        "NUM": "660096",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38285",
+        "LON": "-49,36486",
+        "NOME": "Rua Grande do Sul, 1 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660105",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400823692329",
+        "LON": "-49,330437723925",
+        "NOME": "Terminal Santa Felicidade - 911 - Passaúna",
+        "NUM": "106009",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399170703242",
+        "LON": "-49,339127869553",
+        "NOME": "Av. Manoel Ribas, 7140 - Santa Felicidade",
+        "NUM": "190305",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975489925",
+        "LON": "-49,344752461857",
+        "NOME": "Av. Manoel Ribas, 7406 - Butiatuvinha",
+        "NUM": "190482",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39153937868",
+        "LON": "-49,352250577158",
+        "NOME": "Av. Manoel Ribas, 8320 - Butiatuvinha",
+        "NUM": "190489",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388034307963",
+        "LON": "-49,36083498711",
+        "NOME": "Rua João Budel, 963 - Butiatuvinha",
+        "NUM": "190093",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400823692329",
+        "LON": "-49,330437723925",
+        "NOME": "Terminal Santa Felicidade - 911 - Passaúna",
+        "NUM": "106009",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400934598472",
+        "LON": "-49,333724559492",
+        "NOME": "Av. Manoel Ribas, 6240 - Santa Felicidade",
+        "NUM": "190301",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400823692329",
+        "LON": "-49,330437723925",
+        "NOME": "Terminal Santa Felicidade - 911 - Passaúna",
+        "NUM": "106009",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39403272687",
+        "LON": "-49,34911507482",
+        "NOME": "Av. Manoel Ribas, 7931 - Butiatuvinha",
+        "NUM": "190485",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392887828484",
+        "LON": "-49,350819618649",
+        "NOME": "Av. Manoel Ribas, 8150 - Butiatuvinha",
+        "NUM": "190488",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39153937868",
+        "LON": "-49,352250577158",
+        "NOME": "Av. Manoel Ribas, 8320 - Butiatuvinha",
+        "NUM": "190489",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389205907044",
+        "LON": "-49,358080358452",
+        "NOME": "Rua João Budel, 501 - Butiatuvinha",
+        "NUM": "190426",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389198637591",
+        "LON": "-49,358199716753",
+        "NOME": "Rua João Budel, 432 - Butiatuvinha",
+        "NUM": "190821",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388034307963",
+        "LON": "-49,36083498711",
+        "NOME": "Rua João Budel, 963 - Butiatuvinha",
+        "NUM": "190093",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38673184476",
+        "LON": "-49,361150146669",
+        "NOME": "Rua Prof. Iolanda Romeu, 471 - Passaúna - Campo Magro - PR",
+        "NUM": "660095",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38247",
+        "LON": "-49,36761",
+        "NOME": "Rua Úrsula Cumim, 421 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660100",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "19",
+        "TIPO": "Outros"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38146",
+        "LON": "-49,36393",
+        "NOME": "Rua Amazonas, 197 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660104",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975489925",
+        "LON": "-49,344752461857",
+        "NOME": "Av. Manoel Ribas, 7406 - Butiatuvinha",
+        "NUM": "190482",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398297226347",
+        "LON": "-49,342697889751",
+        "NOME": "Praça Veneto, 181 - Butiatuvinha",
+        "NUM": "190307",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396756208697",
+        "LON": "-49,344871820158",
+        "NOME": "Av. Manoel Ribas, 7405 - Butiatuvinha",
+        "NUM": "190481",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381122005465",
+        "LON": "-49,366840453094",
+        "NOME": "Rua Minas Gerais, 2 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660101",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399979966068",
+        "LON": "-49,336693764872",
+        "NOME": "Av. Manoel Ribas, 6504 - Santa Felicidade",
+        "NUM": "190302",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390144874314",
+        "LON": "-49,360668690151",
+        "NOME": "Rua João Budel, 743 - Butiatuvinha",
+        "NUM": "190092",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379920036234",
+        "LON": "-49,362755448765",
+        "NOME": "Rua Paraíba, 113 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660103",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401104202424",
+        "LON": "-49,333695055193",
+        "NOME": "Av. Manoel Ribas, 6241 - Santa Felicidade",
+        "NUM": "190300",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386283551849",
+        "LON": "-49,362809092945",
+        "NOME": "Rua Prof. Iolanda Romeu, 200 - Passaúna - Campo Magro - PR",
+        "NUM": "660096",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392887828484",
+        "LON": "-49,350819618649",
+        "NOME": "Av. Manoel Ribas, 8150 - Butiatuvinha",
+        "NUM": "190488",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389914676562",
+        "LON": "-49,354305149263",
+        "NOME": "Av. Manoel Ribas, 8520 - Butiatuvinha",
+        "NUM": "190491",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389205907044",
+        "LON": "-49,358080358452",
+        "NOME": "Rua João Budel, 501 - Butiatuvinha",
+        "NUM": "190426",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390144874314",
+        "LON": "-49,360668690151",
+        "NOME": "Rua João Budel, 743 - Butiatuvinha",
+        "NUM": "190092",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395058885824",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8178 - Butiatuvinha",
+        "NUM": "190483",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392744866864",
+        "LON": "-49,350799502081",
+        "NOME": "Av. Manoel Ribas, 8151 - Butiatuvinha",
+        "NUM": "190487",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385011360201",
+        "LON": "-49,361746938175",
+        "NOME": "Rua Prof. Iolanda Romeu, 1 - Passaúna - Campo Magro - PR",
+        "NUM": "660098",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400934598472",
+        "LON": "-49,333724559492",
+        "NOME": "Av. Manoel Ribas, 6240 - Santa Felicidade",
+        "NUM": "190301",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399170703242",
+        "LON": "-49,339127869553",
+        "NOME": "Av. Manoel Ribas, 7140 - Santa Felicidade",
+        "NUM": "190305",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398297226347",
+        "LON": "-49,342697889751",
+        "NOME": "Praça Veneto, 181 - Butiatuvinha",
+        "NUM": "190307",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395239401668",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8177 - Butiatuvinha",
+        "NUM": "190484",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395058885824",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8178 - Butiatuvinha",
+        "NUM": "190483",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394216878824",
+        "LON": "-49,349068136162",
+        "NOME": "Av. Manoel Ribas, 7930 - Butiatuvinha",
+        "NUM": "190486",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391590263852",
+        "LON": "-49,352021248287",
+        "NOME": "Av. Manoel Ribas, 8321 - Butiatuvinha",
+        "NUM": "190319",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387948285245",
+        "LON": "-49,360762567467",
+        "NOME": "Rua João Budel, 964 - Butiatuvinha",
+        "NUM": "190944",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38493866313",
+        "LON": "-49,361811311192",
+        "NOME": "Rua Prof. Iolanda Romeu, 2 - Passaúna - Campo Magro - PR",
+        "NUM": "660099",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38009088138",
+        "LON": "-49,363824309057",
+        "NOME": "Rua Minas Gerais, 454 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660102",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399979966068",
+        "LON": "-49,336693764872",
+        "NOME": "Av. Manoel Ribas, 6504 - Santa Felicidade",
+        "NUM": "190302",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395239401668",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8177 - Butiatuvinha",
+        "NUM": "190484",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394216878824",
+        "LON": "-49,349068136162",
+        "NOME": "Av. Manoel Ribas, 7930 - Butiatuvinha",
+        "NUM": "190486",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389205907044",
+        "LON": "-49,358080358452",
+        "NOME": "Rua João Budel, 501 - Butiatuvinha",
+        "NUM": "190426",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388034307963",
+        "LON": "-49,36083498711",
+        "NOME": "Rua João Budel, 963 - Butiatuvinha",
+        "NUM": "190093",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386737902761",
+        "LON": "-49,361274869389",
+        "NOME": "Rua Prof. Iolanda Romeu, 472 - Passaúna - Campo Magro - PR",
+        "NUM": "660094",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38146",
+        "LON": "-49,36393",
+        "NOME": "Rua Amazonas, 197 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660104",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400823692329",
+        "LON": "-49,330437723925",
+        "NOME": "Terminal Santa Felicidade - 911 - Passaúna",
+        "NUM": "106009",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399941199111",
+        "LON": "-49,336436272806",
+        "NOME": "Av. Manoel Ribas, 6503 - Santa Felicidade",
+        "NUM": "190303",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391590263852",
+        "LON": "-49,352021248287",
+        "NOME": "Av. Manoel Ribas, 8321 - Butiatuvinha",
+        "NUM": "190319",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400823692329",
+        "LON": "-49,330437723925",
+        "NOME": "Terminal Santa Felicidade - 911 - Passaúna",
+        "NUM": "106009",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "41",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396756208697",
+        "LON": "-49,344871820158",
+        "NOME": "Av. Manoel Ribas, 7405 - Butiatuvinha",
+        "NUM": "190481",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392744866864",
+        "LON": "-49,350799502081",
+        "NOME": "Av. Manoel Ribas, 8151 - Butiatuvinha",
+        "NUM": "190487",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381122005465",
+        "LON": "-49,366840453094",
+        "NOME": "Rua Minas Gerais, 2 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660101",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399170703242",
+        "LON": "-49,339127869553",
+        "NOME": "Av. Manoel Ribas, 7140 - Santa Felicidade",
+        "NUM": "190305",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38009088138",
+        "LON": "-49,363824309057",
+        "NOME": "Rua Minas Gerais, 454 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660102",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379920036234",
+        "LON": "-49,362755448765",
+        "NOME": "Rua Paraíba, 113 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660103",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38247",
+        "LON": "-49,36761",
+        "NOME": "Rua Úrsula Cumim, 421 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660100",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "1",
+        "TIPO": "Outros"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394216878824",
+        "LON": "-49,349068136162",
+        "NOME": "Av. Manoel Ribas, 7930 - Butiatuvinha",
+        "NUM": "190486",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386283551849",
+        "LON": "-49,362809092945",
+        "NOME": "Rua Prof. Iolanda Romeu, 200 - Passaúna - Campo Magro - PR",
+        "NUM": "660096",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38493866313",
+        "LON": "-49,361811311192",
+        "NOME": "Rua Prof. Iolanda Romeu, 2 - Passaúna - Campo Magro - PR",
+        "NUM": "660099",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387948285245",
+        "LON": "-49,360762567467",
+        "NOME": "Rua João Budel, 964 - Butiatuvinha",
+        "NUM": "190944",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38146",
+        "LON": "-49,36393",
+        "NOME": "Rua Amazonas, 197 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660104",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399941199111",
+        "LON": "-49,336436272806",
+        "NOME": "Av. Manoel Ribas, 6503 - Santa Felicidade",
+        "NUM": "190303",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398297226347",
+        "LON": "-49,342697889751",
+        "NOME": "Praça Veneto, 181 - Butiatuvinha",
+        "NUM": "190307",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390144874314",
+        "LON": "-49,360668690151",
+        "NOME": "Rua João Budel, 743 - Butiatuvinha",
+        "NUM": "190092",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399979966068",
+        "LON": "-49,336693764872",
+        "NOME": "Av. Manoel Ribas, 6504 - Santa Felicidade",
+        "NUM": "190302",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399041075309",
+        "LON": "-49,339095683044",
+        "NOME": "Av. Manoel Ribas, 6780 - Santa Felicidade",
+        "NUM": "190304",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389198637591",
+        "LON": "-49,358199716753",
+        "NOME": "Rua João Budel, 432 - Butiatuvinha",
+        "NUM": "190821",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383126068689",
+        "LON": "-49,364860982841",
+        "NOME": "Rodovia Engenheiro Ângelo Lopes, 2 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660001",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38247",
+        "LON": "-49,36761",
+        "NOME": "Rua Úrsula Cumim, 421 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660100",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "19",
+        "TIPO": "Outros"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401104202424",
+        "LON": "-49,333695055193",
+        "NOME": "Av. Manoel Ribas, 6241 - Santa Felicidade",
+        "NUM": "190300",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389914676562",
+        "LON": "-49,354305149263",
+        "NOME": "Av. Manoel Ribas, 8520 - Butiatuvinha",
+        "NUM": "190491",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392887828484",
+        "LON": "-49,350819618649",
+        "NOME": "Av. Manoel Ribas, 8150 - Butiatuvinha",
+        "NUM": "190488",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39153937868",
+        "LON": "-49,352250577158",
+        "NOME": "Av. Manoel Ribas, 8320 - Butiatuvinha",
+        "NUM": "190489",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38493866313",
+        "LON": "-49,361811311192",
+        "NOME": "Rua Prof. Iolanda Romeu, 2 - Passaúna - Campo Magro - PR",
+        "NUM": "660099",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38285",
+        "LON": "-49,36486",
+        "NOME": "Rua Grande do Sul, 1 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660105",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401104202424",
+        "LON": "-49,333695055193",
+        "NOME": "Av. Manoel Ribas, 6241 - Santa Felicidade",
+        "NUM": "190300",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395239401668",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8177 - Butiatuvinha",
+        "NUM": "190484",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381122005465",
+        "LON": "-49,366840453094",
+        "NOME": "Rua Minas Gerais, 2 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660101",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398373549823",
+        "LON": "-49,34240284676",
+        "NOME": "Praça Veneto, 56 - Butiatuvinha",
+        "NUM": "190306",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38983471303",
+        "LON": "-49,354120076841",
+        "NOME": "Av. Manoel Ribas, 8521 - Butiatuvinha",
+        "NUM": "190490",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389654189103",
+        "LON": "-49,360943616575",
+        "NOME": "Rua João Budel, 820 - Butiatuvinha",
+        "NUM": "190822",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38673184476",
+        "LON": "-49,361150146669",
+        "NOME": "Rua Prof. Iolanda Romeu, 471 - Passaúna - Campo Magro - PR",
+        "NUM": "660095",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386192681462",
+        "LON": "-49,362736673302",
+        "NOME": "Rua Prof. Iolanda Romeu, 189 - Passaúna - Campo Magro - PR",
+        "NUM": "660097",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38009088138",
+        "LON": "-49,363824309057",
+        "NOME": "Rua Minas Gerais, 454 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660102",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398373549823",
+        "LON": "-49,34240284676",
+        "NOME": "Praça Veneto, 56 - Butiatuvinha",
+        "NUM": "190306",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38983471303",
+        "LON": "-49,354120076841",
+        "NOME": "Av. Manoel Ribas, 8521 - Butiatuvinha",
+        "NUM": "190490",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389654189103",
+        "LON": "-49,360943616575",
+        "NOME": "Rua João Budel, 820 - Butiatuvinha",
+        "NUM": "190822",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386192681462",
+        "LON": "-49,362736673302",
+        "NOME": "Rua Prof. Iolanda Romeu, 189 - Passaúna - Campo Magro - PR",
+        "NUM": "660097",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385011360201",
+        "LON": "-49,361746938175",
+        "NOME": "Rua Prof. Iolanda Romeu, 1 - Passaúna - Campo Magro - PR",
+        "NUM": "660098",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383126068689",
+        "LON": "-49,364860982841",
+        "NOME": "Rodovia Engenheiro Ângelo Lopes, 2 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660001",
+        "SENTIDO": "Passaúna Circular",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389914676562",
+        "LON": "-49,354305149263",
+        "NOME": "Av. Manoel Ribas, 8520 - Butiatuvinha",
+        "NUM": "190491",
+        "SENTIDO": "Atendimento Rua Úrsula E. Cumim - 1º horário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386737902761",
+        "LON": "-49,361274869389",
+        "NOME": "Rua Prof. Iolanda Romeu, 472 - Passaúna - Campo Magro - PR",
+        "NUM": "660094",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38146",
+        "LON": "-49,36393",
+        "NOME": "Rua Amazonas, 197 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660104",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38285",
+        "LON": "-49,36486",
+        "NOME": "Rua Grande do Sul, 1 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660105",
+        "SENTIDO": "Sta.Felicidade - Desativar",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39403272687",
+        "LON": "-49,34911507482",
+        "NOME": "Av. Manoel Ribas, 7931 - Butiatuvinha",
+        "NUM": "190485",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379920036234",
+        "LON": "-49,362755448765",
+        "NOME": "Rua Paraíba, 113 - Jd. Cecília - Campo Magro - PR",
+        "NUM": "660103",
+        "SENTIDO": "Passaúna - Desativar",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,491107647775",
+        "LON": "-49,249568263707",
+        "NOME": "Rua Professor João Soares Barcelos, 2032 - Hauer",
+        "NUM": "150372",
+        "SENTIDO": "São Francisco",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503228186979",
+        "LON": "-49,259244661763",
+        "NOME": "R. Cel. Luíz José dos Santos, 3250 - Boqueirão",
+        "NUM": "150383",
+        "SENTIDO": "São Francisco",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50938",
+        "LON": "-49,2633",
+        "NOME": "Rua Francisco Derosso, 2180 - Xaxim",
+        "NUM": "150086",
+        "SENTIDO": "São Francisco",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503963024005",
+        "LON": "-49,260833659796",
+        "NOME": "Rua Cel. Luíz José dos Santos, 3451 - Boqueirão",
+        "NUM": "150386",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50331586781",
+        "LON": "-49,259087799867",
+        "NOME": "Rua Cel. Luíz José dos Santos, 3049 - Boqueirão",
+        "NUM": "150384",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510634841416",
+        "LON": "-49,261160495701",
+        "NOME": "Rua Francisco Derosso, 2473 - Xaxim",
+        "NUM": "150089",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51072",
+        "LON": "-49,26129",
+        "NOME": "Rua Francisco Derosso, 2470 - Xaxim",
+        "NUM": "150088",
+        "SENTIDO": "São Francisco",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500513873644",
+        "LON": "-49,252124077642",
+        "NOME": "Rua Cel. Luíz José dos Santos, 2493 - Boqueirão",
+        "NUM": "150379",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490886412654",
+        "LON": "-49,249487653449",
+        "NOME": "Rua Professor João Soares Barcelos, 2031 - Hauer",
+        "NUM": "150373",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482138151729",
+        "LON": "-49,246631891674",
+        "NOME": "Terminal Hauer - 511 - São Francisco",
+        "NUM": "105506",
+        "SENTIDO": "São Francisco",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48184",
+        "LON": "-49,24937",
+        "NOME": "Rua Alcino Guanabara, 907 - Hauer",
+        "NUM": "150202",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505207561753",
+        "LON": "-49,2641365298",
+        "NOME": "R. Cel. Luíz José dos Santos, 3784 - Xaxim",
+        "NUM": "150388",
+        "SENTIDO": "São Francisco",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500728060939",
+        "LON": "-49,2530628833",
+        "NOME": "R. Cel. Luíz José dos Santos, 2586 - Boqueirão",
+        "NUM": "150378",
+        "SENTIDO": "São Francisco",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487270511793",
+        "LON": "-49,251245663255",
+        "NOME": "Rua Prof. João Soares Barcelos, 1531 - Hauer",
+        "NUM": "150371",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507075532468",
+        "LON": "-49,264079883432",
+        "NOME": "Rua Francisco Derosso, 1935 - Xaxim",
+        "NUM": "150085",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49875",
+        "LON": "-49,24784",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1969 - Boqueirão",
+        "NUM": "150038",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484878487542",
+        "LON": "-49,252418428659",
+        "NOME": "Rua Prof. João Soares Barcelos, 1244 - Hauer",
+        "NUM": "150298",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "São Francisco",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "São Francisco",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493728706564",
+        "LON": "-49,248275040008",
+        "NOME": "Rua Prof. João Soares Barcelos, 2240 - Boqueirão",
+        "NUM": "150374",
+        "SENTIDO": "São Francisco",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482138151729",
+        "LON": "-49,246631891674",
+        "NOME": "Terminal Hauer - 511 - São Francisco",
+        "NUM": "105506",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505062225415",
+        "LON": "-49,263559917023",
+        "NOME": "Rua Cel. Luíz José dos Santos, 3707 - Boqueirão",
+        "NUM": "150387",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496487529898",
+        "LON": "-49,246730581199",
+        "NOME": "Rua Prof. João Soares Barcelos, 2661 - Boqueirão",
+        "NUM": "150377",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501264235119",
+        "LON": "-49,25401031971",
+        "NOME": "Rua Cel. Luíz José dos Santos, 2701 - Boqueirão",
+        "NUM": "150380",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495890867426",
+        "LON": "-49,247234739996",
+        "NOME": "Rua Prof. João Soares Barcelos, 2614 - Boqueirão",
+        "NUM": "150376",
+        "SENTIDO": "São Francisco",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50725",
+        "LON": "-49,26422",
+        "NOME": "Rua Francisco Derosso, 1932 - Xaxim",
+        "NUM": "150084",
+        "SENTIDO": "São Francisco",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493924834103",
+        "LON": "-49,248008623595",
+        "NOME": "Rua Prof. João Soares Barcelos, 2337 - Boqueirão",
+        "NUM": "150375",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50932",
+        "LON": "-49,26318",
+        "NOME": "Rua Francisco Derosso, 2183 - Xaxim",
+        "NUM": "150087",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499836739647",
+        "LON": "-49,25046475215",
+        "NOME": "R. Cel. Luíz José dos Santos, 2232 - Boqueirão",
+        "NUM": "150040",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511903313754",
+        "LON": "-49,258894722719",
+        "NOME": "R. Waldemar Loureiro Campos, 4126 - Xaxim",
+        "NUM": "150316",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487278553483",
+        "LON": "-49,251438559442",
+        "NOME": "Rua Professor João Soares Barcelos, 1530 -Hauer",
+        "NUM": "150370",
+        "SENTIDO": "São Francisco",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49881131927",
+        "LON": "-49,248330233135",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1970 - Boqueirão",
+        "NUM": "150037",
+        "SENTIDO": "São Francisco",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51135137466",
+        "LON": "-49,258747017325",
+        "NOME": "Rua Gen. Teodorico Gonçalves Guimarães, 960  - Xaxim",
+        "NUM": "150389",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502298891389",
+        "LON": "-49,256580671441",
+        "NOME": "R. Cel. Luíz José dos Santos, 2953 - Boqueirão",
+        "NUM": "150382",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501739119862",
+        "LON": "-49,255566327555",
+        "NOME": "R. Cel. Luíz José dos Santos, 2857 - Boqueirão",
+        "NUM": "150381",
+        "SENTIDO": "São Francisco",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503937686366",
+        "LON": "-49,261007948635",
+        "NOME": "R. Cel. Luíz José dos Santos, 3450 - Boqueirão",
+        "NUM": "150385",
+        "SENTIDO": "São Francisco",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51135137466",
+        "LON": "-49,258747017325",
+        "NOME": "Rua Gen. Teodorico Gonçalves Guimarães, 960  - Xaxim",
+        "NUM": "150389",
+        "SENTIDO": "São Francisco",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499659857966",
+        "LON": "-49,250398216286",
+        "NOME": "R. Cel. Luíz José dos Santos, 2231 - Boqueirão",
+        "NUM": "150039",
+        "SENTIDO": "São Francisco",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48322",
+        "LON": "-49,25275",
+        "NOME": "Rua Alcíno Guanabara, 1237 - Hauer",
+        "NUM": "150203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407830018361",
+        "LON": "-49,208572686857",
+        "NOME": "Rua José de Oliveira Franco, 962 - Bairro Alto",
+        "NUM": "130294",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41415451142",
+        "LON": "-49,231391580051",
+        "NOME": "Rua Fagundes Varela, 994 - Jardim Social",
+        "NUM": "130277",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418883431041",
+        "LON": "-49,25941261763",
+        "NOME": "Rua Barão de Guaraúna, 84 - Alto da Glória",
+        "NUM": "110415",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409082105456",
+        "LON": "-49,222138787003",
+        "NOME": "Rua Mercedes Seiler Rocha, 423 - Bacacheri",
+        "NUM": "130639",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410161918506",
+        "LON": "-49,207336188501",
+        "NOME": "Rua José de Oliveira Franco, 1324 - Bairro Alto",
+        "NUM": "130297",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409861499614",
+        "LON": "-49,219445021099",
+        "NOME": "Rua José Fernandes Maldonado, 18 - Bairro Alto",
+        "NUM": "130286",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412354469206",
+        "LON": "-49,226967276281",
+        "NOME": "Rua Fagundes Varela, 1522 - Jardim Social",
+        "NUM": "130280",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416110785241",
+        "LON": "-49,236125678963",
+        "NOME": "Rua Fagundes Varela, 463 - Jardim Social",
+        "NUM": "130273",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417559497597",
+        "LON": "-49,239737273401",
+        "NOME": "Rua Fagundes Varela, 100 - Jardim Social",
+        "NUM": "130269",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416552910841",
+        "LON": "-49,237591506189",
+        "NOME": "Rua Fagundes Varela, 360 -  Jardim Social",
+        "NUM": "130272",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409546543522",
+        "LON": "-49,214941592163",
+        "NOME": "Av. da Integração, 363 -  Bairro Alto",
+        "NUM": "130291",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409639819066",
+        "LON": "-49,216663570351",
+        "NOME": "Rua Alberto Breovicz, 123 - Bairro Alto",
+        "NUM": "130289",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415926666705",
+        "LON": "-49,256963760799",
+        "NOME": "Rua Machado de Assis, 193 - Juveve",
+        "NUM": "130300",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417286956887",
+        "LON": "-49,249937714285",
+        "NOME": "Rua Augusto Stresser, 893 - Alto da Glória",
+        "NUM": "130106",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411953032013",
+        "LON": "-49,220856691094",
+        "NOME": "Rodovia BR476 - Bairro Alto",
+        "NUM": "130285",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192715625",
+        "LON": "-49,228938699907",
+        "NOME": "Rua Fagundes Varela, 1300 - Jardim Social",
+        "NUM": "130278",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42845547217",
+        "LON": "-49,266673357433",
+        "NOME": "Praça Santos Andrade - 374 - Hugo Lange",
+        "NUM": "103403",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417446847512",
+        "LON": "-49,246457548088",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130118",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410559245568",
+        "LON": "-49,223061979956",
+        "NOME": "Rua Fagundes Varela, 1883 - Jardim Social",
+        "NUM": "130284",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420438701163",
+        "LON": "-49,260594130701",
+        "NOME": "Rua Amâncio Môro, 87 - Alto da Glória",
+        "NUM": "110422",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422142934402",
+        "LON": "-49,261027307457",
+        "NOME": "Rua Ubaldino do Amaral, 106 - Alto da Glória",
+        "NUM": "110041",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41308",
+        "LON": "-49,20553",
+        "NOME": "Terminal Bairro Alto - 374 - Hugo Lange",
+        "NUM": "104002",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425569496752",
+        "LON": "-49,263081879562",
+        "NOME": "Rua Doutor Faivre, 213-297 - Centro",
+        "NUM": "110045",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424159639838",
+        "LON": "-49,263875813431",
+        "NOME": "Rua Doutor Faivre, 75 - Centro",
+        "NUM": "110188",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42089897975",
+        "LON": "-49,260914654678",
+        "NOME": "Rua Amâncio Môro, 66 - Alto da Glória",
+        "NUM": "110047",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414106675422",
+        "LON": "-49,231597930059",
+        "NOME": "Rua Fagundes Varela, 991 - Jardim Social",
+        "NUM": "130068",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411420520162",
+        "LON": "-49,225115210957",
+        "NOME": "Rua Fagundes Varela, 1775 - Jardim Social",
+        "NUM": "130283",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416176648704",
+        "LON": "-49,255896588955",
+        "NOME": "Rua Rocha Pombo, 2 - Juvevê",
+        "NUM": "130235",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41708345942",
+        "LON": "-49,256172509141",
+        "NOME": "Rua Augusto Stresser, 517 - Juvevê",
+        "NUM": "130238",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416976865373",
+        "LON": "-49,252921671814",
+        "NOME": "Rua Augusto Stresser, 1161 - Alto da Glória",
+        "NUM": "130301",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411493201281",
+        "LON": "-49,224880517668",
+        "NOME": "Rua Fagundes Varela, 1780 - Jardim Social",
+        "NUM": "130282",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40974520823",
+        "LON": "-49,219443679995",
+        "NOME": "Rua José Fernandes Maldonado, 17 - Bairro Alto",
+        "NUM": "130287",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415862467412",
+        "LON": "-49,235920489973",
+        "NOME": "Rua Fagundes Varela, 465 - Jardim Social",
+        "NUM": "130274",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407452595858",
+        "LON": "-49,208607398005",
+        "NOME": "Rua José de Oliveira Franco, 961 - Bairro Alto",
+        "NUM": "130298",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415196246322",
+        "LON": "-49,233915538734",
+        "NOME": "Rua Fagundes Varela, 731- Jardim Social",
+        "NUM": "130275",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410668268008",
+        "LON": "-49,222931892818",
+        "NOME": "Rua Fagundes Varela, 1882 - Jardim Social",
+        "NUM": "130661",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417646710495",
+        "LON": "-49,244026125616",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130120",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415035141396",
+        "LON": "-49,233900786585",
+        "NOME": "Rua Fagundes Varela, 730 -  Jardim Social",
+        "NUM": "130276",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412326608314",
+        "LON": "-49,227287800259",
+        "NOME": "Rua Fagundes Varela, 1529 - Jardim Social",
+        "NUM": "130281",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413059468751",
+        "LON": "-49,229029895014",
+        "NOME": "Rua Fagundes Varela, 1295 - Jardim Social",
+        "NUM": "130279",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42845547217",
+        "LON": "-49,266673357433",
+        "NOME": "Praça Santos Andrade - 374 - Hugo Lange",
+        "NUM": "103403",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416735817122",
+        "LON": "-49,237658561415",
+        "NOME": "Rua Fagundes Varela, 359- Jardim Social",
+        "NUM": "130271",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41308",
+        "LON": "-49,20553",
+        "NOME": "Terminal Bairro Alto - 374 - Hugo Lange",
+        "NUM": "104002",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41741535392",
+        "LON": "-49,239794940895",
+        "NOME": "Rua Fagundes Varela, 101 - Jardim Social",
+        "NUM": "130270",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417147658063",
+        "LON": "-49,258817167229",
+        "NOME": "Rua Barão de Guaraúna, 331 - Alto da Glória",
+        "NUM": "110189",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422221665277",
+        "LON": "-49,262660772747",
+        "NOME": "Rua Agostinho Leão Júnior, 177 - Centro",
+        "NUM": "110046",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410268518578",
+        "LON": "-49,207436771339",
+        "NOME": "Rua José de Oliveira Franco, 1327 - Bairro Alto",
+        "NUM": "130296",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408410272013",
+        "LON": "-49,211665273851",
+        "NOME": "Av. da Integração, 727- Bairro Alto",
+        "NUM": "130292",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409671314688",
+        "LON": "-49,214934886641",
+        "NOME": "Av. da Integração, 364 - Bairro Alto",
+        "NUM": "130290",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409409658502",
+        "LON": "-49,216878147072",
+        "NOME": "Rua Alberto Breovicz, 42 -  Bairro Alto",
+        "NUM": "130288",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418927037019",
+        "LON": "-49,259565503544",
+        "NOME": "Rua Barão de Guaraúna, 91 - Alto da Glória",
+        "NUM": "110416",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417823558677",
+        "LON": "-49,241844148582",
+        "NOME": "R. Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130123",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41716",
+        "LON": "-49,25002",
+        "NOME": "Rua Augusto Stresser, 894 - Alto da Glória",
+        "NUM": "130105",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408344857336",
+        "LON": "-49,211853028482",
+        "NOME": "Av. da Integração, 728 - Bairro Alto",
+        "NUM": "130293",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424564188097",
+        "LON": "-49,259939671701",
+        "NOME": "Rua Ubaldino do Amaral, 410 - Alto da Glória",
+        "NUM": "110042",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416890336817",
+        "LON": "-49,252919504299",
+        "NOME": "Rua Augusto Stresser, 908 - Juvevê",
+        "NUM": "130234",
+        "SENTIDO": "Praça Santos Andrade",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    }
+]

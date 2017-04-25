@@ -1,0 +1,172 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,462957120914",
+        "LON": "-49,256451129913",
+        "NOME": "Av. Mal. Floriano Peixoto, 3864 - Parolin",
+        "NUM": "150491",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496078562017",
+        "LON": "-49,240242540836",
+        "NOME": "Av. Mal. Floriano Peixoto, 7915 - Boqueirão",
+        "NUM": "150627",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466633157435",
+        "LON": "-49,254556149244",
+        "NOME": "Av. Mal. Floriano Peixoto, 4294 - Parolin",
+        "NUM": "150154",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459061804195",
+        "LON": "-49,258319288492",
+        "NOME": "Av. Mal. Floriano Peixoto, 3230 - Parolin",
+        "NUM": "150368",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448400802551",
+        "LON": "-49,263473153114",
+        "NOME": "Av. Mal. Floriano Peixoto, 2170 - Rebouças",
+        "NUM": "150502",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452399394285",
+        "LON": "-49,261556714773",
+        "NOME": "Av. Mal. Floriano Peixoto, 2590 - Parolin",
+        "NUM": "150701",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455337099944",
+        "LON": "-49,260129779577",
+        "NOME": "Av. Mal. Floriano Peixoto, 2952 - Parolin",
+        "NUM": "150367",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473266932482",
+        "LON": "-49,251375049352",
+        "NOME": "Av. Mal. Floriano Peixoto, 4890 - Hauer",
+        "NUM": "150147",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48684329724",
+        "LON": "-49,2447540164",
+        "NOME": "Av. Mal. Floriano Peixoto, 6794 - Boqueirão",
+        "NUM": "150166",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490619079802",
+        "LON": "-49,242912679911",
+        "NOME": "Av. Mal. Floriano Peixoto, 7240 - Boqueirão",
+        "NUM": "150175",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51241073764",
+        "LON": "-49,232257604599",
+        "NOME": "Av. Mal. Floriano Peixoto, 9853 - Boqueirão",
+        "NUM": "150276",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515987227551",
+        "LON": "-49,230221807957",
+        "NOME": "Av. Mal. Floriano Peixoto, 10222 - Boqueirão",
+        "NUM": "150278",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444623694634",
+        "LON": "-49,265327900648",
+        "NOME": "Av. Mal. Floriano Peixoto, 1666 - Rebouças",
+        "NUM": "110056",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688332995",
+        "LON": "-49,249619543552",
+        "NOME": "Av. Mal. Floriano Peixoto, 5580 - Hauer",
+        "NUM": "150144",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480885817822",
+        "LON": "-49,247654825449",
+        "NOME": "Av. Mal. Floriano Peixoto, 5952 - Hauer",
+        "NUM": "150157",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500139723242",
+        "LON": "-49,238275140524",
+        "NOME": "Av. Mal. Floriano Peixoto, 8334 - Boqueirão",
+        "NUM": "150294",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507173499097",
+        "LON": "-49,234807044268",
+        "NOME": "Av. Mal. Floriano Peixoto, 9172 - Boqueirão",
+        "NUM": "150293",
+        "SENTIDO": "Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435434356602",
+        "LON": "-49,273730428033",
+        "NOME": "Praça Rui Barbosa - 561 - Guilhermina",
+        "NUM": "102006",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450001590139",
+        "LON": "-49,264899030118",
+        "NOME": "Rua Des. Westphalen, 2046 - Rebouças",
+        "NUM": "150033",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469234671791",
+        "LON": "-49,261746139473",
+        "NOME": "Rua Anselmo Camati, 107 - Guaíra",
+        "NUM": "150814",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471794214528",
+        "LON": "-49,263193191236",
+        "NOME": "Rua General Zenon Silva, 66 - Guaíra",
+        "NUM": "150495",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473387544752",
+        "LON": "-49,26276269669",
+        "NOME": "Rua Maestro Francisco Antonelo, 231 - Fanny",
+        "NUM": "150292",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486908208621",
+        "LON": "-49,273665876335",
+        "NOME": "Rua Maestro Francisco Antonelo, 2027 - Fanny",
+        "NUM": "150284",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463078954354",
+        "LON": "-49,26065045709",
+        "NOME": "Rua Alferes Poli, 3165 - Centro",
+        "NUM": "150618",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475599526716",
+        "LON": "-49,264524908012",
+        "NOME": "Rua Maestro Francisco Antonelo, 484 - Fanny",
+        "NUM": "150290",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480287292701",
+        "LON": "-49,268334985918",
+        "NOME": "Rua Maestro Francisco Antonelo, 1071 - Fanny",
+        "NUM": "150164",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458786474846",
+        "LON": "-49,262840480751",
+        "NOME": "Rua Alferes Poli, 2503 - Centro",
+        "NUM": "150498",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463037786025",
+        "LON": "-49,260549874252",
+        "NOME": "Rua Alferes Poli, 3164 -Centro",
+        "NUM": "150617",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464581588711",
+        "LON": "-49,258725972122",
+        "NOME": "Rua Doutor Pamfilo D'assunção, 1851 - Rebouças",
+        "NUM": "150621",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471113773761",
+        "LON": "-49,262206138319",
+        "NOME": "Rua Antônio Melilo, 73 - Parolin",
+        "NUM": "150494",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474009857967",
+        "LON": "-49,263063104099",
+        "NOME": "Rua Maestro Francisco Antonelo, 230 - Fanny",
+        "NUM": "150291",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477781200873",
+        "LON": "-49,26611009354",
+        "NOME": "Rua Maestro Francisco Antonelo, 738 - Fanny",
+        "NUM": "150287",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487030478461",
+        "LON": "-49,273606867737",
+        "NOME": "Rua Maestro Francisco Antonelo, 2026 - Fanny",
+        "NUM": "150283",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45751383725",
+        "LON": "-49,264487357086",
+        "NOME": "Rua 24 de Maio, 2604 - Centro",
+        "NUM": "150614",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466032139772",
+        "LON": "-49,258129180616",
+        "NOME": "Rua Doutor Pamfilo D'assunção, 1967 - Rebouças",
+        "NUM": "150622",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464462928501",
+        "LON": "-49,259868593163",
+        "NOME": "Rua Alferes Poli, 3273 - Centro",
+        "NUM": "150620",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466847007612",
+        "LON": "-49,259446145243",
+        "NOME": "Rua Prof. Leônidas Ferreira da Costa, 401 - Parolin",
+        "NUM": "150624",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467802321128",
+        "LON": "-49,261818559116",
+        "NOME": "Rua Prof. Leônidas Ferreira da Costa, 704 - Parolin",
+        "NUM": "150625",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462152663552",
+        "LON": "-49,262235642618",
+        "NOME": "Rua 24 de Maio, 3156 - Centro",
+        "NUM": "150616",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467745414198",
+        "LON": "-49,261907072014",
+        "NOME": "Rua Prof. Leônidas Ferreira da Costa, 705 - Parolin",
+        "NUM": "150813",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485237578553",
+        "LON": "-49,272334159559",
+        "NOME": "Rua Maestro Francisco Antonelo, 1755 - Fanny",
+        "NUM": "150286",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46150728287",
+        "LON": "-49,261555702633",
+        "NOME": "Rua Alferes Poli, 2919 - Centro",
+        "NUM": "150619",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483005193147",
+        "LON": "-49,270350665993",
+        "NOME": "Rua Maestro Francisco Antonelo, 42 - Fanny",
+        "NUM": "150168",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488543708752",
+        "LON": "-49,2752322864",
+        "NOME": "Rua José Taschner, 66 - Fanny",
+        "NUM": "150629",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44775367633",
+        "LON": "-49,265955544974",
+        "NOME": "Rua Des. Westphalen, 1771 - Rebouças",
+        "NUM": "110062",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460168076639",
+        "LON": "-49,263198555655",
+        "NOME": "Rua 24 de Maio, 2922 - Centro",
+        "NUM": "150615",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477905901363",
+        "LON": "-49,2663957488",
+        "NOME": "Rua Maestro Francisco Antonelo, 739 - Fanny",
+        "NUM": "150288",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482851442735",
+        "LON": "-49,270402969069",
+        "NOME": "Rua Maestro Francisco Antonelo, 41 - Fanny",
+        "NUM": "150167",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435434356602",
+        "LON": "-49,273730428033",
+        "NOME": "Praça Rui Barbosa - 561 - Guilhermina",
+        "NUM": "102006",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472579985643",
+        "LON": "-49,260783226437",
+        "NOME": "Rua Antônio Barrichelo, 249 - Fanny",
+        "NUM": "150493",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464542842533",
+        "LON": "-49,259954423851",
+        "NOME": "Rua Alferes Poli, 3274 - Centro",
+        "NUM": "150810",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485106832612",
+        "LON": "-49,272048504299",
+        "NOME": "Rua Maestro Francisco Antonelo, 1754 - Fanny",
+        "NUM": "150285",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452499441506",
+        "LON": "-49,263757796234",
+        "NOME": "Rua Des. Westphalen, 2328 - Centro",
+        "NUM": "150612",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464651816127",
+        "LON": "-49,258795709557",
+        "NOME": "Rua Doutor Pamfilo D'assunção, 1852 - Rebouças",
+        "NUM": "150811",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45701373906",
+        "LON": "-49,2636880588",
+        "NOME": "Rua Alferes Poli, 2369 - Centro",
+        "NUM": "150499",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454753539646",
+        "LON": "-49,26476244968",
+        "NOME": "Rua Alferes Poli, 2147 - Centro",
+        "NUM": "150611",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4874457",
+        "LON": "-49,2772269",
+        "NOME": "Rua Padre Manuel da Nóbrega, 1357 - Fanny",
+        "NUM": "150628",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466771938294",
+        "LON": "-49,2594930839",
+        "NOME": "Rua Prof. Leônidas Ferreira da Costa, 402 - Parolin",
+        "NUM": "150812",
+        "SENTIDO": "Guilhermina",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4874457",
+        "LON": "-49,2772269",
+        "NOME": "Rua Padre Manuel da Nóbrega, 1357 - Fanny",
+        "NUM": "150628",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469234671791",
+        "LON": "-49,261625440067",
+        "NOME": "Rua Anselmo Camati, 298 - Guaíra",
+        "NUM": "150626",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475813821658",
+        "LON": "-49,264522225803",
+        "NOME": "Rua Maestro Francisco Antonelo, 483 - Fanny",
+        "NUM": "150289",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480422886518",
+        "LON": "-49,268259884066",
+        "NOME": "Rua Maestro Francisco Antonelo, 1070 - Fanny",
+        "NUM": "150165",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    }
+]

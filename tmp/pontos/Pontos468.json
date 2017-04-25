@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,485829590546",
+        "LON": "-49,213262360112",
+        "NOME": "Rua Augusto Zibarth, 1233 - Uberaba",
+        "NUM": "140509",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47117261593",
+        "LON": "-49,230196655935",
+        "NOME": "Av. Comendador Franco, 4562 - Uberaba",
+        "NUM": "140607",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477737131561",
+        "LON": "-49,225415618366",
+        "NOME": "Av. Comendador Franco, 5350 - Uberaba",
+        "NUM": "140610",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437577611875",
+        "LON": "-49,261461457672",
+        "NOME": "Av. Silva Jardim, 3474 - Água Verde",
+        "NUM": "140215",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485728145772",
+        "LON": "-49,213097709498",
+        "NOME": "Rua Augusto Zibarth, 1233 - Uberaba",
+        "NUM": "140508",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479053139434",
+        "LON": "-49,223994047588",
+        "NOME": "Av. Comendador Franco, 5627 - Uberaba",
+        "NUM": "140622",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489853124227",
+        "LON": "-49,214417049782",
+        "NOME": "Rua Augusto Zibarth, 765 - Uberaba",
+        "NUM": "140504",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459524016899",
+        "LON": "-49,23869858796",
+        "NOME": "Av. Comendador Franco, 2801 - Uberaba",
+        "NUM": "140536",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461210745262",
+        "LON": "-49,237478182858",
+        "NOME": "Av. Comendador Franco, 3234 - Uberaba",
+        "NUM": "140537",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462242386564",
+        "LON": "-49,23672582323",
+        "NOME": "Av. Comendador Franco, 3379 - Uberaba",
+        "NUM": "140988",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439504875451",
+        "LON": "-49,266567410177",
+        "NOME": "Av. Silva Jardim, 589 - Água Verde",
+        "NUM": "110429",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484116127246",
+        "LON": "-49,213400492566",
+        "NOME": "Rua Cap Leônidas Marquês, 2291 - Uberaba",
+        "NUM": "140511",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491161736162",
+        "LON": "-49,213647255795",
+        "NOME": "Rua Maurício Thá, 102 - Uberaba",
+        "NUM": "140767",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488281802632",
+        "LON": "-49,213943639891",
+        "NOME": "Rua Augusto Zibarth, 949 - Uberaba",
+        "NUM": "140506",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45835310111",
+        "LON": "-49,239111648149",
+        "NOME": "Av. Comendador Franco, 2857 - Jardim das Américas",
+        "NUM": "140280",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460248114239",
+        "LON": "-49,237737016028",
+        "NOME": "Av. Comendador Franco, 3057 - Uberaba",
+        "NUM": "140600",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467792150159",
+        "LON": "-49,23221233601",
+        "NOME": "Av. Comendador Franco, 4051 - Uberaba",
+        "NUM": "140626",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472798644242",
+        "LON": "-49,22857660169",
+        "NOME": "Av. Comendador Franco, 4751 - Uberaba",
+        "NUM": "140624",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491098787533",
+        "LON": "-49,213476935523",
+        "NOME": "Rua Maurício Thá, 103 - Uberaba",
+        "NUM": "140766",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494820997941",
+        "LON": "-49,20873848759",
+        "NOME": "Rua Amauri Mauad Guérios, 326 - Uberaba",
+        "NUM": "140680",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495249518912",
+        "LON": "-49,211364370215",
+        "NOME": "Rua Amauri Mauad Guérios, 70 - Uberaba",
+        "NUM": "140630",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48234128014",
+        "LON": "-49,214543284124",
+        "NOME": "R. Henrique Mehl, 920 - Uberaba",
+        "NUM": "140312",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462626222678",
+        "LON": "-49,236005650109",
+        "NOME": "Av. Comendador Franco, 3733 - Uberaba",
+        "NUM": "140549",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470018764188",
+        "LON": "-49,230596305079",
+        "NOME": "Av. Comendador Franco, 4325 - Uberaba",
+        "NUM": "140625",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48311245476",
+        "LON": "-49,220466942734",
+        "NOME": "Rua Henrique Mehl, 271 - Uberaba",
+        "NUM": "140317",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464527222606",
+        "LON": "-49,235022620505",
+        "NOME": "Av. Comendador Franco, 3661 - Uberaba",
+        "NUM": "140989",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440299334828",
+        "LON": "-49,268672944254",
+        "NOME": "Av. Silva Jardim, 813 - Rebouças",
+        "NUM": "110428",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450178168957",
+        "LON": "-49,245062128848",
+        "NOME": "Av. Comendador Franco - Pista Lateral  - Jardim Botânico",
+        "NUM": "140601",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474791497805",
+        "LON": "-49,227128208822",
+        "NOME": "Av. Comendador Franco, 5047 - Uberaba",
+        "NUM": "140623",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482202056565",
+        "LON": "-49,214495004362",
+        "NOME": "R. Henrique Mehl, 917 - Uberaba",
+        "NUM": "140313",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49234201685",
+        "LON": "-49,211427727835",
+        "NOME": "Rua Aracacu, 61 - Uberaba",
+        "NUM": "140627",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493370970043",
+        "LON": "-49,210829595225",
+        "NOME": "Rua Aviador Armin Buhrer, 335 - Uberaba",
+        "NUM": "140764",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475318157719",
+        "LON": "-49,22717514748",
+        "NOME": "Av. Comendador Franco, 5050 - Uberaba",
+        "NUM": "140609",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492706388342",
+        "LON": "-49,211632916825",
+        "NOME": "Rua Aracacu, 66 - Uberaba",
+        "NUM": "140628",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493475075405",
+        "LON": "-49,210832277434",
+        "NOME": "Rua Aviador Armin Buhrer, 332 - Uberaba",
+        "NUM": "140768",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "34",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495249518912",
+        "LON": "-49,211364370215",
+        "NOME": "Rua Amauri Mauad Guérios, 70 - Uberaba",
+        "NUM": "140630",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44131086437",
+        "LON": "-49,253258959598",
+        "NOME": "Rua Sérgio Venci, 276 - Rebouças",
+        "NUM": "140532",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482781951957",
+        "LON": "-49,217795462555",
+        "NOME": "Rua Henrique Mehl, 591 - Uberaba",
+        "NUM": "140314",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479204473362",
+        "LON": "-49,224323959297",
+        "NOME": "Av. Comendador Franco, 5620 - Uberaba",
+        "NUM": "140611",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493054845944",
+        "LON": "-49,208139013875",
+        "NOME": "Rua Aviador Armin Buhrer, 390 - Uberaba",
+        "NUM": "140769",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "35",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435289023189",
+        "LON": "-49,27177777987",
+        "NOME": "Praça Rui Barbosa - 468 - Jd Centauro",
+        "NUM": "102020",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476492540487",
+        "LON": "-49,225885004944",
+        "NOME": "Av. Comendador Franco, 5361 - Uberaba",
+        "NUM": "140993",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480997336538",
+        "LON": "-49,222565771288",
+        "NOME": "Av. Comendador Franco, 5935 - Uberaba",
+        "NUM": "140621",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488016251595",
+        "LON": "-49,213993921904",
+        "NOME": "Rua Augusto Zibarth, 949 - Uberaba",
+        "NUM": "140507",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467945919827",
+        "LON": "-49,232540906614",
+        "NOME": "Avenida Comendador Franco, 4121 - Uberaba",
+        "NUM": "140606",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472981465112",
+        "LON": "-49,228870303577",
+        "NOME": "Av. Comendador Franco, 4772 - Uberaba",
+        "NUM": "140608",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483214147747",
+        "LON": "-49,220186651892",
+        "NOME": "Rua Henrique Mehl, 280 - Uberaba",
+        "NUM": "140316",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494724156832",
+        "LON": "-49,208726417649",
+        "NOME": "Rua Amauri Mauad Guérios, 321 - Uberaba",
+        "NUM": "140629",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495813947483",
+        "LON": "-49,208614519014",
+        "NOME": "Rua Velci Bolívar Grandó, 305 - Uberaba",
+        "NUM": "140077",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435289023189",
+        "LON": "-49,27177777987",
+        "NOME": "Praça Rui Barbosa - 468 - Jd Centauro",
+        "NUM": "102020",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48152881186",
+        "LON": "-49,222625774136",
+        "NOME": "Av. Comendador Franco, 5930 - Uberaba",
+        "NUM": "140612",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438425807142",
+        "LON": "-49,263713539785",
+        "NOME": "Av. Silva Jardim, 3776 - Água Verde",
+        "NUM": "140214",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482958704485",
+        "LON": "-49,218110622114",
+        "NOME": "Rua Henrique Mehl, 542 - Uberaba",
+        "NUM": "140315",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489804701681",
+        "LON": "-49,214533725875",
+        "NOME": "Rua Augusto Zibarth, 765 - Uberaba",
+        "NUM": "140505",
+        "SENTIDO": "Jd. Centauro",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484012013777",
+        "LON": "-49,213311979668",
+        "NOME": "Rua Cap Leônidas Marquês, 2291 - Uberaba",
+        "NUM": "140510",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    }
+]

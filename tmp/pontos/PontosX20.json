@@ -1,0 +1,182 @@
+[
+    {
+        "GRUPO": "26110",
+        "LAT": "-25,487814027983",
+        "LON": "-49,29433070633",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108055",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41833",
+        "LAT": "-25,534667279096",
+        "LON": "-49,282751903355",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108129",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534440000187",
+        "LON": "-49,268594541837",
+        "NOME": "Terminal Sítio Cercado - 602 - Circular Sul (Anti-Horário)",
+        "NUM": "106102",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26112",
+        "LAT": "-25,484383755499",
+        "LON": "-49,293780854121",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108054",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492092582379",
+        "LON": "-49,293635601957",
+        "NOME": "Terminal Capão Raso - 602 - Circular Sul (AH) / 603-Pinheirinho/Rui Barbosa",
+        "NUM": "104803",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26120",
+        "LAT": "-25,4810211",
+        "LON": "-49,29261829",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108052",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26102",
+        "LAT": "-25,49551353773",
+        "LON": "-49,294531722719",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108057",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41776",
+        "LAT": "-25,535810829139",
+        "LON": "-49,274466559708",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108131",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26098",
+        "LAT": "-25,499463087151",
+        "LON": "-49,296060725166",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108059",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41828",
+        "LAT": "-25,520712670223",
+        "LON": "-49,295568839132",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108123",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26046",
+        "LAT": "-25,507655816928",
+        "LON": "-49,295913842957",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108063",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476410212996",
+        "LON": "-49,292681397146",
+        "NOME": "Terminal  Portão - 203 - Sta. Cândida/C. Raso / 603-Pinheirinho/R. Barbosa  / 602-Circular Sul (AH)",
+        "NUM": "105802",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41830",
+        "LAT": "-25,528058677408",
+        "LON": "-49,291496254764",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108125",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41832",
+        "LAT": "-25,530848105972",
+        "LON": "-49,287770316422",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108127",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534440000187",
+        "LON": "-49,268594541837",
+        "NOME": "Terminal Sítio Cercado - 602 - Circular Sul (Anti-Horário)",
+        "NUM": "106102",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26091",
+        "LAT": "-25,503476168282",
+        "LON": "-49,296020771793",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108061",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476410212996",
+        "LON": "-49,292681397146",
+        "NOME": "Terminal  Portão - 203 - Sta. Cândida/C. Raso / 603-Pinheirinho/R. Barbosa  / 602-Circular Sul (AH)",
+        "NUM": "105802",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

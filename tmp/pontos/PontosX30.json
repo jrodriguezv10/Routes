@@ -1,0 +1,62 @@
+[
+    {
+        "GRUPO": "47569",
+        "LAT": "-25,443696313304",
+        "LON": "-49,209115878164",
+        "NOME": "Estação Tubo Paulo Kissula",
+        "NUM": "108140",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47568",
+        "LAT": "-25,443087920125",
+        "LON": "-49,214277789413",
+        "NOME": "Estação Tubo Pastor Manoel V. de Souza",
+        "NUM": "108141",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47571",
+        "LAT": "-25,44318646945",
+        "LON": "-49,203501344144",
+        "NOME": "Estação Tubo Vila Nova",
+        "NUM": "108137",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47573",
+        "LAT": "-25,443776241123",
+        "LON": "-49,196718037545",
+        "NOME": "Estação Tubo Autódromo",
+        "NUM": "420102",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47573",
+        "LAT": "-25,443776241123",
+        "LON": "-49,196718037545",
+        "NOME": "Estação Tubo Autódromo",
+        "NUM": "420102",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440023814986",
+        "LON": "-49,221371279064",
+        "NOME": "Terminal Capão da Imbuia - 304 - Pinhais / Campo Comprido",
+        "NUM": "109118",
+        "SENTIDO": "Estação Tubo Autódromo Circular",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    }
+]

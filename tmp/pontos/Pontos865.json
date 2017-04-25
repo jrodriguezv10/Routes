@@ -1,0 +1,372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4316605189",
+        "LON": "-49,276690066999",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 158 - Centro",
+        "NUM": "110106",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432134862259",
+        "LON": "-49,280061603731",
+        "NOME": "Rua Visconde do Rio Branco, 1186 - Centro",
+        "NUM": "110107",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431806641731",
+        "LON": "-49,284180135674",
+        "NOME": "Alameda Augusto Stelfeld, 1282 - Centro",
+        "NUM": "110109",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437544085795",
+        "LON": "-49,302065105384",
+        "NOME": "Alameda Princesa Isabel, 2601 - São Francisco",
+        "NUM": "180579",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432574881729",
+        "LON": "-49,289465428537",
+        "NOME": "Alameda Princesa Isabel, 1151 - São Francisco",
+        "NUM": "180561",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432819531718",
+        "LON": "-49,282832325644",
+        "NOME": "Rua Saldanha Marinho, 1179 - Centro",
+        "NUM": "110193",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437343044715",
+        "LON": "-49,304121807375",
+        "NOME": "Alameda Julia da Costa, 2543 - São Francisco",
+        "NUM": "180052",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441509128645",
+        "LON": "-49,313886941618",
+        "NOME": "Rua Deputado Nilson Ribas, 213 - Seminário",
+        "NUM": "180823",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432682298198",
+        "LON": "-49,28654450292",
+        "NOME": "Alameda Augusto Stelfeld, 1354 - Centro",
+        "NUM": "180244",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440054648854",
+        "LON": "-49,313327701038",
+        "NOME": "Rua Deputado Nilson Ribas, 161 - Seminário",
+        "NUM": "180822",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440037693949",
+        "LON": "-49,313219071573",
+        "NOME": "Rua Deputado Nilson Ribas, 164 - Seminário",
+        "NUM": "180575",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433639468899",
+        "LON": "-49,292151660866",
+        "NOME": "Alameda Princesa Isabel, 1555 - São Francisco",
+        "NUM": "180825",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431426715741",
+        "LON": "-49,286468059963",
+        "NOME": "Alameda Princesa Isabel, 877 - São Francisco",
+        "NUM": "180750",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432331067462",
+        "LON": "-49,288110912985",
+        "NOME": "Avenida Cândido Hartmann, 176 - Mercês",
+        "NUM": "180728",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438139940519",
+        "LON": "-49,305922121948",
+        "NOME": "Alameda Julia da Costa, 2705 - São Francisco",
+        "NUM": "180569",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436897362089",
+        "LON": "-49,30039140696",
+        "NOME": "Alameda Princesa Isabel, 2369- São Francisco",
+        "NUM": "180580",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42990555125",
+        "LON": "-49,272544712967",
+        "NOME": "Praça Tiradentes - 865 - Jd Esplanada",
+        "NUM": "101002",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431970146534",
+        "LON": "-49,290604026264",
+        "NOME": "Alameda Julia da Costa, 1054 - São Francisco",
+        "NUM": "180245",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439469703237",
+        "LON": "-49,310886890835",
+        "NOME": "Rua Hugo Kinzelmann, 71 - Campina do Siqueira",
+        "NUM": "180821",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431908753005",
+        "LON": "-49,280559153503",
+        "NOME": "Rua Saldanha Marinho, 917 - Centro",
+        "NUM": "110194",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444502",
+        "LON": "-49,3112028",
+        "NOME": "Rua Deputado Nilson Ribas, 597 - Seminário",
+        "NUM": "180578",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438889214658",
+        "LON": "-49,308115006638",
+        "NOME": "Alameda Julia da Costa, 2706 - São Francisco",
+        "NUM": "180051",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434027865788",
+        "LON": "-49,295765937513",
+        "NOME": "Alameda Julia da Costa, 1654 - São Francisco",
+        "NUM": "180817",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435385529467",
+        "LON": "-49,299209893888",
+        "NOME": "Alameda Julia da Costa, 2030 - São Francisco",
+        "NUM": "180818",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43955568921",
+        "LON": "-49,310760827011",
+        "NOME": "Rua Hugo Kinzelmann, 70 - Campina do Siqueira",
+        "NUM": "180574",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435596637603",
+        "LON": "-49,297191531604",
+        "NOME": "Alameda Princesa Isabel, 1985 - São Francisco",
+        "NUM": "180581",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432412588888",
+        "LON": "-49,284566373772",
+        "NOME": "Rua Desembargador Motta, 1748 - Água Verde",
+        "NUM": "180716",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430859946765",
+        "LON": "-49,28164410705",
+        "NOME": "Alameda Augusto Stelfeld, 1018 - Centro",
+        "NUM": "110108",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441556359584",
+        "LON": "-49,313754172272",
+        "NOME": "Rua Deputado Nilson Ribas, 212 - Seminário",
+        "NUM": "180576",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436301126306",
+        "LON": "-49,301513911432",
+        "NOME": "Alameda Julia da Costa, 2276- São Francisco",
+        "NUM": "180819",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442996288821",
+        "LON": "-49,312127412504",
+        "NOME": "Rua Deputado Nilson Ribas, 435 - Seminário",
+        "NUM": "180824",
+        "SENTIDO": "Jd. Esplanada",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444502",
+        "LON": "-49,3112028",
+        "NOME": "Rua Deputado Nilson Ribas, 597 - Seminário",
+        "NUM": "180578",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42990555125",
+        "LON": "-49,272544712967",
+        "NOME": "Praça Tiradentes - 865 - Jd Esplanada",
+        "NUM": "101002",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442936948091",
+        "LON": "-49,312025488562",
+        "NOME": "Rua Deputado Nilson Ribas, 434 - Seminário",
+        "NUM": "180577",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434906303262",
+        "LON": "-49,295441390223",
+        "NOME": "Alameda Princesa Isabel, 1925 - São Francisco",
+        "NUM": "180582",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    }
+]

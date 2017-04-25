@@ -1,0 +1,482 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,363804761405",
+        "LON": "-49,230235547966",
+        "NOME": "Rua Nossa Senhora do Rocio, 143 - Santa Candida",
+        "NUM": "120744",
+        "SENTIDO": "São Benedito",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356805230223",
+        "LON": "-49,23500470558",
+        "NOME": "Estrada Guilherme Weigert, 54 - Santa Candida",
+        "NUM": "120443",
+        "SENTIDO": "São Benedito",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372827138295",
+        "LON": "-49,227507204395",
+        "NOME": "Rua Teodoro Makiolka, 469 - Santa Candida",
+        "NUM": "120433",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373974396804",
+        "LON": "-49,22481254951",
+        "NOME": "Rua Teodoro Makiolka, 89 - Santa Candida",
+        "NUM": "120431",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363414551454",
+        "LON": "-49,228852869219",
+        "NOME": "Rua Nossa Senhora do Rocio, 1 - Santa Candida",
+        "NUM": "120437",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363889716406",
+        "LON": "-49,232643020542",
+        "NOME": "Rua Mobral, 2 - Santa Candida",
+        "NUM": "120439",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3586818395",
+        "LON": "-49,241821510758",
+        "NOME": "Rua Padre Paulo Caneles, 642 - Santa Candida",
+        "NUM": "120446",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370848144184",
+        "LON": "-49,227934212631",
+        "NOME": "Estrada Guilherme Weigert, 2 - Santa Candida",
+        "NUM": "120740",
+        "SENTIDO": "São Benedito",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363332146707",
+        "LON": "-49,228913218922",
+        "NOME": "Rua Nossa Senhora do Rocio, 2 - Santa Candida",
+        "NUM": "120743",
+        "SENTIDO": "São Benedito",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361541992517",
+        "LON": "-49,232193422456",
+        "NOME": "Rua José Ursulino Filho, 440 - Santa Candida",
+        "NUM": "120746",
+        "SENTIDO": "São Benedito",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356670943019",
+        "LON": "-49,250651701952",
+        "NOME": "Rua Alberto Oto, 532 - Cachoeira",
+        "NUM": "120756",
+        "SENTIDO": "São Benedito",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355067363965",
+        "LON": "-49,24703181898",
+        "NOME": "Rua Joaquim Marquês dos Santos, 152 - Santa Candida",
+        "NUM": "120455",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360782838794",
+        "LON": "-49,245167884111",
+        "NOME": "Rua Padre Paulo Caneles, 16 - Santa Candida",
+        "NUM": "120448",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359376245634",
+        "LON": "-49,243630660738",
+        "NOME": "Rua Padre Paulo Caneles, 248 - Santa Candida",
+        "NUM": "120447",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364897827293",
+        "LON": "-49,22762441749",
+        "NOME": "Estrada Guilherme Weigert, 860 - Santa Candida",
+        "NUM": "120742",
+        "SENTIDO": "São Benedito",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360585191161",
+        "LON": "-49,250480396038",
+        "NOME": "Rua Teodoro Makiolka, 3191 - Barreirinha",
+        "NUM": "120451",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377203402889",
+        "LON": "-49,224367899475",
+        "NOME": "Terminal Santa Cândida - 236 - São Benedito",
+        "NUM": "105904",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356782204114",
+        "LON": "-49,239376706274",
+        "NOME": "Rua Padre Paulo Caneles, 642 - Santa Candida",
+        "NUM": "120445",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355067363965",
+        "LON": "-49,24703181898",
+        "NOME": "Rua Joaquim Marquês dos Santos, 152 - Santa Candida",
+        "NUM": "120455",
+        "SENTIDO": "São Benedito",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377203402889",
+        "LON": "-49,224367899475",
+        "NOME": "Terminal Santa Cândida - 236 - São Benedito",
+        "NUM": "105904",
+        "SENTIDO": "São Benedito",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356738575685",
+        "LON": "-49,239471924694",
+        "NOME": "Rua Padre Paulo Caneles, 128 - Santa Candida",
+        "NUM": "120751",
+        "SENTIDO": "São Benedito",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360249158054",
+        "LON": "-49,24804838358",
+        "NOME": "Rua Teodoro Makiolka, 3026 - Barreirinha",
+        "NUM": "120604",
+        "SENTIDO": "São Benedito",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363866564728",
+        "LON": "-49,230138988441",
+        "NOME": "Rua Nossa Senhora do Rocio, 144 - Santa Candida",
+        "NUM": "120438",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359752328589",
+        "LON": "-49,231697213788",
+        "NOME": "Estrada Guilherme Weigert, 1619 - Santa Candida",
+        "NUM": "120441",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372809349252",
+        "LON": "-49,227301036862",
+        "NOME": "Rua Teodoro Makiolka, 308 - Santa Candida",
+        "NUM": "120432",
+        "SENTIDO": "São Benedito",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367624389802",
+        "LON": "-49,226906926579",
+        "NOME": "Estrada Guilherme Weigert, 438 - Santa Candida",
+        "NUM": "120741",
+        "SENTIDO": "São Benedito",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359692946904",
+        "LON": "-49,231614065309",
+        "NOME": "Estrada Guilherme Weigert, 1876 - Santa Candida",
+        "NUM": "120747",
+        "SENTIDO": "São Benedito",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356440447664",
+        "LON": "-49,237574261816",
+        "NOME": "Estrada Guilherme Weigert, 2252 - Santa Candida",
+        "NUM": "120750",
+        "SENTIDO": "São Benedito",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360227822208",
+        "LON": "-49,250681206251",
+        "NOME": "Rua Alberto Oto, 2 - Cachoeira",
+        "NUM": "120755",
+        "SENTIDO": "São Benedito",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357904825116",
+        "LON": "-49,233505882244",
+        "NOME": "Estrada Guilherme Weigert, 1875 - Santa Candida",
+        "NUM": "120442",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36052518977",
+        "LON": "-49,247375091649",
+        "NOME": "Rua Teodoro Makiolka, 2953 - Santa Candida",
+        "NUM": "120450",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356864613326",
+        "LON": "-49,235048962029",
+        "NOME": "Estrada Guilherme Weigert, 2051 - Santa Candida",
+        "NUM": "120749",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355691722474",
+        "LON": "-49,248700394893",
+        "NOME": "Rua Alberto Oto, 184 - Cachoeira",
+        "NUM": "120757",
+        "SENTIDO": "São Benedito",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,358814778133",
+        "LON": "-49,250427737499",
+        "NOME": "Rua Alberto Oto, 118 - Cachoeira",
+        "NUM": "120587",
+        "SENTIDO": "São Benedito",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364895403654",
+        "LON": "-49,227729023642",
+        "NOME": "Estrada Guilherme Weigert, 773 - Santa Candida",
+        "NUM": "120436",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356528916625",
+        "LON": "-49,237618518265",
+        "NOME": "Estrada Guilherme Weigert, 2251 - Santa Candida",
+        "NUM": "120444",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3566006527",
+        "LON": "-49,250729486013",
+        "NOME": "Rua Alberto Oto, 422 - Cachoeira",
+        "NUM": "120453",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,358882643406",
+        "LON": "-49,250537708069",
+        "NOME": "Rua Alberto Oto, 117 - Cachoeira",
+        "NUM": "120452",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373909896247",
+        "LON": "-49,224555819056",
+        "NOME": "Rua Teodoro Makiolka, 90 - Santa Candida",
+        "NUM": "120430",
+        "SENTIDO": "São Benedito",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363808523814",
+        "LON": "-49,23279992977",
+        "NOME": "Rua Mobral, 1 - Santa Candida",
+        "NUM": "120745",
+        "SENTIDO": "São Benedito",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357842536744",
+        "LON": "-49,233369899185",
+        "NOME": "Estrada Guilherme Weigert, 1876 - Santa Candida",
+        "NUM": "120748",
+        "SENTIDO": "São Benedito",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,358615185996",
+        "LON": "-49,241900635924",
+        "NOME": "Rua Padre Paulo Caneles, 277 - Santa Candida",
+        "NUM": "120752",
+        "SENTIDO": "São Benedito",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360829640396",
+        "LON": "-49,245612937795",
+        "NOME": "Rua Teodoro Makiolka, 2802 - Santa Candida",
+        "NUM": "120754",
+        "SENTIDO": "São Benedito",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359318788125",
+        "LON": "-49,243717754631",
+        "NOME": "Rua Padre Paulo Caneles, 247 - Santa Candida",
+        "NUM": "120753",
+        "SENTIDO": "São Benedito",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370756050422",
+        "LON": "-49,228017361111",
+        "NOME": "Estrada Guilherme Weigert, 141 - Santa Candida",
+        "NUM": "120434",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355621431585",
+        "LON": "-49,248740628029",
+        "NOME": "Rua Alberto Oto, 431 - Cachoeira",
+        "NUM": "120454",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367630448761",
+        "LON": "-49,227039695925",
+        "NOME": "Estrada Guilherme Weigert, 437 - Santa Candida",
+        "NUM": "120435",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361475340591",
+        "LON": "-49,232288640876",
+        "NOME": "Rua José Ursulino Filho, 439 - Santa Candida",
+        "NUM": "120440",
+        "SENTIDO": "Terminal Sta. Cândida",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    }
+]

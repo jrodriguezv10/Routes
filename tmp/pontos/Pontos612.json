@@ -1,0 +1,502 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,495452506852",
+        "LON": "-49,324227784561",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1283 - Cidade Industrial",
+        "NUM": "170299",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485838765562",
+        "LON": "-49,318330020851",
+        "NOME": "Rua João Bettega, 2709 - Portão",
+        "NUM": "180388",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503569892633",
+        "LON": "-49,322925572084",
+        "NOME": "Rua Orlando Luís Lamarca, 279 - Cidade Industrial",
+        "NUM": "170607",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500589788778",
+        "LON": "-49,322393153595",
+        "NOME": "Rua Sebastião Ribeiro Batista, 449 - Cidade Industrial",
+        "NUM": "170602",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501852822524",
+        "LON": "-49,32235145998",
+        "NOME": "Rua Orlando Luís Lamarca, 85 - Cidade Industrial",
+        "NUM": "170604",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477931792305",
+        "LON": "-49,300722915344",
+        "NOME": "Rua Itatiaia, 834 - Portão",
+        "NUM": "170031",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495615925187",
+        "LON": "-49,321504001306",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1063 - Cidade Industrial",
+        "NUM": "170297",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501584942099",
+        "LON": "-49,323323411045",
+        "NOME": "Rua Davi Xavier da Silva, 2 - Cidade Industrial",
+        "NUM": "170605",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479505471989",
+        "LON": "-49,300836938658",
+        "NOME": "Rua Itacolomi, 849 - Portão",
+        "NUM": "170047",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510153214943",
+        "LON": "-49,326171044992",
+        "NOME": "Rua Davi Xavier da Silva, 1089 - Cidade Industrial",
+        "NUM": "170612",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506700011455",
+        "LON": "-49,325029765057",
+        "NOME": "Rua Davi Xavier da Silva, 876 - Cidade Industrial",
+        "NUM": "170608",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483312208761",
+        "LON": "-49,316742153114",
+        "NOME": "Rua João Bettega, 2420 - Portão",
+        "NUM": "180386",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480525307805",
+        "LON": "-49,314993352837",
+        "NOME": "Rua João Bettega, 2125 - Portão",
+        "NUM": "180384",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510331137563",
+        "LON": "-49,325193379806",
+        "NOME": "Rua Orlando Luís Lamarca, 1087 - Cidade Industrial",
+        "NUM": "170613",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478654827623",
+        "LON": "-49,313626767344",
+        "NOME": "Rua João Bettega, 1928 - Portão",
+        "NUM": "180382",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50050505688",
+        "LON": "-49,322484348701",
+        "NOME": "Rua Sebastião Ribeiro Batista, 460 - Cidade Industrial",
+        "NUM": "170601",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497017682225",
+        "LON": "-49,321305517839",
+        "NOME": "Rua Sebastião Ribeiro Batista, 160 - Cidade Industrial",
+        "NUM": "170600",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495470664455",
+        "LON": "-49,323830817627",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1284 - Cidade Industrial",
+        "NUM": "170300",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50697015359",
+        "LON": "-49,324045479298",
+        "NOME": "Rua Orlando Luís Lamarca, 692 - Cidade Industrial",
+        "NUM": "170988",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476143532367",
+        "LON": "-49,29250705356",
+        "NOME": "Terminal Portão - 612 - Portão / CIC",
+        "NUM": "105809",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,51152440695",
+        "LON": "-49,324729241734",
+        "NOME": "Terminal CIC - 612 -  Portão / CIC",
+        "NUM": "105210",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477999952539",
+        "LON": "-49,304556588955",
+        "NOME": "Rua Itatiaia, 1220 - Portão",
+        "NUM": "170032",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47791",
+        "LON": "-49,29761",
+        "NOME": "Rua Itatiaia, 472 - Portão",
+        "NUM": "170013",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494513639716",
+        "LON": "-49,324894727415",
+        "NOME": "R. João Bettega, 4100 - Cidade Industrial",
+        "NUM": "180089",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486017934799",
+        "LON": "-49,318776608652",
+        "NOME": "Rua João Bettega, 2952 - Portão",
+        "NUM": "180387",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476143532367",
+        "LON": "-49,29250705356",
+        "NOME": "Terminal Portão - 612 - Portão / CIC",
+        "NUM": "105809",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505214903004",
+        "LON": "-49,323469133324",
+        "NOME": "Rua Orlando Luís Lamarca, 476 - Cidade Industrial",
+        "NUM": "170989",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491461888934",
+        "LON": "-49,322366745419",
+        "NOME": "R. João Bettega, 3291 - Cidade Industrial",
+        "NUM": "180090",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478068858914",
+        "LON": "-49,307842583603",
+        "NOME": "Rua Itatiaia, 1548 - Portão",
+        "NUM": "170375",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500706046192",
+        "LON": "-49,322663129515",
+        "NOME": "Rua Guilherme Fugman, 320 - Cidade Industrial",
+        "NUM": "170229",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491103566424",
+        "LON": "-49,322432459539",
+        "NOME": "R. João Bettega, 3350 - Fazendinha",
+        "NUM": "180091",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487419803801",
+        "LON": "-49,319756956047",
+        "NOME": "R. João Bettega, 2966 - Fazendinha",
+        "NUM": "180093",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478143921181",
+        "LON": "-49,310785894083",
+        "NOME": "Rua Itatiaia, 1784 - Portão",
+        "NUM": "170376",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,51152440695",
+        "LON": "-49,324729241734",
+        "NOME": "Terminal CIC - 612 -  Portão / CIC",
+        "NUM": "105210",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487807191315",
+        "LON": "-49,319746227211",
+        "NOME": "R. João Bettega, 2967 - Cidade Industrial",
+        "NUM": "180092",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497205308221",
+        "LON": "-49,321259920286",
+        "NOME": "Rua Sebastião Ribeiro Batista, 157 - Cidade Industrial",
+        "NUM": "170377",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495624398724",
+        "LON": "-49,322197352337",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1106 - Cidade Industrial",
+        "NUM": "170298",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508556110233",
+        "LON": "-49,324595716429",
+        "NOME": "Rua Orlando Luís Lamarca, 872 - Cidade Industrial",
+        "NUM": "170611",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480048307856",
+        "LON": "-49,314992011732",
+        "NOME": "Rua João Bettega, 2110 - Portão",
+        "NUM": "180383",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479568789333",
+        "LON": "-49,304342303076",
+        "NOME": "Rua Itacolomi, 1258 - Portão",
+        "NUM": "170046",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475789418016",
+        "LON": "-49,294408658895",
+        "NOME": "Rua Luiz Parigot de Souza, 1 - Portão",
+        "NUM": "170048",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483020446745",
+        "LON": "-49,316873581356",
+        "NOME": "Rua João Bettega, 2421 - Portão",
+        "NUM": "180385",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503284231942",
+        "LON": "-49,323885802912",
+        "NOME": "Rua Davi Xavier da Silva, 284 - Cidade Industrial",
+        "NUM": "170606",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508367868032",
+        "LON": "-49,32556046627",
+        "NOME": "Rua Davi Xavier da Silva, 873 - Cidade Industrial",
+        "NUM": "170610",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479687529988",
+        "LON": "-49,310776920265",
+        "NOME": "Rua Itacolomi, 1814 - Portão",
+        "NUM": "170373",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479631839348",
+        "LON": "-49,30756497497",
+        "NOME": "Rua Itacolomi, 1576 - Portão",
+        "NUM": "170374",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494834426153",
+        "LON": "-49,32481292004",
+        "NOME": "R. João Bettega, 3665 - Cidade Industrial",
+        "NUM": "180088",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    }
+]

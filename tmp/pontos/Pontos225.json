@@ -1,0 +1,302 @@
+[
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377196086551",
+        "LON": "-49,262522831912",
+        "NOME": "Terminal Barreirinha - 225 - Boa Vista / Barreirinha",
+        "NUM": "104105",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374719760444",
+        "LON": "-49,259815786142",
+        "NOME": "Rua Prof. Guilherme Butler, 1356 - Barreirinha",
+        "NUM": "120140",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384578775115",
+        "LON": "-49,248784751263",
+        "NOME": "Rua Lodovico Geronazzo, 1370 - Boa Vista",
+        "NUM": "120213",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38263886565",
+        "LON": "-49,251084113271",
+        "NOME": "Rua Lodovico Geronazzo, 1731 - Boa Vista",
+        "NUM": "120211",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378494976792",
+        "LON": "-49,256549073443",
+        "NOME": "Rua Lodovico Geronazzo, 2388 - Boa Vista",
+        "NUM": "120205",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381325703648",
+        "LON": "-49,252832875804",
+        "NOME": "Rua Lodovico Geronazzo, 1945 - Boa Vista",
+        "NUM": "120209",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387161843411",
+        "LON": "-49,245212186508",
+        "NOME": "Rua Lodovico Geronazzo, 833 - Boa Vista",
+        "NUM": "120217",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39171",
+        "LON": "-49,24366",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120223",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,39315155792",
+        "LON": "-49,241135101852",
+        "NOME": "Terminal Boa Vista - 225 - Boa Vista/Barreirinha",
+        "NUM": "104206",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384097760295",
+        "LON": "-49,249200493661",
+        "NOME": "Rua Lodovico Geronazzo, 1370 - Boa Vista",
+        "NUM": "120212",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375112757821",
+        "LON": "-49,258469342425",
+        "NOME": "Rua Prof. Guilherme Butler, 1488 - Barreirinha",
+        "NUM": "120201",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38997",
+        "LON": "-49,24512",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1211 - Boa Vista",
+        "NUM": "120220",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379710164817",
+        "LON": "-49,254977114609",
+        "NOME": "Rua Lodovico Geronazzo, 2175 - Boa Vista",
+        "NUM": "120207",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378631481319",
+        "LON": "-49,259723413953",
+        "NOME": "Rua Professor Guilherme Butler, 305 - Barreirinha",
+        "NUM": "120203",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374673397416",
+        "LON": "-49,261123866981",
+        "NOME": "Rua Prof. Guilherme Butler, 1515 - Barreirinha",
+        "NUM": "120139",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376682115692",
+        "LON": "-49,255642134901",
+        "NOME": "Rua Prof. Guilherme Butler, 693 - Barreirinha",
+        "NUM": "120202",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24387",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1384 - Boa Vista",
+        "NUM": "120219",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38577",
+        "LON": "-49,24705",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120215",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377196086551",
+        "LON": "-49,262522831912",
+        "NOME": "Terminal Barreirinha - 225 - Boa Vista / Barreirinha",
+        "NUM": "104105",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381516215735",
+        "LON": "-49,252794612343",
+        "NOME": "Rua Lodovico Geronazzo, 1945 - Boa Vista",
+        "NUM": "120208",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382707644463",
+        "LON": "-49,251159913336",
+        "NOME": "Rua Lodovico Geronazzo, 1731 - Boa Vista",
+        "NUM": "120210",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39021",
+        "LON": "-49,24517",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1210 - Boa Vista",
+        "NUM": "120221",
+        "SENTIDO": "Terminal Barrerinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24404",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1385 - Boa Vista",
+        "NUM": "120218",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39176",
+        "LON": "-49,24376",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120222",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376397267673",
+        "LON": "-49,262598365111",
+        "NOME": "Avenida Anita Garibaldi, 4222  - Barreirinha",
+        "NUM": "120023",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378772576366",
+        "LON": "-49,256422684983",
+        "NOME": "Rua Lodovico Geronazzo, 2388 - Boa Vista",
+        "NUM": "120204",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,39315155792",
+        "LON": "-49,241135101852",
+        "NOME": "Terminal Boa Vista - 225 - Boa Vista/Barreirinha",
+        "NUM": "104206",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379797124821",
+        "LON": "-49,25504221448",
+        "NOME": "Rua Lodovico Geronazzo, 2175 - Boa Vista",
+        "NUM": "120206",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38598",
+        "LON": "-49,24697",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120214",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38733",
+        "LON": "-49,24524",
+        "NOME": "Rua Lodovico Geronazzo, 833 - Boa Vista",
+        "NUM": "120216",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551303881937",
+        "LON": "-49,27747863645",
+        "NOME": "Rua Lupionopolis, 2398 - Sítio Cercado",
+        "NUM": "160366",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51322",
+        "LON": "-49,29482",
+        "NOME": "Terminal Pinheirinho - 638 - Pinheirinho",
+        "NUM": "105717",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551429716018",
+        "LON": "-49,277474613136",
+        "NOME": "Rua Lupionopolis, 2395 - Sítio Cercado",
+        "NUM": "160367",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51322",
+        "LON": "-49,29482",
+        "NOME": "Terminal Pinheirinho - 638 - Pinheirinho",
+        "NUM": "105717",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530292386736",
+        "LON": "-49,294841916508",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 346 - Pinheirinho",
+        "NUM": "160319",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552178211733",
+        "LON": "-49,279531538487",
+        "NOME": "R. Helena Grodzki, 485 - Umbará",
+        "NUM": "160774",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549166911116",
+        "LON": "-49,285294593519",
+        "NOME": "Estrada do Ganchinho, 1105 - Umbará",
+        "NUM": "160419",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528638092388",
+        "LON": "-49,292818189806",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 680 - Pinheirinho",
+        "NUM": "160317",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548030748314",
+        "LON": "-49,290669740385",
+        "NOME": "Estrada do Ganchinho, 350 - Umbará",
+        "NUM": "160414",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531962390077",
+        "LON": "-49,296896488613",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 471 - Pinheirinho",
+        "NUM": "160321",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550639429841",
+        "LON": "-49,281772853083",
+        "NOME": "Rua Helena Grodzki, 386 - Umbará",
+        "NUM": "160421",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551392207796",
+        "LON": "-49,274255962318",
+        "NOME": "Rua Nova Aurora, 307 - Sítio Cercado",
+        "NUM": "160126",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552039525465",
+        "LON": "-49,269748510069",
+        "NOME": "Rua Nova Esperança, 1813 - Sítio Cercado",
+        "NUM": "160380",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554019983677",
+        "LON": "-49,276578755325",
+        "NOME": "Rua Helena Grodzki, 163 - Umbará",
+        "NUM": "160424",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549841051043",
+        "LON": "-49,271457077211",
+        "NOME": "Rua Nova Esperança, 1590 - Sítio Cercado",
+        "NUM": "160363",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552106071943",
+        "LON": "-49,269808859772",
+        "NOME": "Rua Nova Esperança, 1812 - Sítio Cercado",
+        "NUM": "160381",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548007758753",
+        "LON": "-49,288084090895",
+        "NOME": "Estrada do Ganchinho, 680 - Umbará",
+        "NUM": "160417",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549741834406",
+        "LON": "-49,271408797449",
+        "NOME": "Rua Nova Esperança, 1589 - Sítio Cercado",
+        "NUM": "160382",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553431639973",
+        "LON": "-49,267471919049",
+        "NOME": "Rua Nova Esperança, 2021 - Sítio Cercado",
+        "NUM": "160265",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551851985192",
+        "LON": "-49,276193858332",
+        "NOME": "Rua Pérola do Oeste, 144 - Sítio Cercado",
+        "NUM": "160365",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553431639973",
+        "LON": "-49,267471919049",
+        "NOME": "Rua Nova Esperança, 2021 - Sítio Cercado",
+        "NUM": "160265",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548122706513",
+        "LON": "-49,288093478626",
+        "NOME": "Estrada do Ganchinho, 683 - Umbará",
+        "NUM": "160416",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550764054671",
+        "LON": "-49,281818450636",
+        "NOME": "Rua Helena Grodzki, 373 - Umbará",
+        "NUM": "160420",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552290735627",
+        "LON": "-49,279565066099",
+        "NOME": "R. Helena Grodzki,470 - Umbará",
+        "NUM": "160775",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549100363006",
+        "LON": "-49,285003573841",
+        "NOME": "Estrada do Ganchinho, 1110 - Umbará",
+        "NUM": "160418",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55146238446",
+        "LON": "-49,274200977034",
+        "NOME": "Rua Nova Aurora, 306 - Sítio Cercado",
+        "NUM": "160127",
+        "SENTIDO": "Pinheirinho (bairro)",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547908540598",
+        "LON": "-49,290644259399",
+        "NOME": "Estrada do Ganchinho, 355 - Umbará",
+        "NUM": "160415",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553717504219",
+        "LON": "-49,276820154137",
+        "NOME": "Rua Helena Grodzki, 170 - Umbará",
+        "NUM": "160425",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551755190097",
+        "LON": "-49,276149601883",
+        "NOME": "Rua Pérola do Oeste, 145 - Sítio Cercado",
+        "NUM": "160364",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

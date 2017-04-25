@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492687677021",
+        "LON": "-49,306071911739",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1203 - Novo Mundo",
+        "NUM": "170107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49142992471",
+        "LON": "-49,314597313093",
+        "NOME": "Rua General Potiguara, 1001 - Fazendinha",
+        "NUM": "170148",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49235589762",
+        "LON": "-49,293173302554",
+        "NOME": "Terminal Capão Raso - 831 - Fazendinha / C. Raso",
+        "NUM": "104810",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,30582514851",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1332 - Novo Mundo",
+        "NUM": "170108",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492595676336",
+        "LON": "-49,308677677797",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1774 - Novo Mundo",
+        "NUM": "170110",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489824727953",
+        "LON": "-49,316442672896",
+        "NOME": "Rua General Potiguara, 1324 - Fazendinha",
+        "NUM": "170150",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481931593403",
+        "LON": "-49,323107962298",
+        "NOME": "R. Gen. Potiguara, 2429 - Fazendinha",
+        "NUM": "180097",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482331104997",
+        "LON": "-49,322968487429",
+        "NOME": "R. Gen. Potiguara, 2430 - Fazendinha",
+        "NUM": "180096",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492486635675",
+        "LON": "-49,296568979167",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 236 - Novo Mundo",
+        "NUM": "170111",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492719150923",
+        "LON": "-49,30850601642",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1601 - Novo Mundo",
+        "NUM": "170109",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492570255081",
+        "LON": "-49,304170225548",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1016 - Novo Mundo",
+        "NUM": "170105",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492711887716",
+        "LON": "-49,310492192196",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1774 - Novo Mundo",
+        "NUM": "170112",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487449578487",
+        "LON": "-49,318910305189",
+        "NOME": "Rua General Potiguara, 1711 - Fazendinha",
+        "NUM": "170153",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47723753141",
+        "LON": "-49,327455830689",
+        "NOME": "Terminal Fazendinha - 828 - Campo Comprido / Capão Raso - 831 - Fazendinha / Capão Raso",
+        "NUM": "105308",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492543623285",
+        "LON": "-49,301383410381",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 738 - Novo Mundo",
+        "NUM": "170103",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49250730719",
+        "LON": "-49,298540268826",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 518 - Novo Mundo",
+        "NUM": "170101",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492587202584",
+        "LON": "-49,310462687896",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1773 - Novo Mundo",
+        "NUM": "170100",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48743747261",
+        "LON": "-49,318794970202",
+        "NOME": "Rua General Potiguara, 1710 - Fazendinha",
+        "NUM": "170152",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49273731085",
+        "LON": "-49,312507944775",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1993 - Novo Mundo",
+        "NUM": "170114",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47723753141",
+        "LON": "-49,327455830689",
+        "NOME": "Terminal Fazendinha - 828 - Campo Comprido / Capão Raso - 831 - Fazendinha / Capão Raso",
+        "NUM": "105308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491732105446",
+        "LON": "-49,297329212303",
+        "NOME": "R. Francisco Ader, 341 - Novo Mundo",
+        "NUM": "170001",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492652571504",
+        "LON": "-49,298435662674",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 459 - Novo Mundo",
+        "NUM": "170102",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492644097757",
+        "LON": "-49,301477287697",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 839 - Novo Mundo",
+        "NUM": "170104",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492664676856",
+        "LON": "-49,303977106499",
+        "NOME": "Rua Dep. Waldemiro Pedroso, 1015 - Novo Mundo",
+        "NUM": "170106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484492076515",
+        "LON": "-49,321444992709",
+        "NOME": "R. Gen. Potiguara, 1763 - Fazendinha",
+        "NUM": "180095",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492590834192",
+        "LON": "-49,31257895081",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 1992 - Novo Mundo",
+        "NUM": "170113",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489730303947",
+        "LON": "-49,316372935461",
+        "NOME": "Rua General Potiguara, 1325 - Fazendinha",
+        "NUM": "170149",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49139845047",
+        "LON": "-49,314527575659",
+        "NOME": "Rua General Potiguara, 1001- - Fazendinha",
+        "NUM": "170147",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484361329762",
+        "LON": "-49,321453039335",
+        "NOME": "R. Gen. Potiguara, 1762 - Fazendinha",
+        "NUM": "180094",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49235589762",
+        "LON": "-49,293173302554",
+        "NOME": "Terminal Capão Raso - 831 - Fazendinha / C. Raso",
+        "NUM": "104810",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

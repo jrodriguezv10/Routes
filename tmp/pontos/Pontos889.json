@@ -1,0 +1,682 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,430515466075",
+        "LON": "-49,329654519014",
+        "NOME": "Marginal Rodovia BR- 277, 1530 - Santo Inácio",
+        "NUM": "190003",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "19",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430424908017",
+        "LON": "-49,333138279762",
+        "NOME": "Marginal Rodovia BR- 277, 1999 - Santo Inácio",
+        "NUM": "190005",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429076024657",
+        "LON": "-49,293428775463",
+        "NOME": "R. Padre Agostinho, 1380 - Bigorrilho",
+        "NUM": "190173",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429986699386",
+        "LON": "-49,353638620323",
+        "NOME": "Av. Vereador Toaldo Túlio, 4686 - São Braz",
+        "NUM": "190070",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408847580331",
+        "LON": "-49,357621874383",
+        "NOME": "Rua Brasílio Cuman, 831- São Braz",
+        "NUM": "190259",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413192657914",
+        "LON": "-49,350849122948",
+        "NOME": "Av. Vereador Toaldo Túlio, 2558 - São Braz",
+        "NUM": "190080",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432636152972",
+        "LON": "-49,295306910381",
+        "NOME": "Rua Martin Afonso, 1931 - São Francisco",
+        "NUM": "180238",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431680900339",
+        "LON": "-49,292891224537",
+        "NOME": "Rua Martin Afonso, 1609 - São Francisco",
+        "NUM": "180239",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423547912277",
+        "LON": "-49,351122708267",
+        "NOME": "Av. Vereador Toaldo Túlio, 3900 - São Braz",
+        "NUM": "190074",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433494652656",
+        "LON": "-49,282223464197",
+        "NOME": "Rua Brigadeiro Franco, 1361 - Mercês",
+        "NUM": "110300",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434871188651",
+        "LON": "-49,272738010698",
+        "NOME": "Praça Rui Barbosa - 465 - Erasto Gaetner",
+        "NUM": "102039",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "68",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430324876295",
+        "LON": "-49,322211836805",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190002",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "18",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430992143422",
+        "LON": "-49,329823527613",
+        "NOME": "Marginal Rodovia BR- 277, 1630 - Santo Inácio",
+        "NUM": "190009",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409242488974",
+        "LON": "-49,355103106445",
+        "NOME": "Rua Brasílio Cuman, 566 - São Braz",
+        "NUM": "190258",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410054106972",
+        "LON": "-49,352825910992",
+        "NOME": "Rua Brasílio Cuman, 330 - São Braz",
+        "NUM": "190256",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430315225235",
+        "LON": "-49,337126670322",
+        "NOME": "Marginal Rodovia BR277, 2401 - Santo Inácio",
+        "NUM": "190853",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433823346117",
+        "LON": "-49,276984781027",
+        "NOME": "Rua Visconde de Nácar, 1322 - Centro",
+        "NUM": "110127",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430958050444",
+        "LON": "-49,322961066418",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190198",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "52",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42939928254",
+        "LON": "-49,285593659824",
+        "NOME": "Rua Professor Fernando Moreira, 951 - Centro",
+        "NUM": "180241",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42366297912",
+        "LON": "-49,351036877579",
+        "NOME": "Av. Vereador Toaldo Túlio, 3985 - São Braz",
+        "NUM": "190075",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43044118607",
+        "LON": "-49,344518838367",
+        "NOME": "Marginal Rodovia BR277, 3072 - Orleans",
+        "NUM": "190321",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "48",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438450583872",
+        "LON": "-49,310182203817",
+        "NOME": "Rua Monsenhor Ivo Zanlorenzi, 165 - Campina do Siqueira",
+        "NUM": "180995",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42968875223",
+        "LON": "-49,272649319118",
+        "NOME": "Praça Tiradentes - 870 - São Braz",
+        "NUM": "101001",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "66",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "65",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430758509895",
+        "LON": "-49,338132682209",
+        "NOME": "Marginal Rodovia BR277, 2440 - Santo Inácio",
+        "NUM": "190007",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430900031837",
+        "LON": "-49,333544580183",
+        "NOME": "Marginal Rodovia BR- 277, 1976 - Santo Inácio",
+        "NUM": "190008",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408981804785",
+        "LON": "-49,360510379133",
+        "NOME": "Rua Hermenegildo Luca, 4088 - São Braz",
+        "NUM": "190927",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431780310818",
+        "LON": "-49,300113148479",
+        "NOME": "R. Padre Agostinho, 2126 - Bigorrilho",
+        "NUM": "190232",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416239183526",
+        "LON": "-49,358592660374",
+        "NOME": "Rua José Rubens de Lima, 239 - São Braz",
+        "NUM": "190263",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426364833099",
+        "LON": "-49,286504269785",
+        "NOME": "Rua Padre Agostinho, 876 - São Francisco",
+        "NUM": "110303",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "17",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "53",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418923069995",
+        "LON": "-49,351478220902",
+        "NOME": "Rua Antônio Escorsin, 2307 - Santa Felicidade",
+        "NUM": "190051",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418804563161",
+        "LON": "-49,354400087137",
+        "NOME": "Rua Antônio Escorsin, 2622 - Santa Felicidade",
+        "NUM": "190053",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411697886505",
+        "LON": "-49,359303906746",
+        "NOME": "Rua São José da Boa Vista, 208 - São Braz",
+        "NUM": "190065",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "34",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432990097634",
+        "LON": "-49,303208892031",
+        "NOME": "R. Padre Agostinho, 2482 - Bigorrilho",
+        "NUM": "190233",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428948725822",
+        "LON": "-49,353563518471",
+        "NOME": "Av. Vereador Toaldo Túlio, 4577 - São Braz",
+        "NUM": "190071",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411484721818",
+        "LON": "-49,350269765801",
+        "NOME": "Rua Brasílio Cuman, 10 - São Braz",
+        "NUM": "190255",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430202359155",
+        "LON": "-49,289150874834",
+        "NOME": "Rua Martin Afonso, 1227 - São Francisco",
+        "NUM": "180240",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431333452153",
+        "LON": "-49,279376151538",
+        "NOME": "Rua Professor Fernando Moreira, 87 - Centro",
+        "NUM": "110102",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425765654939",
+        "LON": "-49,352805794424",
+        "NOME": "Av. Vereador Toaldo Túlio, 4265 - São Braz",
+        "NUM": "190073",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425724473852",
+        "LON": "-49,352981479115",
+        "NOME": "Av. Vereador Toaldo Túlio, 4222 - São Braz",
+        "NUM": "190072",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430369727536",
+        "LON": "-49,347277490339",
+        "NOME": "Marginal Rodovia BR277, 3356 - Orleans",
+        "NUM": "190313",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "47",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427882886023",
+        "LON": "-49,284880192226",
+        "NOME": "Rua Brigadeiro Franco, 629 - Mercês",
+        "NUM": "110405",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430488120985",
+        "LON": "-49,283623577303",
+        "NOME": "Rua Brigadeiro Franco, 997 - Mercês",
+        "NUM": "110406",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430111449399",
+        "LON": "-49,282303930468",
+        "NOME": "Rua Professor Fernando Moreira, 447 - Centro",
+        "NUM": "110101",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434294288378",
+        "LON": "-49,306441690807",
+        "NOME": "Rua Padre Agostinho, 2874 - São Francisco",
+        "NUM": "190234",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429948830195",
+        "LON": "-49,349987862548",
+        "NOME": "Marginal Rodovia BR277, 17 - Orleans",
+        "NUM": "190857",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43287069202",
+        "LON": "-49,276313216633",
+        "NOME": "Praça Osório - 393-C. Imbuia/Parque Barigui",
+        "NUM": "103504",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434871188651",
+        "LON": "-49,272738010698",
+        "NOME": "Praça Rui Barbosa - 465 - Erasto Gaetner",
+        "NUM": "102039",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42804152399",
+        "LON": "-49,290816150961",
+        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
+        "NUM": "190172",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416558909635",
+        "LON": "-49,349962652868",
+        "NOME": "Av. Vereador Toaldo Túlio, 2984 - São Braz",
+        "NUM": "190078",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436788969666",
+        "LON": "-49,30606233077",
+        "NOME": "Rua Martin Afonso, 2994 - São Francisco",
+        "NUM": "180996",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433070288062",
+        "LON": "-49,280226559586",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 552 - Centro",
+        "NUM": "110113",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412273324782",
+        "LON": "-49,35799317791",
+        "NOME": "Rua José Rubens de Lima, 735 - São Braz",
+        "NUM": "190063",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411534718527",
+        "LON": "-49,361261399965",
+        "NOME": "Rua São José da Boa Vista, 48 - São Braz",
+        "NUM": "190067",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41441615731",
+        "LON": "-49,358316392846",
+        "NOME": "Rua José Rubens de Lima, 456 - São Braz",
+        "NUM": "190261",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419373939673",
+        "LON": "-49,348279566711",
+        "NOME": "Av. Vereador Toaldo Túlio, 3373 - São Braz",
+        "NUM": "190077",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419740954667",
+        "LON": "-49,348436475939",
+        "NOME": "Av. Vereador Toaldo Túlio, 3380 - São Braz",
+        "NUM": "190076",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427140000016",
+        "LON": "-49,288491786665",
+        "NOME": "Rua Padre Agostinho, 746 - São Francisco",
+        "NUM": "190824",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429777952575",
+        "LON": "-49,295175851531",
+        "NOME": "Rua Padre Agostinho, 1702 - São Francisco",
+        "NUM": "190048",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430240133137",
+        "LON": "-49,339932260952",
+        "NOME": "Marginal Rodovia BR277, 2673 - Santo Inácio",
+        "NUM": "190158",
+        "SENTIDO": "Mad. São Bráz (Circular)",
+        "SEQ": "22",
+        "TIPO": "Concreto"
+    }
+]

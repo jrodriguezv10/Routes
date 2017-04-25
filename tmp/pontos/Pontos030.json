@@ -1,0 +1,1632 @@
+[
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451549913966",
+        "LON": "-49,214917373611",
+        "NOME": "Terminal Oficinas - 030 - Interbairros III",
+        "NUM": "105606",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "49",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491776630799",
+        "LON": "-49,29325673098",
+        "NOME": "Terminal Capão Raso - 030 - Interbairros III",
+        "NUM": "104815",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426864273496",
+        "LON": "-49,202375442928",
+        "NOME": "Rua Visconde de Abaeté, 237 - Bairro Alto",
+        "NUM": "130245",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455206303226",
+        "LON": "-49,2169708548",
+        "NOME": "R. Roraima, 568 - Cajuru",
+        "NUM": "140245",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396892997924",
+        "LON": "-49,208387434359",
+        "NOME": "Rua Alberico Flores Bueno, 301 - Atuba",
+        "NUM": "130182",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450825545448",
+        "LON": "-49,208406472387",
+        "NOME": "R. dos Ferroviários, 707 - Cajuru",
+        "NUM": "140242",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461058288364",
+        "LON": "-49,215290116568",
+        "NOME": "R. Luiz França, 2697 - Cajuru",
+        "NUM": "140250",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489018209709",
+        "LON": "-49,22607842576",
+        "NOME": "Rua Rodolfo Bernardelli, 327 - Uberaba",
+        "NUM": "140321",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49843",
+        "LON": "-49,23211",
+        "NOME": "Rua das Carmelitas, 2767 - Boqueirão",
+        "NUM": "140331",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511969482988",
+        "LON": "-49,258770116568",
+        "NOME": "R. Waldemar Loureiro Campos, 4127 - Xaxim",
+        "NUM": "150317",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43143",
+        "LON": "-49,20803",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 1336 - Capão da Imbuia",
+        "NUM": "130251",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45001456975",
+        "LON": "-49,206222915344",
+        "NOME": "R. dos Ferroviários, 926 - Cajuru",
+        "NUM": "140240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466011837949",
+        "LON": "-49,218777550926",
+        "NOME": "R. Dr. Carlos Bruno Breithaupt, 247 - Jardim das Américas",
+        "NUM": "140253",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494608157734",
+        "LON": "-49,23412524785",
+        "NOME": "Rua das Carmelitas, 2316 - Boqueirão",
+        "NUM": "140329",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510785851335",
+        "LON": "-49,256127550926",
+        "NOME": "R. Waldemar Loureiro Campos, 3261 - Boqueirão",
+        "NUM": "150315",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513967063355",
+        "LON": "-49,271287434359",
+        "NOME": "Rua Profª. Emma Carvalho dos Santos, 73 - Xaxim",
+        "NUM": "150324",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507915849802",
+        "LON": "-49,280408279762",
+        "NOME": "Rua Omar Raymundo Picheth, 288 - Xaxim",
+        "NUM": "150328",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477617256447",
+        "LON": "-49,216957166822",
+        "NOME": "R. Cap. Leônidas Marques, 1499 - Uberaba",
+        "NUM": "140309",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471389323062",
+        "LON": "-49,217166379125",
+        "NOME": "R. Cap. Leônidas Marques, 657 - Uberaba",
+        "NUM": "140304",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388592151453",
+        "LON": "-49,211407872352",
+        "NOME": "Rua Antônio Edmar Barone, 2 - Atuba",
+        "NUM": "130177",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41853371709",
+        "LON": "-49,203372099371",
+        "NOME": "Rua José de Oliveira Franco, 2261 - Bairro Alto",
+        "NUM": "130196",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442159688348",
+        "LON": "-49,207794985285",
+        "NOME": "Rua Paulo Kissula, 396 - Capão da Imbuia",
+        "NUM": "130260",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450011561431",
+        "LON": "-49,205780845404",
+        "NOME": "R. dos Ferroviários, 901 - Cajuru",
+        "NUM": "140239",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490417366558",
+        "LON": "-49,228044635582",
+        "NOME": "Rua Rodolfo Bernardelli, 507 - Uberaba",
+        "NUM": "140322",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509307003022",
+        "LON": "-49,252079504299",
+        "NOME": "R. Waldemar Loureiro Campos, 3043 - Boqueirão",
+        "NUM": "150312",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514140059491",
+        "LON": "-49,274720495701",
+        "NOME": "Rua Barão de Santo Ângelo, 1182 - Xaxim",
+        "NUM": "150352",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385230662765",
+        "LON": "-49,213965268082",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1659 - Atuba",
+        "NUM": "130924",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508253310322",
+        "LON": "-49,283609365746",
+        "NOME": "Rua Barão de Santo Ângelo, 86 - Xaxim",
+        "NUM": "150194",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48617",
+        "LON": "-49,22343",
+        "NOME": "Av. Sen. Salgado Filho, 4912 - Uberaba",
+        "NUM": "140059",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43608355378",
+        "LON": "-49,210616530127",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 855 - Capão da Imbuia",
+        "NUM": "130254",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428197794218",
+        "LON": "-49,204470248169",
+        "NOME": "Rua Brasílio de Lara, 2 - Bairro Alto",
+        "NUM": "130247",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430684328868",
+        "LON": "-49,204006226009",
+        "NOME": "Rua Brasílio de Lara, 280 - Tarumã",
+        "NUM": "130249",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482202056565",
+        "LON": "-49,214495004362",
+        "NOME": "R. Henrique Mehl, 917 - Uberaba",
+        "NUM": "140313",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388686654776",
+        "LON": "-49,211563411045",
+        "NOME": "Rua Antônio Edmar Barone, 1- Atuba",
+        "NUM": "130178",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447297303227",
+        "LON": "-49,205482186508",
+        "NOME": "R. da Trindade, 494 - Cajuru",
+        "NUM": "140237",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45167",
+        "LON": "-49,21157",
+        "NOME": "R. dos Ferroviários, 246 - Cajuru",
+        "NUM": "140244",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464711296949",
+        "LON": "-49,214464256449",
+        "NOME": "R. Sebastião Marcos Luiz, 176 - Cajuru",
+        "NUM": "140251",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50401",
+        "LON": "-49,23928",
+        "NOME": "Rua Waldemar Loureiro Campos, 1666 - Boqueirão",
+        "NUM": "150302",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49789672032",
+        "LON": "-49,235063195229",
+        "NOME": "R. Antônio Schiebel, 872 - Boqueirão",
+        "NUM": "140998",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "57",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430888749083",
+        "LON": "-49,204998314381",
+        "NOME": "Av. Victor Ferreira do Amaral, 3377 - Tarumã",
+        "NUM": "130936",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423411100857",
+        "LON": "-49,201568098015",
+        "NOME": "Rua José Veríssimo, 1313 - Bairro Alto",
+        "NUM": "130241",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467161312034",
+        "LON": "-49,221436455877",
+        "NOME": "R. Cap. Leônidas Marques, 127 - Uberaba",
+        "NUM": "140300",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436402212031",
+        "LON": "-49,210378512897",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 866 - Capão da Imbuia",
+        "NUM": "130255",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437622767537",
+        "LON": "-49,207623527613",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 1137 - Capão da Imbuia",
+        "NUM": "130257",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445465431216",
+        "LON": "-49,206043760748",
+        "NOME": "R. da Trindade, 171 - Cajuru",
+        "NUM": "140236",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464917080812",
+        "LON": "-49,214730612268",
+        "NOME": "R. Sebastião Marcos Luiz, 117 - Cajuru",
+        "NUM": "140252",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491932473189",
+        "LON": "-49,23069524785",
+        "NOME": "Rua Cel. Luiz José dos Santos, 2 - Boqueirão",
+        "NUM": "140324",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510745851314",
+        "LON": "-49,255664519014",
+        "NOME": "R. Waldemar Loureiro Campos, 3262 - Boqueirão",
+        "NUM": "150314",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509808789638",
+        "LON": "-49,281268542328",
+        "NOME": "Rua Barão de Santo Ângelo, 371 - Xaxim",
+        "NUM": "150329",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512784900367",
+        "LON": "-49,276755976686",
+        "NOME": "Rua Barão de Santo Ângelo, 957 - Xaxim",
+        "NUM": "150351",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515336746521",
+        "LON": "-49,272927201223",
+        "NOME": "Rua Barão de Santo Ângelo, 1462 - Xaxim",
+        "NUM": "150353",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50559242081",
+        "LON": "-49,287583557043",
+        "NOME": "Rua Ipiranga, 742 - Capão Raso",
+        "NUM": "150357",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426520293005",
+        "LON": "-49,202379466242",
+        "NOME": "Rua Pedro Eloy da Souza, 1702 - Bairro Alto",
+        "NUM": "130244",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469668835934",
+        "LON": "-49,219593778283",
+        "NOME": "Rua Cap. Leônidas Marques, 338 - Uberaba",
+        "NUM": "140303",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47209518786",
+        "LON": "-49,216975942285",
+        "NOME": "R. Cap. Leônidas Marques, 800 - Uberaba",
+        "NUM": "140305",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474983984155",
+        "LON": "-49,218414947421",
+        "NOME": "R. Cap. Leônidas Marques, 1158 - Uberaba",
+        "NUM": "140307",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48311245476",
+        "LON": "-49,220466942734",
+        "NOME": "Rua Henrique Mehl, 271 - Uberaba",
+        "NUM": "140317",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401083656321",
+        "LON": "-49,206581457672",
+        "NOME": "Rua Alberico Flores Bueno, 800 - Bairro Alto",
+        "NUM": "130185",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410119690924",
+        "LON": "-49,204163411045",
+        "NOME": "Rua Albino Kaminski, 422 - Bairro Alto",
+        "NUM": "130516",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450684531493",
+        "LON": "-49,208369620867",
+        "NOME": "R. dos Ferroviários, 702 - Cajuru",
+        "NUM": "140241",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492744210688",
+        "LON": "-49,232958046627",
+        "NOME": "Rua Cel. Luiz José dos Santos, 321 - Boqueirão",
+        "NUM": "140327",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "55",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469432736203",
+        "LON": "-49,219474419982",
+        "NOME": "Rua Cap. Leônidas Marques, 291 - Uberaba",
+        "NUM": "140105",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401237268728",
+        "LON": "-49,206344868717",
+        "NOME": "Rua Alberico Flores Bueno, 801 - Bairro Alto",
+        "NUM": "130186",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43113",
+        "LON": "-49,20766",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 1367 - Capão da Imbuia",
+        "NUM": "130250",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433767087004",
+        "LON": "-49,209160233135",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 1085 - Capão da Imbuia",
+        "NUM": "130252",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447319687933",
+        "LON": "-49,205332419643",
+        "NOME": "R. da Trindade, 497 - Cajuru",
+        "NUM": "140238",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466196768312",
+        "LON": "-49,218947434359",
+        "NOME": "R. Dr. Carlos Bruno Breithaupt, 248 - Jardim das Américas",
+        "NUM": "140254",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504187635343",
+        "LON": "-49,239387930059",
+        "NOME": "Rua Waldemar Loureiro Campos, 1667 - Boqueirão",
+        "NUM": "150303",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50036515817",
+        "LON": "-49,291288542328",
+        "NOME": "Rua Prof. João Mazzarotto, 446 - Capão Raso",
+        "NUM": "150359",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451665262751",
+        "LON": "-49,215085830689",
+        "NOME": "Terminal Oficinas - 030 - Interbairros III",
+        "NUM": "105603",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423281498976",
+        "LON": "-49,201611013359",
+        "NOME": "Rua José Veríssimo, 1312 - Bairro Alto",
+        "NUM": "130240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424526640262",
+        "LON": "-49,203316898293",
+        "NOME": "Rua Pedro Eloy da Souza, 1542 - Bairro Alto",
+        "NUM": "130243",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467672265133",
+        "LON": "-49,221806600721",
+        "NOME": "R. Cap. Leônidas Marques, 2 - Jardim das Américas",
+        "NUM": "140301",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477365433361",
+        "LON": "-49,217252209813",
+        "NOME": "R. Cap. Leônidas Marques, 1446 - Uberaba",
+        "NUM": "140308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419516366187",
+        "LON": "-49,203070845404",
+        "NOME": "Rua José de Oliveira Franco, 2422 - Bairro Alto",
+        "NUM": "130197",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440256643379",
+        "LON": "-49,206922186508",
+        "NOME": "Rua Paulo Kissula, 431 - Capão da Imbuia",
+        "NUM": "130258",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461115469768",
+        "LON": "-49,215429125166",
+        "NOME": "R. Luiz França, 2696 - Cajuru",
+        "NUM": "140249",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47942",
+        "LON": "-49,21539",
+        "NOME": "R. Cap. Leônidas Marques, 1748 - Uberaba",
+        "NUM": "140311",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513997956247",
+        "LON": "-49,26712524785",
+        "NOME": "R. Waldemar Loureiro Campos, 5088 - Xaxim",
+        "NUM": "150323",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509461759267",
+        "LON": "-49,27810839633",
+        "NOME": "Rua Omar Raymundo Picheth, 575 - Xaxim",
+        "NUM": "150327",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50336",
+        "LON": "-49,28962",
+        "NOME": "Rua Mal. Althayr Roszanniy, 423 - Capão Raso",
+        "NUM": "150354",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382125252881",
+        "LON": "-49,218861640638",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 1036 - Atuba",
+        "NUM": "130921",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506240434816",
+        "LON": "-49,282916014715",
+        "NOME": "Rua Omar Raymundo Picheth, 1 - Xaxim",
+        "NUM": "150237",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430542623207",
+        "LON": "-49,203904302067",
+        "NOME": "Rua Brasílio de Lara, 281 - Tarumã",
+        "NUM": "130248",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474661934023",
+        "LON": "-49,218066260249",
+        "NOME": "R. Cap. Leônidas Marques, 1111 - Uberaba",
+        "NUM": "140306",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390573923731",
+        "LON": "-49,211157580357",
+        "NOME": "Rua Júlio Bartolomeu Taborda Luiz, 322 - Tingui",
+        "NUM": "130179",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398714229601",
+        "LON": "-49,207538046627",
+        "NOME": "Rua Alberico Flores Bueno, 481 - Atuba",
+        "NUM": "130184",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405285463033",
+        "LON": "-49,204431224537",
+        "NOME": "Rua Alberico Flores Bueno, 1287 - Bairro Alto",
+        "NUM": "130188",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410306390921",
+        "LON": "-49,204293906746",
+        "NOME": "Rua Albino Kaminski, 423 - Bairro Alto",
+        "NUM": "130192",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "70",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492641526253",
+        "LON": "-49,232463906746",
+        "NOME": "Rua Cel. Luiz José dos Santos, 292 - Boqueirão",
+        "NUM": "140326",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494317894816",
+        "LON": "-49,234119271164",
+        "NOME": "Rua das Carmelitas, 2317 - Boqueirão",
+        "NUM": "140328",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499792475644",
+        "LON": "-49,233999387732",
+        "NOME": "Rua Napoleão Laureano, 591 - Boqueirão",
+        "NUM": "140333",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513643432216",
+        "LON": "-49,265161341105",
+        "NOME": "R. Waldemar Loureiro Campos, 4895 - Xaxim",
+        "NUM": "150321",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50433",
+        "LON": "-49,29059",
+        "NOME": "Rua Ipiranga, 657 - Capão Raso",
+        "NUM": "150356",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378062534047",
+        "LON": "-49,22008204574",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 59 - Tingui",
+        "NUM": "130918",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49549089456",
+        "LON": "-49,295826472387",
+        "NOME": "Rua Antônio Gasparin, 5556 -Novo Mundo",
+        "NUM": "170171",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501310905969",
+        "LON": "-49,237825154596",
+        "NOME": "Terminal Carmo - 030 - Interbairros III",
+        "NUM": "104907",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "58",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482781951957",
+        "LON": "-49,217795462555",
+        "NOME": "Rua Henrique Mehl, 591 - Uberaba",
+        "NUM": "140314",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390808769904",
+        "LON": "-49,211258775463",
+        "NOME": "Rua Júlio Bartolomeu Taborda Luiz, 321 - Tingui",
+        "NUM": "130180",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406052446412",
+        "LON": "-49,204231224537",
+        "NOME": "Rua Alberico Flores Bueno, 1446 - Bairro Alto",
+        "NUM": "130189",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408560308952",
+        "LON": "-49,203060961971",
+        "NOME": "Rua Alberico Flores Bueno, 1766 - Bairro Alto",
+        "NUM": "130191",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42155",
+        "LON": "-49,20215",
+        "NOME": "Rua José de Oliveira Franco, 2676 - Bairro Alto",
+        "NUM": "130199",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442523357128",
+        "LON": "-49,208134139881",
+        "NOME": "Rua Paulo Kissula, 121 - Capão da Imbuia",
+        "NUM": "130261",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509127694923",
+        "LON": "-49,251998163195",
+        "NOME": "R. Waldemar Loureiro Campos, 3042 - Boqueirão",
+        "NUM": "150313",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510865792969",
+        "LON": "-49,275992682209",
+        "NOME": "Rua Omar Raymundo Picheth, 913 - Xaxim",
+        "NUM": "150326",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513453411248",
+        "LON": "-49,264856910382",
+        "NOME": "R. Waldemar Loureiro Campos, 4574 - Xaxim",
+        "NUM": "150320",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "68",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37843330976",
+        "LON": "-49,220293940252",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 592 - Tingui",
+        "NUM": "130919",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501341193047",
+        "LON": "-49,237596834988",
+        "NOME": "Terminal Carmo - 030 - Interbairros III",
+        "NUM": "104905",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424217778594",
+        "LON": "-49,203291417307",
+        "NOME": "Rua Pedro Eloy da Souza, 1543 - Bairro Alto",
+        "NUM": "130242",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483214147747",
+        "LON": "-49,220186651892",
+        "NOME": "Rua Henrique Mehl, 280 - Uberaba",
+        "NUM": "140316",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408620926872",
+        "LON": "-49,202871457672",
+        "NOME": "Rua Alberico Flores Bueno, 1767 - Bairro Alto",
+        "NUM": "130190",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420799690065",
+        "LON": "-49,202300961971",
+        "NOME": "Rua José de Oliveira Franco, 2581 - Bairro Alto",
+        "NUM": "130198",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451643397876",
+        "LON": "-49,211071341105",
+        "NOME": "R. dos Ferroviários, 381 - Cajuru",
+        "NUM": "140243",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4576506258",
+        "LON": "-49,216580233135",
+        "NOME": "R. Luiz França, 2227 - Cajuru",
+        "NUM": "140248",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50511",
+        "LON": "-49,24161",
+        "NOME": "Rua Waldemar Loureiro Campos, 1927 - Boqueirão",
+        "NUM": "150305",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506163111257",
+        "LON": "-49,244276705523",
+        "NOME": "R. Waldemar Loureiro Campos, 2181 - Boqueirão",
+        "NUM": "150307",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497972475076",
+        "LON": "-49,294922565641",
+        "NOME": "Rua Ver. Adeodato Volpi, 59 - Capão Raso",
+        "NUM": "150362",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493928736722",
+        "LON": "-49,295499154596",
+        "NOME": "Rua Antônio Gasparin, 5452 - Novo Mundo",
+        "NUM": "170170",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491776630799",
+        "LON": "-49,29325673098",
+        "NOME": "Terminal Capão Raso - 030 - Interbairros III",
+        "NUM": "104815",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "81",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48415426193",
+        "LON": "-49,223540262566",
+        "NOME": "Av. Sen. Salgado Filho, 4704 - Uberaba",
+        "NUM": "140319",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495372999651",
+        "LON": "-49,29250685152",
+        "NOME": "Rua Paulinas, 109 - Capão Raso",
+        "NUM": "150361",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490648582864",
+        "LON": "-49,228626674938",
+        "NOME": "Rua Rodolfo Bernardelli, 506 - Uberaba",
+        "NUM": "140323",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377202088851",
+        "LON": "-49,223770788851",
+        "NOME": "Terminal Santa Cândida - 030 - Interbairros III",
+        "NUM": "105907",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "82",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428119067247",
+        "LON": "-49,204321385569",
+        "NOME": "Rua Brasílio de Lara, 1 - Bairro Alto",
+        "NUM": "130246",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482958704485",
+        "LON": "-49,218110622114",
+        "NOME": "Rua Henrique Mehl, 542 - Uberaba",
+        "NUM": "140315",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479105157313",
+        "LON": "-49,215390233135",
+        "NOME": "R. Cap. Leônidas Marques, 1701 - Uberaba",
+        "NUM": "140310",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507137059775",
+        "LON": "-49,246699883432",
+        "NOME": "R. Waldemar Loureiro Campos, 2443 - Boqueirão",
+        "NUM": "150309",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50804636886",
+        "LON": "-49,248924519014",
+        "NOME": "R. Waldemar Loureiro Campos, 2761 - Boqueirão",
+        "NUM": "150310",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513013173637",
+        "LON": "-49,26255524785",
+        "NOME": "R. Waldemar Loureiro Campos, 4361 - Xaxim",
+        "NUM": "150319",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511347896532",
+        "LON": "-49,278959038029",
+        "NOME": "Rua Barão de Santo Ângelo, 662 - Xaxim",
+        "NUM": "150350",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50317",
+        "LON": "-49,29135",
+        "NOME": "Rua Elói Orestes Zeglin, 2 - Capão Raso",
+        "NUM": "150355",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382011358062",
+        "LON": "-49,218588055319",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 1036 - Atuba",
+        "NUM": "130920",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415861256104",
+        "LON": "-49,204796136564",
+        "NOME": "Rua José de Oliveira Franco, 1942 - Bairro Alto",
+        "NUM": "103194",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398503389626",
+        "LON": "-49,207785916672",
+        "NOME": "Rua Alberico Flores Bueno, 480 - Atuba",
+        "NUM": "130183",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437634844356",
+        "LON": "-49,207917784061",
+        "NOME": "Rua Eng. Alberto M. de Carvalho, 1136 - Capão da Imbuia",
+        "NUM": "130256",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445488201823",
+        "LON": "-49,206174635582",
+        "NOME": "R. da Trindade, 172 - Cajuru",
+        "NUM": "140235",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48849789423",
+        "LON": "-49,22558475215",
+        "NOME": "Rua Rodolfo Bernardelli, 248 - Uberaba",
+        "NUM": "140320",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491781789794",
+        "LON": "-49,230569271164",
+        "NOME": "Rua Cel. Luiz José dos Santos, 1 - Boqueirão",
+        "NUM": "140325",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508181901835",
+        "LON": "-49,249640728836",
+        "NOME": "R. Waldemar Loureiro Campos, 2880 - Boqueirão",
+        "NUM": "150311",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512798472326",
+        "LON": "-49,26223682209",
+        "NOME": "R. Waldemar Loureiro Campos, 4362 - Xaxim",
+        "NUM": "150318",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512402796898",
+        "LON": "-49,27368475215",
+        "NOME": "Rua Omar Raymundo Picheth, 1151 - Xaxim",
+        "NUM": "150325",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49763968388",
+        "LON": "-49,294029620867",
+        "NOME": "Rua Prof. João Mazzarotto, 117 - Capão Raso",
+        "NUM": "150360",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "79",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41282",
+        "LON": "-49,20506",
+        "NOME": "Terminal Bairro Alto - 030 - Interbairros III",
+        "NUM": "104006",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "69",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415742547887",
+        "LON": "-49,204687507099",
+        "NOME": "Rua José de Oliveira Franco, 1941 - Bairro Alto",
+        "NUM": "103195",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48234128014",
+        "LON": "-49,214543284124",
+        "NOME": "R. Henrique Mehl, 920 - Uberaba",
+        "NUM": "140312",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44066",
+        "LON": "-49,20699",
+        "NOME": "Rua Paulo Kissula, 396 - Capão da Imbuia",
+        "NUM": "130259",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514176805527",
+        "LON": "-49,267328046627",
+        "NOME": "R. Waldemar Loureiro Campos, 5087 - Xaxim",
+        "NUM": "150322",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384177764499",
+        "LON": "-49,216223688072",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1361 - Atuba",
+        "NUM": "130922",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41314",
+        "LON": "-49,20568",
+        "NOME": "Terminal Bairro Alto - 030 - Interbairros III",
+        "NUM": "104001",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377202088851",
+        "LON": "-49,223770788851",
+        "NOME": "Terminal Santa Cândida - 030 - Interbairros III",
+        "NUM": "105907",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433486917715",
+        "LON": "-49,209157408422",
+        "NOME": "Rua Pastor Manoel Virgínio de Souza, 1082 - Capão da Imbuia",
+        "NUM": "130253",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455155469048",
+        "LON": "-49,217262798777",
+        "NOME": "R. Roraima, 567 - Cajuru",
+        "NUM": "140246",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396722731001",
+        "LON": "-49,208627813492",
+        "NOME": "Rua Alberico Flores Bueno, 370 - Bairro Alto",
+        "NUM": "130181",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457155550415",
+        "LON": "-49,216922303076",
+        "NOME": "R. Luiz França, 2226 - Cajuru",
+        "NUM": "140247",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50499",
+        "LON": "-49,24171",
+        "NOME": "Rua Waldemar Loureiro Campos, 1926 - Boqueirão",
+        "NUM": "150304",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506117319217",
+        "LON": "-49,244520233135",
+        "NOME": "R. Waldemar Loureiro Campos, 2182 - Boqueirão",
+        "NUM": "150306",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507060950643",
+        "LON": "-49,246883527613",
+        "NOME": "R. Waldemar Loureiro Campos, 2442 - Boqueirão",
+        "NUM": "150308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511903313754",
+        "LON": "-49,258894722719",
+        "NOME": "R. Waldemar Loureiro Campos, 4126 - Xaxim",
+        "NUM": "150316",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500380577777",
+        "LON": "-49,291072682209",
+        "NOME": "Rua Prof. João Mazzarotto, 447 - Capão Raso",
+        "NUM": "150358",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384645451168",
+        "LON": "-49,215775759167",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1466 - Atuba",
+        "NUM": "130923",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504733714901",
+        "LON": "-49,285771356687",
+        "NOME": "Rua Mal. Althayr Roszanniy, 781 - Capão Raso",
+        "NUM": "150238",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385824352791",
+        "LON": "-49,213261188215",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1646 - Atuba",
+        "NUM": "130925",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41301",
+        "LON": "-49,20525",
+        "NOME": "Terminal Bairro Alto - 341 - Bairro Alto / Santa Cândida",
+        "NUM": "104004",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388460785883",
+        "LON": "-49,206953973717",
+        "NOME": "Av. Mal. Mascarenhas de Moraes - Atuba",
+        "NUM": "130518",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405420542752",
+        "LON": "-49,195860357231",
+        "NOME": "Rua Marcílio Dias, 1386 - Bairro Alto",
+        "NUM": "130538",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387247985347",
+        "LON": "-49,210053266233",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 2120 - Atuba",
+        "NUM": "130926",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41301",
+        "LON": "-49,20525",
+        "NOME": "Terminal Bairro Alto - 341 - Bairro Alto / Santa Cândida",
+        "NUM": "104004",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396080190027",
+        "LON": "-49,208395661062",
+        "NOME": "Rua Rio Pelotas, 297 - Bairro Alto",
+        "NUM": "130523",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390939658968",
+        "LON": "-49,204326749987",
+        "NOME": "Rua Rio Japurá, 174 - Atuba",
+        "NUM": "130493",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398503389626",
+        "LON": "-49,207785916672",
+        "NOME": "Rua Alberico Flores Bueno, 480 - Atuba",
+        "NUM": "130183",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37843330976",
+        "LON": "-49,220293940252",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 592 - Tingui",
+        "NUM": "130919",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411565882356",
+        "LON": "-49,201663316435",
+        "NOME": "R. Alberico Flores Bueno, 2184 - Bairro Alto",
+        "NUM": "130542",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377197704395",
+        "LON": "-49,223920932541",
+        "NOME": "Terminal Santa Cândida - 341 - Bairro Alto / Santa Cândida",
+        "NUM": "105911",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398714229601",
+        "LON": "-49,207538046627",
+        "NOME": "Rua Alberico Flores Bueno, 481 - Atuba",
+        "NUM": "130184",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399656960588",
+        "LON": "-49,20146",
+        "NOME": "Rua Rio Guaporé, 1077 - Bairro Alto",
+        "NUM": "130503",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413104124889",
+        "LON": "-49,203865234862",
+        "NOME": "Rua Jornalista Alceu Chichorro, 425 - Bairro Alto",
+        "NUM": "130384",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401083656321",
+        "LON": "-49,206581457672",
+        "NOME": "Rua Alberico Flores Bueno, 800 - Bairro Alto",
+        "NUM": "130185",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39969303942",
+        "LON": "-49,201251341105",
+        "NOME": "Rua Rio Guaporé, 1080 - Bairro Alto",
+        "NUM": "130504",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396148034366",
+        "LON": "-49,208262891716",
+        "NOME": "Rua Rio Pelotas, 298 - Bairro Alto",
+        "NUM": "130524",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391068084046",
+        "LON": "-49,204293222374",
+        "NOME": "Rua Rio Japurá, 177 - Atuba",
+        "NUM": "130494",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396892997924",
+        "LON": "-49,208387434359",
+        "NOME": "Rua Alberico Flores Bueno, 301 - Atuba",
+        "NUM": "130182",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382011358062",
+        "LON": "-49,218588055319",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 1036 - Atuba",
+        "NUM": "130920",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40891",
+        "LON": "-49,20073",
+        "NOME": "Rua Albino Kaminski, 777 - Bairro Alto",
+        "NUM": "130515",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392630982063",
+        "LON": "-49,204063893503",
+        "NOME": "Rua Rio Japurá, 237 - Bairro Alto",
+        "NUM": "130495",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382125252881",
+        "LON": "-49,218861640638",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 1036 - Atuba",
+        "NUM": "130921",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403702747447",
+        "LON": "-49,19545534367",
+        "NOME": "Rua Henrique Corrêa, 1980 - Bairro Alto",
+        "NUM": "130536",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403376872376",
+        "LON": "-49,196383387989",
+        "NOME": "Rua Artur Ramos, 866 - Bairro Alto",
+        "NUM": "130533",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385824352791",
+        "LON": "-49,213261188215",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1646 - Atuba",
+        "NUM": "130925",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393878862851",
+        "LON": "-49,206448377317",
+        "NOME": "Rua Rio Juruá, 516 - Atuba",
+        "NUM": "130520",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392448039233",
+        "LON": "-49,203998179382",
+        "NOME": "Rua Rio Japurá, 244 - Bairro Alto",
+        "NUM": "130496",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401237268728",
+        "LON": "-49,206344868717",
+        "NOME": "Rua Alberico Flores Bueno, 801 - Bairro Alto",
+        "NUM": "130186",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385230662765",
+        "LON": "-49,213965268082",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1659 - Atuba",
+        "NUM": "130924",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384177764499",
+        "LON": "-49,216223688072",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1361 - Atuba",
+        "NUM": "130922",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389378462956",
+        "LON": "-49,203822682209",
+        "NOME": "Estrada da Graciosa, 79 - Atuba",
+        "NUM": "130491",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393792844298",
+        "LON": "-49,206567735619",
+        "NOME": "Rua Rio Juruá, 503 - Atuba",
+        "NUM": "130519",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405338166666",
+        "LON": "-49,195901931471",
+        "NOME": "Rua Marcílio Dias, 1383 - Bairro Alto",
+        "NUM": "130537",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387422454906",
+        "LON": "-49,210283936209",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 2120 - Atuba",
+        "NUM": "130927",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407099548938",
+        "LON": "-49,197129042095",
+        "NOME": "Rua Rio Japurá, 2084 - Bairro Alto",
+        "NUM": "130540",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403680941707",
+        "LON": "-49,195679308123",
+        "NOME": "Rua Henrique Corrêa, 1975 - Bairro Alto",
+        "NUM": "130535",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396722731001",
+        "LON": "-49,208627813492",
+        "NOME": "Rua Alberico Flores Bueno, 370 - Bairro Alto",
+        "NUM": "130181",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389711132922",
+        "LON": "-49,206190885252",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130490",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389546473807",
+        "LON": "-49,206915081686",
+        "NOME": "Rodovia BR476 - Atuba",
+        "NUM": "130488",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407979019043",
+        "LON": "-49,198617668098",
+        "NOME": "Rua Albino Kaminski, 1061 - Bairro Alto",
+        "NUM": "130541",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400567526246",
+        "LON": "-49,203463078684",
+        "NOME": "Rua Rio Guaporé, 920 - Bairro Alto",
+        "NUM": "130527",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413157423637",
+        "LON": "-49,203719054471",
+        "NOME": "Rua Jornalista Alceu Chichorro, 444 - Bairro Alto",
+        "NUM": "130385",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394997098459",
+        "LON": "-49,206720621532",
+        "NOME": "Rua Joaquim da Costa Ribeiro, 385 - Bairro Alto",
+        "NUM": "130522",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40811",
+        "LON": "-49,19855",
+        "NOME": "Rua Albino Kaminski, 1064 - Bairro Alto",
+        "NUM": "130513",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403357489444",
+        "LON": "-49,19630023951",
+        "NOME": "Rua Artur Ramos, 869 - Bairro Alto",
+        "NUM": "130534",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411444481716",
+        "LON": "-49,201551675797",
+        "NOME": "R. Alberico Flores Bueno, 2143 - Bairro Alto",
+        "NUM": "130937",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395037078522",
+        "LON": "-49,206819863266",
+        "NOME": "Rua Joaquim da Costa Ribeiro, 376 - Bairro Alto",
+        "NUM": "130521",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384645451168",
+        "LON": "-49,215775759167",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1466 - Atuba",
+        "NUM": "130923",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389539692577",
+        "LON": "-49,203815364418",
+        "NOME": "Estrada da Graciosa, 80 - Atuba",
+        "NUM": "130492",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407123776851",
+        "LON": "-49,197243035978",
+        "NOME": "Rua Rio Japurá, 2087 - Bairro Alto",
+        "NUM": "130539",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400147606971",
+        "LON": "-49,197783501095",
+        "NOME": "Rua Artur Ramos, 1192 - Bairro Alto",
+        "NUM": "130532",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378062534047",
+        "LON": "-49,22008204574",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 59 - Tingui",
+        "NUM": "130918",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377197704395",
+        "LON": "-49,223920932541",
+        "NOME": "Terminal Santa Cândida - 341 - Bairro Alto / Santa Cândida",
+        "NUM": "105911",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40885",
+        "LON": "-49,20079",
+        "NOME": "Rua Albino Kaminski, 775 - Bairro Alto",
+        "NUM": "130514",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398898120979",
+        "LON": "-49,199231893963",
+        "NOME": "Rua Rio Guaporé, 1320 - Bairro Alto",
+        "NUM": "130529",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398732148365",
+        "LON": "-49,199092419094",
+        "NOME": "Rua Rio Guaporé, 1315 - Bairro Alto",
+        "NUM": "130530",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400453648827",
+        "LON": "-49,203520746178",
+        "NOME": "Rua Rio Guaporé, 923 - Bairro Alto",
+        "NUM": "130528",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401023034848",
+        "LON": "-49,197517962402",
+        "NOME": "Rua Artur Ramos, 1189 - Bairro Alto",
+        "NUM": "130531",
+        "SENTIDO": "Terminal Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "GRUPO": "41863",
+        "LAT": "-25,423631125963",
+        "LON": "-49,202327417696",
+        "NOME": "Estação Tubo China",
+        "NUM": "109015",
+        "SENTIDO": "Detran",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Detran",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41319",
+        "LON": "-49,20581",
+        "NOME": "Terminal Bairro Alto - 340 - Detran/Bairro Alto - 307 - Bairro Alto/Santa Felicidade",
+        "NUM": "109120",
+        "SENTIDO": "Detran",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,43039817484",
+        "LON": "-49,211208067791",
+        "NOME": "Estação Tubo Detran - 307- Bairro Alto / Sta Felicidade - 022 - Inter 2 (Horário)",
+        "NUM": "109024",
+        "SENTIDO": "Detran",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41319",
+        "LON": "-49,20581",
+        "NOME": "Terminal Bairro Alto - 340 - Detran/Bairro Alto - 307 - Bairro Alto/Santa Felicidade",
+        "NUM": "109120",
+        "SENTIDO": "Detran",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    }
+]

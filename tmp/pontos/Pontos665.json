@@ -1,0 +1,712 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435492489918",
+        "LON": "-49,273869902902",
+        "NOME": "Praça Rui Barbosa - 665 - Vila Rex",
+        "NUM": "102005",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4684",
+        "LON": "-49,282072449074",
+        "NOME": "Av. Pres. Kennedy, 2760 - Água Verde",
+        "NUM": "150016",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471857578511",
+        "LON": "-49,285907084656",
+        "NOME": "Av. Pres. Kennedy, 3298 - Água Verde",
+        "NUM": "150020",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514219951253",
+        "LON": "-49,277835588404",
+        "NOME": "Rua Primeiro de Maio, 975 - Xaxim",
+        "NUM": "150728",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500766888966",
+        "LON": "-49,284072046801",
+        "NOME": "Rua Bôrtolo Gusso, 716 - Capão Raso",
+        "NUM": "150190",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49013742687",
+        "LON": "-49,28912398748",
+        "NOME": "Rua Maria Trevisan Tortato, 160 - Novo Mundo",
+        "NUM": "150188",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478176609573",
+        "LON": "-49,289502979464",
+        "NOME": "Rua Eduardo Carlos Pereira, 3709 - Portão",
+        "NUM": "150568",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504733714901",
+        "LON": "-49,285771356687",
+        "NOME": "Rua Mal. Althayr Roszanniy, 781 - Capão Raso",
+        "NUM": "150238",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511721829191",
+        "LON": "-49,281404267498",
+        "NOME": "Rua Primeiro de Maio, 497 - Xaxim",
+        "NUM": "150199",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451248049822",
+        "LON": "-49,267590672916",
+        "NOME": "Rua Vinte e Quatro de Maio, 1700 - Rebouças",
+        "NUM": "150181",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511828339332",
+        "LON": "-49,281448523947",
+        "NOME": "Rua Primeiro de Maio, 498 -Xaxim",
+        "NUM": "150727",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "34",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508253310322",
+        "LON": "-49,283609365746",
+        "NOME": "Rua Barão de Santo Ângelo, 86 - Xaxim",
+        "NUM": "150194",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502580134571",
+        "LON": "-49,285135542675",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 186 - Capão Raso",
+        "NUM": "150191",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465042464796",
+        "LON": "-49,277976705523",
+        "NOME": "Av. Pres. Kennedy, 2159 - Guaíra",
+        "NUM": "150013",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468860313802",
+        "LON": "-49,282199067459",
+        "NOME": "Av. Pres. Kennedy, 2731 - Guaíra",
+        "NUM": "150017",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728851113",
+        "LON": "-49,286652099371",
+        "NOME": "Av. Pres. Kennedy, 3399 - Água Verde",
+        "NUM": "150021",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492787725652",
+        "LON": "-49,289407823305",
+        "NOME": "Av. Brasília, 5424 - Novo Mundo",
+        "NUM": "150652",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482045883841",
+        "LON": "-49,290791780895",
+        "NOME": "Rua Eduardo Carlos Pereira, 4086 - Portão",
+        "NUM": "150246",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514045665354",
+        "LON": "-49,277851681658",
+        "NOME": "Rua Primeiro de Maio, 976 - Xaxim",
+        "NUM": "150198",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50814679701",
+        "LON": "-49,281372403427",
+        "NOME": "Rua Hermenegildo Bonat, 323 - Xaxim",
+        "NUM": "150236",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518613324699",
+        "LON": "-49,272125030688",
+        "NOME": "Rua Sebastião Vieira da Rosa, 32 - Xaxim",
+        "NUM": "150195",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489068613255",
+        "LON": "-49,295521856493",
+        "NOME": "Rua Pedro Zagonel, 136 - Novo Mundo",
+        "NUM": "150186",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463483675138",
+        "LON": "-49,276244868717",
+        "NOME": "Av. Pres. Kennedy, 2043 - Portão",
+        "NUM": "150011",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466782195459",
+        "LON": "-49,279901195106",
+        "NOME": "Av. Pres. Kennedy, 2511 - Água Verde",
+        "NUM": "150015",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485806079254",
+        "LON": "-49,292280406898",
+        "NOME": "Avenida Brasília, 4554 - Novo Mundo",
+        "NUM": "150245",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462720313308",
+        "LON": "-49,275764139881",
+        "NOME": "Av. Pres. Kennedy, 1840 - Água Verde",
+        "NUM": "150010",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469951703947",
+        "LON": "-49,283786676092",
+        "NOME": "Av. Pres. Kennedy, 3046 - Água Verde",
+        "NUM": "150018",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448215787776",
+        "LON": "-49,269060523457",
+        "NOME": "Rua Vinte e Quatro de Maio, 1316 - Rebouças",
+        "NUM": "150180",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50559242081",
+        "LON": "-49,287583557043",
+        "NOME": "Rua Ipiranga, 742 - Capão Raso",
+        "NUM": "150357",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515546452302",
+        "LON": "-49,27588562245",
+        "NOME": "Rua Primeiro de Maio, 1168 - Xaxim",
+        "NUM": "150369",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "36",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503825665926",
+        "LON": "-49,287821775003",
+        "NOME": "Rua Martin Wendrichovski, 50 - Capão Raso",
+        "NUM": "150192",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498923354192",
+        "LON": "-49,286123936697",
+        "NOME": "Rua Bôrtolo Gusso, 450 - Capão Raso",
+        "NUM": "150189",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517157356769",
+        "LON": "-49,273215483376",
+        "NOME": "Rua Primeiro de Maio, 1558 - Xaxim",
+        "NUM": "150196",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48984204973",
+        "LON": "-49,290698444172",
+        "NOME": "Avenida Brasília, 4903 - Novo Mundo",
+        "NUM": "150244",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488940292626",
+        "LON": "-49,29295632357",
+        "NOME": "Travessa Augusto Marach, 199 - Novo Mundo",
+        "NUM": "150187",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485401736775",
+        "LON": "-49,296541095919",
+        "NOME": "Rua Isaac Guelmann, 4547 - Novo Mundo",
+        "NUM": "150680",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435492489918",
+        "LON": "-49,273869902902",
+        "NOME": "Praça Rui Barbosa - 665 - Vila Rex",
+        "NUM": "102005",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506240434816",
+        "LON": "-49,282916014715",
+        "NOME": "Rua Omar Raymundo Picheth, 1 - Xaxim",
+        "NUM": "150237",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502609185012",
+        "LON": "-49,285037642046",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 185 - Capão Raso",
+        "NUM": "150239",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464509686549",
+        "LON": "-49,277767055225",
+        "NOME": "Av. Pres. Kennedy, 2192 - Portão",
+        "NUM": "150012",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466311567991",
+        "LON": "-49,279762915344",
+        "NOME": "Av. Pres. Kennedy, 2416 - Água Verde",
+        "NUM": "150014",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495989684013",
+        "LON": "-49,286990991402",
+        "NOME": "Rua Bôrtolo Gusso, 24 - Capão Raso",
+        "NUM": "150071",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479049507417",
+        "LON": "-49,295764596409",
+        "NOME": "Rua Doutor João Tobias Pinto Rebelo, 3862 - Portão",
+        "NUM": "150184",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510212521922",
+        "LON": "-49,283170502134",
+        "NOME": "Rua Hermenegildo Bonat, 570 - Xaxim",
+        "NUM": "150726",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470490313933",
+        "LON": "-49,28399635582",
+        "NOME": "Av. Pres. Kennedy, 3145 - Guaíra",
+        "NUM": "150019",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475125333884",
+        "LON": "-49,287896336264",
+        "NOME": "Rua Ponta Grossa, 551 - Portão",
+        "NUM": "150863",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496935742656",
+        "LON": "-49,286646967455",
+        "NOME": "Rua Bortolo Gusso, 211 - Capão Raso",
+        "NUM": "150242",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473616904179",
+        "LON": "-49,287850495701",
+        "NOME": "Av. Pres. Kennedy, 3568 - Portão",
+        "NUM": "150022",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47614",
+        "LON": "-49,29057",
+        "NOME": "Av. Pres. Kennedy, 3860 - Portão",
+        "NUM": "150024",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45389637276",
+        "LON": "-49,266295165962",
+        "NOME": "Rua 24 de Maio, 2006 - Rebouças",
+        "NUM": "150182",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482442973779",
+        "LON": "-49,295694858974",
+        "NOME": "Rua Isaac Guelmann, 4221 - Novo Mundo",
+        "NUM": "150185",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517312273565",
+        "LON": "-49,273199390121",
+        "NOME": "Rua Primeiro de Maio, 1557 - Xaxim",
+        "NUM": "150440",
+        "SENTIDO": "Vila Rex",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518613324699",
+        "LON": "-49,272125030688",
+        "NOME": "Rua Sebastião Vieira da Rosa, 32 - Xaxim",
+        "NUM": "150195",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516246006259",
+        "LON": "-49,274561952301",
+        "NOME": "Rua Primeiro de Maio, 1369 - Xaxim",
+        "NUM": "150197",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510563525306",
+        "LON": "-49,283147703358",
+        "NOME": "Rua Primeiro de Maio, 261 - Xaxim",
+        "NUM": "150235",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500605898547",
+        "LON": "-49,284069364592",
+        "NOME": "Rua Bôrtolo Gusso, 721 - Capão Raso",
+        "NUM": "150240",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    }
+]

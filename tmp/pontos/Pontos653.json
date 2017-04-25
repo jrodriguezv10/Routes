@@ -1,0 +1,902 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,497524156466",
+        "LON": "-49,335097850508",
+        "NOME": "Rua Artur Martins Franco, 1915 - Cidade Industrial",
+        "NUM": "180159",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500229072571",
+        "LON": "-49,349239383625",
+        "NOME": "Rua R, 638 - Cidade Industrial",
+        "NUM": "180874",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500684204249",
+        "LON": "-49,351664100575",
+        "NOME": "Rua R, 932 - Cidade Industrial",
+        "NUM": "180871",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502791811354",
+        "LON": "-49,354276657105",
+        "NOME": "Rua Águas do Passaúna 10 - São Miguel",
+        "NUM": "180867",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497366303197",
+        "LON": "-49,340995614218",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 17 - Cidade Industrial",
+        "NUM": "180946",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504164699885",
+        "LON": "-49,334786714262",
+        "NOME": "Rua Artur Martins Franco, 2660 - Cidade Industrial",
+        "NUM": "180165",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494860567463",
+        "LON": "-49,337689925575",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4510 - Cidade Industrial",
+        "NUM": "180307",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499512968733",
+        "LON": "-49,344573671485",
+        "NOME": "Rua Antônio Pastre, 188 - Cidade Industrial",
+        "NUM": "180318",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500306607178",
+        "LON": "-49,354298115344",
+        "NOME": "Rua Águas do Passaúna 20 - São Miguel",
+        "NUM": "180868",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51144030943",
+        "LON": "-49,332883686966",
+        "NOME": "R. Des. Cid. Campelo, 4366 - Cidade Industrial",
+        "NUM": "180170",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495022776092",
+        "LON": "-49,339885179686",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 3351 - Cidade Industrial",
+        "NUM": "180947",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504164699885",
+        "LON": "-49,334786714262",
+        "NOME": "Rua Artur Martins Franco, 2660 - Cidade Industrial",
+        "NUM": "180165",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494860567463",
+        "LON": "-49,337689925575",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4510 - Cidade Industrial",
+        "NUM": "180307",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499500864071",
+        "LON": "-49,343004579211",
+        "NOME": "Rua Antônio Pastre, 79 - Cidade Industrial",
+        "NUM": "180320",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511621151705",
+        "LON": "-49,324355976686",
+        "NOME": "Terminal CIC - 653 - Sabará",
+        "NUM": "105208",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507736593892",
+        "LON": "-49,334494353479",
+        "NOME": "Rua Artur Martins Franco, 3028 -- Cidade Industrial",
+        "NUM": "180169",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499445182612",
+        "LON": "-49,344693029786",
+        "NOME": "Rua Antônio Pastre, 187 - Cidade Industrial",
+        "NUM": "180319",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50778016768",
+        "LON": "-49,334576160854",
+        "NOME": "Rua Artur Martins Franco, 3029 - Cidade Industrial",
+        "NUM": "180168",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504861458582",
+        "LON": "-49,356103286508",
+        "NOME": "Rua Águas do Passaúna 01 - São Miguel",
+        "NUM": "180864",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511621151705",
+        "LON": "-49,324355976686",
+        "NOME": "Terminal CIC - 653 - Sabará",
+        "NUM": "105208",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504090864289",
+        "LON": "-49,33471161241",
+        "NOME": "Rua Artur Martins Franco, 2661 - Cidade Industrial",
+        "NUM": "180166",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499958419432",
+        "LON": "-49,347855777687",
+        "NOME": "Estrada Velha do Barigui, 3001 - Cidade Industrial",
+        "NUM": "180396",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500627312884",
+        "LON": "-49,351774071144",
+        "NOME": "Rua R, 931 - Cidade Industrial",
+        "NUM": "180872",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506587669441",
+        "LON": "-49,355877935886",
+        "NOME": "Rua dos Palmenses - São Miguel",
+        "NUM": "180863",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50778016768",
+        "LON": "-49,334576160854",
+        "NOME": "Rua Artur Martins Franco, 3029 - Cidade Industrial",
+        "NUM": "180168",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497382529504",
+        "LON": "-49,340903068448",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 18 - Cidade Industrial",
+        "NUM": "180312",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500306607178",
+        "LON": "-49,354298115344",
+        "NOME": "Rua Águas do Passaúna 20 - São Miguel",
+        "NUM": "180868",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497524156466",
+        "LON": "-49,335097850508",
+        "NOME": "Rua Artur Martins Franco, 1915 - Cidade Industrial",
+        "NUM": "180159",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500976413334",
+        "LON": "-49,34825542683",
+        "NOME": "Estrada Velha do Barigui, 3041 - Cidade Industrial",
+        "NUM": "180398",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495022776092",
+        "LON": "-49,339885179686",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 3351 - Cidade Industrial",
+        "NUM": "180947",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501875775323",
+        "LON": "-49,334843040651",
+        "NOME": "Rua Artur Martins Franco, 2407 - Cidade Industrial",
+        "NUM": "180164",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505936740553",
+        "LON": "-49,33460164184",
+        "NOME": "Rua Artur Martins Franco, 2811 - Cidade Industrial",
+        "NUM": "180167",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506118300621",
+        "LON": "-49,334671379274",
+        "NOME": "Rua Artur Martins Franco, 2812 - Cidade Industrial",
+        "NUM": "180727",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49512979102",
+        "LON": "-49,340050125981",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 3350 - Cidade Industrial",
+        "NUM": "180313",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501875775323",
+        "LON": "-49,334843040651",
+        "NOME": "Rua Artur Martins Franco, 2407 - Cidade Industrial",
+        "NUM": "180164",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500627312884",
+        "LON": "-49,351774071144",
+        "NOME": "Rua R, 931 - Cidade Industrial",
+        "NUM": "180872",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498746251285",
+        "LON": "-49,352250163245",
+        "NOME": "Rua Jair Silveira, 554 - Cidade Industrial",
+        "NUM": "180870",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500306607178",
+        "LON": "-49,354298115344",
+        "NOME": "Rua Águas do Passaúna 20 - São Miguel",
+        "NUM": "180868",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511621151705",
+        "LON": "-49,324355976686",
+        "NOME": "Terminal CIC - 653 - Sabará",
+        "NUM": "105208",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495708413534",
+        "LON": "-49,335303039497",
+        "NOME": "Rua Artur Martins Franco, 1640 - Cidade Industrial",
+        "NUM": "180157",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497710571187",
+        "LON": "-49,335180998987",
+        "NOME": "Rua Artur Martins Franco, 1916 - Cidade Industrial",
+        "NUM": "180160",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49512979102",
+        "LON": "-49,340050125981",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 3350 - Cidade Industrial",
+        "NUM": "180313",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499535967586",
+        "LON": "-49,346735531951",
+        "NOME": "Rua Antônio Pastre, 345 - Cidade Industrial",
+        "NUM": "180317",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494739516104",
+        "LON": "-49,33787218182",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4511 - Cidade Industrial",
+        "NUM": "180308",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500164918233",
+        "LON": "-49,349136118578",
+        "NOME": "Rua R, 639 - Cidade Industrial",
+        "NUM": "180873",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498746251285",
+        "LON": "-49,352250163245",
+        "NOME": "Rua Jair Silveira, 554 - Cidade Industrial",
+        "NUM": "180870",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511621151705",
+        "LON": "-49,324355976686",
+        "NOME": "Terminal CIC - 653 - Sabará",
+        "NUM": "105208",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501873354439",
+        "LON": "-49,334922165817",
+        "NOME": "Rua Artur Martins Franco, 2408 - Cidade Industrial",
+        "NUM": "180163",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499845846449",
+        "LON": "-49,334969104475",
+        "NOME": "Rua Artur Martins Franco, 2196 - Cidade Industrial",
+        "NUM": "180162",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505936740553",
+        "LON": "-49,33460164184",
+        "NOME": "Rua Artur Martins Franco, 2811 - Cidade Industrial",
+        "NUM": "180167",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494739516104",
+        "LON": "-49,33787218182",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4511 - Cidade Industrial",
+        "NUM": "180308",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505142449352",
+        "LON": "-49,34412047267",
+        "NOME": "Rua Doutor Mário Jorge, 232 - Cidade Industrial",
+        "NUM": "180811",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499500864071",
+        "LON": "-49,343004579211",
+        "NOME": "Rua Antônio Pastre, 79 - Cidade Industrial",
+        "NUM": "180320",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499845846449",
+        "LON": "-49,334969104475",
+        "NOME": "Rua Artur Martins Franco, 2196 - Cidade Industrial",
+        "NUM": "180162",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507736593892",
+        "LON": "-49,334494353479",
+        "NOME": "Rua Artur Martins Franco, 3028 -- Cidade Industrial",
+        "NUM": "180169",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499407658136",
+        "LON": "-49,342985803748",
+        "NOME": "Rua Antônio Pastre, 78 - Cidade Industrial",
+        "NUM": "180321",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495708413534",
+        "LON": "-49,335303039497",
+        "NOME": "Rua Artur Martins Franco, 1640 - Cidade Industrial",
+        "NUM": "180157",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499512968733",
+        "LON": "-49,344573671485",
+        "NOME": "Rua Antônio Pastre, 188 - Cidade Industrial",
+        "NUM": "180318",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506587669441",
+        "LON": "-49,355877935886",
+        "NOME": "Rua dos Palmenses - São Miguel",
+        "NUM": "180863",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504090864289",
+        "LON": "-49,33471161241",
+        "NOME": "Rua Artur Martins Franco, 2661 - Cidade Industrial",
+        "NUM": "180166",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500164918233",
+        "LON": "-49,349136118578",
+        "NOME": "Rua R, 639 - Cidade Industrial",
+        "NUM": "180873",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505050458205",
+        "LON": "-49,347192943096",
+        "NOME": "Rua Doutor Mário Jorge, 500 - Cidade Industrial",
+        "NUM": "180456",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499785323297",
+        "LON": "-49,335053594059",
+        "NOME": "Rua Artur Martins Franco, 2197 - Cidade Industrial",
+        "NUM": "180161",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499619489702",
+        "LON": "-49,346691275502",
+        "NOME": "Rua Antônio Pastre, 346 - Cidade Industrial",
+        "NUM": "180316",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500229072571",
+        "LON": "-49,349239383625",
+        "NOME": "Rua R, 638 - Cidade Industrial",
+        "NUM": "180874",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495697518994",
+        "LON": "-49,335190386719",
+        "NOME": "Rua Artur Martins Franco, 1641 - Cidade Industrial",
+        "NUM": "180158",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497366303197",
+        "LON": "-49,340995614218",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 17 - Cidade Industrial",
+        "NUM": "180946",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502744604455",
+        "LON": "-49,354349076748",
+        "NOME": "Rua Águas do Passaúna 11 - São Miguel",
+        "NUM": "180866",
+        "SENTIDO": "Moradias Corbélia",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497710571187",
+        "LON": "-49,335180998987",
+        "NOME": "Rua Artur Martins Franco, 1916 - Cidade Industrial",
+        "NUM": "180160",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499785323297",
+        "LON": "-49,335053594059",
+        "NOME": "Rua Artur Martins Franco, 2197 - Cidade Industrial",
+        "NUM": "180161",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499619489702",
+        "LON": "-49,346691275502",
+        "NOME": "Rua Antônio Pastre, 346 - Cidade Industrial",
+        "NUM": "180316",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505135186895",
+        "LON": "-49,356175661087",
+        "NOME": "Rua Águas do Passaúna - São Miguel",
+        "NUM": "180865",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51144030943",
+        "LON": "-49,332883686966",
+        "NOME": "R. Des. Cid. Campelo, 4366 - Cidade Industrial",
+        "NUM": "180170",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502479519219",
+        "LON": "-49,343047589063",
+        "NOME": "Rua Doutor Mário Jorge, 231 - Cidade Industrial",
+        "NUM": "180810",
+        "SENTIDO": "Sabará Via Rua Mário Jorge",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501873354439",
+        "LON": "-49,334922165817",
+        "NOME": "Rua Artur Martins Franco, 2408 - Cidade Industrial",
+        "NUM": "180163",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506118300621",
+        "LON": "-49,334671379274",
+        "NOME": "Rua Artur Martins Franco, 2812 - Cidade Industrial",
+        "NUM": "180727",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497382529504",
+        "LON": "-49,340903068448",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 18 - Cidade Industrial",
+        "NUM": "180312",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500684204249",
+        "LON": "-49,351664100575",
+        "NOME": "Rua R, 932 - Cidade Industrial",
+        "NUM": "180871",
+        "SENTIDO": "Terminal CIC Via Rua Mário Jorge",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

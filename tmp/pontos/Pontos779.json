@@ -1,0 +1,502 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,462360734113",
+        "LON": "-49,337683320867",
+        "NOME": "Rua Aírton Greifo, 138- Campo Comprido",
+        "NUM": "180778",
+        "SENTIDO": "Buriti",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461258366777",
+        "LON": "-49,325508571125",
+        "NOME": "Rua Renato Polati, 2 - Campo Comprido",
+        "NUM": "180277",
+        "SENTIDO": "Buriti",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457232218822",
+        "LON": "-49,310776538111",
+        "NOME": "Rua João Alencar Guimarães, 741 - Sta Quiteria",
+        "NUM": "180794",
+        "SENTIDO": "Buriti",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464883691965",
+        "LON": "-49,311505680605",
+        "NOME": "Rua Rezala Simão, 64 - Santa Quitéria",
+        "NUM": "180986",
+        "SENTIDO": "Buriti",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464235904288",
+        "LON": "-49,309628134294",
+        "NOME": "Rua Bocaiúva, 771 - Santa Quitéria",
+        "NUM": "180983",
+        "SENTIDO": "Buriti",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,458990216184",
+        "LON": "-49,30234107791",
+        "NOME": "Av. Pres. Arthur da S. Bernardes, 631 - Portão",
+        "NUM": "180990",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465448524428",
+        "LON": "-49,317919642872",
+        "NOME": "Rua Professor Brasílio Ovídio da Costa, 2838 - Portão",
+        "NUM": "180815",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462132072478",
+        "LON": "-49,313504726833",
+        "NOME": "Rua Reinaldo Pazello, 1156 - Santa Quitéria",
+        "NUM": "180649",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461105799415",
+        "LON": "-49,32572717116",
+        "NOME": "Rua Renato Polati, 3 - Campo Comprido",
+        "NUM": "180276",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460589148875",
+        "LON": "-49,333331286907",
+        "NOME": "Rua Renato Polati, 748 - Campo Comprido",
+        "NUM": "180992",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462465521219",
+        "LON": "-49,307001382113",
+        "NOME": "Rua Prof. Brasílio Ovídio da Costa, 1661 - Portão",
+        "NUM": "180993",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462055789375",
+        "LON": "-49,313614697403",
+        "NOME": "Rua Reinaldo Pazello, 1155 - Santa Quitéria",
+        "NUM": "180749",
+        "SENTIDO": "Buriti",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460594909412",
+        "LON": "-49,304376369043",
+        "NOME": "Rua Professor Ulisses Vieira, 1445 - Vila Izabel",
+        "NUM": "180981",
+        "SENTIDO": "Buriti",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460421756595",
+        "LON": "-49,304298584982",
+        "NOME": "Rua Professor Ulisses Vieira, 1444 - Vila Izabel",
+        "NUM": "180982",
+        "SENTIDO": "Buriti",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463380444638",
+        "LON": "-49,317737252659",
+        "NOME": "Rua Reinaldo Pazello, 1600 - Santa Quitéria",
+        "NUM": "180813",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460369598633",
+        "LON": "-49,325280583359",
+        "NOME": "Rua Nelson Ferreira da Luz, 303 - Campo Comprido",
+        "NUM": "180781",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46522862446",
+        "LON": "-49,319643974304",
+        "NOME": "Rua Adalberto Gilardi da Silva, 39 - Santa Quitéria",
+        "NUM": "180988",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,459154827989",
+        "LON": "-49,302285422073",
+        "NOME": "Av. Pres. Arthur da S. Bernardes, 631 - Portão",
+        "NUM": "180989",
+        "SENTIDO": "Buriti",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460709017646",
+        "LON": "-49,333383589983",
+        "NOME": "Rua Renato Polati, 747 - Campo Comprido",
+        "NUM": "180991",
+        "SENTIDO": "Buriti",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46522862446",
+        "LON": "-49,319643974304",
+        "NOME": "Rua Adalberto Gilardi da Silva, 39 - Santa Quitéria",
+        "NUM": "180988",
+        "SENTIDO": "Buriti",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457566424501",
+        "LON": "-49,32376647637",
+        "NOME": "Rua Reinaldo Richter, 231 - Campo Comprido",
+        "NUM": "180785",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459834397211",
+        "LON": "-49,320054299093",
+        "NOME": "Rua João Alencar Guimarães, 1657 - Santa Quitéria",
+        "NUM": "180789",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458061013159",
+        "LON": "-49,314022734761",
+        "NOME": "Rua João Alencar Guimarães, 1070 - Santa Quitéria)",
+        "NUM": "180793",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462586330549",
+        "LON": "-49,315415800756",
+        "NOME": "Rua Reinaldo Pazello, 1281 - Santa Quitéria",
+        "NUM": "180798",
+        "SENTIDO": "Buriti",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457069433419",
+        "LON": "-49,307369173712",
+        "NOME": "Rua Curupaitis, 332- Santa Quitéria",
+        "NUM": "180796",
+        "SENTIDO": "Buriti",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46013711324",
+        "LON": "-49,325147814013",
+        "NOME": "Rua Nelson Ferreira da Luz, 302 - Campo Comprido",
+        "NUM": "180780",
+        "SENTIDO": "Buriti",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458604151435",
+        "LON": "-49,321591204859",
+        "NOME": "Rua Frederico Müller, 542- Campo Comprido",
+        "NUM": "180786",
+        "SENTIDO": "Buriti",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462423128009",
+        "LON": "-49,307563304901",
+        "NOME": "Rua Francisco Carvalho de Oliveira, 250 - Santa Quitéria",
+        "NUM": "180994",
+        "SENTIDO": "Buriti",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464383624402",
+        "LON": "-49,309613382145",
+        "NOME": "Rua Bocaiúva, 772 - Santa Quitéria",
+        "NUM": "180984",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457687513285",
+        "LON": "-49,32375172422",
+        "NOME": "Rua Reinaldo Richter, 232 - Campo Comprido",
+        "NUM": "180784",
+        "SENTIDO": "Buriti",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460832988268",
+        "LON": "-49,336754206594",
+        "NOME": "Rua Renato Polati, 1145 - Campo Comprido",
+        "NUM": "180268",
+        "SENTIDO": "Buriti",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458909499433",
+        "LON": "-49,302967668718",
+        "NOME": "Rua Reinaldo Pazello, 2 - Santa Quitéria",
+        "NUM": "180987",
+        "SENTIDO": "Buriti",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457059061168",
+        "LON": "-49,310616946674",
+        "NOME": "Rua João Alencar Guimarães, 740 -Sta Quiteria",
+        "NUM": "180795",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460702215793",
+        "LON": "-49,336283478912",
+        "NOME": "Rua Renato Polati, 1086 - Campo Comprido",
+        "NUM": "180267",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465337129935",
+        "LON": "-49,318079234308",
+        "NOME": "Rua Professor Brasílio Ovídio da Costa, 2837 - Portão",
+        "NUM": "180814",
+        "SENTIDO": "Buriti",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46099076834",
+        "LON": "-49,328591770388",
+        "NOME": "Rua Renato Polati, 222 - Campo Comprido",
+        "NUM": "180273",
+        "SENTIDO": "Buriti",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462360734113",
+        "LON": "-49,337683320867",
+        "NOME": "Rua Aírton Greifo, 138- Campo Comprido",
+        "NUM": "180778",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462695112932",
+        "LON": "-49,315454692787",
+        "NOME": "Rua Reinaldo Pazello, 1282 - Santa Quitéria",
+        "NUM": "180799",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457122027616",
+        "LON": "-49,325407988287",
+        "NOME": "Rua Nelson Ferreira da Luz, 3 - Campo Comprido",
+        "NUM": "180783",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464911540703",
+        "LON": "-49,311249529644",
+        "NOME": "Rua Rezala Simão, 65 - Santa Quitéria",
+        "NUM": "180985",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459909470858",
+        "LON": "-49,319819605804",
+        "NOME": "Rua João Alencar Guimarães, 1658- Santa Quitéria",
+        "NUM": "180788",
+        "SENTIDO": "Buriti",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458245731008",
+        "LON": "-49,314248657681",
+        "NOME": "Rua João Alencar Guimarães, 1071 - Santa Quitéria",
+        "NUM": "180792",
+        "SENTIDO": "Buriti",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455564283439",
+        "LON": "-49,305581481403",
+        "NOME": "Rua João Alencar Guimarães, 182 - Santa Quitéria",
+        "NUM": "180646",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458414043436",
+        "LON": "-49,321553653933",
+        "NOME": "Rua Frederico Müller, 541 - Campo Comprido",
+        "NUM": "180787",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457339988146",
+        "LON": "-49,325267172314",
+        "NOME": "Rua Nelson Ferreira da Luz, 2 - Campo Comprido",
+        "NUM": "180782",
+        "SENTIDO": "Buriti",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458842694168",
+        "LON": "-49,316230810143",
+        "NOME": "Rua João Alencar Guimarães, 1284 - Santa Quitéria",
+        "NUM": "180790",
+        "SENTIDO": "Buriti",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460863628602",
+        "LON": "-49,328575677134",
+        "NOME": "Rua Renato Polati, 223 - Campo Comprido",
+        "NUM": "180274",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456232018023",
+        "LON": "-49,307820743776",
+        "NOME": "Rua João Alencar Guimarães, 404 - Santa Quitéria",
+        "NUM": "180797",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460594909412",
+        "LON": "-49,304376369043",
+        "NOME": "Rua Professor Ulisses Vieira, 1445 - Vila Izabel",
+        "NUM": "180981",
+        "SENTIDO": "Vila Velha",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,466439773669",
+        "LON": "-49,203044023314",
+        "NOME": "Rua Amador Bueno, 996 - Cajuru",
+        "NUM": "140396",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45900394563",
+        "LON": "-49,207410612268",
+        "NOME": "Rua Natal, 1761 - Cajuru",
+        "NUM": "140364",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45407",
+        "LON": "-49,20905",
+        "NOME": "Rua Natal, 1059 - Cajuru",
+        "NUM": "140368",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461404488255",
+        "LON": "-49,203309417162",
+        "NOME": "Rua Sebastião Marcos Luís, 1377 - Cajuru",
+        "NUM": "140354",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460479373748",
+        "LON": "-49,206305976687",
+        "NOME": "Rua Niterói, 1107 - Cajuru",
+        "NUM": "140362",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45643",
+        "LON": "-49,20819",
+        "NOME": "Rua Natal, 1447 - Cajuru",
+        "NUM": "140366",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467018360599",
+        "LON": "-49,205428679128",
+        "NOME": "Rua Amador Bueno, 797 - Cajuru",
+        "NUM": "140394",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,45114",
+        "LON": "-49,21508",
+        "NOME": "Terminal Oficinas - 322 - Camargo",
+        "NUM": "105608",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459846993557",
+        "LON": "-49,203810612269",
+        "NOME": "Rua Niterói, 1347 - Cajuru",
+        "NUM": "140361",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453522187987",
+        "LON": "-49,211603906746",
+        "NOME": "Rua Roraima, 1215 - Cajuru",
+        "NUM": "140654",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469153461653",
+        "LON": "-49,208137016733",
+        "NOME": "Terminal Centenário - 322 - Camargo",
+        "NUM": "105107",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465991447122",
+        "LON": "-49,200700262566",
+        "NOME": "Rua Amador Bueno, 1238 - Cajuru",
+        "NUM": "140397",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46486",
+        "LON": "-49,19895",
+        "NOME": "Rua da Trindade, Cajuru",
+        "NUM": "140653",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46588",
+        "LON": "-49,20073",
+        "NOME": "Rua Amador Bueno, 1238 - Cajuru",
+        "NUM": "140398",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,45114",
+        "LON": "-49,21508",
+        "NOME": "Terminal Oficinas - 322 - Camargo",
+        "NUM": "105608",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467141861457",
+        "LON": "-49,205399968133",
+        "NOME": "Rua Amador Bueno, 797 - Cajuru",
+        "NUM": "140685",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462768789164",
+        "LON": "-49,203409038029",
+        "NOME": "Rua Fortaleza, 2156 - Cajuru",
+        "NUM": "140349",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464634302415",
+        "LON": "-49,201055860119",
+        "NOME": "Rua Jordânia, 1279 - Cajuru",
+        "NUM": "140346",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460533987382",
+        "LON": "-49,200884519014",
+        "NOME": "Rua Sebastião Marcos Luís, 1620 - Cajuru",
+        "NUM": "140357",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460625469709",
+        "LON": "-49,20632",
+        "NOME": "Rua Niterói, 1165 - Cajuru",
+        "NUM": "140363",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46656605399",
+        "LON": "-49,203063265047",
+        "NOME": "Rua Amador Bueno, 996 - Cajuru",
+        "NUM": "140395",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459737891335",
+        "LON": "-49,203908658896",
+        "NOME": "Rua Niterói, 1347 - Cajuru",
+        "NUM": "140360",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464596140142",
+        "LON": "-49,201297930059",
+        "NOME": "Rua Jordânia, 1279 - Cajuru",
+        "NUM": "140345",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460611837134",
+        "LON": "-49,200758046627",
+        "NOME": "Rua Sebastião Marcos Luís, 1620 - Cajuru",
+        "NUM": "140356",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459119143352",
+        "LON": "-49,201892565641",
+        "NOME": "Rua Niterói, 1650 - Cajuru",
+        "NUM": "140358",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453446406531",
+        "LON": "-49,21169524785",
+        "NOME": "Rua Roraima, 1215 - Cajuru",
+        "NUM": "140370",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469153461653",
+        "LON": "-49,208137016733",
+        "NOME": "Terminal Centenário - 322 - Camargo",
+        "NUM": "105107",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46122578297",
+        "LON": "-49,203133294477",
+        "NOME": "Rua Sebastião Marcos Luís, 1377 - Cajuru",
+        "NUM": "140355",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459239728213",
+        "LON": "-49,201832828207",
+        "NOME": "Rua Niterói, 1650 - Cajuru",
+        "NUM": "140359",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45424",
+        "LON": "-49,20913",
+        "NOME": "Rua Natal, 1059 - Cajuru",
+        "NUM": "140369",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46423430223",
+        "LON": "-49,202810991402",
+        "NOME": "Rua Arábia, 175 - Cajuru",
+        "NUM": "140347",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464950811096",
+        "LON": "-49,199021291475",
+        "NOME": "Rua da Trindade, Cajuru",
+        "NUM": "140344",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462749729096",
+        "LON": "-49,203521836805",
+        "NOME": "Rua Fortaleza, 2156 - Cajuru",
+        "NUM": "140353",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45643",
+        "LON": "-49,20835",
+        "NOME": "Rua Natal, 1447 - Cajuru",
+        "NUM": "140367",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458969143288",
+        "LON": "-49,207292565641",
+        "NOME": "Rua Natal, 1761 - Cajuru",
+        "NUM": "140365",
+        "SENTIDO": "Terminal Oficinas",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    }
+]

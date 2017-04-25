@@ -1,0 +1,342 @@
+[
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496640338232",
+        "LON": "-49,27637118136",
+        "NOME": "Estação Xaxim",
+        "NUM": "108206",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50155784025",
+        "LON": "-49,275155364418",
+        "NOME": "Rua José Maria Pinheiro Lima, 127 - Xaxim",
+        "NUM": "150471",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50741",
+        "LON": "-49,27303",
+        "NOME": "Rua Eurico Fonógrafo dos Santos, 1089 - Xaxim",
+        "NUM": "150479",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504975594311",
+        "LON": "-49,274870525131",
+        "NOME": "Rua Capitão Doutor Antônio José, 492 - Xaxim",
+        "NUM": "150475",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496691179013",
+        "LON": "-49,276145875802",
+        "NOME": "Estação Xaxim",
+        "NUM": "108205",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497457579026",
+        "LON": "-49,272390961971",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 117 - Xaxim",
+        "NUM": "150465",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498939683775",
+        "LON": "-49,272818279762",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 238 - Xaxim",
+        "NUM": "150467",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503727001953",
+        "LON": "-49,276476093254",
+        "NOME": "Rua José Maria Pinheiro Lima, 271 - Xaxim",
+        "NUM": "150473",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495989684013",
+        "LON": "-49,286990991402",
+        "NOME": "Rua Bôrtolo Gusso, 24 - Capão Raso",
+        "NUM": "150071",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491900106228",
+        "LON": "-49,293237955517",
+        "NOME": "Terminal Capão Raso - 657 - Xaxim / Capão Raso",
+        "NUM": "104814",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495831789059",
+        "LON": "-49,277655860119",
+        "NOME": "Rua Infante Dom Henrique, 72 - Capão Raso",
+        "NUM": "150221",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50721",
+        "LON": "-49,27288",
+        "NOME": "Rua Eurico Fonógrafo dos Santos, 1086 - Xaxim",
+        "NUM": "150478",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500873686434",
+        "LON": "-49,27373317791",
+        "NOME": "Rua Aníbal Requião, 427 - Xaxim",
+        "NUM": "150469",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49597",
+        "LON": "-49,28082",
+        "NOME": "Rua José Gomes de Abreu, 281 - Capão Raso",
+        "NUM": "150073",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503803443996",
+        "LON": "-49,276624169312",
+        "NOME": "Rua José Maria Pinheiro Lima, 272 - Xaxim",
+        "NUM": "150472",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505217867656",
+        "LON": "-49,273351487102",
+        "NOME": "Rua Capitão Doutor Antônio José, 771 - Xaxim",
+        "NUM": "150477",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498987579057",
+        "LON": "-49,27269046627",
+        "NOME": "Rua Gabriel Freceiro de Miranda, 237 - Xaxim",
+        "NUM": "150466",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508058732165",
+        "LON": "-49,270991457672",
+        "NOME": "Rua Coronel Rivadávia Pereira de Moraes, 237 - Xaxim",
+        "NUM": "150481",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508023948099",
+        "LON": "-49,268559271164",
+        "NOME": "Rua Constantino José de Almeida, 2 - Xaxim",
+        "NUM": "150482",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491900106228",
+        "LON": "-49,293237955517",
+        "NOME": "Terminal Capão Raso - 657 - Xaxim / Capão Raso",
+        "NUM": "104814",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49665548028",
+        "LON": "-49,272501224537",
+        "NOME": "Rua Francisco Derosso, 259 - Xaxim",
+        "NUM": "150074",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50816",
+        "LON": "-49,27101",
+        "NOME": "Rua Coronel Rivadávia Pereira de Moraes, 236 - Xaxim",
+        "NUM": "150480",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504770893719",
+        "LON": "-49,274921341105",
+        "NOME": "Rua Capitão Doutor Antônio José, 491 - Xaxim",
+        "NUM": "150474",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50509873312",
+        "LON": "-49,27346",
+        "NOME": "Rua Capitão Doutor Antônio José, 770 - Xaxim",
+        "NUM": "150476",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496265678061",
+        "LON": "-49,284287324715",
+        "NOME": "Rua José Gomes de Abreu, 702 - Capão Raso",
+        "NUM": "150072",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508023948099",
+        "LON": "-49,268559271164",
+        "NOME": "Rua Constantino José de Almeida, 2 - Xaxim",
+        "NUM": "150482",
+        "SENTIDO": "Xaxim (Jd. Esmeralda)",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500982764849",
+        "LON": "-49,273752623925",
+        "NOME": "Rua Aníbal Requião, 426 - Xaxim",
+        "NUM": "150468",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501663053779",
+        "LON": "-49,275110874834",
+        "NOME": "Rua José Maria Pinheiro Lima, 126 - Xaxim",
+        "NUM": "150470",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    }
+]

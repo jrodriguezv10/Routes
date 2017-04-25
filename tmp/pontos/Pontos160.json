@@ -1,0 +1,792 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,446178041965",
+        "LON": "-49,270925439998",
+        "NOME": "Rua Eng. Rebouças, 2664 - Jardim Botânico",
+        "NUM": "110184",
+        "SENTIDO": "Guanabara",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449942021534",
+        "LON": "-49,27082000784",
+        "NOME": "Rua Lamenha Lins, 1592 - Rebouças",
+        "NUM": "150721",
+        "SENTIDO": "Guanabara",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430217696146",
+        "LON": "-49,279159152809",
+        "NOME": "R. Visc. de Nacar, 866 - Centro",
+        "NUM": "110423",
+        "SENTIDO": "Guanabara",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447519099158",
+        "LON": "-49,272013269232",
+        "NOME": "Rua Lamenha Lins, 1283 - Reboucas",
+        "NUM": "110349",
+        "SENTIDO": "Guanabara",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Guanabara",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411356340595",
+        "LON": "-49,292004139881",
+        "NOME": "R. André Zanetti, 382 -  Vista Alegre",
+        "NUM": "190631",
+        "SENTIDO": "Guanabara",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42014997174",
+        "LON": "-49,283414635582",
+        "NOME": "R. Myltho Anselmo da Silva, 791 - Mercês",
+        "NUM": "110136",
+        "SENTIDO": "Guanabara",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425269379413",
+        "LON": "-49,281517201223",
+        "NOME": "Av. Manoel Ribas, 200 - São Francisco",
+        "NUM": "110138",
+        "SENTIDO": "Guanabara",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454366316417",
+        "LON": "-49,271165800764",
+        "NOME": "Rua Conselheiro Dantas, 1520 - Água Verde",
+        "NUM": "150715",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41915",
+        "LON": "-49,28761",
+        "NOME": "R. Myltho Anselmo da Silva, 1222 - Mercês",
+        "NUM": "110202",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420448788738",
+        "LON": "-49,28440842576",
+        "NOME": "R. Cel. João Guilherme Guimarães, 178 - Mercês",
+        "NUM": "110204",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398409680381",
+        "LON": "-49,293254561972",
+        "NOME": "R. Eng. Agro. Lauro Klas, 106 - Pilarzinho",
+        "NUM": "190896",
+        "SENTIDO": "Guanabara",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Guanabara",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459801406496",
+        "LON": "-49,279672004839",
+        "NOME": "Rua Castro, 699 - Água Verde",
+        "NUM": "150693",
+        "SENTIDO": "Guanabara",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Guanabara",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419372732365",
+        "LON": "-49,28707160367",
+        "NOME": "R. Myltho Anselmo da Silva, 1160 - Mercês",
+        "NUM": "110134",
+        "SENTIDO": "Guanabara",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427651211189",
+        "LON": "-49,280378192625",
+        "NOME": "R. Visc. de Nacar, 549 - São Francisco",
+        "NUM": "110139",
+        "SENTIDO": "Guanabara",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45555",
+        "LON": "-49,27243",
+        "NOME": "R. Silveira Neto, 686 - Água Verde",
+        "NUM": "150225",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433505084673",
+        "LON": "-49,272244305557",
+        "NOME": "Rua José Loureiro - 160-Jd. Mercês / Guanabara",
+        "NUM": "103242",
+        "SENTIDO": "Guanabara",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398512879118",
+        "LON": "-49,291163665637",
+        "NOME": "R. Prof. José Moscalewski, 342 - Pilarzinho",
+        "NUM": "190897",
+        "SENTIDO": "Guanabara",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452151111283",
+        "LON": "-49,269752827223",
+        "NOME": "Rua Lamenha Lins, 1849 - Rebouças",
+        "NUM": "150722",
+        "SENTIDO": "Guanabara",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403924582926",
+        "LON": "-49,289853031912",
+        "NOME": "R. João Tschannerl, 918 - Vista Alegre",
+        "NUM": "190227",
+        "SENTIDO": "Guanabara",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402099119281",
+        "LON": "-49,287760233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190229",
+        "SENTIDO": "Guanabara",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435376223258",
+        "LON": "-49,273590953164",
+        "NOME": "Praça Rui Barbosa - 160 - Jd.Mercês / Guanabara",
+        "NUM": "102007",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459797256162",
+        "LON": "-49,279503001254",
+        "NOME": "Rua Castro, 699 - Água Verde",
+        "NUM": "150692",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456517203979",
+        "LON": "-49,278012493039",
+        "NOME": "Rua Castro, 304 - Água Verde",
+        "NUM": "150694",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449037541015",
+        "LON": "-49,272882933372",
+        "NOME": "Rua Brigadeiro Franco, 3328 - Rebouças",
+        "NUM": "150718",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431664303612",
+        "LON": "-49,271540719959",
+        "NOME": "Av. Mal. Floriano Peixoto - 160 - Jd. Mercês / Guanabara",
+        "NUM": "103276",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428057764996",
+        "LON": "-49,271696557684",
+        "NOME": "Travessa. Nestor de Castro - Centro",
+        "NUM": "101131",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418809380452",
+        "LON": "-49,289110612268",
+        "NOME": "R. Myltho Anselmo da Silva, 1336 - Mercês",
+        "NUM": "190636",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413366392027",
+        "LON": "-49,29079",
+        "NOME": "R. André Zanetti, 100 - Vista Alegre",
+        "NUM": "190632",
+        "SENTIDO": "Guanabara",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408850617951",
+        "LON": "-49,291806326389",
+        "NOME": "R. Antônio Grade, 526 - Vista Alegre",
+        "NUM": "190223",
+        "SENTIDO": "Guanabara",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400343634391",
+        "LON": "-49,287993906746",
+        "NOME": "R. Santa Cecília, 636 - Pilarzinho",
+        "NUM": "190231",
+        "SENTIDO": "Guanabara",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453485781412",
+        "LON": "-49,275919766865",
+        "NOME": "Av. Água Verde, 470 - Água Verde",
+        "NUM": "150230",
+        "SENTIDO": "Guanabara",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445327294412",
+        "LON": "-49,268706142902",
+        "NOME": "Rua Eng. Rebouças, 2417 - Rebouças",
+        "NUM": "110222",
+        "SENTIDO": "Guanabara",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452395501119",
+        "LON": "-49,271341799234",
+        "NOME": "Rua Brigadeiro Franco, 3728 - Rebouças",
+        "NUM": "150716",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45434",
+        "LON": "-49,27595",
+        "NOME": "Rua Silveira Neto, 349 - Água Verde",
+        "NUM": "150224",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41963",
+        "LON": "-49,28528",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110203",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462635199023",
+        "LON": "-49,277920309193",
+        "NOME": "Rua Rio de Janeiro, 1293 - Água Verde",
+        "NUM": "150689",
+        "SENTIDO": "Guanabara",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406562422802",
+        "LON": "-49,291903527613",
+        "NOME": "R. João Tschannerl, 564 - Vista Alegre",
+        "NUM": "190225",
+        "SENTIDO": "Guanabara",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419747577463",
+        "LON": "-49,285307201223",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110135",
+        "SENTIDO": "Guanabara",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461417527108",
+        "LON": "-49,278478220797",
+        "NOME": "Rua Rio de Janeiro, 1157 - Água Verde",
+        "NUM": "150691",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45460578204",
+        "LON": "-49,277152593358",
+        "NOME": "Rua Castro, 51 - Água Verde",
+        "NUM": "150696",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400166843581",
+        "LON": "-49,289200123676",
+        "NOME": "Rua José Domingos M. Carvalho, 124 - Pilarzinho",
+        "NUM": "190216",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "37",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450716175308",
+        "LON": "-49,272117912769",
+        "NOME": "Rua Brigadeiro Franco, 3498 - Rebouças",
+        "NUM": "150717",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454780376666",
+        "LON": "-49,277388265408",
+        "NOME": "Rua Castro, 35 - Água Verde",
+        "NUM": "150697",
+        "SENTIDO": "Guanabara",
+        "SEQ": "36",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456396611367",
+        "LON": "-49,278125305117",
+        "NOME": "Rua Castro, 304 - Água Verde",
+        "NUM": "150695",
+        "SENTIDO": "Guanabara",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Guanabara",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421716676263",
+        "LON": "-49,28331842576",
+        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
+        "NUM": "110032",
+        "SENTIDO": "Guanabara",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4180179975",
+        "LON": "-49,290744868717",
+        "NOME": "R. Jacarezinho, 1357 - Mercês",
+        "NUM": "190635",
+        "SENTIDO": "Guanabara",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418921239142",
+        "LON": "-49,289150262566",
+        "NOME": "R. Myltho Anselmo da Silva, 1287 - Mercês",
+        "NUM": "190637",
+        "SENTIDO": "Guanabara",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462635199023",
+        "LON": "-49,277920309193",
+        "NOME": "Rua Rio de Janeiro, 1293 - Água Verde",
+        "NUM": "150689",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Guanabara",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423419040233",
+        "LON": "-49,282409650297",
+        "NOME": "Rua Visconde de Nacar, 132 - Centro",
+        "NUM": "110137",
+        "SENTIDO": "Guanabara",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4478000484",
+        "LON": "-49,270826391742",
+        "NOME": "Rua Brasílio Itiberê, 2731-2839 - Rebouças",
+        "NUM": "150719",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398389931533",
+        "LON": "-49,291220521434",
+        "NOME": "R. Prof. José Moscalewski, 342 - Pilarzinho",
+        "NUM": "190898",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "38",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Guanabara",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400289631103",
+        "LON": "-49,289244344519",
+        "NOME": "R. José Domingos M Carvalho, 124 - Pilarzinho",
+        "NUM": "190899",
+        "SENTIDO": "Guanabara",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461612473753",
+        "LON": "-49,279029928013",
+        "NOME": "Rua Amazonas, 51 - Água Verde",
+        "NUM": "150690",
+        "SENTIDO": "Guanabara",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415440928516",
+        "LON": "-49,290074139881",
+        "NOME": "R. Jacarezinho, 1639 - Vista Alegre",
+        "NUM": "190633",
+        "SENTIDO": "Guanabara",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45335527419",
+        "LON": "-49,272544023314",
+        "NOME": "Av. Água Verde, 102 - Água Verde",
+        "NUM": "150229",
+        "SENTIDO": "Guanabara",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398409680381",
+        "LON": "-49,293254561972",
+        "NOME": "R. Eng. Agro. Lauro Klas, 106 - Pilarzinho",
+        "NUM": "190896",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Jd Mercês",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,374483433224",
+        "LON": "-49,208182732824",
+        "NOME": "Rua Pernambuco, 137 - Atuba",
+        "NUM": "120228",
+        "SENTIDO": "Banestado",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376896337567",
+        "LON": "-49,224497201224",
+        "NOME": "Terminal Santa Cândida - 231 - Banestado / Califórnia",
+        "NUM": "105906",
+        "SENTIDO": "Banestado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374863328913",
+        "LON": "-49,221240845404",
+        "NOME": "Rua Padre João Wislinski, 621 - Santa Candida",
+        "NUM": "130557",
+        "SENTIDO": "Banestado",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374132033014",
+        "LON": "-49,206484587139",
+        "NOME": "Rua Pernambuco, 309 - Atuba",
+        "NUM": "120229",
+        "SENTIDO": "Banestado",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371806646629",
+        "LON": "-49,207500890482",
+        "NOME": "Rua Marginal Jalisco - Atuba",
+        "NUM": "120200",
+        "SENTIDO": "Banestado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365244361324",
+        "LON": "-49,205619245768",
+        "NOME": "Rua Quintino Bocaiúva, 493 - Campo Pequeno - Colombo - PR",
+        "NUM": "350042",
+        "SENTIDO": "Banestado",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37453",
+        "LON": "-49,22203",
+        "NOME": "Rua Padre João Wislinski, 1048  - Santa Candida",
+        "NUM": "120155",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374617658228",
+        "LON": "-49,219325662798",
+        "NOME": "Estrada Santa Cândida, 111 - Tingui",
+        "NUM": "130566",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366426357081",
+        "LON": "-49,222096130836",
+        "NOME": "Rua Evaldo Hauer, 538 - Santa Candida",
+        "NUM": "130629",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36318183331",
+        "LON": "-49,206950962543",
+        "NOME": "Rua São Sebastião, 345 - Campo Pequeno - Colombo - PR",
+        "NUM": "350043",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374514549384",
+        "LON": "-49,20973683781",
+        "NOME": "Rua Engenheiro Benedito Saddock de Sá, 81 - Atuba",
+        "NUM": "120199",
+        "SENTIDO": "Banestado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370108491871",
+        "LON": "-49,203737676144",
+        "NOME": "Rua Quintino Bocaiúva, 95 - Campo Pequeno - Colombo - PR",
+        "NUM": "350040",
+        "SENTIDO": "Banestado",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36491",
+        "LON": "-49,22042",
+        "NOME": "Estrada Nova de Colombo, 6516 - Santa Candida",
+        "NUM": "130665",
+        "SENTIDO": "Califórnia",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376896337567",
+        "LON": "-49,224497201224",
+        "NOME": "Terminal Santa Cândida - 231 - Banestado / Califórnia",
+        "NUM": "105906",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373729462919",
+        "LON": "-49,214484275526",
+        "NOME": "Rua Máximo João Kop, 507 - Santa Candida",
+        "NUM": "130560",
+        "SENTIDO": "Banestado",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372210377573",
+        "LON": "-49,206317249497",
+        "NOME": "Rua Rondônia, 126 - Campo Pequeno - Colombo - PR",
+        "NUM": "350038",
+        "SENTIDO": "Banestado",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369041401608",
+        "LON": "-49,220305756319",
+        "NOME": "Rodovia Mauro Bernardo Camargo, 5980 - Santa Candida",
+        "NUM": "130551",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374855155458",
+        "LON": "-49,216899604744",
+        "NOME": "Rua Máximo João Kop, 204 - Santa Candida",
+        "NUM": "130558",
+        "SENTIDO": "Banestado",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365969506147",
+        "LON": "-49,215669558036",
+        "NOME": "Estrada Santa Cândida, 1169 - Tingui",
+        "NUM": "130574",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365244361324",
+        "LON": "-49,205619245768",
+        "NOME": "Rua Quintino Bocaiúva, 493 - Campo Pequeno - Colombo - PR",
+        "NUM": "350042",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373148046372",
+        "LON": "-49,221744761456",
+        "NOME": "Rodovia Mauro Bernardo Camargo, 154 - Santa Candida",
+        "NUM": "130664",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367824770694",
+        "LON": "-49,216361567962",
+        "NOME": "Estrada Santa Cândida, 653 - Tingui",
+        "NUM": "130572",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364874811819",
+        "LON": "-49,220575098777",
+        "NOME": "Estrada Nova de Colombo, 6511 - Santa Candida",
+        "NUM": "130553",
+        "SENTIDO": "Califórnia",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368045316251",
+        "LON": "-49,220199809063",
+        "NOME": "Rodovia Mauro Bernardo Camargo, 5942 - Santa Candida",
+        "NUM": "130552",
+        "SENTIDO": "Califórnia",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366347586843",
+        "LON": "-49,222035364418",
+        "NOME": "Rua Evaldo Hauer, 538 - Santa Candida",
+        "NUM": "130584",
+        "SENTIDO": "Califórnia",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366423933474",
+        "LON": "-49,223784581411",
+        "NOME": "Rua Clementina Kulik, 158 - Santa Candida",
+        "NUM": "130585",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372706757913",
+        "LON": "-49,211580784267",
+        "NOME": "Rua Máximo João Kop, 831 - Santa Candida",
+        "NUM": "130562",
+        "SENTIDO": "Banestado",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372590646301",
+        "LON": "-49,20346282481",
+        "NOME": "Rua Rio Grande do Norte, 134 - Campo Pequeno - Colombo - PR",
+        "NUM": "350039",
+        "SENTIDO": "Banestado",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367547270493",
+        "LON": "-49,204735532987",
+        "NOME": "Rua Quintino Bocaiúva, 745 - Campo Pequeno - Colombo - PR",
+        "NUM": "350041",
+        "SENTIDO": "Banestado",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3709111601",
+        "LON": "-49,217020050275",
+        "NOME": "Estrada Santa Cândida, 603 - Tingui",
+        "NUM": "120227",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372880252311",
+        "LON": "-49,218582437027",
+        "NOME": "Estrada Santa Cândida, 308 - Tingui",
+        "NUM": "130571",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364068894326",
+        "LON": "-49,209482967854",
+        "NOME": "Rua São Sebastião,  Campo Pequeno - Colombo - PR",
+        "NUM": "350044",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,37688384829",
+        "LON": "-49,223778514052",
+        "NOME": "Terminal Santa Cândida - 231 - Banestado / Califórnia",
+        "NUM": "105909",
+        "SENTIDO": "Califórnia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373396452098",
+        "LON": "-49,222106859672",
+        "NOME": "Rodovia Mauro Bernardo Camargo, 159 - Santa Candida",
+        "NUM": "130550",
+        "SENTIDO": "Califórnia",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366423933474",
+        "LON": "-49,223784581411",
+        "NOME": "Rua Clementina Kulik, 158 - Santa Candida",
+        "NUM": "130585",
+        "SENTIDO": "Califórnia",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,37688384829",
+        "LON": "-49,223778514052",
+        "NOME": "Terminal Santa Cândida - 231 - Banestado / Califórnia",
+        "NUM": "105909",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364425652277",
+        "LON": "-49,21391807555",
+        "NOME": "Estrada Santa Cândida, 1357 - Tingui",
+        "NUM": "120224",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

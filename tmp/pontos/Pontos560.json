@@ -1,0 +1,342 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,451248049822",
+        "LON": "-49,267590672916",
+        "NOME": "Rua Vinte e Quatro de Maio, 1700 - Rebouças",
+        "NUM": "150181",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456586853654",
+        "LON": "-49,267558652578",
+        "NOME": "Rua Lamenha Lins, 2302 - Centro",
+        "NUM": "150484",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467405743735",
+        "LON": "-49,264311838565",
+        "NOME": "Rua Maria Moscarde Fanini, 52 - Guaíra",
+        "NUM": "150496",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462727162352",
+        "LON": "-49,264636385856",
+        "NOME": "Rua Lamenha Lins, 3071 - Centro",
+        "NUM": "150487",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464205584671",
+        "LON": "-49,264160293756",
+        "NOME": "Rua Antônio Parolim Júnior, 925 - Parolin",
+        "NUM": "150489",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45701373906",
+        "LON": "-49,2636880588",
+        "NOME": "Rua Alferes Poli, 2369 - Centro",
+        "NUM": "150499",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471794214528",
+        "LON": "-49,263193191236",
+        "NOME": "Rua General Zenon Silva, 66 - Guaíra",
+        "NUM": "150495",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14594",
+        "LAT": "-25,474973889693",
+        "LON": "-49,258533150306",
+        "NOME": "Estação Fanny",
+        "NUM": "108209",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434941433399",
+        "LON": "-49,271937371306",
+        "NOME": "Praça Rui Barbosa - 560 - Alferes Poli",
+        "NUM": "102017",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453288321453",
+        "LON": "-49,269221622166",
+        "NOME": "Rua Lamenha Lins, 1888 - Centro",
+        "NUM": "150512",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14594",
+        "LAT": "-25,474973889693",
+        "LON": "-49,258533150306",
+        "NOME": "Estação Fanny",
+        "NUM": "108209",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448215787776",
+        "LON": "-49,269060523457",
+        "NOME": "Rua Vinte e Quatro de Maio, 1316 - Rebouças",
+        "NUM": "150180",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455338411019",
+        "LON": "-49,268209088264",
+        "NOME": "Rua Lamenha Lins, 2021 - Centro",
+        "NUM": "150483",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471113773761",
+        "LON": "-49,262206138319",
+        "NOME": "Rua Antônio Melilo, 73 - Parolin",
+        "NUM": "150494",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472579985643",
+        "LON": "-49,260783226437",
+        "NOME": "Rua Antônio Barrichelo, 249 - Fanny",
+        "NUM": "150493",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454753539646",
+        "LON": "-49,26476244968",
+        "NOME": "Rua Alferes Poli, 2147 - Centro",
+        "NUM": "150611",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434941433399",
+        "LON": "-49,271937371306",
+        "NOME": "Praça Rui Barbosa - 560 - Alferes Poli",
+        "NUM": "102017",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458193704989",
+        "LON": "-49,26681568068",
+        "NOME": "Rua Lamenha Lins, 2575 - Centro",
+        "NUM": "150485",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460413231495",
+        "LON": "-49,265614051042",
+        "NOME": "Rua Lamenha Lins, 2841 - Centro",
+        "NUM": "150497",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460820079705",
+        "LON": "-49,265545654712",
+        "NOME": "Rua Lamenha Lins, 2840 - Centro",
+        "NUM": "150486",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445327294412",
+        "LON": "-49,268706142902",
+        "NOME": "Rua Eng. Rebouças, 2417 - Rebouças",
+        "NUM": "110222",
+        "SENTIDO": "Estação Fanny",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458786474846",
+        "LON": "-49,262840480751",
+        "NOME": "Rua Alferes Poli, 2503 - Centro",
+        "NUM": "150498",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462287627889",
+        "LON": "-49,264719534335",
+        "NOME": "Rua Lamenha Lins, 3072 - Centro",
+        "NUM": "150488",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464290342158",
+        "LON": "-49,264101285157",
+        "NOME": "Rua Antônio Parolim Júnior, 926 - Parolin",
+        "NUM": "150490",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466887524737",
+        "LON": "-49,264160293756",
+        "NOME": "Rua Maria Moscarde Fanini, 49 - Guaíra",
+        "NUM": "150492",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

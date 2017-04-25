@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,54317",
+        "LON": "-49,26844",
+        "NOME": "Rua Tijucas do Sul, 1471 - Sítio Cercado",
+        "NUM": "160084",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55239",
+        "LON": "-49,25197",
+        "NOME": "Rua Guacui, 110 - Sítio Cercado",
+        "NUM": "160183",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555817419375",
+        "LON": "-49,267266996365",
+        "NOME": "Rua Radialista Souza Moreno, 247 - Osternack",
+        "NUM": "160773",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55858",
+        "LON": "-49,25922",
+        "NOME": "Rua Domingos J. Velho, 22 - Ganchinho",
+        "NUM": "160220",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54929",
+        "LON": "-49,25715",
+        "NOME": "Rua Tijucas do Sul, 130 - Sítio Cercado",
+        "NUM": "160223",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556728690493",
+        "LON": "-49,267528653145",
+        "NOME": "Rua Odinir Polydoro, 545 Osternack",
+        "NUM": "160771",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540093195488",
+        "LON": "-49,271327434359",
+        "NOME": "Rua Tijucas do Sul, 1368 - Sítio Cercado",
+        "NUM": "160463",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54678",
+        "LON": "-49,26235",
+        "NOME": "Rua Tijucas do Sul, 715 - Sítio Cercado",
+        "NUM": "160181",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555022383134",
+        "LON": "-49,252649721401",
+        "NOME": "Rua Eduardo Pinto da Rocha, 3119 - Sitio Cercado",
+        "NUM": "160751",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557187580231",
+        "LON": "-49,257190116568",
+        "NOME": "Rua Lúcio de Oliveira Lara, 445 - Ganchinho",
+        "NUM": "160192",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55492",
+        "LON": "-49,26325",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 190 - Osternack",
+        "NUM": "160195",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554267740827",
+        "LON": "-49,264670058861",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 22 - Osternack",
+        "NUM": "160196",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548221156887",
+        "LON": "-49,25973839633",
+        "NOME": "Rua Tijucas do Sul, 375 - Sítio Cercado",
+        "NUM": "160464",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556728690493",
+        "LON": "-49,267528653145",
+        "NOME": "Rua Odinir Polydoro, 545 Osternack",
+        "NUM": "160771",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538372100743",
+        "LON": "-49,271995635582",
+        "NOME": "Rua Tijucas do Sul, 985 - Sítio Cercado",
+        "NUM": "160019",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54803",
+        "LON": "-49,25948",
+        "NOME": "Rua Tijucas do Sul, 378 - Sítio Cercado",
+        "NUM": "160094",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557187580231",
+        "LON": "-49,257190116568",
+        "NOME": "Rua Lúcio de Oliveira Lara, 445 - Ganchinho",
+        "NUM": "160192",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55871",
+        "LON": "-49,26409",
+        "NOME": "Rua Odinir Polydoro, 123 - Osternack",
+        "NUM": "160199",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55112",
+        "LON": "-49,25443",
+        "NOME": "Rua Guacui, 350 - Sítio Cercado",
+        "NUM": "160466",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548221156887",
+        "LON": "-49,25973839633",
+        "NOME": "Rua Tijucas do Sul, 375 - Sítio Cercado",
+        "NUM": "160464",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54516",
+        "LON": "-49,26536",
+        "NOME": "Rua Tijucas do Sul, 1081 - Sítio Cercado",
+        "NUM": "160179",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552490611873",
+        "LON": "-49,251899918632",
+        "NOME": "Rua Guacui, 109 - Sítio Cercado",
+        "NUM": "160467",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534265877458",
+        "LON": "-49,267778424572",
+        "NOME": "Terminal Sítio Cercado - 548 - Osternack / Sítio Cercado",
+        "NUM": "106106",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686",
+        "LON": "-49,27271",
+        "NOME": "Rua Tijucas do Sul, 787 - Sítio Cercado",
+        "NUM": "160017",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54011",
+        "LON": "-49,27119",
+        "NOME": "Rua Tijucas do Sul, 1363 - Sítio Cercado",
+        "NUM": "160020",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54151",
+        "LON": "-49,27056",
+        "NOME": "Rua Tijucas do Sul, 1401 - Sítio Cercado",
+        "NUM": "160097",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550976016389",
+        "LON": "-49,254456296959",
+        "NOME": "Rua Guacui, 349 - Sítio Cercado",
+        "NUM": "160182",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55433",
+        "LON": "-49,25821",
+        "NOME": "Rua Lúcio de Oliveira Lara, 101 - Osternack",
+        "NUM": "160193",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55391",
+        "LON": "-49,26049",
+        "NOME": "Rua Hussein Ibrahim Omairy, 262 - Osternack",
+        "NUM": "160194",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55492",
+        "LON": "-49,26325",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 190 - Osternack",
+        "NUM": "160195",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556861457082",
+        "LON": "-49,261999038029",
+        "NOME": "Rua Helena de Almeida, 279 - Ganchinho",
+        "NUM": "160218",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534265877458",
+        "LON": "-49,267778424572",
+        "NOME": "Terminal Sítio Cercado - 548 - Osternack / Sítio Cercado",
+        "NUM": "106106",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54971",
+        "LON": "-49,25693",
+        "NOME": "Rua Tijucas do Sul, 5 - Sítio Cercado",
+        "NUM": "160465",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54678",
+        "LON": "-49,26235",
+        "NOME": "Rua Tijucas do Sul, 715 - Sítio Cercado",
+        "NUM": "160181",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54971",
+        "LON": "-49,25693",
+        "NOME": "Rua Tijucas do Sul, 5 - Sítio Cercado",
+        "NUM": "160465",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55779",
+        "LON": "-49,26046",
+        "NOME": "Rua Geraldo Micheletto Pelanda, 644 - Ganchinho",
+        "NUM": "160219",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55858",
+        "LON": "-49,25922",
+        "NOME": "Rua Domingos J. Velho, 22 - Ganchinho",
+        "NUM": "160220",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553376899426",
+        "LON": "-49,251080629128",
+        "NOME": "Rua Eduardo Pinto da Rocha, 2970 - Sitio Cercado",
+        "NUM": "160749",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54489",
+        "LON": "-49,26516",
+        "NOME": "Rua Tijucas do Sul, 1070 - Sítio Cercado",
+        "NUM": "160096",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552490611873",
+        "LON": "-49,251899918632",
+        "NOME": "Rua Guacui, 109 - Sítio Cercado",
+        "NUM": "160467",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540093195488",
+        "LON": "-49,271327434359",
+        "NOME": "Rua Tijucas do Sul, 1368 - Sítio Cercado",
+        "NUM": "160463",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555817419375",
+        "LON": "-49,267266996365",
+        "NOME": "Rua Radialista Souza Moreno, 247 - Osternack",
+        "NUM": "160773",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554267740827",
+        "LON": "-49,264670058861",
+        "NOME": "Rua Geraldo Micheletto Pellanda, 22 - Osternack",
+        "NUM": "160196",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55779",
+        "LON": "-49,26046",
+        "NOME": "Rua Geraldo Micheletto Pelanda, 644 - Ganchinho",
+        "NUM": "160219",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543440820981",
+        "LON": "-49,268539271164",
+        "NOME": "Rua Tijucas do Sul, 1458 - Sítio Cercado",
+        "NUM": "160083",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54516",
+        "LON": "-49,26536",
+        "NOME": "Rua Tijucas do Sul, 1081 - Sítio Cercado",
+        "NUM": "160179",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557187580231",
+        "LON": "-49,257190116568",
+        "NOME": "Rua Lúcio de Oliveira Lara, 445 - Ganchinho",
+        "NUM": "160192",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543440820981",
+        "LON": "-49,268539271164",
+        "NOME": "Rua Tijucas do Sul, 1458 - Sítio Cercado",
+        "NUM": "160083",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55112",
+        "LON": "-49,25443",
+        "NOME": "Rua Guacui, 350 - Sítio Cercado",
+        "NUM": "160466",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55433",
+        "LON": "-49,25821",
+        "NOME": "Rua Lúcio de Oliveira Lara, 101 - Osternack",
+        "NUM": "160193",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55391",
+        "LON": "-49,26049",
+        "NOME": "Rua Hussein Ibrahim Omairy, 262 - Osternack",
+        "NUM": "160194",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534911197166",
+        "LON": "-49,268857687712",
+        "NOME": "Rua Izaac Ferreira da Cruz, 3501 - Sítio Cercado",
+        "NUM": "160053",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "26",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542232921852",
+        "LON": "-49,27066358532",
+        "NOME": "Rua Filósofo Humberto Rohden, 2 - Sítio Cercado",
+        "NUM": "160082",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553376899426",
+        "LON": "-49,251080629128",
+        "NOME": "Rua Eduardo Pinto da Rocha, 2970 - Sitio Cercado",
+        "NUM": "160749",
+        "SENTIDO": "Sambaqui",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534265877458",
+        "LON": "-49,267778424572",
+        "NOME": "Terminal Sítio Cercado - 548 - Osternack / Sítio Cercado",
+        "NUM": "106106",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542232921852",
+        "LON": "-49,27066358532",
+        "NOME": "Rua Filósofo Humberto Rohden, 2 - Sítio Cercado",
+        "NUM": "160082",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54581",
+        "LON": "-49,26354",
+        "NOME": "Rua Tijucas do Sul, 876 - Sítio Cercado",
+        "NUM": "160095",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553459174148",
+        "LON": "-49,250935789841",
+        "NOME": "Rua Eduardo Pinto da Rocha, 2969 - Ganchinho",
+        "NUM": "160748",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555022383134",
+        "LON": "-49,252649721401",
+        "NOME": "Rua Eduardo Pinto da Rocha, 3119 - Sitio Cercado",
+        "NUM": "160751",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555114335968",
+        "LON": "-49,252566572922",
+        "NOME": "Rua Eduardo Pinto da Rocha, 3118 - Ganchinho",
+        "NUM": "160750",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55871",
+        "LON": "-49,26409",
+        "NOME": "Rua Odinir Polydoro, 123 - Osternack",
+        "NUM": "160199",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556861457082",
+        "LON": "-49,261999038029",
+        "NOME": "Rua Helena de Almeida, 279 - Ganchinho",
+        "NUM": "160218",
+        "SENTIDO": "Sambaqui - Ultima Viagem",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    }
+]

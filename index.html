@@ -4,44 +4,96 @@
 <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>URBS API</title>
+    <title>Distance Between Bus Stops</title>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdWA3FocJiL2gF0tifa3QmcqD6fcUs5pA&libraries=visualization"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="js/sweet/sweetalert2.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.multiselect.css">
+     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+
+
+    <!-- Bootstrap 4 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+ <div id="map"></div>
+
+
+
+    <div class="row">
+      <div class="col-md-4" style="background-color: #fff">
+      <!--Card-->
+        <div class="card" style="z-index:99999;margin:10px">
+
+            <!--Card content-->
+            <div class="card-block" style="margin-top: -30px;margin-bottom: -30px;">
+                <!--Title-->
+
+                <!--Text-->
+                <p class="card-text">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="input-group">
+                        <span class="input-group-addon" style="border: 0; background: none;"><img width="25px" src="img/menu-bar.png"></span>
+                       <select class="form-control" multiple id="linhaSelector" ></select>
+
+                        <span class="input-group-addon" style="border: 0; background: none;" onclick="redirecPage()"><img width="25px" src="img/lupa.png"></span>
+                      </div>
+
+                    </div>
+                  </div>
+                </p>
+            </div>
+            <!--/.Card content-->
+        </div>
+        <!--/.Card-->
+
+      </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-10" >
+
+          <section id="setting-container" style="display: none;width: 100%;">
+            <div id="routes" style="overflow: scroll; height: 500px"></div>
+            <div id="hider" class="hider">
+            <div id="close-settings" onclick="closeSettings(true)"></div>
+                <div id="open-settings" onclick="closeSettings(false)"></div>
+            </div>
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+
+</body>
+
+
+    <script src="js/dist.js"></script>
+    <script src="js/caller.js"></script>
+    <script src="js/mapa.js"></script>
+
+    <!--<script src="js/myMap.js"></script>-->
     <script src="js/mapstyles.js" type="text/javascript"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
     <script src="js/jquery.multiselect.js"></script>
-    <script src="js/jquery.csv.js"></script>
-    <script src="js/bootstrap-datepicker.min.js"></script>
-    <script src="js/route225.js"></script>
-    <script src="js/route342.js"></script>
-    <script src="js/myMap.js"></script>
-    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/jquery.multiselect.css">
-    <link rel="stylesheet" type="text/css" href="css/datepicker3.min.css">
-</head>
+    <script src="js/sweet/sweetalert2.js"></script>
 
-<body>
-    <div id="map"></div>
-    <section id="setting-container">
-        <div class="container" style="">
-            <div class="btn" onclick="showLinhas()">Aplicar</div>
-            <div class="title">Linhas</div>
-            <select multiple id="linhaSelector">
-              <option value="225">[225] Boa Vista / Barreirinha</option>
-              <option value="342">[342] Bairro Alto / Boa Vista</option>
-            </select>
-
-            <div id="routes" style="overflow: scroll; height: 500px;"></div>
-        </div>
-
-        <div id="hider" class="hider">
-            <div id="close-settings" onclick="closeSettings(true)"></div>
-            <div id="open-settings" onclick="closeSettings(false)"></div>
-        </div>
-    </section>
-</body>
 
 </html>

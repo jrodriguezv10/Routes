@@ -1,0 +1,342 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,538863090624",
+        "LON": "-49,244614258896",
+        "NOME": "Rua Cinco de Maio Dia do Expedicionário, 102 - Alto Boqueirão",
+        "NUM": "160152",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539673127141",
+        "LON": "-49,242056239252",
+        "NOME": "Rua Cinco de Maio Dia do Expedicionário, 359 - Alto Boqueirão",
+        "NUM": "160151",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529679294406",
+        "LON": "-49,241053446748",
+        "NOME": "Rua Pastor Antônio Pólito, 2166 - Boqueirão",
+        "NUM": "160201",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535942925152",
+        "LON": "-49,238945131283",
+        "NOME": "Rua Coronel Américo Valger, 257 - Alto Boqueirão",
+        "NUM": "160010",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536359242943",
+        "LON": "-49,242055480985",
+        "NOME": "Rua Eduardo Pinto da Rocha, 602 - Alto Boqueirão",
+        "NUM": "160012",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53351",
+        "LON": "-49,23856",
+        "NOME": "Rua Francisco Derosso, 478 - Alto Boqueirão",
+        "NUM": "160431",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524482801648",
+        "LON": "-49,235401953373",
+        "NOME": "Rua Pastor Antônio Pólito, 1419 - Boqueirão",
+        "NUM": "150141",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538863090624",
+        "LON": "-49,244614258896",
+        "NOME": "Rua Cinco de Maio Dia do Expedicionário, 102 - Alto Boqueirão",
+        "NUM": "160152",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535436436268",
+        "LON": "-49,23700682209",
+        "NOME": "Rua Nelso José Lautart, 88 - Alto Boqueirão",
+        "NUM": "160008",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525317261236",
+        "LON": "-49,237477813492",
+        "NOME": "Rua Pastor Antônio Pólito, 1660 - Boqueirão",
+        "NUM": "150145",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529267838635",
+        "LON": "-49,241006508092",
+        "NOME": "Rua Pastor Antônio Pólito, 2165 - Boqueirão",
+        "NUM": "160200",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533384653291",
+        "LON": "-49,238524139881",
+        "NOME": "Rua Francisco Derosso, 477 - Alto Boqueirão",
+        "NUM": "160007",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524075822889",
+        "LON": "-49,234093148479",
+        "NOME": "Rua Pastor Antônio Pólito, 1211 - Boqueirão",
+        "NUM": "150140",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524673693632",
+        "LON": "-49,235567550926",
+        "NOME": "Rua Pastor Antônio Pólito, 1420 - Boqueirão",
+        "NUM": "150142",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522385795292",
+        "LON": "-49,230333411045",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150135",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522453181252",
+        "LON": "-49,230213440476",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150136",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517446369145",
+        "LON": "-49,230198747186",
+        "NOME": "Terminal Boqueirão - 532 - Jd.Paranaense",
+        "NUM": "104311",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531961529028",
+        "LON": "-49,241815860119",
+        "NOME": "Rua Francisco Derosso, 743 - Alto Boqueirão",
+        "NUM": "160005",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535862234443",
+        "LON": "-49,23895317791",
+        "NOME": "Rua Coronel Américo Valger, 258 - Alto Boqueirão",
+        "NUM": "160432",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538330706356",
+        "LON": "-49,241851457672",
+        "NOME": "Rua Eduardo Pinto da Rocha, 824 - Alto Boqueirão",
+        "NUM": "160013",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519719743443",
+        "LON": "-49,231317171793",
+        "NOME": "Rua Januário Alves de Souza, 971 - Boqueirão",
+        "NUM": "150133",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524005221898",
+        "LON": "-49,234242682209",
+        "NOME": "Rua Pastor Antônio Pólito, 1212 - Boqueirão",
+        "NUM": "150139",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538504453294",
+        "LON": "-49,241729271164",
+        "NOME": "Rua Eduardo Pinto da Rocha, 825 - Alto Boqueirão",
+        "NUM": "160014",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517446369145",
+        "LON": "-49,230198747186",
+        "NOME": "Terminal Boqueirão - 532 - Jd.Paranaense",
+        "NUM": "104311",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523155732962",
+        "LON": "-49,23185206994",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150138",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525483312248",
+        "LON": "-49,23757157424",
+        "NOME": "Rua Pastor Antônio Pólito, 1659 - Boqueirão",
+        "NUM": "150143",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539736621334",
+        "LON": "-49,242119154596",
+        "NOME": "Rua Cinco de Maio Dia do Expedicionário, 356 - Alto Boqueirão",
+        "NUM": "160150",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523035284002",
+        "LON": "-49,231899620867",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150137",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527012929837",
+        "LON": "-49,239613411045",
+        "NOME": "Rua Pastor Antônio Pólito, 1811 - Boqueirão",
+        "NUM": "150042",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53649",
+        "LON": "-49,24219",
+        "NOME": "Rua Eduardo Pinto da Rocha, 601 - Alto Boqueirão",
+        "NUM": "160011",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527038789811",
+        "LON": "-49,239771224537",
+        "NOME": "Rua Pastor Antônio Pólito, 1812 - Boqueirão",
+        "NUM": "150146",
+        "SENTIDO": "Jd. Paranaense",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531981341008",
+        "LON": "-49,241276705522",
+        "NOME": "Rua Francisco Derosso, 744 - Alto Boqueirão",
+        "NUM": "160006",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53554714131",
+        "LON": "-49,236905014715",
+        "NOME": "Rua Nelso José Lautart, 89 - Alto Boqueirão",
+        "NUM": "160009",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    }
+]

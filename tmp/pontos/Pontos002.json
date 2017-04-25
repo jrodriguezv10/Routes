@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,426720140945",
+        "LON": "-49,264158786482",
+        "NOME": "Rua Mariano Torres, 2 - Centro",
+        "NUM": "110411",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439174252855",
+        "LON": "-49,270323843903",
+        "NOME": "Av. Sete de Setembro, 3201 - Rebouças",
+        "NUM": "110437",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441762023574",
+        "LON": "-49,277042448521",
+        "NOME": "Av. Sete de Setembro, 3959 - Centro",
+        "NUM": "110441",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439996303488",
+        "LON": "-49,272481352091",
+        "NOME": "Av. Sete de Setembro, 3497 - Centro",
+        "NUM": "110442",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430726719419",
+        "LON": "-49,273716838306",
+        "NOME": "Rua Cândido Lopes, 76 - Centro",
+        "NUM": "110104",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431427978071",
+        "LON": "-49,261991561598",
+        "NOME": "Rua Mariano Torres, 555 - Centro",
+        "NUM": "110410",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436371530875",
+        "LON": "-49,279648214579",
+        "NOME": "R. Comendador Araújo, 404 - Centro",
+        "NUM": "110450",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4316605189",
+        "LON": "-49,276690066999",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 158 - Centro",
+        "NUM": "110106",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435853443702",
+        "LON": "-49,257311106867",
+        "NOME": "Av. Pres. Affonso Camargo, 306 - Jardim Botânico",
+        "NUM": "140217",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431296247767",
+        "LON": "-49,275700669975",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 32 - Centro",
+        "NUM": "110105",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425255792902",
+        "LON": "-49,269560755438",
+        "NOME": "Praça 19 de Dezembro - 002 - Circular Centro",
+        "NUM": "103003",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425255792902",
+        "LON": "-49,269560755438",
+        "NOME": "Praça 19 de Dezembro - 002 - Circular Centro",
+        "NUM": "103003",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432983631758",
+        "LON": "-49,277847234116",
+        "NOME": "R. Visc. de Nacar, 1210 - Centro",
+        "NUM": "110014",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43591",
+        "LON": "-49,26173",
+        "NOME": "Av. Sete de Setembro, 2331 - Centro",
+        "NUM": "110156",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43373251154",
+        "LON": "-49,277309328318",
+        "NOME": "R. Visc. de Nácar, 1322 - Centro",
+        "NUM": "110451",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429160241369",
+        "LON": "-49,273873372562",
+        "NOME": "Alameda Dr. Muricy, 949 - Centro",
+        "NUM": "110341",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434701410164",
+        "LON": "-49,259372055531",
+        "NOME": "Av. Sete de Setembro, 2000 - Centro",
+        "NUM": "110443",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438597515087",
+        "LON": "-49,279523491859",
+        "NOME": "Rua Des. Motta, 1751 - Centro",
+        "NUM": "180999",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436753027282",
+        "LON": "-49,264048486948",
+        "NOME": "Av. Sete de Setembro, 2541 - Rebouças",
+        "NUM": "110440",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435464412346",
+        "LON": "-49,254577606916",
+        "NOME": "Av. Pres. Affonso Camargo, 501 - Jardim Botânico",
+        "NUM": "110091",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437524669888",
+        "LON": "-49,266091491988",
+        "NOME": "Av. Sete de Setembro, 2787 - Rebouças",
+        "NUM": "110094",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429352046834",
+        "LON": "-49,262943745798",
+        "NOME": "Rua Mariano Torres, 257 - Centro",
+        "NUM": "110403",
+        "SENTIDO": "Anti-Horário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51271",
+        "LON": "-49,29484",
+        "NOME": "Terminal Pinheirinho - 641 - Luiz Nichele",
+        "NUM": "105713",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552779813048",
+        "LON": "-49,288298667616",
+        "NOME": "Rua Hermínio Nichele, 558 - Umbara",
+        "NUM": "160334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555609803155",
+        "LON": "-49,284331680483",
+        "NOME": "Rua Deputado Pinheiro Júnior, 970 - Umbara",
+        "NUM": "160337",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570987858188",
+        "LON": "-49,294693053907",
+        "NOME": "Rua Vereador Ângelo Burbelo, 2325 - Umbara",
+        "NUM": "160402",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56146073791",
+        "LON": "-49,291365773624",
+        "NOME": "Rua Nicola Pellanda, 3958 - Umbara",
+        "NUM": "160272",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582597217389",
+        "LON": "-49,295477600044",
+        "NOME": "Rua Ângelo Gai, 1279 - Umbara",
+        "NUM": "160392",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,587716251975",
+        "LON": "-49,296547801441",
+        "NOME": "Rua Ângelo Gai, 1869 - Umbara",
+        "NUM": "160389",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561172795366",
+        "LON": "-49,291316152758",
+        "NOME": "Rua Nicola Pellanda, 3957 - Umbara",
+        "NUM": "160273",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871986016",
+        "LON": "-49,294383258766",
+        "NOME": "Rua Nicola Pellanda, 1685 - Pinheirinho",
+        "NUM": "160325",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570918902707",
+        "LON": "-49,294773520178",
+        "NOME": "Rua Vereador Ângelo Burbelo, 2326 - Umbara",
+        "NUM": "160403",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572429865462",
+        "LON": "-49,295330078548",
+        "NOME": "Rua Ângelo Gai, 65 - Umbara",
+        "NUM": "160401",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528638092388",
+        "LON": "-49,292818189806",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 680 - Pinheirinho",
+        "NUM": "160317",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531962390077",
+        "LON": "-49,296896488613",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 471 - Pinheirinho",
+        "NUM": "160321",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569884565728",
+        "LON": "-49,289485545105",
+        "NOME": "Rua Luíz Nichele, 869 - Umbara",
+        "NUM": "160405",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51271",
+        "LON": "-49,29484",
+        "NOME": "Terminal Pinheirinho - 641 - Luiz Nichele",
+        "NUM": "105713",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541866968186",
+        "LON": "-49,294554920143",
+        "NOME": "Rua Nicola Pellanda, 1456 - Pinheirinho",
+        "NUM": "160323",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547534656812",
+        "LON": "-49,293478013224",
+        "NOME": "Rua Nicola Pellanda, 1968 - Pinheirinho",
+        "NUM": "160326",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555636420958",
+        "LON": "-49,284429581112",
+        "NOME": "Rua Deputado Pinheiro Júnior, 971 - Umbara",
+        "NUM": "160336",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559955686044",
+        "LON": "-49,284135879225",
+        "NOME": "Rua Bortolo Pelanda, 322 - Umbara",
+        "NUM": "160411",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567050073693",
+        "LON": "-49,286799312777",
+        "NOME": "Rua Nicola Pellanda, 4534 - Umbara",
+        "NUM": "160277",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581445646358",
+        "LON": "-49,293860228008",
+        "NOME": "Rua Ângelo Gai, 1059 - Umbara",
+        "NUM": "160394",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582551251531",
+        "LON": "-49,295284480995",
+        "NOME": "Rua Ângelo Gai, 1278 - Umbara",
+        "NUM": "160393",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58528256057",
+        "LON": "-49,295448095745",
+        "NOME": "Rua Ângelo Gai, 1568 - Umbara",
+        "NUM": "160390",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596179778773",
+        "LON": "-49,298075226984",
+        "NOME": "Rua Ângelo Gai, 467 - Umbara",
+        "NUM": "160383",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550617650731",
+        "LON": "-49,290754229969",
+        "NOME": "Rua João Amadeu Pedro Bom, 202 - Tatuquara",
+        "NUM": "160330",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550962486172",
+        "LON": "-49,289191843218",
+        "NOME": "Rua Hermínio Nichele, 334 - Umbara",
+        "NUM": "160333",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558334467543",
+        "LON": "-49,284040660805",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1297 - Umbara",
+        "NUM": "160061",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550445837615",
+        "LON": "-49,292767227835",
+        "NOME": "Rua Nicola Pellanda, 2460 - Pinheirinho",
+        "NUM": "160329",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558368343975",
+        "LON": "-49,283938736862",
+        "NOME": "Rua Deputado Pinheiro Júnior, 1296 - Umbara",
+        "NUM": "160060",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559875835497",
+        "LON": "-49,286010743326",
+        "NOME": "Rua Bortolo Pelanda, 393 - Umbara",
+        "NUM": "160410",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565745918673",
+        "LON": "-49,28827318663",
+        "NOME": "Rua Nicola Pellanda, 4446 - Umbara",
+        "NUM": "160275",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,579125535778",
+        "LON": "-49,294117720074",
+        "NOME": "Rua Ângelo Gai, 809 - Umbara",
+        "NUM": "160396",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550725336291",
+        "LON": "-49,292839647478",
+        "NOME": "Rua Nicola Pellanda, 2476 - Pinheirinho",
+        "NUM": "160328",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566981115945",
+        "LON": "-49,287078262514",
+        "NOME": "Rua Nicola Pellanda, 4459 - Umbara",
+        "NUM": "160276",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530292386736",
+        "LON": "-49,294841916508",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 346 - Pinheirinho",
+        "NUM": "160319",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541519686495",
+        "LON": "-49,294415445274",
+        "NOME": "Rua Nicola Pellanda, 1459 - Pinheirinho",
+        "NUM": "160324",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560059733646",
+        "LON": "-49,284142584747",
+        "NOME": "Rua Bortolo Pelanda, 321 - Umbara",
+        "NUM": "160412",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568665125393",
+        "LON": "-49,285535992331",
+        "NOME": "Rua Luíz Nichele, 61 - Umbara",
+        "NUM": "160406",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572143159023",
+        "LON": "-49,295228154606",
+        "NOME": "Rua Ângelo Gai, 30 - Umbara",
+        "NUM": "160400",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,587788826505",
+        "LON": "-49,296480746216",
+        "NOME": "Rua Ângelo Gai, 1868 - Umbara",
+        "NUM": "160388",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56562977802",
+        "LON": "-49,288625897116",
+        "NOME": "Rua Nicola Pellanda, 4445 - Umbara",
+        "NUM": "160274",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585159181258",
+        "LON": "-49,295523197598",
+        "NOME": "Rua Ângelo Gai, 1569 - Umbara",
+        "NUM": "160391",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,596179778773",
+        "LON": "-49,298075226984",
+        "NOME": "Rua Ângelo Gai, 467 - Umbara",
+        "NUM": "160383",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54745116804",
+        "LON": "-49,293365360445",
+        "NOME": "Rua Nicola Pellanda, 2091 - Pinheirinho",
+        "NUM": "160327",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550941917068",
+        "LON": "-49,289075167126",
+        "NOME": "Rua Hermínio Nichele, 333 - Umbara",
+        "NUM": "160332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560578760453",
+        "LON": "-49,289462746328",
+        "NOME": "Rua Bortolo Pelanda, 696 - Umbara",
+        "NUM": "160408",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,591340086409",
+        "LON": "-49,297990829891",
+        "NOME": "Rua Ângelo Gai, 2603 - Umbara",
+        "NUM": "160386",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552801591765",
+        "LON": "-49,288432778067",
+        "NOME": "Rua Hermínio Nichele, 559 - Umbara",
+        "NUM": "160335",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569795043745",
+        "LON": "-49,289553941435",
+        "NOME": "Rua Luíz Nichele, 870 - Umbara",
+        "NUM": "160404",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55044825752",
+        "LON": "-49,290617437309",
+        "NOME": "Rua João Amadeu Pedro Bom, 203 - Tatuquara",
+        "NUM": "160331",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59367931242",
+        "LON": "-49,297709197945",
+        "NOME": "Rua Ângelo Gai, 2731 - Umbara",
+        "NUM": "160385",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560552143748",
+        "LON": "-49,289655865377",
+        "NOME": "Rua Bortolo Pelanda, 697 - Umbara",
+        "NUM": "160409",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581370648701",
+        "LON": "-49,293943376488",
+        "NOME": "Rua Ângelo Gai, 1060 - Umbara",
+        "NUM": "160395",
+        "SENTIDO": "Luiz Nichele",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    }
+]

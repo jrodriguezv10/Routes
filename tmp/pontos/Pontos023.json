@@ -1,0 +1,1202 @@
+[
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26135",
+        "LAT": "-25,452382098156",
+        "LON": "-49,229970009274",
+        "NOME": "Estação Tubo Jardim das Américas",
+        "NUM": "109034",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406516459418",
+        "LON": "-49,253004182335",
+        "NOME": "Terminal Cabral - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109083",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41854",
+        "LAT": "-25,410621916056",
+        "LON": "-49,248223893301",
+        "NOME": "Estação Tubo Agrárias",
+        "NUM": "109001",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14604",
+        "LAT": "-25,430356995336",
+        "LON": "-49,211201362269",
+        "NOME": "Estação Tubo Detran  - 307-Bairro Alto / Santa Felicidade - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109025",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26081",
+        "LAT": "-25,42592406059",
+        "LON": "-49,242351196663",
+        "NOME": "Estação Tubo Praça das Nações",
+        "NUM": "109048",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26037",
+        "LAT": "-25,471695546865",
+        "LON": "-49,237493109333",
+        "NOME": "Estação Tubo Salgado Filho",
+        "NUM": "109065",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26130",
+        "LAT": "-25,496289845744",
+        "LON": "-49,270365565109",
+        "NOME": "Estação Tubo Xaxim",
+        "NUM": "109077",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14606",
+        "LAT": "-25,428907225605",
+        "LON": "-49,225112639325",
+        "NOME": "Estação Tubo Colégio Militar",
+        "NUM": "109021",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476420782687",
+        "LON": "-49,292804594084",
+        "NOME": "Terminal Portão - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109089",
+        "SENTIDO": "Terminal do Portão",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14434",
+        "LAT": "-25,415420483986",
+        "LON": "-49,267928631252",
+        "NOME": "Estação Tubo Centro Cívico - Palácio Iguaçú",
+        "NUM": "109012",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,439724117864",
+        "LON": "-49,222056583467",
+        "NOME": "Terminal Capão da Imbuia - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109117",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435855889927",
+        "LON": "-49,307661075523",
+        "NOME": "Terminal Campina do Siqueira - 023 - Inter 2 (Anti-Horário) - 024 - C.Raso - Camp.Siqueira",
+        "NUM": "109167",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492322735256",
+        "LON": "-49,293668155993",
+        "NOME": "Terminal Capão Raso - 023 - Inter 2 (Anti-Horário) / 508-Sítio Cercado (Anti-Horário)",
+        "NUM": "109093",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481429086091",
+        "LON": "-49,246864974509",
+        "NOME": "Terminal Hauer - 023 - Inter 2 (Anti-Horário)",
+        "NUM": "109109",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,45914452819",
+        "LON": "-49,302459095107",
+        "NOME": "Estação Tubo Santa Quitéria",
+        "NUM": "109067",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14432",
+        "LAT": "-25,422406165926",
+        "LON": "-49,291661329815",
+        "NOME": "Estação Tubo Mercês",
+        "NUM": "109047",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41856",
+        "LAT": "-25,414534616689",
+        "LON": "-49,279617725387",
+        "NOME": "Estação Tubo Teffé - 023-Inter 2 (Anti-Horário)",
+        "NUM": "109069",
+        "SENTIDO": "Anti-Horário(Circular)",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    }
+]

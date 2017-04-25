@@ -1,0 +1,542 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,468565439436",
+        "LON": "-49,325582588326",
+        "NOME": "Rua Nicolau Latchoc, 94 - Campo Comprido",
+        "NUM": "180777",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450067365812",
+        "LON": "-49,290571839756",
+        "NOME": "Av. Iguaçu, 3064 - Água Verde",
+        "NUM": "180641",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462515430991",
+        "LON": "-49,294384599871",
+        "NOME": "Rua Bororós, 923 - Vila Izabel",
+        "NUM": "180468",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47103418998",
+        "LON": "-49,323204780773",
+        "NOME": "Rua Natálio Scussiato, 53 - Campo Comprido",
+        "NUM": "180775",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466374311919",
+        "LON": "-49,29908248896",
+        "NOME": "Rua Tabajaras, 1317 - Vila Izabel",
+        "NUM": "180635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465019419285",
+        "LON": "-49,298745871729",
+        "NOME": "Rua Tabajaras, 1061 - Vila Izabel",
+        "NUM": "180632",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471629003778",
+        "LON": "-49,314640487389",
+        "NOME": "Rua Alberto Klemtz, 1177 - Portão",
+        "NUM": "180616",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466420257689",
+        "LON": "-49,301508392052",
+        "NOME": "Rua Pinheiro Guimarães, 23 - Portão",
+        "NUM": "180609",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491691123",
+        "LON": "-49,289798022455",
+        "NOME": "Rua Castro Alves, 748 - Batel",
+        "NUM": "180533",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46735021262",
+        "LON": "-49,298107505983",
+        "NOME": "Rua Tamoios, 1495 - Vila Izabel",
+        "NUM": "180634",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470225739895",
+        "LON": "-49,31688415523",
+        "NOME": "Rua Alberto Klemtz, 1415 - Portão",
+        "NUM": "180463",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4727428858",
+        "LON": "-49,310378457264",
+        "NOME": "Rua Alberto Klemtz, 725 - Portão",
+        "NUM": "180704",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467223014988",
+        "LON": "-49,302401567654",
+        "NOME": "Rua Capiberibe, 1354 - Santa Quitéria",
+        "NUM": "180600",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456020317137",
+        "LON": "-49,293000580019",
+        "NOME": "Rua Bororós, 193 - Vila Izabel",
+        "NUM": "180465",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442215155252",
+        "LON": "-49,269662524418",
+        "NOME": "Av. Iguaçu, 832 - Rebouças",
+        "NUM": "110207",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435056489364",
+        "LON": "-49,272818476968",
+        "NOME": "Praça Rui Barbosa - 761 - Vila Izabel",
+        "NUM": "102012",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471490642965",
+        "LON": "-49,32548599954",
+        "NOME": "Rua Waldemar Cavanha, 52 - Campo Comprido",
+        "NUM": "180776",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47103418998",
+        "LON": "-49,323204780773",
+        "NOME": "Rua Natálio Scussiato, 53 - Campo Comprido",
+        "NUM": "180775",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470338340621",
+        "LON": "-49,316866720871",
+        "NOME": "Rua Alberto Klemtz, 1416 - Portão",
+        "NUM": "180617",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468422903166",
+        "LON": "-49,304818237976",
+        "NOME": "Rua Agostinho Merlim, 381 - Portão",
+        "NUM": "180601",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463524055368",
+        "LON": "-49,295500398821",
+        "NOME": "Rua Vital Brasil, 374 - Portão",
+        "NUM": "180630",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463675408836",
+        "LON": "-49,297308207697",
+        "NOME": "Rua Tamoios, 1061 - Vila Izabel",
+        "NUM": "180631",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469006497328",
+        "LON": "-49,306758816198",
+        "NOME": "Rua Agostinho Merlim, 504 - Portão",
+        "NUM": "180700",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435056489364",
+        "LON": "-49,272818476968",
+        "NOME": "Praça Rui Barbosa - 761 - Vila Izabel",
+        "NUM": "102012",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469406927045",
+        "LON": "-49,322172130302",
+        "NOME": "Rua José Benedito Cotolengo, 135 - Campo Comprido",
+        "NUM": "180770",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468565439436",
+        "LON": "-49,325582588326",
+        "NOME": "Rua Nicolau Latchoc, 94 - Campo Comprido",
+        "NUM": "180777",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470154304971",
+        "LON": "-49,318442798776",
+        "NOME": "Rua Rezala Simão, 996 - Santa Quitéria",
+        "NUM": "180010",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469457779345",
+        "LON": "-49,322280759768",
+        "NOME": "Rua José Benedito Cotolengo, 136 - Campo Comprido",
+        "NUM": "180771",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470101031441",
+        "LON": "-49,318554110451",
+        "NOME": "Rua Rezala Simão, 997 - Santa Quitéria",
+        "NUM": "180020",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463439297342",
+        "LON": "-49,295635850376",
+        "NOME": "Rua Vital Brasil, 363 - Portão",
+        "NUM": "180598",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4582217205",
+        "LON": "-49,293468625492",
+        "NOME": "Rua Bororós, 445 - Vila Izabel",
+        "NUM": "180466",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466288280486",
+        "LON": "-49,301504368738",
+        "NOME": "Rua Pinheiro Guimarães, 24 - Portão",
+        "NUM": "180608",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470276591849",
+        "LON": "-49,308046276525",
+        "NOME": "Rua Maria de Campos, 18 - Portão",
+        "NUM": "180703",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469117888423",
+        "LON": "-49,306748087362",
+        "NOME": "Rua Agostinho Merlim, 505 - Portão",
+        "NUM": "180701",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467177004911",
+        "LON": "-49,302286232666",
+        "NOME": "Rua Capiberibe, 1355 - Santa Quitéria",
+        "NUM": "180599",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460567175815",
+        "LON": "-49,293979586309",
+        "NOME": "Rua Bororós, 715 - Vila Izabel",
+        "NUM": "180467",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471490642965",
+        "LON": "-49,32548599954",
+        "NOME": "Rua Waldemar Cavanha, 52 - Campo Comprido",
+        "NUM": "180776",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470237847505",
+        "LON": "-49,308137471632",
+        "NOME": "Rua Maria de Campos, 17 - Portão",
+        "NUM": "180702",
+        "SENTIDO": "Vila Izabel",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728530627",
+        "LON": "-49,310407961563",
+        "NOME": "Rua Alberto Klemtz, 724 - Portão",
+        "NUM": "180705",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468513711572",
+        "LON": "-49,304767276005",
+        "NOME": "Rua Agostinho Merlim, 380- Portão",
+        "NUM": "180602",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    }
+]

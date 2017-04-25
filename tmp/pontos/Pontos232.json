@@ -1,0 +1,342 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,367624389802",
+        "LON": "-49,226906926579",
+        "NOME": "Estrada Guilherme Weigert, 438 - Santa Candida",
+        "NUM": "120741",
+        "SENTIDO": "Aliança",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364897827293",
+        "LON": "-49,22762441749",
+        "NOME": "Estrada Guilherme Weigert, 860 - Santa Candida",
+        "NUM": "120742",
+        "SENTIDO": "Aliança",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363804761405",
+        "LON": "-49,230235547966",
+        "NOME": "Rua Nossa Senhora do Rocio, 143 - Santa Candida",
+        "NUM": "120744",
+        "SENTIDO": "Aliança",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363866564728",
+        "LON": "-49,230138988441",
+        "NOME": "Rua Nossa Senhora do Rocio, 144 - Santa Candida",
+        "NUM": "120438",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373909896247",
+        "LON": "-49,224555819056",
+        "NOME": "Rua Teodoro Makiolka, 90 - Santa Candida",
+        "NUM": "120430",
+        "SENTIDO": "Aliança",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359692946904",
+        "LON": "-49,231614065309",
+        "NOME": "Estrada Guilherme Weigert, 1876 - Santa Candida",
+        "NUM": "120747",
+        "SENTIDO": "Aliança",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359752328589",
+        "LON": "-49,231697213788",
+        "NOME": "Estrada Guilherme Weigert, 1619 - Santa Candida",
+        "NUM": "120441",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35159248596",
+        "LON": "-49,235378354788",
+        "NOME": "Residencial Aroeira  - Imbuia",
+        "NUM": "120990",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351421600522",
+        "LON": "-49,231109619141",
+        "NOME": "Residencial Aroeira - Imbuia",
+        "NUM": "120991",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361541992517",
+        "LON": "-49,232193422456",
+        "NOME": "Rua José Ursulino Filho, 440 - Santa Candida",
+        "NUM": "120746",
+        "SENTIDO": "Aliança",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363808523814",
+        "LON": "-49,23279992977",
+        "NOME": "Rua Mobral, 1 - Santa Candida",
+        "NUM": "120745",
+        "SENTIDO": "Aliança",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356805230223",
+        "LON": "-49,23500470558",
+        "NOME": "Estrada Guilherme Weigert, 54 - Santa Candida",
+        "NUM": "120443",
+        "SENTIDO": "Aliança",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,352770498159",
+        "LON": "-49,231265187263",
+        "NOME": "R. Paulo Kulik, 580 - Santa Candida",
+        "NUM": "121000",
+        "SENTIDO": "Aliança",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363889716406",
+        "LON": "-49,232643020542",
+        "NOME": "Rua Mobral, 2 - Santa Candida",
+        "NUM": "120439",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35159248596",
+        "LON": "-49,235378354788",
+        "NOME": "Residencial Aroeira  - Imbuia",
+        "NUM": "120990",
+        "SENTIDO": "Aliança",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,35507316376",
+        "LON": "-49,234080165625",
+        "NOME": "R. Paulo Kulik, 230 - Santa Candida",
+        "NUM": "120998",
+        "SENTIDO": "Aliança",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370756050422",
+        "LON": "-49,228017361111",
+        "NOME": "Estrada Guilherme Weigert, 141 - Santa Candida",
+        "NUM": "120434",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363414551454",
+        "LON": "-49,228852869219",
+        "NOME": "Rua Nossa Senhora do Rocio, 1 - Santa Candida",
+        "NUM": "120437",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361475340591",
+        "LON": "-49,232288640876",
+        "NOME": "Rua José Ursulino Filho, 439 - Santa Candida",
+        "NUM": "120440",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,355047713485",
+        "LON": "-49,234145879745",
+        "NOME": "R. Paulo Kulik, 176 - Santa Candida",
+        "NUM": "120997",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,352732927988",
+        "LON": "-49,231361746788",
+        "NOME": "R. Paulo Kulik, 525 - Santa Candida",
+        "NUM": "120999",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351297981118",
+        "LON": "-49,231080114841",
+        "NOME": "Residencial Aroeira - Imbuia",
+        "NUM": "120992",
+        "SENTIDO": "Aliança",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372827138295",
+        "LON": "-49,227507204395",
+        "NOME": "Rua Teodoro Makiolka, 469 - Santa Candida",
+        "NUM": "120433",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377205436925",
+        "LON": "-49,224567986035",
+        "NOME": "Terminal Santa Cândida - 232 - Aliança",
+        "NUM": "105903",
+        "SENTIDO": "Aliança",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370848144184",
+        "LON": "-49,227934212631",
+        "NOME": "Estrada Guilherme Weigert, 2 - Santa Candida",
+        "NUM": "120740",
+        "SENTIDO": "Aliança",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357842536744",
+        "LON": "-49,233369899185",
+        "NOME": "Estrada Guilherme Weigert, 1876 - Santa Candida",
+        "NUM": "120748",
+        "SENTIDO": "Aliança",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,363332146707",
+        "LON": "-49,228913218922",
+        "NOME": "Rua Nossa Senhora do Rocio, 2 - Santa Candida",
+        "NUM": "120743",
+        "SENTIDO": "Aliança",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364895403654",
+        "LON": "-49,227729023642",
+        "NOME": "Estrada Guilherme Weigert, 773 - Santa Candida",
+        "NUM": "120436",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356864613326",
+        "LON": "-49,235048962029",
+        "NOME": "Estrada Guilherme Weigert, 2051 - Santa Candida",
+        "NUM": "120749",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372809349252",
+        "LON": "-49,227301036862",
+        "NOME": "Rua Teodoro Makiolka, 308 - Santa Candida",
+        "NUM": "120432",
+        "SENTIDO": "Aliança",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,357904825116",
+        "LON": "-49,233505882244",
+        "NOME": "Estrada Guilherme Weigert, 1875 - Santa Candida",
+        "NUM": "120442",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373974396804",
+        "LON": "-49,22481254951",
+        "NOME": "Rua Teodoro Makiolka, 89 - Santa Candida",
+        "NUM": "120431",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,377205436925",
+        "LON": "-49,224567986035",
+        "NOME": "Terminal Santa Cândida - 232 - Aliança",
+        "NUM": "105903",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367630448761",
+        "LON": "-49,227039695925",
+        "NOME": "Estrada Guilherme Weigert, 437 - Santa Candida",
+        "NUM": "120435",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,421716676263",
+        "LON": "-49,28331842576",
+        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
+        "NUM": "110032",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415440928516",
+        "LON": "-49,290074139881",
+        "NOME": "R. Jacarezinho, 1639 - Vista Alegre",
+        "NUM": "190633",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384559355984",
+        "LON": "-49,297320277637",
+        "NOME": "Av. Fredolin Wolf, 1152 - Pilarzinho",
+        "NUM": "120980",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3958990762",
+        "LON": "-49,294994402447",
+        "NOME": "R. Gardênio Scorzato, 1111 - Pilarzinho",
+        "NUM": "190620",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423419040233",
+        "LON": "-49,282409650297",
+        "NOME": "Rua Visconde de Nacar, 132 - Centro",
+        "NUM": "110137",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392907435754",
+        "LON": "-49,295914557498",
+        "NOME": "R. Raposo Tavares, 1084 - Pilarzinho",
+        "NUM": "190439",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384837543655",
+        "LON": "-49,29765408102",
+        "NOME": "Av. Fredolin Wolf, 1071 - Pilarzinho",
+        "NUM": "120347",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398888193394",
+        "LON": "-49,296818921461",
+        "NOME": "R. Gardênio Scorzato, 881 - Pilarzinho",
+        "NUM": "190624",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40222",
+        "LON": "-49,29311",
+        "NOME": "R. Gardênio Scorzato, 332 - Pilarzinho",
+        "NUM": "190628",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420448788738",
+        "LON": "-49,28440842576",
+        "NOME": "R. Cel. João Guilherme Guimarães, 178 - Mercês",
+        "NUM": "110204",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393157691452",
+        "LON": "-49,295895909104",
+        "NOME": "R. Raposo Tavares, 1017 - Pilarzinho",
+        "NUM": "190438",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392515878261",
+        "LON": "-49,303368037239",
+        "NOME": "Rua Darcize Gobi, 63 - Pilarzinho",
+        "NUM": "190604",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391734602152",
+        "LON": "-49,300984146511",
+        "NOME": "R. Marcília Vaz Carneiro, 224 - Pilarzinho",
+        "NUM": "190611",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391385811852",
+        "LON": "-49,297204697934",
+        "NOME": "R. Vinte e Cinco de Abril, 23 - Pilarzinho",
+        "NUM": "190615",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393985194941",
+        "LON": "-49,301541780277",
+        "NOME": "R. Catharina Potina de Mauro, 447 - Pilarzinho",
+        "NUM": "190610",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428300871199",
+        "LON": "-49,272607068804",
+        "NOME": "Nestor de Castro - 167 - Fredolim Wolf",
+        "NUM": "101124",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38301",
+        "LON": "-49,29359",
+        "NOME": "R. José Ribeiro de Cristo, 2-120 - Pilarzinho",
+        "NUM": "120612",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395921211508",
+        "LON": "-49,294866093254",
+        "NOME": "R. Gardênio Scorzato, 1260 - Vista Alegre",
+        "NUM": "190619",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40443",
+        "LON": "-49,29136",
+        "NOME": "R. Gardênio Scorzato, 1-139 - Vista Alegre",
+        "NUM": "190630",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41963",
+        "LON": "-49,28528",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110203",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39905",
+        "LON": "-49,29686",
+        "NOME": "R. Gardênio Scorzato, 882 - Pilarzinho",
+        "NUM": "190623",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39063546635",
+        "LON": "-49,3024028063",
+        "NOME": "R. São Francisco Xavier, 61 - Pilarzinho",
+        "NUM": "190603",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394135442047",
+        "LON": "-49,295629300594",
+        "NOME": "R. São Domingos, 961 - Pilarzinho",
+        "NUM": "190618",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387841238885",
+        "LON": "-49,301100572267",
+        "NOME": "R. Raposo Tavares, 1906 - Pilarzinho",
+        "NUM": "190432",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425269379413",
+        "LON": "-49,281517201223",
+        "NOME": "Av. Manoel Ribas, 200 - São Francisco",
+        "NUM": "110138",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427651211189",
+        "LON": "-49,280378192625",
+        "NOME": "R. Visc. de Nacar, 549 - São Francisco",
+        "NUM": "110139",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391601266981",
+        "LON": "-49,300962193989",
+        "NOME": "R. Marcília Vaz Carneiro, 223 - Pilarzinho",
+        "NUM": "190612",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384019079062",
+        "LON": "-49,294702449074",
+        "NOME": "Av. Fredolin Wolf, 800 - Pilarzinho",
+        "NUM": "120345",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430217696146",
+        "LON": "-49,279159152809",
+        "NOME": "R. Visc. de Nacar, 866 - Centro",
+        "NUM": "110423",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "35",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393982958359",
+        "LON": "-49,301437371272",
+        "NOME": "R. Catharina Potina de Mauro, 480 - Pilarzinho",
+        "NUM": "190609",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406562422802",
+        "LON": "-49,291903527613",
+        "NOME": "R. João Tschannerl, 564 - Vista Alegre",
+        "NUM": "190225",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38301",
+        "LON": "-49,29359",
+        "NOME": "R. José Ribeiro de Cristo, 2-120 - Pilarzinho",
+        "NUM": "120612",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394122730844",
+        "LON": "-49,295739883432",
+        "NOME": "R. São Domingos, 922 - Pilarzinho",
+        "NUM": "190617",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400765440649",
+        "LON": "-49,294860845404",
+        "NOME": "R. Gardênio Scorzato, 592 - Pilarzinho",
+        "NUM": "190625",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394647477207",
+        "LON": "-49,303342928142",
+        "NOME": "Rua Valdiva Pereira Lima, 236 - Pilarzinho",
+        "NUM": "190607",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38763452155",
+        "LON": "-49,301087981821",
+        "NOME": "R. Raposo Tavares, 1907 - Pilarzinho",
+        "NUM": "190433",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392008471525",
+        "LON": "-49,299031070766",
+        "NOME": "R. Vinte e Cinco de Abril, 187 - Pilarzinho",
+        "NUM": "190614",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392108973212",
+        "LON": "-49,298991683115",
+        "NOME": "R. Vinte e Cinco de Abril, 186 - Pilarzinho",
+        "NUM": "190613",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4180179975",
+        "LON": "-49,290744868717",
+        "NOME": "R. Jacarezinho, 1357 - Mercês",
+        "NUM": "190635",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42014997174",
+        "LON": "-49,283414635582",
+        "NOME": "R. Myltho Anselmo da Silva, 791 - Mercês",
+        "NUM": "110136",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397160800407",
+        "LON": "-49,296199386577",
+        "NOME": "R. Gardênio Scorzato, 1206 - Vista Alegre",
+        "NUM": "190622",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392537220385",
+        "LON": "-49,303298990733",
+        "NOME": "Rua Valdiva Pereira Lima, 237 - Pilarzinho",
+        "NUM": "190605",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400767620794",
+        "LON": "-49,294717171793",
+        "NOME": "R. Gardênio Scorzato, 591 - Pilarzinho",
+        "NUM": "190626",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41915",
+        "LON": "-49,28761",
+        "NOME": "R. Myltho Anselmo da Silva, 1222 - Mercês",
+        "NUM": "110202",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389211409326",
+        "LON": "-49,302757242328",
+        "NOME": "Rua São Francisco Xavier, 132 - Pilarzinho",
+        "NUM": "190600",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394759541762",
+        "LON": "-49,303422214312",
+        "NOME": "Rua Valdiva Pereira Lima, 237 - Pilarzinho",
+        "NUM": "190606",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413366392027",
+        "LON": "-49,29079",
+        "NOME": "R. André Zanetti, 100 - Vista Alegre",
+        "NUM": "190632",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408850617951",
+        "LON": "-49,291806326389",
+        "NOME": "R. Antônio Grade, 526 - Vista Alegre",
+        "NUM": "190223",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404071805673",
+        "LON": "-49,291960612268",
+        "NOME": "R. Gardênio Scorzato, 210 - Pilarzinho",
+        "NUM": "190629",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419372732365",
+        "LON": "-49,28707160367",
+        "NOME": "R. Myltho Anselmo da Silva, 1160 - Mercês",
+        "NUM": "110134",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396957268986",
+        "LON": "-49,295742069941",
+        "NOME": "R. Gardênio Scorzato, 1206 - Vista Alegre",
+        "NUM": "190621",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390703581692",
+        "LON": "-49,302464104451",
+        "NOME": "R. São Francisco Xavier, 62 - Pilarzinho",
+        "NUM": "190602",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428300871199",
+        "LON": "-49,272607068804",
+        "NOME": "Nestor de Castro - 167 - Fredolim Wolf",
+        "NUM": "101124",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "39",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43135530897",
+        "LON": "-49,277789772696",
+        "NOME": "R. Cruz Machado, 550 - Centro",
+        "NUM": "110103",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411356340595",
+        "LON": "-49,292004139881",
+        "NOME": "R. André Zanetti, 382 -  Vista Alegre",
+        "NUM": "190631",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384180117699",
+        "LON": "-49,295060516542",
+        "NOME": "Av. Fredolin Wolf, 800 - Pilarzinho",
+        "NUM": "120346",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402506365674",
+        "LON": "-49,29296524785",
+        "NOME": "R. Gardênio Scorzato, 332 - Pilarzinho",
+        "NUM": "190627",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418921239142",
+        "LON": "-49,289150262566",
+        "NOME": "R. Myltho Anselmo da Silva, 1287 - Mercês",
+        "NUM": "190637",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419747577463",
+        "LON": "-49,285307201223",
+        "NOME": "R. Myltho Anselmo da Silva, 991 - Mercês",
+        "NUM": "110135",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391354869652",
+        "LON": "-49,297443427869",
+        "NOME": "R. Vinte e Cinco de Abril, 86 - Pilarzinho",
+        "NUM": "190616",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389249098889",
+        "LON": "-49,302613905783",
+        "NOME": "Rua São Francisco Xavier, 265 - Pilarzinho",
+        "NUM": "190601",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418809380452",
+        "LON": "-49,289110612268",
+        "NOME": "R. Myltho Anselmo da Silva, 1336 - Mercês",
+        "NUM": "190636",
+        "SENTIDO": "Fredolin Wolf",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    }
+]

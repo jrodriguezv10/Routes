@@ -1,0 +1,382 @@
+[
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400716478181",
+        "LON": "-49,330594633153",
+        "NOME": "Terminal Santa Felicidade - 918 - Veneza",
+        "NUM": "106016",
+        "SENTIDO": "Veneza",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408017783418",
+        "LON": "-49,339948625511",
+        "NOME": "Av. Vereador Toaldo Túlio, 1062 - São Braz",
+        "NUM": "190247",
+        "SENTIDO": "Veneza",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412765113772",
+        "LON": "-49,33982926721",
+        "NOME": "Rua José Tomasi, 484 - Santa Felicidade",
+        "NUM": "190789",
+        "SENTIDO": "Veneza",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410789403938",
+        "LON": "-49,340255738443",
+        "NOME": "Rua José Tomasi, 277 - Santa Felicidade",
+        "NUM": "190338",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414694761108",
+        "LON": "-49,339888275808",
+        "NOME": "Rua Antônio Escorsin, 1001 - Santa Felicidade",
+        "NUM": "190341",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406810025008",
+        "LON": "-49,323371232695",
+        "NOME": "Rua Via Veneto, 221 - Santa Felicidade",
+        "NUM": "190780",
+        "SENTIDO": "Veneza",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411248508006",
+        "LON": "-49,325618923849",
+        "NOME": "Rua João Azolin, 274 - Santa Felicidade",
+        "NUM": "190781",
+        "SENTIDO": "Veneza",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412181247037",
+        "LON": "-49,331315935797",
+        "NOME": "Rua João Azolin, 844 - Santa Felicidade",
+        "NUM": "190785",
+        "SENTIDO": "Veneza",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40931638278",
+        "LON": "-49,335002632088",
+        "NOME": "Rua José Risseto, 752 - Santa Felicidade",
+        "NUM": "190786",
+        "SENTIDO": "Veneza",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415824916867",
+        "LON": "-49,342355908102",
+        "NOME": "Rua Antônio Escorsin, 1185 - Santa Felicidade",
+        "NUM": "190343",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404544688258",
+        "LON": "-49,324918867296",
+        "NOME": "Rua Via Veneto, 505 - Santa Felicidade",
+        "NUM": "190779",
+        "SENTIDO": "Veneza",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410877833089",
+        "LON": "-49,340354980177",
+        "NOME": "Rua José Tomasi, 262 - Santa Felicidade",
+        "NUM": "190788",
+        "SENTIDO": "Veneza",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407821538641",
+        "LON": "-49,338895858473",
+        "NOME": "Av. Vereador Toaldo Túlio, 1159 - Santa Felicidade",
+        "NUM": "190248",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402222371082",
+        "LON": "-49,327748597807",
+        "NOME": "Rua Via Veneto, 1081 - Santa Felicidade",
+        "NUM": "190326",
+        "SENTIDO": "Veneza",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414585742308",
+        "LON": "-49,339943261093",
+        "NOME": "Rua Antônio Escorsin, 1002 - Santa Felicidade",
+        "NUM": "190340",
+        "SENTIDO": "Veneza",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411330880055",
+        "LON": "-49,325525046534",
+        "NOME": "Rua João Azolin, 273 - Santa Felicidade",
+        "NUM": "190331",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406722804273",
+        "LON": "-49,323305518574",
+        "NOME": "Rua Via Veneto, 222 - Santa Felicidade",
+        "NUM": "190328",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412205473929",
+        "LON": "-49,331165732092",
+        "NOME": "Rua João Azolin, 843 - Santa Felicidade",
+        "NUM": "190333",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412591892193",
+        "LON": "-49,339774281925",
+        "NOME": "Rua José Tomasi, 445 - Santa Felicidade",
+        "NUM": "190339",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417465016887",
+        "LON": "-49,344178469128",
+        "NOME": "Rua Carlos Chagas, 798 - São Braz",
+        "NUM": "190791",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421282806179",
+        "LON": "-49,342808454457",
+        "NOME": "Rua José Bepe Luca, 1 - São Braz",
+        "NUM": "190344",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41019825945",
+        "LON": "-49,323124469465",
+        "NOME": "Rua Nicolau José Gravina, 1962 - Cascatinha",
+        "NUM": "190329",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411236394465",
+        "LON": "-49,333155931181",
+        "NOME": "Rua José Risseto, 413 - Santa Felicidade",
+        "NUM": "190335",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408039588373",
+        "LON": "-49,337165833658",
+        "NOME": "Rua José Risseto, 1020 - Santa Felicidade",
+        "NUM": "190787",
+        "SENTIDO": "Veneza",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400716478181",
+        "LON": "-49,330594633153",
+        "NOME": "Terminal Santa Felicidade - 918 - Veneza",
+        "NUM": "106016",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404922651143",
+        "LON": "-49,324508489317",
+        "NOME": "Rua Via Veneto, 504 - Santa Felicidade",
+        "NUM": "190237",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421282806179",
+        "LON": "-49,342808454457",
+        "NOME": "Rua José Bepe Luca, 1 - São Braz",
+        "NUM": "190344",
+        "SENTIDO": "Veneza",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410097716144",
+        "LON": "-49,323270649857",
+        "NOME": "Rua Nicolau José Gravina, 1961- Cascatinha",
+        "NUM": "190330",
+        "SENTIDO": "Veneza",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411696708181",
+        "LON": "-49,328640432304",
+        "NOME": "Rua João Azolin, 510 - Santa Felicidade",
+        "NUM": "190784",
+        "SENTIDO": "Veneza",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411107990851",
+        "LON": "-49,333119721359",
+        "NOME": "Rua José Risseto, 482 - Santa Felicidade",
+        "NUM": "190334",
+        "SENTIDO": "Veneza",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415562062721",
+        "LON": "-49,34218558783",
+        "NOME": "Rua Antônio Escorsin, 1184 - Santa Felicidade",
+        "NUM": "190342",
+        "SENTIDO": "Veneza",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41906269996",
+        "LON": "-49,343698353714",
+        "NOME": "Rua Carlos Chagas, 661 - São Braz",
+        "NUM": "190792",
+        "SENTIDO": "Veneza",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401871051602",
+        "LON": "-49,328622997946",
+        "NOME": "Rua Via Veneto, 1104 - Santa Felicidade",
+        "NUM": "190325",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409380585557",
+        "LON": "-49,335058958477",
+        "NOME": "Rua José Risseto, 751 - Santa Felicidade",
+        "NUM": "190336",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41903120679",
+        "LON": "-49,343591065353",
+        "NOME": "Rua Carlos Chagas, 662 - São Braz",
+        "NUM": "190793",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417472284637",
+        "LON": "-49,34426832313",
+        "NOME": "Rua Carlos Chagas, 797 - São Braz",
+        "NUM": "190790",
+        "SENTIDO": "Veneza",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411789982062",
+        "LON": "-49,328582764811",
+        "NOME": "Rua João Azolin, 537 - Santa Felicidade",
+        "NUM": "190332",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408124385385",
+        "LON": "-49,337159128136",
+        "NOME": "Rua José Risseto, 1023 - Santa Felicidade",
+        "NUM": "190337",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    }
+]

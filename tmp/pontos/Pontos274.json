@@ -1,0 +1,662 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38376",
+        "LON": "-49,26163",
+        "NOME": "Av. Anita Garibaldi, 3436 - São Lourenço",
+        "NUM": "120019",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38604",
+        "LON": "-49,26148",
+        "NOME": "Av. Anita Garibaldi, 3446 - São Lourenço",
+        "NUM": "120018",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372308494636",
+        "LON": "-49,262506209822",
+        "NOME": "Av. Anita Garibaldi, 4644 - Barreirinha",
+        "NUM": "120028",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405612708093",
+        "LON": "-49,259756705523",
+        "NOME": "Rua S Sebastião, 219 - Ahu",
+        "NUM": "120713",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409254565852",
+        "LON": "-49,25687793011",
+        "NOME": "Av. Anita Garibaldi, 261 - Ahú",
+        "NUM": "120398",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415936320299",
+        "LON": "-49,262600423044",
+        "NOME": "Rua Campos Sales, 276 - Alto da Glória",
+        "NUM": "120401",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38678",
+        "LON": "-49,26138",
+        "NOME": "Av. Anita Garibaldi, 3021 - Boa Vista",
+        "NUM": "120017",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39779",
+        "LON": "-49,25883",
+        "NOME": "R. Vereador Washington Mansur, 592 - Ahú",
+        "NUM": "120008",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402697686074",
+        "LON": "-49,259931946796",
+        "NOME": "Rua Vereador Washington Mansur, 134 - Ahú",
+        "NUM": "120232",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371198482293",
+        "LON": "-49,261667550926",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120031",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367533635378",
+        "LON": "-49,25983157424",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120037",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399521854456",
+        "LON": "-49,257502884811",
+        "NOME": "Av. Anita Garibaldi, 1400 - Ahú",
+        "NUM": "120004",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393572169618",
+        "LON": "-49,25931712101",
+        "NOME": "Av. Anita Garibaldi, 2164 - Ahú",
+        "NUM": "120011",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366371219009",
+        "LON": "-49,266734139028",
+        "NOME": "Rua Prof. Leonardo Cobe, 728 - Barreirinha",
+        "NUM": "120786",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38989",
+        "LON": "-49,26065",
+        "NOME": "Av. Anita Garibaldi, 2709 - São Lourenço",
+        "NUM": "120015",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366707279678",
+        "LON": "-49,264528931326",
+        "NOME": "Rua Carmelina Cavassim, 1348 - Barreirinha",
+        "NUM": "120410",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367411823091",
+        "LON": "-49,259725597553",
+        "NOME": "Avenida Anita Garibaldi, 5306 - Barreirinha",
+        "NUM": "120036",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,365268187323",
+        "LON": "-49,260806093254",
+        "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
+        "NUM": "120038",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428573260605",
+        "LON": "-49,270704717583",
+        "NOME": "Trav. Moreira Garcês - 274 - Santa Gema",
+        "NUM": "101162",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413712340163",
+        "LON": "-49,26050159449",
+        "NOME": "Rua Campos Sales, 592 - Juvevê",
+        "NUM": "120400",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393740572387",
+        "LON": "-49,259315779905",
+        "NOME": "Av. Anita Garibaldi, 2163 - Ahú",
+        "NUM": "120012",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3657229524",
+        "LON": "-49,263027940247",
+        "NOME": "Rua Carmelina Cavassim, 1468 - Barreirinha",
+        "NUM": "120412",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428573260605",
+        "LON": "-49,270704717583",
+        "NOME": "Trav. Moreira Garcês - 274 - Santa Gema",
+        "NUM": "101162",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380553545525",
+        "LON": "-49,261349604431",
+        "NOME": "Av. Anita Garibaldi, 3696 - São Lourenço",
+        "NUM": "120021",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404545273926",
+        "LON": "-49,257811338847",
+        "NOME": "Av. Anita Garibaldi, 888 - Juvevê",
+        "NUM": "120233",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3697",
+        "LON": "-49,26006",
+        "NOME": "Avenida Anita Garibaldi, 5062 - Barreirinha",
+        "NUM": "120034",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36642977691",
+        "LON": "-49,264308990187",
+        "NOME": "Rua Carmelina Cavassim, 1401 - Barreirinha",
+        "NUM": "120411",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392260058261",
+        "LON": "-49,260980800691",
+        "NOME": "Av. Anita Garibaldi, 2393 - Boa Vista",
+        "NUM": "120014",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377420338127",
+        "LON": "-49,262723594524",
+        "NOME": "Avenida Anita Garibaldi, 4080 - Barreirinha",
+        "NUM": "120426",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417228638685",
+        "LON": "-49,265875400251",
+        "NOME": "Rua Ivo Leão, 530 - Alto da Glória",
+        "NUM": "120645",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414071965192",
+        "LON": "-49,263602228111",
+        "NOME": "Rua Alberto Foloni, 2 - Juveve",
+        "NUM": "120647",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39744",
+        "LON": "-49,25669",
+        "NOME": "Av. Anita Garibaldi, 1682 - Ahú",
+        "NUM": "120005",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395158054012",
+        "LON": "-49,257438511795",
+        "NOME": "Av. Anita Garibaldi, 1897 - Ahú",
+        "NUM": "120006",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417701181662",
+        "LON": "-49,265145839398",
+        "NOME": "Rua Lysímaco Ferreira da Costa, 1 - Alto da Glória",
+        "NUM": "120403",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380417839282",
+        "LON": "-49,261556134525",
+        "NOME": "Av. Anita Garibaldi, 3693 - São Lourenço",
+        "NUM": "120022",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38307",
+        "LON": "-49,26186",
+        "NOME": "Av. Anita Garibaldi, 3431 - São Lourenço",
+        "NUM": "120020",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37256",
+        "LON": "-49,26282",
+        "NOME": "Av. Anita Garibaldi, 4608 - Barreirinha",
+        "NUM": "120027",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36922",
+        "LON": "-49,25998",
+        "NOME": "Avenida Anita Garibaldi, 5094 - Barreirinha",
+        "NUM": "120035",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364864987197",
+        "LON": "-49,261790100787",
+        "NOME": "Rua Carmelina Cavassim, 1704 - Barreirinha",
+        "NUM": "120413",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364966784085",
+        "LON": "-49,267952245369",
+        "NOME": "Rua Prof. Leonardo Cobe, 955 - Barreirinha",
+        "NUM": "120784",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407856492786",
+        "LON": "-49,264181585258",
+        "NOME": "Rua Alberto Foloni, 808 - Juveve",
+        "NUM": "120982",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406094845623",
+        "LON": "-49,257314519014",
+        "NOME": "Rua S Sebastião, 27 - Ahu",
+        "NUM": "120714",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395384001468",
+        "LON": "-49,258242155117",
+        "NOME": "R. Vereador Washington Mansur, 892 - Ahú",
+        "NUM": "120007",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366113104384",
+        "LON": "-49,260314271751",
+        "NOME": "Av. Anita Garibaldi, 5470 - Barreirinha",
+        "NUM": "120787",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391684573142",
+        "LON": "-49,260814503732",
+        "NOME": "Av. Anita Garibaldi, 2480 - Boa Vista",
+        "NUM": "120013",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416389209019",
+        "LON": "-49,264020652717",
+        "NOME": "Rua Eusébio da Mota, 214 - Alto da Glória",
+        "NUM": "120646",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405032713974",
+        "LON": "-49,263894588894",
+        "NOME": "Rua Alberto Foloni, 1134 - Juveve",
+        "NUM": "120985",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364841962624",
+        "LON": "-49,261870567057",
+        "NOME": "Rua Carmelina Cavassim, 1703 - Barreirinha",
+        "NUM": "120414",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41108",
+        "LON": "-49,26382",
+        "NOME": "Rua Alberto Folloni, 477 - Juvevê",
+        "NUM": "120098",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399745370803",
+        "LON": "-49,259257371229",
+        "NOME": "R. Vereador Washington Mansur, 462 - Ahú",
+        "NUM": "120009",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376397267673",
+        "LON": "-49,262598365111",
+        "NOME": "Avenida Anita Garibaldi, 4222  - Barreirinha",
+        "NUM": "120023",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38867746733",
+        "LON": "-49,260652230087",
+        "NOME": "Av. Anita Garibaldi, 2816 - Boa Vista",
+        "NUM": "120016",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40206",
+        "LON": "-49,25861",
+        "NOME": "Av. Anita Garibaldi, 1076 - Ahú",
+        "NUM": "120003",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371146376771",
+        "LON": "-49,261400728836",
+        "NOME": "Avenida Anita Garibaldi, 4812 - Barreirinha",
+        "NUM": "120029",
+        "SENTIDO": "Sta Gema",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364966784085",
+        "LON": "-49,267952245369",
+        "NOME": "Rua Prof. Leonardo Cobe, 955 - Barreirinha",
+        "NUM": "120784",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411655485426",
+        "LON": "-49,258606613821",
+        "NOME": "Rua Campos Sales, 842 - Juvevê",
+        "NUM": "120399",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40491",
+        "LON": "-49,25769",
+        "NOME": "Rua Anita Garibaldi, 674 - Cabral",
+        "NUM": "120231",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366480281361",
+        "LON": "-49,266786442104",
+        "NOME": "Rua Prof. Leonardo Cobe, 727 - Barreirinha",
+        "NUM": "120785",
+        "SENTIDO": "Moreira Garcez",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

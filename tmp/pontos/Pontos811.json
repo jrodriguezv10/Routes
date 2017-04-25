@@ -1,0 +1,492 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,42701062087",
+        "LON": "-49,335865861273",
+        "NOME": "Rua Tobias de Macedo Júnior, 1635 - Santo Inácio",
+        "NUM": "190110",
+        "SENTIDO": "Saturno",
+        "SEQ": "9",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42584",
+        "LON": "-49,34295",
+        "NOME": "Rua Julieta Zilioto, 431 - Santo Inácio",
+        "NUM": "190118",
+        "SENTIDO": "Saturno",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429380931878",
+        "LON": "-49,32472046627",
+        "NOME": "Rua Tobias de Macedo Júnior, 311 - Santo Inácio",
+        "NUM": "190016",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428047577629",
+        "LON": "-49,34161842576",
+        "NOME": "Rua Maria Guebur, 216 - Santo Inácio",
+        "NUM": "190121",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429131801141",
+        "LON": "-49,344266326389",
+        "NOME": "Rua Capitão Domingos Castelano, 378- Santo Inácio",
+        "NUM": "190126",
+        "SENTIDO": "Saturno",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428167857237",
+        "LON": "-49,346346006117",
+        "NOME": "Rua Luís Sperândio, 174 - Santo Inácio",
+        "NUM": "190130",
+        "SENTIDO": "Saturno",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43467",
+        "LON": "-49,31044",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 80 - Campina do Siqueira",
+        "NUM": "190012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427419658866",
+        "LON": "-49,327305743551",
+        "NOME": "Rua Tobias de Macedo Júnior, 763 - Santo Inácio",
+        "NUM": "190101",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42699422392",
+        "LON": "-49,333204285879",
+        "NOME": "Rua Tobias de Macedo Júnior, 1364 - Santo Inácio",
+        "NUM": "190107",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429612080303",
+        "LON": "-49,34123638525",
+        "NOME": "Rua Capitão Domingos Castelano, 2 - Santo Inácio",
+        "NUM": "190123",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428161801317",
+        "LON": "-49,34648317791",
+        "NOME": "Rua Luís Sperândio, 173 - Santo Inácio",
+        "NUM": "190129",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426226245365",
+        "LON": "-49,346115364418",
+        "NOME": "Rua Luís Sperândio, 471 - Santo Inácio",
+        "NUM": "190132",
+        "SENTIDO": "Saturno",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422141550224",
+        "LON": "-49,346333906746",
+        "NOME": "Rua Magdalena Chagas Lima, 515 - São Braz",
+        "NUM": "190136",
+        "SENTIDO": "Saturno",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435897343385",
+        "LON": "-49,307442749784",
+        "NOME": "Terminal Campina do Siqueira - 811 - Saturno",
+        "NUM": "104503",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429956708703",
+        "LON": "-49,322841078539",
+        "NOME": "Rua Tobias de Macedo Júnior, 75 - Santo Inácio",
+        "NUM": "190014",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425729379339",
+        "LON": "-49,34024",
+        "NOME": "Rua Paulo de Deus Bessa, 620 - Santo Inácio",
+        "NUM": "190115",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,32741",
+        "NOME": "Rua Tobias de Macedo Júnior, 763 - Santo Inácio",
+        "NUM": "190102",
+        "SENTIDO": "Saturno",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428103353939",
+        "LON": "-49,341754868717",
+        "NOME": "Rua Maria Guebur, 215 - Santo Inácio",
+        "NUM": "190122",
+        "SENTIDO": "Saturno",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426671241634",
+        "LON": "-49,342872449074",
+        "NOME": "Rua Albino Potulski, 47 - Santo Inácio",
+        "NUM": "190120",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4207379",
+        "LON": "-49,3459486",
+        "NOME": "Rua Magdalena Chagas Lima, 368- São Braz",
+        "NUM": "190137",
+        "SENTIDO": "Saturno",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42719",
+        "LON": "-49,32901",
+        "NOME": "Rua Tobias de Macedo Júnior, 897 - Santo Inácio",
+        "NUM": "190104",
+        "SENTIDO": "Saturno",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427000900763",
+        "LON": "-49,331544926424",
+        "NOME": "Rua Tobias de Macedo Júnior, 1217 - Santo Inácio",
+        "NUM": "190106",
+        "SENTIDO": "Saturno",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429554254789",
+        "LON": "-49,346185860119",
+        "NOME": "Rua Capitão Domingos Castelano, 571 - Santo Inácio",
+        "NUM": "190128",
+        "SENTIDO": "Saturno",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423580930479",
+        "LON": "-49,347326851521",
+        "NOME": "Rua Benjamin Cavet, 77 - São Braz",
+        "NUM": "190134",
+        "SENTIDO": "Saturno",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "23",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43634",
+        "LON": "-49,31221",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 224 - Campina do Siqueira",
+        "NUM": "190011",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427262422386",
+        "LON": "-49,328950991402",
+        "NOME": "Rua Tobias de Macedo Júnior, 898 - Santo Inácio",
+        "NUM": "190103",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42708",
+        "LON": "-49,33163",
+        "NOME": "Rua Tobias de Macedo Júnior, 1218 - Santo Inácio",
+        "NUM": "190105",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426081211205",
+        "LON": "-49,33866524785",
+        "NOME": "Estrada da Miná do Ouro, 732 - Santo Inácio",
+        "NUM": "190113",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429353354215",
+        "LON": "-49,324594139881",
+        "NOME": "Rua Tobias de Macedo Júnior, 310 - Santo Inácio",
+        "NUM": "190015",
+        "SENTIDO": "Saturno",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42589",
+        "LON": "-49,33861",
+        "NOME": "Estrada da Miná do Ouro, 731 - Santo Inácio",
+        "NUM": "190114",
+        "SENTIDO": "Saturno",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425655435399",
+        "LON": "-49,34016524785",
+        "NOME": "Rua Paulo de Deus Bessa, 621 - Santo Inácio",
+        "NUM": "190116",
+        "SENTIDO": "Saturno",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426805124741",
+        "LON": "-49,342804519014",
+        "NOME": "Rua Albino Potulski, 48 - Santo Inácio",
+        "NUM": "190119",
+        "SENTIDO": "Saturno",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429612080303",
+        "LON": "-49,34123638525",
+        "NOME": "Rua Capitão Domingos Castelano, 2 - Santo Inácio",
+        "NUM": "190123",
+        "SENTIDO": "Saturno",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4207379",
+        "LON": "-49,3459486",
+        "NOME": "Rua Magdalena Chagas Lima, 368- São Braz",
+        "NUM": "190137",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Saturno",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428428167723",
+        "LON": "-49,337281836805",
+        "NOME": "Rua Tobias de Macedo Júnior, 1722 - Santo Inácio",
+        "NUM": "190112",
+        "SENTIDO": "Saturno",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425634224193",
+        "LON": "-49,342727084656",
+        "NOME": "Rua Paulo de Deus Bessa, 357 - Santo Inácio",
+        "NUM": "190117",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429631179766",
+        "LON": "-49,346151311674",
+        "NOME": "Rua Capitão Domingos Castelano, 570 - Santo Inácio",
+        "NUM": "190127",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423634534757",
+        "LON": "-49,347386472387",
+        "NOME": "Rua Benjamin Cavet, 78 - São Braz",
+        "NUM": "190133",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435897343385",
+        "LON": "-49,307442749784",
+        "NOME": "Terminal Campina do Siqueira - 811 - Saturno",
+        "NUM": "104503",
+        "SENTIDO": "Saturno",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Saturno",
+        "SEQ": "3",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,33326",
+        "NOME": "Rua Tobias de Macedo Júnior, 1365 - Santo Inácio",
+        "NUM": "190108",
+        "SENTIDO": "Saturno",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427115435091",
+        "LON": "-49,335556588955",
+        "NOME": "Rua Tobias de Macedo Júnior, 1636 - Santo Inácio",
+        "NUM": "190109",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42837",
+        "LON": "-49,337112449074",
+        "NOME": "Rua Tobias de Macedo Júnior, 1721 - Santo Inácio",
+        "NUM": "190111",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429227888266",
+        "LON": "-49,343921836805",
+        "NOME": "Rua Capitão Domingos Castelano, 379 - Santo Inácio",
+        "NUM": "190125",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426226956851",
+        "LON": "-49,346256938658",
+        "NOME": "Rua Luís Sperândio, 470 - Santo Inácio",
+        "NUM": "190131",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422114253817",
+        "LON": "-49,346438163195",
+        "NOME": "Rua Magdalena Chagas Lima, 516 - São Braz",
+        "NUM": "190135",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430958050444",
+        "LON": "-49,322961066418",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190198",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    }
+]

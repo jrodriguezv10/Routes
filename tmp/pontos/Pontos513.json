@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,491766021943",
+        "LON": "-49,261911981274",
+        "NOME": "Rua Chanceler Oswaldo Aranha, 871 -Hauer",
+        "NUM": "150258",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515551420278",
+        "LON": "-49,235210511774",
+        "NOME": "Rua Doutor Blei Zorning, 3765 - Boqueirão",
+        "NUM": "150431",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49350019329",
+        "LON": "-49,260205856194",
+        "NOME": "Rua Humberto Cicarino, 180 - Boqueirão",
+        "NUM": "150408",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516658648397",
+        "LON": "-49,249958805146",
+        "NOME": "Rua Cristiano Strobel, 2600 - Xaxim",
+        "NUM": "150419",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495278672786",
+        "LON": "-49,25953139946",
+        "NOME": "Rua Humberto Cicarino, 335 - Boqueirão",
+        "NUM": "150260",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515279011261",
+        "LON": "-49,239122494065",
+        "NOME": "Rua Arthur Manoel Iwersen, 668 - Boqueirão",
+        "NUM": "150427",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508078112581",
+        "LON": "-49,254286702523",
+        "NOME": "Rua Cristiano Strobel, 1537 - Xaxim",
+        "NUM": "150410",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505352787705",
+        "LON": "-49,255628487241",
+        "NOME": "Rua Cristiano Strobel, 1204 - Xaxim",
+        "NUM": "150268",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512047055329",
+        "LON": "-49,252219667875",
+        "NOME": "Rua Cristiano Strobel, 2003 - Xaxim",
+        "NUM": "150415",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48322",
+        "LON": "-49,25275",
+        "NOME": "Rua Alcíno Guanabara, 1237 - Hauer",
+        "NUM": "150203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516951512551",
+        "LON": "-49,230750262565",
+        "NOME": "Terminal Boqueirão - 513 - Hauer / Boqueirão",
+        "NUM": "104316",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498106579197",
+        "LON": "-49,258152744026",
+        "NOME": "Rua Humberto Cicarino, 636 - Boqueirão",
+        "NUM": "150262",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482092607052",
+        "LON": "-49,246975830006",
+        "NOME": "Terminal Hauer - 513 - Hauer / Boqueirão",
+        "NUM": "105513",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486172163263",
+        "LON": "-49,260065901859",
+        "NOME": "Rua Alcíno Guanabara, 2125 -Hauer",
+        "NUM": "150252",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487571099921",
+        "LON": "-49,263442803009",
+        "NOME": "Rua Alcíno Guanabara, 2405 - Hauer",
+        "NUM": "150255",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505252323861",
+        "LON": "-49,255539974343",
+        "NOME": "Rua Cristiano Strobel, 1203 -Xaxim",
+        "NUM": "150269",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515549224891",
+        "LON": "-49,234940657138",
+        "NOME": "Rua Doutor Blei Zorning, 3766 - Boqueirão",
+        "NUM": "150430",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514934889719",
+        "LON": "-49,244279661836",
+        "NOME": "Rua Desembargador Antonio de Paula, 2877 - Boqueirão",
+        "NUM": "150423",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485364178259",
+        "LON": "-49,258368825854",
+        "NOME": "Rua Alcíno Guanabara, 3 - Hauer",
+        "NUM": "150247",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5133107811",
+        "LON": "-49,240487836122",
+        "NOME": "Rua Desembargador Antonio de Paula, 2410 - Boqueirão",
+        "NUM": "150424",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491749374796",
+        "LON": "-49,26178846967",
+        "NOME": "Rua Chanceler Oswaldo Aranha, 870 - Hauer",
+        "NUM": "150259",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48425",
+        "LON": "-49,25528",
+        "NOME": "Rua Alcino Guanabara, 1521 - Hauer",
+        "NUM": "150201",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48184",
+        "LON": "-49,24937",
+        "NOME": "Rua Alcino Guanabara, 907 - Hauer",
+        "NUM": "150202",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515996327471",
+        "LON": "-49,247282400292",
+        "NOME": "Rua Desembargador Antonio de Paula, 3154 - Boqueirão",
+        "NUM": "150421",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482092607052",
+        "LON": "-49,246975830006",
+        "NOME": "Terminal Hauer - 513 - Hauer / Boqueirão",
+        "NUM": "105513",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510206711262",
+        "LON": "-49,25324795798",
+        "NOME": "Rua Cristiano Strobel, 1819 - Xaxim",
+        "NUM": "150412",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516500706512",
+        "LON": "-49,237292503642",
+        "NOME": "Rua Doutor Blei Zorning, 4027 - Boqueirão",
+        "NUM": "150429",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514873033444",
+        "LON": "-49,239186593717",
+        "NOME": "Rua Arthur Manoel Iwersen, 669 - Boqueirão",
+        "NUM": "150426",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510056439226",
+        "LON": "-49,253203464859",
+        "NOME": "Rua Cristiano Strobel, 1820 - Xaxim",
+        "NUM": "150413",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485146268507",
+        "LON": "-49,257510262566",
+        "NOME": "Rua Alcino Guanabara, 4 - Hauer",
+        "NUM": "150200",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514949413446",
+        "LON": "-49,244653829994",
+        "NOME": "Rua Desembargador Antonio de Paula, 2878 - Boqueirão",
+        "NUM": "150422",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516118567704",
+        "LON": "-49,247218027276",
+        "NOME": "Rua Desembargador Antonio de Paula, 3153 - Boqueirão",
+        "NUM": "150420",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489891508132",
+        "LON": "-49,263082045896",
+        "NOME": "Rua Chanceler Oswaldo Aranha, 650 - Hauer",
+        "NUM": "150257",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516710035414",
+        "LON": "-49,250079265081",
+        "NOME": "Rua Cristiano Strobel, 2601 - Xaxim",
+        "NUM": "150418",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516445032936",
+        "LON": "-49,237426614093",
+        "NOME": "Rua Doutor Blei Zorning, 4026 - Boqueirão",
+        "NUM": "150428",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516951512551",
+        "LON": "-49,230750262565",
+        "NOME": "Terminal Boqueirão - 513 - Hauer / Boqueirão",
+        "NUM": "104316",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501838099506",
+        "LON": "-49,256271788443",
+        "NOME": "Rua Humberto Cicarino, 1089 - Boqueirão",
+        "NUM": "150267",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493568617895",
+        "LON": "-49,260307551112",
+        "NOME": "Rua Humberto Cicarino, 179 - Boqueirão",
+        "NUM": "150409",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511954056319",
+        "LON": "-49,252398259721",
+        "NOME": "Rua Cristiano Strobel, 2002 - Xaxim",
+        "NUM": "150414",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48728298001",
+        "LON": "-49,263045836075",
+        "NOME": "Rua Alcíno Guanabara, 2408 - Hauer",
+        "NUM": "150254",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500584074353",
+        "LON": "-49,256972572059",
+        "NOME": "Rua Humberto Cicarino, 1050 - Boqueirão",
+        "NUM": "150264",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501948249738",
+        "LON": "-49,256318727101",
+        "NOME": "Rua Humberto Cicarino, 1136 - Boqueirão",
+        "NUM": "150266",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514172024671",
+        "LON": "-49,251187541672",
+        "NOME": "Rua Cristiano Strobel, 2321 - Xaxim",
+        "NUM": "150417",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500499342452",
+        "LON": "-49,256902834625",
+        "NOME": "Rua Humberto Cicarino, 1051 - Boqueirão",
+        "NUM": "150265",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514282370457",
+        "LON": "-49,251269562265",
+        "NOME": "Rua Cristiano Strobel, 2320 - Xaxim",
+        "NUM": "150416",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513454074743",
+        "LON": "-49,240614297522",
+        "NOME": "Rua Desembargador Antonio de Paula, 2409 -Boqueirão",
+        "NUM": "150425",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486321765876",
+        "LON": "-49,26067954892",
+        "NOME": "Rua Alcíno Guanabara, 2146 - Hauer",
+        "NUM": "150253",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489852770109",
+        "LON": "-49,262994874103",
+        "NOME": "Rua Chanceler Oswaldo Aranha, 651 - Hauer",
+        "NUM": "150256",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495109201439",
+        "LON": "-49,259467026444",
+        "NOME": "Rua Humberto Cicarino, 336 - Boqueirão",
+        "NUM": "150261",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497933480393",
+        "LON": "-49,25812726304",
+        "NOME": "Rua Humberto Cicarino, 637 - Boqueirão",
+        "NUM": "150263",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502298891389",
+        "LON": "-49,256580671441",
+        "NOME": "R. Cel. Luíz José dos Santos, 2953 - Boqueirão",
+        "NUM": "150382",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508130158901",
+        "LON": "-49,254148568759",
+        "NOME": "Rua Cristiano Strobel, 1538 - Xaxim",
+        "NUM": "150411",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    }
+]

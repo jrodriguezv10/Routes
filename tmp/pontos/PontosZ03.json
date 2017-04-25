@@ -1,0 +1,132 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,452238019421",
+        "LON": "-49,224005114418",
+        "NOME": "Rua Vicente de Carvalho, 230 - Cajuru",
+        "NUM": "140256",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450995507057",
+        "LON": "-49,220000495701",
+        "NOME": "R. Vicente de Carvalho, 620 - Cajuru",
+        "NUM": "140233",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446578262866",
+        "LON": "-49,221711158752",
+        "NOME": "Rua Luís França, 940 - Cajuru",
+        "NUM": "140985",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44944",
+        "LON": "-49,219827084656",
+        "NOME": "Rua Luiz França, 1394 - Cajuru",
+        "NUM": "140232",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451906718414",
+        "LON": "-49,223389154596",
+        "NOME": "Rua Vicente de Carvalho, 261 - Cajuru",
+        "NUM": "140255",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452238019421",
+        "LON": "-49,224005114418",
+        "NOME": "Rua Vicente de Carvalho, 230 - Cajuru",
+        "NUM": "140256",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44468",
+        "LON": "-49,2231",
+        "NOME": "Rua Prof. Nivaldo Braga, 150 - Cajuru",
+        "NUM": "140152",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44863",
+        "LON": "-49,22008",
+        "NOME": "Rua Luiz França, 1280 - Cajuru",
+        "NUM": "140231",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440208505134",
+        "LON": "-49,221385599321",
+        "NOME": "Terminal Capão da Imbuia - Z03 - Vicente de Carvalho",
+        "NUM": "104707",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440208505134",
+        "LON": "-49,221385599321",
+        "NOME": "Terminal Capão da Imbuia - Z03 - Vicente de Carvalho",
+        "NUM": "104707",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446625468019",
+        "LON": "-49,221260495701",
+        "NOME": "Rua Luís França, 895 - Cajuru",
+        "NUM": "140229",
+        "SENTIDO": "Terminal Capão da Imbuia",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450823397422",
+        "LON": "-49,219904139881",
+        "NOME": "R. Vicente de Carvalho, 621 - Cajuru",
+        "NUM": "140234",
+        "SENTIDO": "Vicente de Carvalho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

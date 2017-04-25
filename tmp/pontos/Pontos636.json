@@ -1,0 +1,432 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,515806160069",
+        "LON": "-49,297320355472",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 1766 - Capão Raso",
+        "NUM": "170983",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541508307209",
+        "LON": "-49,279355463095",
+        "NOME": "Rua Cruzeiro do Sul, 579 - Sítio Cercado",
+        "NUM": "160239",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54417919341",
+        "LON": "-49,28167092914",
+        "NOME": "Rua Celeste Tortato Gabardo, 1063 - Sítio Cercado",
+        "NUM": "160229",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545214049923",
+        "LON": "-49,29068372576",
+        "NOME": "Rua Inajá, 917 - Pinheirinho",
+        "NUM": "160147",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512107896609",
+        "LON": "-49,295147580357",
+        "NOME": "Terminal Pinheirinho - 636 - Rio Negro",
+        "NUM": "105735",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536092234573",
+        "LON": "-49,283941807375",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4728 - Pinheirinho",
+        "NUM": "160032",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512107896609",
+        "LON": "-49,295147580357",
+        "NOME": "Terminal Pinheirinho - 636 - Rio Negro",
+        "NUM": "105735",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519286491621",
+        "LON": "-49,297219650297",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 2152 - Capão Raso",
+        "NUM": "170123",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543784727661",
+        "LON": "-49,279407144732",
+        "NOME": "Rua Celeste Tortato Gabardo, 880 - Sítio Cercado",
+        "NUM": "160246",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54378593768",
+        "LON": "-49,290962101168",
+        "NOME": "Rua Apucarana, 1669 - Sítio Cercado",
+        "NUM": "160143",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528153440264",
+        "LON": "-49,29169157424",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6018 - Pinheirinho",
+        "NUM": "160038",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544128372743",
+        "LON": "-49,281779558605",
+        "NOME": "Rua Celeste Tortato Gabardo, 1064 - Sítio Cercado",
+        "NUM": "160228",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54319063138",
+        "LON": "-49,278400612268",
+        "NOME": "Rua Cruzeiro do Sul, 836 - Sítio Cercado",
+        "NUM": "160236",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54433",
+        "LON": "-49,28307",
+        "NOME": "Rua Celeste Tortato Gabardo, 1258 - Sítio Cercado",
+        "NUM": "160226",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544785409717",
+        "LON": "-49,2859731924",
+        "NOME": "Rua Celeste Tortato Gabardo, 1547 - Sítio Cercado",
+        "NUM": "160225",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544221680924",
+        "LON": "-49,294155271",
+        "NOME": "Rua Nicola Pellanda, 1719 - Pinheirinho",
+        "NUM": "160145",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545214049923",
+        "LON": "-49,29068372576",
+        "NOME": "Rua Inajá, 917 - Pinheirinho",
+        "NUM": "160147",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533720616656",
+        "LON": "-49,28669638525",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5155 - Pinheirinho",
+        "NUM": "160033",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544746689406",
+        "LON": "-49,286084504074",
+        "NOME": "Rua Celeste Tortato Gabardo, 1546 - Sítio Cercado",
+        "NUM": "160224",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539255186713",
+        "LON": "-49,280822631426",
+        "NOME": "Rua Cruzeiro do Sul, 372 - Sítio Cercado",
+        "NUM": "160241",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542798205685",
+        "LON": "-49,278501179524",
+        "NOME": "Rua Cruzeiro do Sul, 839 - Sítio Cercado",
+        "NUM": "160237",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54355482371",
+        "LON": "-49,288442165798",
+        "NOME": "Rua Apucarana, 1375 - Sítio Cercado",
+        "NUM": "160142",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54445",
+        "LON": "-49,28311",
+        "NOME": "Rua Celeste Tortato Gabardo, 1257 - Sítio Cercado",
+        "NUM": "160227",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539417335359",
+        "LON": "-49,280845430203",
+        "NOME": "Rua Cruzeiro do Sul, 371 - Sítio Cercado",
+        "NUM": "160240",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530323506367",
+        "LON": "-49,288999504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5608 - Pinheirinho",
+        "NUM": "160036",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541625681284",
+        "LON": "-49,27941044838",
+        "NOME": "Rua Cruzeiro do Sul, 578 - Sítio Cercado",
+        "NUM": "160238",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544958440954",
+        "LON": "-49,287515462584",
+        "NOME": "Rua Celeste Tortato Gabardo, 1642 - Sítio Cercado",
+        "NUM": "160148",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,2821",
+        "NOME": "Rua Cruzeiro do Sul, 130 - Sítio Cercado",
+        "NUM": "160243",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543889999322",
+        "LON": "-49,279342771715",
+        "NOME": "Rua Celeste Tortato Gabardo, 871 - Sítio Cercado",
+        "NUM": "160247",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544001320978",
+        "LON": "-49,293142737097",
+        "NOME": "Rua Apucarana, 1679 - Sítio Cercado",
+        "NUM": "160144",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53737",
+        "LON": "-49,28222",
+        "NOME": "Rua Cruzeiro do Sul, 129 - Sítio Cercado",
+        "NUM": "160242",
+        "SENTIDO": "Rio Negro",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535961343618",
+        "LON": "-49,283845480986",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4729 - Pinheirinho",
+        "NUM": "160031",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545016521314",
+        "LON": "-49,287449748463",
+        "NOME": "Rua Celeste Tortato Gabardo, 164 - Sítio Cercado",
+        "NUM": "160149",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544744269386",
+        "LON": "-49,292218716091",
+        "NOME": "Rua Celeste Tortato Gabardo, 2188 - Sítio Cercado",
+        "NUM": "160146",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

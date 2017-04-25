@@ -1,0 +1,632 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435521556566",
+        "LON": "-49,271662444882",
+        "NOME": "Praça Rui Barbosa - 471 - Vila São Paulo",
+        "NUM": "102022",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464439188587",
+        "LON": "-49,244885510416",
+        "NOME": "Av. Senador Salgado Filho, 1474 - Prado Velho",
+        "NUM": "140025",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4447087239",
+        "LON": "-49,259564265127",
+        "NOME": "Rua João Negrão, 1802 - Centro",
+        "NUM": "140464",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486741253704",
+        "LON": "-49,227841763506",
+        "NOME": "Rua Simão Brante, 954 - Uberaba",
+        "NUM": "140814",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463088972673",
+        "LON": "-49,246180511284",
+        "NOME": "Av. Senador Salgado Filho, 1202 - Prado Velho",
+        "NUM": "140682",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493366300218",
+        "LON": "-49,223020542957",
+        "NOME": "Rua Rosa Sahagof, 213 - Uberaba",
+        "NUM": "140818",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466388447053",
+        "LON": "-49,241854108143",
+        "NOME": "Av. Senador Salgado Filho, 1871 - Prado Velho",
+        "NUM": "140030",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489857284241",
+        "LON": "-49,2250133741",
+        "NOME": "Rua Simão Brante, 1361 - Uberaba",
+        "NUM": "140820",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476138397162",
+        "LON": "-49,232625483284",
+        "NOME": "Rua Doutor Gonzaga de Campos, 421 - Uberaba",
+        "NUM": "140830",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45398906219",
+        "LON": "-49,252730991402",
+        "NOME": "Rua Imaculada Conceição, 1477 - Prado Velho",
+        "NUM": "140272",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489882706069",
+        "LON": "-49,225080429325",
+        "NOME": "Rua Simão Brante, 1350 - Uberaba",
+        "NUM": "140816",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435521556566",
+        "LON": "-49,271662444882",
+        "NOME": "Praça Rui Barbosa - 471 - Vila São Paulo",
+        "NUM": "102022",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442436445978",
+        "LON": "-49,259707660622",
+        "NOME": "Rua Conselheiro Laurindo, 1697 - Centro",
+        "NUM": "110146",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488571659054",
+        "LON": "-49,226243166933",
+        "NOME": "Rua Simão Brante, 1166 - Uberaba",
+        "NUM": "140815",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "29",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477397520169",
+        "LON": "-49,233365772972",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 47 - Uberaba",
+        "NUM": "140810",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45034",
+        "LON": "-49,25677",
+        "NOME": "Rua Comendador Roseira, 257 - Prado Velho",
+        "NUM": "140268",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449243513026",
+        "LON": "-49,257492155975",
+        "NOME": "Rua Conselheiro Laurindo, 2642 - Prado Velho",
+        "NUM": "140524",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473668288956",
+        "LON": "-49,234446287155",
+        "NOME": "R. Cel. José Carvalho de Oliveira, 63 - Uberaba",
+        "NUM": "141001",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45043",
+        "LON": "-49,25676",
+        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
+        "NUM": "140267",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478553722472",
+        "LON": "-49,23220169426",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 655 - Uberaba",
+        "NUM": "140828",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493366300218",
+        "LON": "-49,223020542957",
+        "NOME": "Rua Rosa Sahagof, 213 - Uberaba",
+        "NUM": "140818",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482259548328",
+        "LON": "-49,230223565111",
+        "NOME": "Rua Francisco Timóteo de Simas, 572 - Uberaba",
+        "NUM": "140813",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "26",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473586606585",
+        "LON": "-49,234690784225",
+        "NOME": "Rua Cel. José C. de Oliveira, 62 - Uberaba",
+        "NUM": "140684",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486704935855",
+        "LON": "-49,227707653055",
+        "NOME": "Rua Simão Brante, 973 - Uberaba",
+        "NUM": "140824",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480219602785",
+        "LON": "-49,230768053541",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 913 - Uberaba",
+        "NUM": "140827",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477011309802",
+        "LON": "-49,233540116558",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 483 - Uberaba",
+        "NUM": "140829",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448493095029",
+        "LON": "-49,258259370442",
+        "NOME": "Rua João Negrão, 2222 - Centro",
+        "NUM": "140466",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49149637588",
+        "LON": "-49,223898916254",
+        "NOME": "Rua Simão Brante, 1580 - Uberaba",
+        "NUM": "140817",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4786203097",
+        "LON": "-49,232287524948",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 644 - Uberaba",
+        "NUM": "140811",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462772944874",
+        "LON": "-49,246283776331",
+        "NOME": "Av. Senador Salgado Filho, 1207 - Prado Velho",
+        "NUM": "140833",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461083816703",
+        "LON": "-49,24806878643",
+        "NOME": "Av. Sen. Salgado Filho, 899 - Prado Velho",
+        "NUM": "140834",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469364306191",
+        "LON": "-49,239986679762",
+        "NOME": "Av. Senador Salgado Filho, 1464 - Prado Velho",
+        "NUM": "140032",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467458519492",
+        "LON": "-49,240965131283",
+        "NOME": "Av. Senador Salgado Filho, 2020 - Prado Velho",
+        "NUM": "140029",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47102",
+        "LON": "-49,23891",
+        "NOME": "Av. Senador Salgado Filho, 1665 - Prado Velho",
+        "NUM": "140640",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480282557111",
+        "LON": "-49,230856566439",
+        "NOME": "Rua Clóvis Bevilacqua Sobr, 906 - Uberaba",
+        "NUM": "140812",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475907152946",
+        "LON": "-49,232656328688",
+        "NOME": "Rua Cel. José C. de Oliveira, 434 - Uberaba",
+        "NUM": "140809",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47098",
+        "LON": "-49,23874",
+        "NOME": "Av. Senador Salgado Filho, 1666 - Prado Velho",
+        "NUM": "140033",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491411637569",
+        "LON": "-49,223831861029",
+        "NOME": "Rua Simão Brante, 1593 - Uberaba",
+        "NUM": "140819",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488482076372",
+        "LON": "-49,226166723976",
+        "NOME": "Rua Simão Brante, 1177 - Uberaba",
+        "NUM": "140823",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48231644839",
+        "LON": "-49,230127005586",
+        "NOME": "Rua Francisco Timóteo de Simas, 583 - Uberaba",
+        "NUM": "140826",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468090990147",
+        "LON": "-49,240140773849",
+        "NOME": "Av. Senador Salgado Filho, 1347 - Prado Velho",
+        "NUM": "140831",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446473987791",
+        "LON": "-49,258310229725",
+        "NOME": "Rua Conselheiro Laurindo, 2299 - Centro",
+        "NUM": "140446",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48465",
+        "LON": "-49,2296",
+        "NOME": "Rua Simão Brante, 620 - Uberaba",
+        "NUM": "140633",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465927024894",
+        "LON": "-49,242837696925",
+        "NOME": "Av. Senador Salgado Filho, 1760 - Prado Velho",
+        "NUM": "140028",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44656883286",
+        "LON": "-49,258803858871",
+        "NOME": "Rua João Negrão, 2024 - Centro",
+        "NUM": "140465",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460668493384",
+        "LON": "-49,24881846385",
+        "NOME": "Av. Sen. Salgado Filho, 890 - Prado Velho",
+        "NUM": "140681",
+        "SENTIDO": "V. São Paulo",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484485472591",
+        "LON": "-49,229640233135",
+        "NOME": "Rua Simão Brante, 645 - Uberaba",
+        "NUM": "140008",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46392",
+        "LON": "-49,24517",
+        "NOME": "Av. Senador Salgado Filho, 1479 - Prado Velho",
+        "NUM": "140026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    }
+]

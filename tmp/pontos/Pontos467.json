@@ -1,0 +1,542 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441882182631",
+        "LON": "-49,255241782612",
+        "NOME": "Rua Brasílio Itiberê, 1145 - Jardim Botanico",
+        "NUM": "110168",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47399423927",
+        "LON": "-49,22582130248",
+        "NOME": "Rua Júlio Wischral, 355 - Uberaba",
+        "NUM": "140674",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450178168957",
+        "LON": "-49,245062128848",
+        "NOME": "Av. Comendador Franco - Pista Lateral  - Jardim Botânico",
+        "NUM": "140601",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472456611072",
+        "LON": "-49,22742794568",
+        "NOME": "Rua Joaquim Amaral, 1242 - Jardim das Américas",
+        "NUM": "140545",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474964024582",
+        "LON": "-49,223372445649",
+        "NOME": "Rua Máximo Asineli, 229 - Uberaba",
+        "NUM": "140542",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444300617639",
+        "LON": "-49,26157850141",
+        "NOME": "Rua Brasílio Itiberê, 1721 - Rebouças",
+        "NUM": "140530",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462242386564",
+        "LON": "-49,23672582323",
+        "NOME": "Av. Comendador Franco, 3379 - Uberaba",
+        "NUM": "140988",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47482358175",
+        "LON": "-49,223255769557",
+        "NOME": "Rua Máximo Asineli, 230 - Uberaba",
+        "NUM": "140672",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480107024957",
+        "LON": "-49,220105515069",
+        "NOME": "Rua Gabirobas, 94 - Uberaba",
+        "NUM": "140538",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467784280053",
+        "LON": "-49,230826304502",
+        "NOME": "Rua Joaquim Amaral, 617 - Jardim das Américas",
+        "NUM": "140547",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464790309951",
+        "LON": "-49,233083724976",
+        "NOME": "Rua Joaquim Amaral, 182 - Jardim das Américas",
+        "NUM": "140548",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459524016899",
+        "LON": "-49,23869858796",
+        "NOME": "Av. Comendador Franco, 2801 - Uberaba",
+        "NUM": "140536",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465842164219",
+        "LON": "-49,232391373462",
+        "NOME": "Rua Joaquim Amaral, 392 - Jardim das Américas",
+        "NUM": "140995",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476967738502",
+        "LON": "-49,223290638274",
+        "NOME": "Rua Araticum, 177 - Uberaba",
+        "NUM": "140671",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476282484205",
+        "LON": "-49,221354083365",
+        "NOME": "Rua João Antônio Prosdócimo, 3 - Uberaba",
+        "NUM": "140670",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464799996477",
+        "LON": "-49,233156144619",
+        "NOME": "Rua Joaquim Amaral, 181 - Jardim das Américas",
+        "NUM": "140678",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469863181024",
+        "LON": "-49,229321585244",
+        "NOME": "Rua Joaquim Amaral, 901 - Jardim das Américas",
+        "NUM": "140546",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478257119834",
+        "LON": "-49,221350060052",
+        "NOME": "Rua Ivo Ferro, 654 - Uberaba",
+        "NUM": "140539",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435626923104",
+        "LON": "-49,271615506225",
+        "NOME": "Praça Rui Barbosa - 467 - Vila Macedo",
+        "NUM": "102023",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472426342603",
+        "LON": "-49,227582172698",
+        "NOME": "Rua Joaquim Amaral, 1244 - Jardim das Américas",
+        "NUM": "140675",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474089886359",
+        "LON": "-49,22274480874",
+        "NOME": "Rua Júlio Wischral, 555 - Uberaba",
+        "NUM": "140543",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474178269044",
+        "LON": "-49,222743467635",
+        "NOME": "Rua Júlio Wischral, 557 - Uberaba",
+        "NUM": "140673",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435626923104",
+        "LON": "-49,271615506225",
+        "NOME": "Praça Rui Barbosa - 467 - Vila Macedo",
+        "NUM": "102023",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465781623944",
+        "LON": "-49,232292131728",
+        "NOME": "Rua Joaquim Amaral, 392 - Jardim das Américas",
+        "NUM": "140996",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476219527784",
+        "LON": "-49,221399680919",
+        "NOME": "Rua João Antônio Prosdócimo, 2 - Uberaba",
+        "NUM": "140540",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442762610011",
+        "LON": "-49,257536412424",
+        "NOME": "Rua Brasílio Itiberê, 1349 - Jardim Botanico",
+        "NUM": "110167",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464527222606",
+        "LON": "-49,235022620505",
+        "NOME": "Av. Comendador Franco, 3661 - Uberaba",
+        "NUM": "140989",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461210745262",
+        "LON": "-49,237478182858",
+        "NOME": "Av. Comendador Franco, 3234 - Uberaba",
+        "NUM": "140537",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469917665423",
+        "LON": "-49,229411439246",
+        "NOME": "Rua Joaquim Amaral, 902 - Jardim das Américas",
+        "NUM": "140676",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478278912075",
+        "LON": "-49,221461371726",
+        "NOME": "Rua Ivo Ferro, 655 - Uberaba",
+        "NUM": "140668",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476960474342",
+        "LON": "-49,223033146209",
+        "NOME": "Rua João Antônio Prosdócimo, 178 - Uberaba",
+        "NUM": "140541",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445722004255",
+        "LON": "-49,265295688942",
+        "NOME": "Rua Brasílio Itiberê, 2221 - Jardim Botanico",
+        "NUM": "140529",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480107024957",
+        "LON": "-49,220105515069",
+        "NOME": "Rua Gabirobas, 94 - Uberaba",
+        "NUM": "140538",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467810917334",
+        "LON": "-49,230928228444",
+        "NOME": "Rua Joaquim Amaral, 618 - Jardim das Américas",
+        "NUM": "140677",
+        "SENTIDO": "Vila Macedo",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44131086437",
+        "LON": "-49,253258959598",
+        "NOME": "Rua Sérgio Venci, 276 - Rebouças",
+        "NUM": "140532",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45835310111",
+        "LON": "-49,239111648149",
+        "NOME": "Av. Comendador Franco, 2857 - Jardim das Américas",
+        "NUM": "140280",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460248114239",
+        "LON": "-49,237737016028",
+        "NOME": "Av. Comendador Franco, 3057 - Uberaba",
+        "NUM": "140600",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473957917571",
+        "LON": "-49,225924567527",
+        "NOME": "Rua Júlio Wischral, 354 - Uberaba",
+        "NUM": "140544",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    }
+]

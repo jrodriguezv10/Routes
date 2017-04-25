@@ -1,0 +1,1042 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Menonitas",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433709765543",
+        "LON": "-49,251164824909",
+        "NOME": "Rua Francisco Alves Guimarães, 421 - Cristo Rei",
+        "NUM": "140201",
+        "SENTIDO": "Menonitas",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482519419168",
+        "LON": "-49,248157084656",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 1100 - Hauer",
+        "NUM": "150743",
+        "SENTIDO": "Menonitas",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52054",
+        "LON": "-49,24324",
+        "NOME": "Rua Cascavel, 2420 - Boqueirão",
+        "NUM": "150763",
+        "SENTIDO": "Menonitas",
+        "SEQ": "37",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428806708195",
+        "LON": "-49,249060233135",
+        "NOME": "Rua Padre Germano Maier, 711 - Cristo Rei",
+        "NUM": "130138",
+        "SENTIDO": "SITES",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535942925152",
+        "LON": "-49,238945131283",
+        "NOME": "Rua Coronel Américo Valger, 257 - Alto Boqueirão",
+        "NUM": "160010",
+        "SENTIDO": "SITES",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49875",
+        "LON": "-49,24784",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1969 - Boqueirão",
+        "NUM": "150038",
+        "SENTIDO": "SITES",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457829142807",
+        "LON": "-49,258710758266",
+        "NOME": "Av. Mal. Floriano Peixoto, 3250 - Prado Velho",
+        "NUM": "150736",
+        "SENTIDO": "SITES",
+        "SEQ": "35",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47552",
+        "LON": "-49,24885",
+        "NOME": "Rua Ane Frank, 1001 - Hauer",
+        "NUM": "140476",
+        "SENTIDO": "SITES",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541308873714",
+        "LON": "-49,255104660988",
+        "NOME": "Rua Jussara, 2865 - Sítio Cercado",
+        "NUM": "160766",
+        "SENTIDO": "SITES",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531961529028",
+        "LON": "-49,241815860119",
+        "NOME": "Rua Francisco Derosso, 743 - Alto Boqueirão",
+        "NUM": "160005",
+        "SENTIDO": "Menonitas",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535862234443",
+        "LON": "-49,23895317791",
+        "NOME": "Rua Coronel Américo Valger, 258 - Alto Boqueirão",
+        "NUM": "160432",
+        "SENTIDO": "Menonitas",
+        "SEQ": "43",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Menonitas",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51197",
+        "LON": "-49,24746",
+        "NOME": "Rua Cascavel, 1336 - Boqueirão",
+        "NUM": "150761",
+        "SENTIDO": "Menonitas",
+        "SEQ": "35",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452499441506",
+        "LON": "-49,263757796234",
+        "NOME": "Rua Des. Westphalen, 2328 - Centro",
+        "NUM": "150612",
+        "SENTIDO": "Menonitas",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443455059371",
+        "LON": "-49,262939445506",
+        "NOME": "Rua Rockefeller, 615 - Rebouças",
+        "NUM": "140212",
+        "SENTIDO": "SITES",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45176",
+        "LON": "-49,26167",
+        "NOME": "Av. Mal. Floriano Peixoto, 2610 - Centro",
+        "NUM": "150732",
+        "SENTIDO": "SITES",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48711",
+        "LON": "-49,24318",
+        "NOME": "Rua Ane Frank, 2396 - Hauer",
+        "NUM": "140472",
+        "SENTIDO": "SITES",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4293412",
+        "LON": "-49,2497594",
+        "NOME": "SITES - 594 - Menonitas",
+        "NUM": "130877",
+        "SENTIDO": "Menonitas",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Menonitas",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432681513162",
+        "LON": "-49,258593202776",
+        "NOME": "Av. Visc. de Guarapuava, 1692 - Centro",
+        "NUM": "140204",
+        "SENTIDO": "Menonitas",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53351",
+        "LON": "-49,23856",
+        "NOME": "Rua Francisco Derosso, 478 - Alto Boqueirão",
+        "NUM": "160431",
+        "SENTIDO": "Menonitas",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Menonitas",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "Menonitas",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49881131927",
+        "LON": "-49,248330233135",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1970 - Boqueirão",
+        "NUM": "150037",
+        "SENTIDO": "Menonitas",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501248940424",
+        "LON": "-49,250207049108",
+        "NOME": "Rua Paulo Setúbal, 2720 - Hauer",
+        "NUM": "150748",
+        "SENTIDO": "Menonitas",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50875",
+        "LON": "-49,24907",
+        "NOME": "Rua Cascavel, 960 - Boqueirão",
+        "NUM": "150786",
+        "SENTIDO": "Menonitas",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "SITES",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511050575949",
+        "LON": "-49,245312565641",
+        "NOME": "Rua Paulo Setúbal, 3896 - Hauer",
+        "NUM": "150045",
+        "SENTIDO": "SITES",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456411876811",
+        "LON": "-49,259404402447",
+        "NOME": "Av. Mal. Floriano Peixoto, 3090 - Prado Velho",
+        "NUM": "150734",
+        "SENTIDO": "SITES",
+        "SEQ": "36",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427747577623",
+        "LON": "-49,246443673611",
+        "NOME": "Rua Fernandes de Barros, 395 - Cristo Rei",
+        "NUM": "140750",
+        "SENTIDO": "SITES",
+        "SEQ": "52",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433796186905",
+        "LON": "-49,251176618386",
+        "NOME": "Rua Francisco Alves Guimarães, 408 - Cristo Rei",
+        "NUM": "140751",
+        "SENTIDO": "SITES",
+        "SEQ": "48",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437577611875",
+        "LON": "-49,261461457672",
+        "NOME": "Av. Silva Jardim, 3474 - Água Verde",
+        "NUM": "140215",
+        "SENTIDO": "SITES",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43405",
+        "LON": "-49,25686",
+        "NOME": "Av. Sete de Setembro, 1797 - Centro",
+        "NUM": "110015",
+        "SENTIDO": "SITES",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481107627205",
+        "LON": "-49,246113790178",
+        "NOME": "Rua Ane Frank, 1600 - Hauer",
+        "NUM": "140474",
+        "SENTIDO": "SITES",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535436436268",
+        "LON": "-49,23700682209",
+        "NOME": "Rua Nelso José Lautart, 88 - Alto Boqueirão",
+        "NUM": "160008",
+        "SENTIDO": "Menonitas",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432068069841",
+        "LON": "-49,255042628592",
+        "NOME": "Rua do Herval, 1 - Alto da Rua XV",
+        "NUM": "140203",
+        "SENTIDO": "Menonitas",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47841",
+        "LON": "-49,25024",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 684 - Hauer",
+        "NUM": "150742",
+        "SENTIDO": "Menonitas",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495749368066",
+        "LON": "-49,241740961971",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 2658 - Boqueirão",
+        "NUM": "150747",
+        "SENTIDO": "Menonitas",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50347",
+        "LON": "-49,2516",
+        "NOME": "Rua Cascavel, 328 - Boqueirão",
+        "NUM": "150749",
+        "SENTIDO": "Menonitas",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529267838635",
+        "LON": "-49,241006508092",
+        "NOME": "Rua Pastor Antônio Pólito, 2165 - Boqueirão",
+        "NUM": "160200",
+        "SENTIDO": "Menonitas",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536376630422",
+        "LON": "-49,251499772072",
+        "NOME": "Rua Ourizona, 2860 - Sítio Cercado",
+        "NUM": "160762",
+        "SENTIDO": "Menonitas",
+        "SEQ": "46",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455859374353",
+        "LON": "-49,262170940638",
+        "NOME": "Rua Des. Westphalen, 2760 - Parolin",
+        "NUM": "150653",
+        "SENTIDO": "Menonitas",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458511975353",
+        "LON": "-49,260896220803",
+        "NOME": "Rua Des. Westphalen, 3112 - Parolin",
+        "NUM": "150655",
+        "SENTIDO": "Menonitas",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46532548933",
+        "LON": "-49,257497191429",
+        "NOME": "Rua Des. Westphalen, 3874 - Parolin",
+        "NUM": "150056",
+        "SENTIDO": "Menonitas",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531981341008",
+        "LON": "-49,241276705522",
+        "NOME": "Rua Francisco Derosso, 744 - Alto Boqueirão",
+        "NUM": "160006",
+        "SENTIDO": "SITES",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53554714131",
+        "LON": "-49,236905014715",
+        "NOME": "Rua Nelso José Lautart, 89 - Alto Boqueirão",
+        "NUM": "160009",
+        "SENTIDO": "SITES",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506771267432",
+        "LON": "-49,247378921461",
+        "NOME": "Rua Paulo Setúbal, 3377 -Hauer",
+        "NUM": "150046",
+        "SENTIDO": "SITES",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46565",
+        "LON": "-49,25489",
+        "NOME": "Av. Mal. Floriano Peixoto, 4235 - Prado Velho",
+        "NUM": "150740",
+        "SENTIDO": "SITES",
+        "SEQ": "34",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433656988553",
+        "LON": "-49,252918688326",
+        "NOME": "Rua Francisco Alves Guimarães, 276 - Cristo Rei",
+        "NUM": "140752",
+        "SENTIDO": "SITES",
+        "SEQ": "47",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540147827542",
+        "LON": "-49,262902085914",
+        "NOME": "Rua Lupionopolis, 508 - Sítio Cercado",
+        "NUM": "160767",
+        "SENTIDO": "Menonitas",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433547474231",
+        "LON": "-49,253125519699",
+        "NOME": "Rua Francisco Alves Guimarães, 20 - Cristo Rei",
+        "NUM": "140202",
+        "SENTIDO": "Menonitas",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472931559681",
+        "LON": "-49,252867698669",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 2 - Hauer",
+        "NUM": "150869",
+        "SENTIDO": "Menonitas",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463308262324",
+        "LON": "-49,25846144557",
+        "NOME": "Rua Desembargador Westphalen, 3710 - Parolin",
+        "NUM": "150055",
+        "SENTIDO": "Menonitas",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469477286484",
+        "LON": "-49,25550095737",
+        "NOME": "Rua Doutor Dalton Dória Pinto - Parolin -Curitiba - PR",
+        "NUM": "150112",
+        "SENTIDO": "Menonitas",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446724912813",
+        "LON": "-49,26143212234",
+        "NOME": "Rua Rockefeller, 1020 - Rebouças",
+        "NUM": "140211",
+        "SENTIDO": "SITES",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529679294406",
+        "LON": "-49,241053446748",
+        "NOME": "Rua Pastor Antônio Pólito, 2166 - Boqueirão",
+        "NUM": "160201",
+        "SENTIDO": "SITES",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497359791728",
+        "LON": "-49,244295131283",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1581 - Boqueirão",
+        "NUM": "150036",
+        "SENTIDO": "SITES",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499836739647",
+        "LON": "-49,25046475215",
+        "NOME": "R. Cel. Luíz José dos Santos, 2232 - Boqueirão",
+        "NUM": "150040",
+        "SENTIDO": "SITES",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512567262007",
+        "LON": "-49,244580262566",
+        "NOME": "Rua Paulo Setúbal, 4103 - Hauer",
+        "NUM": "150044",
+        "SENTIDO": "SITES",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503674841697",
+        "LON": "-49,248895743551",
+        "NOME": "Rua Antônio Schiebel, 2272 -Boqueirão",
+        "NUM": "150047",
+        "SENTIDO": "SITES",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534033473441",
+        "LON": "-49,24328612973",
+        "NOME": "Rua Eduardo Pinto da Rocha, 307 - Alto Boqueirão",
+        "NUM": "160741",
+        "SENTIDO": "SITES",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496277155938",
+        "LON": "-49,238707813492",
+        "NOME": "Rua Anne Frank, 3491 - Boqueirão",
+        "NUM": "140469",
+        "SENTIDO": "SITES",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49291",
+        "LON": "-49,24036",
+        "NOME": "Rua Ane Frank, 2979 - Hauer",
+        "NUM": "140470",
+        "SENTIDO": "SITES",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535229455456",
+        "LON": "-49,249024093151",
+        "NOME": "Rua Danilo Pedro Schreiner, 533 - Alto Boqueirão",
+        "NUM": "160759",
+        "SENTIDO": "SITES",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450001590139",
+        "LON": "-49,264899030118",
+        "NOME": "Rua Des. Westphalen, 2046 - Rebouças",
+        "NUM": "150033",
+        "SENTIDO": "Menonitas",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48933",
+        "LON": "-49,24486",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 1988 - Hauer",
+        "NUM": "150745",
+        "SENTIDO": "Menonitas",
+        "SEQ": "26",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49192",
+        "LON": "-49,24358",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 2210 - Hauer",
+        "NUM": "150746",
+        "SENTIDO": "Menonitas",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539959263723",
+        "LON": "-49,253252475043",
+        "NOME": "Rua Jussara, 3032 - Sítio Cercado",
+        "NUM": "160206",
+        "SENTIDO": "Menonitas",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541256439135",
+        "LON": "-49,255202440996",
+        "NOME": "Rua Jussara, 2862 - Sítio Cercado",
+        "NUM": "160208",
+        "SENTIDO": "Menonitas",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538075590908",
+        "LON": "-49,254139065742",
+        "NOME": "Rua Ourizona, 2572 - Sítio Cercado",
+        "NUM": "160764",
+        "SENTIDO": "Menonitas",
+        "SEQ": "47",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535185891634",
+        "LON": "-49,249123334885",
+        "NOME": "Rua Danilo Pedro Schreiner, 540 - Alto Boqueirão",
+        "NUM": "160760",
+        "SENTIDO": "Menonitas",
+        "SEQ": "45",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4293412",
+        "LON": "-49,2497594",
+        "NOME": "SITES - 594 - Menonitas",
+        "NUM": "130877",
+        "SENTIDO": "SITES",
+        "SEQ": "54",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43165329057",
+        "LON": "-49,249314635582",
+        "NOME": "Rua Padre Germano Maier, 423 - Cristo Rei",
+        "NUM": "130137",
+        "SENTIDO": "SITES",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "SITES",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496495790072",
+        "LON": "-49,24213475215",
+        "NOME": "Rua Cel. Luíz José dos Santos, 1329 - Boqueirão",
+        "NUM": "150035",
+        "SENTIDO": "SITES",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52423",
+        "LON": "-49,23886",
+        "NOME": "Rua Paulo Setúbal, 5571 - Boqueirão",
+        "NUM": "150765",
+        "SENTIDO": "SITES",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438425807142",
+        "LON": "-49,263713539785",
+        "NOME": "Av. Silva Jardim, 3776 - Água Verde",
+        "NUM": "140214",
+        "SENTIDO": "SITES",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47273",
+        "LON": "-49,25016",
+        "NOME": "Rua Ane Frank, 683 - Hauer",
+        "NUM": "140477",
+        "SENTIDO": "SITES",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44775367633",
+        "LON": "-49,265955544974",
+        "NOME": "Rua Des. Westphalen, 1771 - Rebouças",
+        "NUM": "110062",
+        "SENTIDO": "Menonitas",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Menonitas",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47605",
+        "LON": "-49,25135",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 410 - Hauer",
+        "NUM": "150741",
+        "SENTIDO": "Menonitas",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486",
+        "LON": "-49,24647",
+        "NOME": "Rua Ten. Francisco Ferreira de Souza, 1542 - Hauer",
+        "NUM": "150744",
+        "SENTIDO": "Menonitas",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51931",
+        "LON": "-49,24385",
+        "NOME": "Rua Cascavel, 2230 - Boqueirão",
+        "NUM": "150762",
+        "SENTIDO": "Menonitas",
+        "SEQ": "36",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534009271077",
+        "LON": "-49,243188229101",
+        "NOME": "Rua Eduardo Pinto da Rocha, 306 - Alto Boqueirão",
+        "NUM": "160740",
+        "SENTIDO": "Menonitas",
+        "SEQ": "44",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460328005782",
+        "LON": "-49,259961470962",
+        "NOME": "Rua Des. Westphalen, 3298 - Parolin",
+        "NUM": "150657",
+        "SENTIDO": "Menonitas",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440709570169",
+        "LON": "-49,264190064557",
+        "NOME": "Rua Rockefeller, 290 - Rebouças",
+        "NUM": "140213",
+        "SENTIDO": "SITES",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533384653291",
+        "LON": "-49,238524139881",
+        "NOME": "Rua Francisco Derosso, 477 - Alto Boqueirão",
+        "NUM": "160007",
+        "SENTIDO": "SITES",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436607355344",
+        "LON": "-49,260179058856",
+        "NOME": "Viaduto Colorado, 1159 - Rebouças",
+        "NUM": "140216",
+        "SENTIDO": "SITES",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501142682146",
+        "LON": "-49,250144052744",
+        "NOME": "Rua Paulo Setúbal, 2709 - Hauer",
+        "NUM": "150041",
+        "SENTIDO": "SITES",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527012929837",
+        "LON": "-49,239613411045",
+        "NOME": "Rua Pastor Antônio Pólito, 1811 - Boqueirão",
+        "NUM": "150042",
+        "SENTIDO": "SITES",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49001",
+        "LON": "-49,24175",
+        "NOME": "Rua Ane Frank, 2817 - Hauer",
+        "NUM": "140471",
+        "SENTIDO": "SITES",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540035900021",
+        "LON": "-49,253194928169",
+        "NOME": "Rua Jussara, 3031 - Sítio Cercado",
+        "NUM": "160765",
+        "SENTIDO": "SITES",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536485538868",
+        "LON": "-49,251470267773",
+        "NOME": "Rua Ourizona, 2859 - Sítio Cercado",
+        "NUM": "160761",
+        "SENTIDO": "SITES",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427916533799",
+        "LON": "-49,248138964176",
+        "NOME": "Rua Marechal Deodoro, 2400 - Centro",
+        "NUM": "130333",
+        "SENTIDO": "SITES",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483725889095",
+        "LON": "-49,244818389416",
+        "NOME": "Rua Anne Frank, 2031 - Hauer",
+        "NUM": "141002",
+        "SENTIDO": "SITES",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506025703893",
+        "LON": "-49,250347029257",
+        "NOME": "Rua Cascavel, 628 -Boqueirão",
+        "NUM": "150760",
+        "SENTIDO": "Menonitas",
+        "SEQ": "33",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526351847069",
+        "LON": "-49,240384256449",
+        "NOME": "Rua Cascavel, 3058 - Boqueirão",
+        "NUM": "150764",
+        "SENTIDO": "Menonitas",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499659857966",
+        "LON": "-49,250398216286",
+        "NOME": "R. Cel. Luíz José dos Santos, 2231 - Boqueirão",
+        "NUM": "150039",
+        "SENTIDO": "Menonitas",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540147827542",
+        "LON": "-49,262902085914",
+        "NOME": "Rua Lupionopolis, 508 - Sítio Cercado",
+        "NUM": "160767",
+        "SENTIDO": "SITES",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449217492473",
+        "LON": "-49,26025226263",
+        "NOME": "Rua Rockefeller, 1315 - Prado Velho",
+        "NUM": "140210",
+        "SENTIDO": "SITES",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521283312714",
+        "LON": "-49,240311107969",
+        "NOME": "Rua Paulo Setúbal, 5148 - Boqueirão",
+        "NUM": "150043",
+        "SENTIDO": "SITES",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47873",
+        "LON": "-49,24727",
+        "NOME": "Rua Ane Frank, 1385 - Hauer",
+        "NUM": "140475",
+        "SENTIDO": "SITES",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538153035827",
+        "LON": "-49,253999590874",
+        "NOME": "Rua Ourizona, 2571 - Sítio Cercado",
+        "NUM": "160763",
+        "SENTIDO": "SITES",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    }
+]

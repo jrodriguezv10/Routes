@@ -1,0 +1,512 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,531953429278",
+        "LON": "-49,284886483836",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 106 - Pinheirinho",
+        "NUM": "150584",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,53450127638",
+        "LON": "-49,268546122684",
+        "NOME": "Terminal Sítio Cercado - 649 - Pirineus",
+        "NUM": "106111",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528548049752",
+        "LON": "-49,288473938393",
+        "NOME": "Rua Emanoel Voluz, 949 - Pinheirinho",
+        "NUM": "150579",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531102698533",
+        "LON": "-49,280943636584",
+        "NOME": "Rua José Manoel Voluz 1351 - Sítio Cercado",
+        "NUM": "150594",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52704742539",
+        "LON": "-49,278579269337",
+        "NOME": "R. Francisco Claudino Ferreira, 399 - Pinheirinho",
+        "NUM": "150600",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,53450127638",
+        "LON": "-49,268546122684",
+        "NOME": "Terminal Sítio Cercado - 649 - Pirineus",
+        "NUM": "106111",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530936908198",
+        "LON": "-49,280982528615",
+        "NOME": "Rua José Manoel Voluz 1350 - Sítio Cercado",
+        "NUM": "150593",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512482855884",
+        "LON": "-49,294847288361",
+        "NOME": "Terminal Pinheirinho - 649 - Pirineus",
+        "NUM": "105711",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530553290265",
+        "LON": "-49,286017034935",
+        "NOME": "Rua Emanoel Voluz, 1285 - Pinheirinho",
+        "NUM": "150582",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532850138936",
+        "LON": "-49,27298954575",
+        "NOME": "Rua Marte, 918 - Sítio Cercado",
+        "NUM": "150608",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526217457816",
+        "LON": "-49,283522665501",
+        "NOME": "R. João Lemos dos Santos, 2 - Pinheirinho",
+        "NUM": "150877",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512482855884",
+        "LON": "-49,294847288361",
+        "NOME": "Terminal Pinheirinho - 649 - Pirineus",
+        "NUM": "105711",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532181275631",
+        "LON": "-49,27029475215",
+        "NOME": "Rua Marte, 1230 - Sítio Cercado",
+        "NUM": "150363",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531539811716",
+        "LON": "-49,268427201223",
+        "NOME": "Rua Marte, 1458 - Sítio Cercado",
+        "NUM": "150364",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528753779049",
+        "LON": "-49,277521137881",
+        "NOME": "Rua Francisco Claudino Ferreira, 222 - Pinheirinho",
+        "NUM": "150601",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53274122719",
+        "LON": "-49,279371862101",
+        "NOME": "Rua José Manoel Voluz 1401 - Sítio Cercado",
+        "NUM": "150592",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533239800153",
+        "LON": "-49,274467442918",
+        "NOME": "Rua Francisco Claudino Ferreira 02 - Sítio Cercado",
+        "NUM": "150606",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532640786269",
+        "LON": "-49,279319559025",
+        "NOME": "Rua José Manoel Voluz 1400 - Sítio Cercado",
+        "NUM": "150591",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531874770216",
+        "LON": "-49,284800653147",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 105- Pinheirinho",
+        "NUM": "150583",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524946744366",
+        "LON": "-49,281366169453",
+        "NOME": "R. Antônio Skrepec, 821 - Pinheirinho",
+        "NUM": "150875",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528635182203",
+        "LON": "-49,288549040245",
+        "NOME": "Rua Emanoel Voluz, 948 - Pinheirinho",
+        "NUM": "150580",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534983579097",
+        "LON": "-49,278753612923",
+        "NOME": "Rua Marte, 246 - Sítio Cercado",
+        "NUM": "150589",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531103908681",
+        "LON": "-49,275889013695",
+        "NOME": "Rua Francisco Claudino Ferreira 31  - Sítio Cercado",
+        "NUM": "150603",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532185775744",
+        "LON": "-49,270830367493",
+        "NOME": "Rua Marte, 1231 - Sítio Cercado",
+        "NUM": "150609",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533265212797",
+        "LON": "-49,274543885874",
+        "NOME": "Rua Francisco Claudino Ferreira 1 - Sítio Cercado",
+        "NUM": "150605",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532963891099",
+        "LON": "-49,272929196047",
+        "NOME": "Rua Marte, 917 - Sítio Cercado",
+        "NUM": "150607",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52636631194",
+        "LON": "-49,283509254456",
+        "NOME": "R. João Lemos dos Santos, 402 - Pinheirinho",
+        "NUM": "150878",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532913065678",
+        "LON": "-49,283428703236",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 106  - Pinheirinho",
+        "NUM": "150586",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534673790935",
+        "LON": "-49,278309707331",
+        "NOME": "Rua Marte, 289 - Sítio Cercado",
+        "NUM": "150590",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528596456677",
+        "LON": "-49,277501021313",
+        "NOME": "Rua Francisco Claudino Ferreira, 223 - Pinheirinho",
+        "NUM": "150602",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529829841111",
+        "LON": "-49,282262027264",
+        "NOME": "Rua José Manoel Voluz 1118 - Sítio Cercado",
+        "NUM": "150596",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532801733728",
+        "LON": "-49,283809576916",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 108 - Pinheirinho",
+        "NUM": "150585",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529840507948",
+        "LON": "-49,282118444132",
+        "NOME": "Rua José Manoel Voluz 1119 - Sítio Cercado",
+        "NUM": "150595",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527945381901",
+        "LON": "-49,284105961012",
+        "NOME": "R. João Malta de Albuquerque Maranhão, 617 - Pinheirinho",
+        "NUM": "150597",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527151501557",
+        "LON": "-49,278720085311",
+        "NOME": "R. Francisco Claudino Ferreira, 438 - Pinheirinho",
+        "NUM": "150599",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52500120379",
+        "LON": "-49,281592816114",
+        "NOME": "R. João Lemos dos Santos, 125 - Pinheirinho",
+        "NUM": "150876",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528095444059",
+        "LON": "-49,284344677615",
+        "NOME": "Rua Padre Rafael José Kalinovski, 1247 - Pinheirinho",
+        "NUM": "150598",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530778378538",
+        "LON": "-49,275984232115",
+        "NOME": "Rua Francisco Claudino Ferreira 30 - Sítio Cercado",
+        "NUM": "150604",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527489143381",
+        "LON": "-49,290171776699",
+        "NOME": "Rua Emanoel Voluz, 716 - Pinheirinho",
+        "NUM": "150577",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534164332883",
+        "LON": "-49,28193337171",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 595 - Pinheirinho",
+        "NUM": "150587",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527429844348",
+        "LON": "-49,290089969324",
+        "NOME": "Rua Emanoel Voluz, 715 - Pinheirinho",
+        "NUM": "150578",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534062683036",
+        "LON": "-49,281858269858",
+        "NOME": "Rua Rogério Xavier Rocha Loures, 596 - Pinheirinho",
+        "NUM": "150588",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531437908949",
+        "LON": "-49,268499527859",
+        "NOME": "Rua Marte, 1459 - Sítio Cercado",
+        "NUM": "150610",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,38559",
+        "LON": "-49,22681",
+        "NOME": "Rua João Batista Trentin,  670 - Bacacheri",
+        "NUM": "130048",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3826",
+        "LON": "-49,21063",
+        "NOME": "Rua Odete Laura Fogiato, 650 - Atuba",
+        "NUM": "130062",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397784271506",
+        "LON": "-49,234426851521",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1306 - Bacacheri",
+        "NUM": "130015",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392876769977",
+        "LON": "-49,226851834609",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2296 - Bacacheri",
+        "NUM": "130483",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384177764499",
+        "LON": "-49,216223688072",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1361 - Atuba",
+        "NUM": "130922",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40744876934",
+        "LON": "-49,249701768694",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130001",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376896086198",
+        "LON": "-49,224258570604",
+        "NOME": "Terminal Santa Cândida - 214 - Tingui",
+        "NUM": "105910",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38412",
+        "LON": "-49,22622",
+        "NOME": "Rua Edmundo Alberto Mercer, 365 - Tingui",
+        "NUM": "130051",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382011358062",
+        "LON": "-49,218588055319",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 1036 - Atuba",
+        "NUM": "130920",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38698",
+        "LON": "-49,22714",
+        "NOME": "Rua Guilherme Ihlenfeldt, 514 - Bacacheri",
+        "NUM": "130046",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38408",
+        "LON": "-49,22633",
+        "NOME": "Rua Edmundo Alberto Mercer, 365 - Tingui",
+        "NUM": "130050",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40335942835",
+        "LON": "-49,245174139881",
+        "NOME": "Rua Nicarágua, 239 - Bacacheri",
+        "NUM": "130013",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391476076532",
+        "LON": "-49,224709154596",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2608 - Bacacheri",
+        "NUM": "130041",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38732",
+        "LON": "-49,22522",
+        "NOME": "Rua João Batista Trentin, 407 - Bacacheri",
+        "NUM": "130049",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381474862069",
+        "LON": "-49,22098475215",
+        "NOME": "Rua Ghaze Saleh, 187 - Tingui",
+        "NUM": "130598",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38156",
+        "LON": "-49,21284",
+        "NOME": "Rua Odete Laura Fogiato, 397 - Atuba",
+        "NUM": "130061",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400487907139",
+        "LON": "-49,238523790178",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130008",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385230662765",
+        "LON": "-49,213965268082",
+        "NOME": "Av. Mal. Mascarenhas de Moraes, 1659 - Atuba",
+        "NUM": "130924",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378062534047",
+        "LON": "-49,22008204574",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 59 - Tingui",
+        "NUM": "130918",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406890835662",
+        "LON": "-49,25282822639",
+        "NOME": "Terminal Cabral - 214 - Tingui",
+        "NUM": "104410",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381094263801",
+        "LON": "-49,222298250332",
+        "NOME": "Rua Edmundo Alberto Mercer, 848 - Tingui",
+        "NUM": "130055",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406155130757",
+        "LON": "-49,247822419643",
+        "NOME": "Av. Munhoz da Rocha, 1143 - Juveve",
+        "NUM": "130003",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37843330976",
+        "LON": "-49,220293940252",
+        "NOME": "Av. Mal. Mascarenhas de Morais, 592 - Tingui",
+        "NUM": "130919",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406890835662",
+        "LON": "-49,25282822639",
+        "NOME": "Terminal Cabral - 214 - Tingui",
+        "NUM": "104410",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38113",
+        "LON": "-49,22222",
+        "NOME": "Rua Edmundo Alberto Mercer, 848 - Tingui",
+        "NUM": "130054",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37988",
+        "LON": "-49,21469",
+        "NOME": "Rua Odete Laura Fogiato, 121 - Atuba",
+        "NUM": "130060",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39058",
+        "LON": "-49,22408",
+        "NOME": "Rua Guilherme Ihlenfeldt, 70 - Bacacheri",
+        "NUM": "130042",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397832464742",
+        "LON": "-49,234793031912",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1382 - Bacacheri",
+        "NUM": "130014",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392424865256",
+        "LON": "-49,226471341105",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2419 - Bacacheri",
+        "NUM": "130022",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40022028553",
+        "LON": "-49,240394820824",
+        "NOME": "Rua Nicarágua, 820  - Bacacheri",
+        "NUM": "130011",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40751903007",
+        "LON": "-49,249488533077",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130002",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405733016782",
+        "LON": "-49,247328309193",
+        "NOME": "Av. Munhoz da Rocha, 1361 - Juveve",
+        "NUM": "130004",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404285485932",
+        "LON": "-49,244288658895",
+        "NOME": "Av. Prefeito Erasto Gaertner, 193 - Bacacheri",
+        "NUM": "130005",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40171",
+        "LON": "-49,24042",
+        "NOME": "Av. Prefeito Erasto Gaertner,  683 - Bacacheri",
+        "NUM": "130007",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38849274829",
+        "LON": "-49,225812215939",
+        "NOME": "Rua Guilherme Ihlenfeldt, 248 - Bacacheri",
+        "NUM": "130044",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381427898914",
+        "LON": "-49,221180845404",
+        "NOME": "Rua Ghaze Saleh, 187 - Tingui",
+        "NUM": "130056",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38839",
+        "LON": "-49,22584",
+        "NOME": "Rua Guilherme Ihlenfeldt, 248 - Bacacheri",
+        "NUM": "130045",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37894",
+        "LON": "-49,21677",
+        "NOME": "Rua Comendador Zake Sabag,  414 - Atuba",
+        "NUM": "130059",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396249773513",
+        "LON": "-49,232030175428",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1676 - Bacacheri",
+        "NUM": "130017",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39107457596",
+        "LON": "-49,224417930059",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2625 - Bacacheri",
+        "NUM": "130040",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396633059474",
+        "LON": "-49,232898046627",
+        "NOME": "Av. Prefeito Erasto Gaertner, 1611 - Bacacheri",
+        "NUM": "130016",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395153922444",
+        "LON": "-49,230623411045",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000 - Bacacheri",
+        "NUM": "130018",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397993592644",
+        "LON": "-49,236996462002",
+        "NOME": "Rua Nicarágua, 1229 - Bacacheri",
+        "NUM": "130010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390009132485",
+        "LON": "-49,224322565641",
+        "NOME": "Rua Guilherme Ihlenfeldt, 75 - Bacacheri",
+        "NUM": "130043",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38239637295",
+        "LON": "-49,22390839633",
+        "NOME": "Rua Edmundo Alberto Mercer, 604 - Tingui",
+        "NUM": "130053",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382051825294",
+        "LON": "-49,219087434359",
+        "NOME": "Rua Miguel Jorge Nasser,  1117 - Tingui",
+        "NUM": "130058",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398880924525",
+        "LON": "-49,236078542328",
+        "NOME": "Av. Prefeito Erasto Gaertner, 893 - Bacacheri",
+        "NUM": "130009",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14470",
+        "LAT": "-25,376896086198",
+        "LON": "-49,224258570604",
+        "NOME": "Terminal Santa Cândida - 214 - Tingui",
+        "NUM": "105910",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "31",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38535",
+        "LON": "-49,22804",
+        "NOME": "Rua Edmundo Alberto Mercer,  200 - Tingui",
+        "NUM": "130047",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380963665564",
+        "LON": "-49,219739620866",
+        "NOME": "Rua Felisbino Passos, 795 - Tingui",
+        "NUM": "130057",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401251541831",
+        "LON": "-49,241950728836",
+        "NOME": "Rua Nicarágua, 547 - Bacacheri",
+        "NUM": "130012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38423",
+        "LON": "-49,21164",
+        "NOME": "Rua Ângelo Zamir Biasi, 251 - Atuba",
+        "NUM": "130063",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394712442882",
+        "LON": "-49,229666472387",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2000  - Bacacheri",
+        "NUM": "130019",
+        "SENTIDO": "Terminal Santa Cândida",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382309425662",
+        "LON": "-49,223962186509",
+        "NOME": "Rua Edmundo Alberto Mercer,  604 - Tingui",
+        "NUM": "130052",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393943058205",
+        "LON": "-49,228781224537",
+        "NOME": "Av. Prefeito Erasto Gaertner, 2155 -  Bacacheri",
+        "NUM": "130020",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,467434931096",
+        "LON": "-49,309180728836",
+        "NOME": "Rua Amadeu do Amaral, 514 - Portão",
+        "NUM": "180028",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470600941829",
+        "LON": "-49,301336938658",
+        "NOME": "Rua Carlos Dietzsch, 792  - Portão",
+        "NUM": "180034",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470154304971",
+        "LON": "-49,318442798776",
+        "NOME": "Rua Rezala Simão, 996 - Santa Quitéria",
+        "NUM": "180010",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471756949475",
+        "LON": "-49,298972054939",
+        "NOME": "R. Carlos Dietzsch, 465 - Portão",
+        "NUM": "180103",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476563645048",
+        "LON": "-49,292350144333",
+        "NOME": "Terminal Portão - 611 - Fazendinha / Portão",
+        "NUM": "105813",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47428",
+        "LON": "-49,31836",
+        "NOME": "Rua Rezala Simão, 1447 -Santa Quitéria",
+        "NUM": "180009",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,476563645048",
+        "LON": "-49,292350144333",
+        "NOME": "Terminal Portão - 611 - Fazendinha / Portão",
+        "NUM": "105813",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477266996889",
+        "LON": "-49,32417002943",
+        "NOME": "R. Carlos Klemtz, 1361 - Fazendinha",
+        "NUM": "180001",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46964",
+        "LON": "-49,31657",
+        "NOME": "Rua Amadeu do Amaral, 1278- Portão",
+        "NUM": "180021",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477253097568",
+        "LON": "-49,327630961972",
+        "NOME": "Terminal Fazendinha - 611 - Fazendinha / Portão",
+        "NUM": "105310",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46964",
+        "LON": "-49,31667",
+        "NOME": "Rua Amadeu do Amaral, 1277 - Portão",
+        "NUM": "180022",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476497893021",
+        "LON": "-49,321787201223",
+        "NOME": "R. Carlos Klemtz, 1201 - Fazendinha",
+        "NUM": "180003",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470753946221",
+        "LON": "-49,301265279936",
+        "NOME": "Rua Carlos Dietzsch, 791 - Portão",
+        "NUM": "180033",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477253097568",
+        "LON": "-49,327630961972",
+        "NOME": "Terminal Fazendinha - 611 - Fazendinha / Portão",
+        "NUM": "105310",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475752608398",
+        "LON": "-49,318800204859",
+        "NOME": "R. Carlos Klemtz, 951 - Fazendinha",
+        "NUM": "180005",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46871",
+        "LON": "-49,30603",
+        "NOME": "Rua Carlos Dietzsch, 1067-Portão",
+        "NUM": "180029",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475747264233",
+        "LON": "-49,318977930059",
+        "NOME": "R. Carlos Klemtz, 1000 - Fazendinha",
+        "NUM": "180007",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468777531302",
+        "LON": "-49,313411284552",
+        "NOME": "Rua Amadeu do Amaral, 869 - Portão",
+        "NUM": "180023",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476534260933",
+        "LON": "-49,322947317791",
+        "NOME": "R. Carlos Klemtz, 1249 - Fazendinha",
+        "NUM": "180004",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467946455933",
+        "LON": "-49,310915976686",
+        "NOME": "Rua Amadeu do Amaral, 632 - Portão",
+        "NUM": "180026",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46888",
+        "LON": "-49,30544",
+        "NOME": "Rua Carlos Dietzsch, 1070 -Portão",
+        "NUM": "180030",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469628833927",
+        "LON": "-49,303568775463",
+        "NOME": "Rua Carlos Dietzsch, 891 -Portão",
+        "NUM": "180032",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46818",
+        "LON": "-49,31114",
+        "NOME": "Rua Amadeu do Amaral, 631 - Portão",
+        "NUM": "180025",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472873444443",
+        "LON": "-49,295548349619",
+        "NOME": "Rua Carlos Dietzsch, 109 - Portão",
+        "NUM": "180571",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470101031441",
+        "LON": "-49,318554110451",
+        "NOME": "Rua Rezala Simão, 997 - Santa Quitéria",
+        "NUM": "180020",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468725470687",
+        "LON": "-49,313437171793",
+        "NOME": "Rua Amadeu do Amaral, 870 - Portão",
+        "NUM": "180024",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47782232658",
+        "LON": "-49,293001457672",
+        "NOME": "Rua Itatiaia, 81 - Portão",
+        "NUM": "170030",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47726",
+        "LON": "-49,32447",
+        "NOME": "R. Carlos Klemtz, 1360 - Fazendinha",
+        "NUM": "180002",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47413",
+        "LON": "-49,31821",
+        "NOME": "Rua Rezala Simão, 1446 - Santa Quitéria",
+        "NUM": "180008",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467532823284",
+        "LON": "-49,309080845404",
+        "NOME": "Rua Amadeu do Amaral, 513 - Portão",
+        "NUM": "180027",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469612152357",
+        "LON": "-49,303897667494",
+        "NOME": "Rua Carlos Dietzsch, 892 -Portão",
+        "NUM": "180031",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    }
+]

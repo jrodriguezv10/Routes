@@ -1,0 +1,832 @@
+[
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44153276907",
+        "LON": "-49,346831661377",
+        "NOME": "Terminal Campo Comprido - 060 - Interbairros VI",
+        "NUM": "104616",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542013091078",
+        "LON": "-49,310121708703",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "160071",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47044094179",
+        "LON": "-49,353811457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4547 - Cidade Industrial",
+        "NUM": "180188",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485609338699",
+        "LON": "-49,346676387558",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6232 - Cidade Industrial",
+        "NUM": "180198",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451780937284",
+        "LON": "-49,361862798777",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 2203 - Cidade Industrial",
+        "NUM": "180181",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46697",
+        "LON": "-49,35553",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180187",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47397",
+        "LON": "-49,35165",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4542 - Cidade Industrial",
+        "NUM": "180191",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488627945253",
+        "LON": "-49,345207317791",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6721 - Cidade Industrial",
+        "NUM": "180201",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492029157268",
+        "LON": "-49,343741953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7043 - Cidade Industrial",
+        "NUM": "180203",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488796155004",
+        "LON": "-49,345326093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6720 - Cidade Industrial",
+        "NUM": "180200",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525224904005",
+        "LON": "-49,330232682209",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10894 - Cidade Industrial",
+        "NUM": "170049",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459036054369",
+        "LON": "-49,358901224537",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3145 - Cidade Industrial",
+        "NUM": "180183",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47969",
+        "LON": "-49,34908",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5526 - Cidade Industrial",
+        "NUM": "180195",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502926107917",
+        "LON": "-49,340926093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8111 - Cidade Industrial",
+        "NUM": "180207",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506112737603",
+        "LON": "-49,340196093254",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8515 - Cidade Industrial",
+        "NUM": "180209",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512758214015",
+        "LON": "-49,337462186508",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9009  - Cidade Industrial",
+        "NUM": "180213",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532645574465",
+        "LON": "-49,319687962952",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170063",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515806160069",
+        "LON": "-49,297320355472",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 1766 - Capão Raso",
+        "NUM": "170983",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443662589664",
+        "LON": "-49,35331700098",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5104 - Cidade Industrial",
+        "NUM": "190200",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463239373304",
+        "LON": "-49,357337813492",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3565 - Cidade Industrial",
+        "NUM": "180184",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520157323039",
+        "LON": "-49,334210495701",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "170028",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483564175194",
+        "LON": "-49,350082653525",
+        "NOME": "Terminal Caiuá - 060 - Interbairros VI",
+        "NUM": "105007",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451140624752",
+        "LON": "-49,356644023313",
+        "NOME": "Rua Eduardo Sprada, 5530 - Campo Comprido",
+        "NUM": "190238",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46951",
+        "LON": "-49,35415",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180189",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508992103706",
+        "LON": "-49,33918682209",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9009 - Cidade Industrial",
+        "NUM": "180211",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483503996168",
+        "LON": "-49,350138338623",
+        "NOME": "Terminal Caiuá - 060 - Interbairros VI",
+        "NUM": "105010",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519768851102",
+        "LON": "-49,334224635582",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "170029",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53276",
+        "LON": "-49,30814",
+        "NOME": "Rua João Chede, 702 - Pinheirinho",
+        "NUM": "170115",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531478593465",
+        "LON": "-49,315034340124",
+        "NOME": "Rua Cyro Correia Pereira, 550 - Cidade Industrial",
+        "NUM": "170119",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451979726387",
+        "LON": "-49,362002565641",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 2203 - Cidade Industrial",
+        "NUM": "180180",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515979939911",
+        "LON": "-49,336172274223",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9903 - Cidade Industrial",
+        "NUM": "170026",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52655910826",
+        "LON": "-49,329032798777",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170056",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519428276483",
+        "LON": "-49,294448658895",
+        "NOME": "Rua André Ferreira Barbosa, 8391 - Pinheirinho",
+        "NUM": "150272",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485669419707",
+        "LON": "-49,346483527613",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 6233 - Cidade Industrial",
+        "NUM": "180199",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526665732502",
+        "LON": "-49,328729038029",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170057",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529060701773",
+        "LON": "-49,313449154596",
+        "NOME": "Rua Cyro Correia Pereira, 2 - Cidade Industrial",
+        "NUM": "170118",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476556100479",
+        "LON": "-49,350640728836",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5178 - Cidade Industrial",
+        "NUM": "180192",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47981",
+        "LON": "-49,34922",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5527 - Cidade Industrial",
+        "NUM": "180194",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497304001451",
+        "LON": "-49,342281457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7724 - Cidade Industrial",
+        "NUM": "180204",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505849479903",
+        "LON": "-49,340431457672",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8514 - Cidade Industrial",
+        "NUM": "180208",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,44153276907",
+        "LON": "-49,346831661377",
+        "NOME": "Terminal Campo Comprido - 060 - Interbairros VI",
+        "NUM": "104616",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "43",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533879879169",
+        "LON": "-49,317158046627",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170065",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508734899184",
+        "LON": "-49,33946364418",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8789 - Cidade Industrial",
+        "NUM": "180210",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532393556201",
+        "LON": "-49,320616473541",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170062",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534025610825",
+        "LON": "-49,317219504299",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170064",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512025194271",
+        "LON": "-49,295024373016",
+        "NOME": "Terminal Pinheirinho - 060 - Interbairros VI",
+        "NUM": "105733",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47696",
+        "LON": "-49,35027",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5179 - Cidade Industrial",
+        "NUM": "180193",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528908535591",
+        "LON": "-49,32659524785",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11101 - Cidade Industrial",
+        "NUM": "170059",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534788802708",
+        "LON": "-49,302187668648",
+        "NOME": "Rua João Chede, 2 - Pinheirinho",
+        "NUM": "170682",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529441020651",
+        "LON": "-49,312134402447",
+        "NOME": "Rua João Chede, 1182 - Pinheirinho",
+        "NUM": "170117",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519286491621",
+        "LON": "-49,297219650297",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 2152 - Capão Raso",
+        "NUM": "170123",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458966054372",
+        "LON": "-49,359097930059",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3145 - Cidade Industrial",
+        "NUM": "180182",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46727",
+        "LON": "-49,35555",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4225 - Cidade Industrial",
+        "NUM": "180186",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47404",
+        "LON": "-49,35181",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 4543 - Cidade Industrial",
+        "NUM": "180190",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52909910849",
+        "LON": "-49,326616588955",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11100 - Cidade Industrial",
+        "NUM": "170058",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530333949223",
+        "LON": "-49,324835014715",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11103 - Cidade Industrial",
+        "NUM": "170060",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450199360804",
+        "LON": "-49,354097278065",
+        "NOME": "Rua Eduardo Sprada, 5197 - Campo Comprido",
+        "NUM": "180229",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451067617835",
+        "LON": "-49,356932372993",
+        "NOME": "Rua Eduardo Sprada, 5531 - Campo Comprido",
+        "NUM": "180230",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482631525547",
+        "LON": "-49,347798775463",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5923 - Cidade Industrial",
+        "NUM": "180197",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53026942735",
+        "LON": "-49,32465953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11102 - Cidade Industrial",
+        "NUM": "170061",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512025194271",
+        "LON": "-49,295024373016",
+        "NOME": "Terminal Pinheirinho - 060 - Interbairros VI",
+        "NUM": "105733",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "41",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482631525547",
+        "LON": "-49,347798775463",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 5923 - Cidade Industrial",
+        "NUM": "180197",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492234315199",
+        "LON": "-49,343819387732",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7042 - Cidade Industrial",
+        "NUM": "180202",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502602793046",
+        "LON": "-49,341131953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 8110 - Cidade Industrial",
+        "NUM": "180206",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512811527676",
+        "LON": "-49,33760475215",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira,9008 - Cidade Industrial",
+        "NUM": "180212",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463039686667",
+        "LON": "-49,357237813492",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 3565 - Cidade Industrial",
+        "NUM": "180185",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497027579018",
+        "LON": "-49,342178046627",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 7725 - Cidade Industrial",
+        "NUM": "180205",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515868532172",
+        "LON": "-49,336033673611",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9903 - Cidade Industrial",
+        "NUM": "170027",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525136114187",
+        "LON": "-49,330091720238",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170050",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53151",
+        "LON": "-49,30956",
+        "NOME": "Rua João Chede, 822 - Pinheirinho",
+        "NUM": "170683",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "42",
+        "TIPO": "Sem demarcação"
+    }
+]

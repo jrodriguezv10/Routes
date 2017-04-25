@@ -1,0 +1,712 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449346840137",
+        "LON": "-49,299661846107",
+        "NOME": "Av. Nossa Senhora Aparecida, 83 - Seminário",
+        "NUM": "180660",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449492156587",
+        "LON": "-49,303560436911",
+        "NOME": "Avenida Nossa Senhora Aparecida, 336 -  Seminário",
+        "NUM": "180663",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422918128472",
+        "LON": "-49,24616652841",
+        "NOME": "Rua Itupava, 1428 - Alto da Glória",
+        "NUM": "130415",
+        "SENTIDO": "Batel",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Batel",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433020631525",
+        "LON": "-49,27076640839",
+        "NOME": "Praça Carlos Gomes - 365 - Jd. Social / Batel",
+        "NUM": "103201",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417544962108",
+        "LON": "-49,225484014696",
+        "NOME": "Rua Francisco Leal, 180 Bacacheri",
+        "NUM": "130474",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424655029585",
+        "LON": "-49,245660932011",
+        "NOME": "Rua Professor Brandão, 1008 - Alto da Rua XV",
+        "NUM": "130403",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424346168246",
+        "LON": "-49,249469668812",
+        "NOME": "Rua Prof. Brandão, 600 - Alto da Rua XV",
+        "NUM": "130402",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "Batel",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "Batel",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422347461637",
+        "LON": "-49,25278353805",
+        "NOME": "Rua Itupava, 781 - Alto da Glória",
+        "NUM": "130417",
+        "SENTIDO": "Batel",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437398806104",
+        "LON": "-49,277986915058",
+        "NOME": "Rua Emíliano Perneta, 724 - Centro",
+        "NUM": "110401",
+        "SENTIDO": "Batel",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424136626573",
+        "LON": "-49,251898409075",
+        "NOME": "Rua Professor Brandão, 396 - Alto da Rua XV",
+        "NUM": "130401",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431968150347",
+        "LON": "-49,267909855789",
+        "NOME": "Rua José Loureiro, 274 - Centro",
+        "NUM": "110200",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419013037651",
+        "LON": "-49,233275831884",
+        "NOME": "Av. Pres. Washington Luís, 359 - Jardim Social",
+        "NUM": "130465",
+        "SENTIDO": "Batel",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436444418977",
+        "LON": "-49,272614629083",
+        "NOME": "Praça Rui Barbosa - 365 - Jd Social/Batel  /  370-Rua XV / Barigui",
+        "NUM": "102025",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418386806293",
+        "LON": "-49,227700860447",
+        "NOME": "Av. Pres. Washington Luís, 991 - Jardim Social",
+        "NUM": "130471",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420294560929",
+        "LON": "-49,238697917408",
+        "NOME": "Rua Arquimedes Cruz, 52 - Jardim Social",
+        "NUM": "130339",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424825811397",
+        "LON": "-49,243672074026",
+        "NOME": "Rua Professor Brandão, 1144 - Alto da Rua XV",
+        "NUM": "130404",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438175113121",
+        "LON": "-49,277019978708",
+        "NOME": "Rua Doutor Pedrosa, 299- Centro",
+        "NUM": "110400",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432498350589",
+        "LON": "-49,272501797623",
+        "NOME": "Praça Zacarias - 370-Rua XV / Barigui - 360-Novena - 365-Jardim Social/Batel",
+        "NUM": "103503",
+        "SENTIDO": "Batel",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419191095103",
+        "LON": "-49,236063988155",
+        "NOME": "Av. Pres. Washington Luís, 99 - Jardim Social",
+        "NUM": "130463",
+        "SENTIDO": "Batel",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423140930373",
+        "LON": "-49,241342449074",
+        "NOME": "Av. Nossa Sra. da Luz, 2271 - Hugo Lange",
+        "NUM": "130127",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424991748104",
+        "LON": "-49,258341075129",
+        "NOME": "Rua Amintas de Barros, 778 Centro",
+        "NUM": "110117",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440213349386",
+        "LON": "-49,281829179472",
+        "NOME": "Rua Benjamin Lins, 134 -  Batel",
+        "NUM": "180958",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416109882142",
+        "LON": "-49,224128549074",
+        "NOME": "Rua João Dalegrave, 326 - Bacacheri",
+        "NUM": "130475",
+        "SENTIDO": "Batel",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Batel",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Batel",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423099813861",
+        "LON": "-49,244140119499",
+        "NOME": "Rua Itupava, 1623- Alto da Glória",
+        "NUM": "130414",
+        "SENTIDO": "Batel",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Batel",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Batel",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442260028458",
+        "LON": "-49,287587882227",
+        "NOME": "Av. do Batel, 338 -  Batel",
+        "NUM": "180068",
+        "SENTIDO": "Batel",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449045307946",
+        "LON": "-49,299357415384",
+        "NOME": "Av. Nossa Senhora Aparecida, 84 - Seminário",
+        "NUM": "180596",
+        "SENTIDO": "Batel",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41927830682",
+        "LON": "-49,230108143038",
+        "NOME": "Av. Pres. Washington Luís, 746 - Jardim Social",
+        "NUM": "130466",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419738589837",
+        "LON": "-49,23315245027",
+        "NOME": "Praça Vila Lobos, 766 - Jardim Social",
+        "NUM": "130464",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417490454009",
+        "LON": "-49,225620807356",
+        "NOME": "Rua Francisco Leal, 179 - Bacacheri",
+        "NUM": "130473",
+        "SENTIDO": "Batel",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419231067147",
+        "LON": "-49,230507792181",
+        "NOME": "Av. Pres. Washington Luís, 645 - Jardim Social",
+        "NUM": "130470",
+        "SENTIDO": "Batel",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423298456239",
+        "LON": "-49,242281348652",
+        "NOME": "Rua Itupava, 1805- Alto da Glória",
+        "NUM": "130413",
+        "SENTIDO": "Batel",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422569118824",
+        "LON": "-49,250246168322",
+        "NOME": "Rua Itupava, 853 - Alto da Glória",
+        "NUM": "130416",
+        "SENTIDO": "Batel",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Batel",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44367572872",
+        "LON": "-49,290547699875",
+        "NOME": "Avenida do Batel, 744 - Batel",
+        "NUM": "180066",
+        "SENTIDO": "Batel",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449168827248",
+        "LON": "-49,306097806639",
+        "NOME": "Av. Nossa Senhora Aparecida, 778 - Seminário",
+        "NUM": "180584",
+        "SENTIDO": "Batel",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439144636631",
+        "LON": "-49,279914985285",
+        "NOME": "Rua Emíliano Perneta, 922- Centro",
+        "NUM": "110019",
+        "SENTIDO": "Batel",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419359462111",
+        "LON": "-49,235983521885",
+        "NOME": "Av. Pres. Washington Luís, 100 Jardim Social",
+        "NUM": "130462",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449521219856",
+        "LON": "-49,301673502869",
+        "NOME": "Av. Nossa Senhora Aparecida, 305 - Seminário",
+        "NUM": "180560",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449432819058",
+        "LON": "-49,30559221024",
+        "NOME": "Av. Nossa Senhora Aparecida, 779 - Seminário",
+        "NUM": "180662",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Batel",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Batel",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440592411508",
+        "LON": "-49,283005328125",
+        "NOME": "Rua Benjamin Lins, 962 - Batel",
+        "NUM": "180071",
+        "SENTIDO": "Batel",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444630015144",
+        "LON": "-49,293201745695",
+        "NOME": "Rua Bispo Dom José, 216 - Batel",
+        "NUM": "180065",
+        "SENTIDO": "Batel",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449309300026",
+        "LON": "-49,302755774206",
+        "NOME": "Av. Nossa Senhora Aparecida, 334 - Seminário",
+        "NUM": "180470",
+        "SENTIDO": "Batel",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448952062897",
+        "LON": "-49,30910322184",
+        "NOME": "Rua José Naves da Cunha, 250 - Seminário",
+        "NUM": "180956",
+        "SENTIDO": "Batel",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439714013117",
+        "LON": "-49,281028014889",
+        "NOME": "Rua Benjamin Lins,-228 - Batel",
+        "NUM": "110020",
+        "SENTIDO": "Batel",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416109882142",
+        "LON": "-49,224128549074",
+        "NOME": "Rua João Dalegrave, 326 - Bacacheri",
+        "NUM": "130475",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42385562214",
+        "LON": "-49,255121083206",
+        "NOME": "Rua Professor Brandão, 50 - Alto da Rua XV",
+        "NUM": "130400",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429352046834",
+        "LON": "-49,262943745798",
+        "NOME": "Rua Mariano Torres, 257 - Centro",
+        "NUM": "110403",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430942305414",
+        "LON": "-49,265317500776",
+        "NOME": "Rua José Loureiro, 161 - Centro",
+        "NUM": "110402",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448952062897",
+        "LON": "-49,30910322184",
+        "NOME": "Rua José Naves da Cunha, 250 - Seminário",
+        "NUM": "180956",
+        "SENTIDO": "Jd. Social",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Batel",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418272945697",
+        "LON": "-49,227888615078",
+        "NOME": "Av. Pres. Washington Luís, 990 - Jardim Social",
+        "NUM": "130472",
+        "SENTIDO": "Batel",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42030303977",
+        "LON": "-49,239157916254",
+        "NOME": "Rua Arquimedes Cruz, 35- Jardim Social",
+        "NUM": "130338",
+        "SENTIDO": "Batel",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441356587428",
+        "LON": "-49,284907014317",
+        "NOME": "Av. do Batel, 1191 - Batel",
+        "NUM": "180070",
+        "SENTIDO": "Batel",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445831339586",
+        "LON": "-49,295767278618",
+        "NOME": "Rua Bispo Dom José, 130 - Batel",
+        "NUM": "180061",
+        "SENTIDO": "Batel",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    }
+]

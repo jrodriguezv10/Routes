@@ -1,0 +1,152 @@
+[
+    {
+        "GRUPO": "41897",
+        "LAT": "-25,553172220646",
+        "LON": "-49,250931619692",
+        "NOME": "Estação Tubo Osternack",
+        "NUM": "109038",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41899",
+        "LAT": "-25,544572976152",
+        "LON": "-49,265793739843",
+        "NOME": "Estação Tubo Bairro Novo",
+        "NUM": "109007",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41897",
+        "LAT": "-25,553172220646",
+        "LON": "-49,250931619692",
+        "NOME": "Estação Tubo Osternack",
+        "NUM": "109038",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41902",
+        "LAT": "-25,512831380231",
+        "LON": "-49,279856561708",
+        "NOME": "Estação Tubo Vila São Pedro",
+        "NUM": "109072",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534603377533",
+        "LON": "-49,268490991402",
+        "NOME": "Terminal Sítio Cercado - 506 - Bairro Novo",
+        "NUM": "109114",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41902",
+        "LAT": "-25,512831380231",
+        "LON": "-49,279856561708",
+        "NOME": "Estação Tubo Vila São Pedro",
+        "NUM": "109072",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41904",
+        "LAT": "-25,436156431226",
+        "LON": "-49,271179955612",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 506 - Bairro Novo",
+        "NUM": "109062",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41901",
+        "LAT": "-25,52486268629",
+        "LON": "-49,268842070389",
+        "NOME": "Estação Tubo Vila Acordes",
+        "NUM": "109070",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41904",
+        "LAT": "-25,436156431226",
+        "LON": "-49,271179955612",
+        "NOME": "Estação Tubo Praça Rui Barbosa - 506 - Bairro Novo",
+        "NUM": "109062",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41901",
+        "LAT": "-25,52486268629",
+        "LON": "-49,268842070389",
+        "NOME": "Estação Tubo Vila Acordes",
+        "NUM": "109070",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41898",
+        "LAT": "-25,547611276957",
+        "LON": "-49,260192380071",
+        "NOME": "Estação Tubo Centro Comunitário",
+        "NUM": "109013",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534551980903",
+        "LON": "-49,268161953373",
+        "NOME": "Terminal Sítio Cercado - 506 - Bairro Novo",
+        "NUM": "109112",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41903",
+        "LAT": "-25,455470508595",
+        "LON": "-49,267544016501",
+        "NOME": "Estação Tubo Pres. Kennedy",
+        "NUM": "109035",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41900",
+        "LAT": "-25,544877898705",
+        "LON": "-49,265872865009",
+        "NOME": "Estação Tubo Bairro Novo",
+        "NUM": "109008",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41903",
+        "LAT": "-25,455470508595",
+        "LON": "-49,267544016501",
+        "NOME": "Estação Tubo Pres. Kennedy",
+        "NUM": "109035",
+        "SENTIDO": "Bairro Novo",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    }
+]

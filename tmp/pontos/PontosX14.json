@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,474124168273",
+        "LON": "-49,231875480986",
+        "NOME": "Rua Senador Salgado Filho, 3346 - Uberaba",
+        "NUM": "140038",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47954",
+        "LON": "-49,22519",
+        "NOME": "Rua Senador Salgado Filho, 4203 - Uberaba",
+        "NUM": "140058",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483873681296",
+        "LON": "-49,223441370535",
+        "NOME": "Av. Sen. Salgado Filho, 4761 - Uberaba",
+        "NUM": "140318",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48811455256",
+        "LON": "-49,22321317791",
+        "NOME": "Rua Senador Salgado Filho, 5186 - Uberaba",
+        "NUM": "140062",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482230853781",
+        "LON": "-49,224018045473",
+        "NOME": "Rua Senador Salgado Filho, 4555 - Uberaba",
+        "NUM": "140979",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49871",
+        "LON": "-49,21341",
+        "NOME": "Rua Senador Salgado Filho, 6855 - Uberaba",
+        "NUM": "140074",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49387",
+        "LON": "-49,21942",
+        "NOME": "Rua Senador Salgado Filho, 6001 -  Uberaba",
+        "NUM": "140068",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49871",
+        "LON": "-49,21341",
+        "NOME": "Rua Senador Salgado Filho, 6855 - Uberaba",
+        "NUM": "140074",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4906",
+        "LON": "-49,22223",
+        "NOME": "Rua Senador Salgado Filho, 5530 - Uberaba",
+        "NUM": "140064",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482230853781",
+        "LON": "-49,224018045473",
+        "NOME": "Rua Senador Salgado Filho, 4555 - Uberaba",
+        "NUM": "140979",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49702",
+        "LON": "-49,21612",
+        "NOME": "Rua Senador Salgado Filho, 6449 - Uberaba",
+        "NUM": "140072",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688",
+        "LON": "-49,22696",
+        "NOME": "Rua Senador Salgado Filho, 3857 - Uberaba",
+        "NUM": "140056",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48811455256",
+        "LON": "-49,22321317791",
+        "NOME": "Rua Senador Salgado Filho, 5186 - Uberaba",
+        "NUM": "140062",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49784",
+        "LON": "-49,20965",
+        "NOME": "Rua Velci Bolívar Grandó, 384 - Uberaba",
+        "NUM": "140644",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688",
+        "LON": "-49,22696",
+        "NOME": "Rua Senador Salgado Filho, 3857 - Uberaba",
+        "NUM": "140056",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474124168273",
+        "LON": "-49,231875480986",
+        "NOME": "Rua Senador Salgado Filho, 3346 - Uberaba",
+        "NUM": "140038",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49784",
+        "LON": "-49,20965",
+        "NOME": "Rua Velci Bolívar Grandó, 384 - Uberaba",
+        "NUM": "140644",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470940000146",
+        "LON": "-49,236840741612",
+        "NOME": "Rua Capitão Zeppin, 23 - Uberaba",
+        "NUM": "140987",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4906",
+        "LON": "-49,22223",
+        "NOME": "Rua Senador Salgado Filho, 5530 - Uberaba",
+        "NUM": "140064",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49233",
+        "LON": "-49,22081",
+        "NOME": "Rua Senador Salgado Filho, 5711 - Uberaba",
+        "NUM": "140066",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49562",
+        "LON": "-49,21772",
+        "NOME": "Rua Senador Salgado Filho, 6182 - Uberaba",
+        "NUM": "140070",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473017389493",
+        "LON": "-49,234534695597",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140037",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47448",
+        "LON": "-49,23014",
+        "NOME": "Rua Senador Salgado Filho, 3544 - Uberaba",
+        "NUM": "140040",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496186946996",
+        "LON": "-49,209049038029",
+        "NOME": "Rua Velci Bolívar Grandó, 370 - Uberaba",
+        "NUM": "140076",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49387",
+        "LON": "-49,21942",
+        "NOME": "Rua Senador Salgado Filho, 6001 -  Uberaba",
+        "NUM": "140068",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49702",
+        "LON": "-49,21612",
+        "NOME": "Rua Senador Salgado Filho, 6449 - Uberaba",
+        "NUM": "140072",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473017389493",
+        "LON": "-49,234534695597",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140037",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47448",
+        "LON": "-49,23014",
+        "NOME": "Rua Senador Salgado Filho, 3544 - Uberaba",
+        "NUM": "140040",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47954",
+        "LON": "-49,22519",
+        "NOME": "Rua Senador Salgado Filho, 4203 - Uberaba",
+        "NUM": "140058",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483873681296",
+        "LON": "-49,223441370535",
+        "NOME": "Av. Sen. Salgado Filho, 4761 - Uberaba",
+        "NUM": "140318",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49233",
+        "LON": "-49,22081",
+        "NOME": "Rua Senador Salgado Filho, 5711 - Uberaba",
+        "NUM": "140066",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49562",
+        "LON": "-49,21772",
+        "NOME": "Rua Senador Salgado Filho, 6182 - Uberaba",
+        "NUM": "140070",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470940000146",
+        "LON": "-49,236840741612",
+        "NOME": "Rua Capitão Zeppin, 23 - Uberaba",
+        "NUM": "140987",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496186946996",
+        "LON": "-49,209049038029",
+        "NOME": "Rua Velci Bolívar Grandó, 370 - Uberaba",
+        "NUM": "140076",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

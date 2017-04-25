@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,543960052155",
+        "LON": "-49,336248189211",
+        "NOME": "Rua Ciro Corrêa Pereira, 3210 - Cidade Industrial",
+        "NUM": "170621",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53952497335",
+        "LON": "-49,320215107732",
+        "NOME": "Rua Ciro Corrêa Pereira, 2050 - Cidade Industrial",
+        "NUM": "170691",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543871720819",
+        "LON": "-49,336275011301",
+        "NOME": "Rua Ciro Corrêa Pereira, 3211 - Cidade Industrial",
+        "NUM": "170622",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543777339319",
+        "LON": "-49,329098761082",
+        "NOME": "Rua Ciro Corrêa Pereira, 2502 - Cidade Industrial",
+        "NUM": "170809",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512547896653",
+        "LON": "-49,295134839287",
+        "NOME": "Terminal Pinheirinho - 630 - Vitória Régia",
+        "NUM": "105728",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542013091078",
+        "LON": "-49,310121708703",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "160071",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543865670725",
+        "LON": "-49,326368272305",
+        "NOME": "Rua Ciro Corrêa Pereira, 2300 - Cidade Industrial",
+        "NUM": "170814",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543956422101",
+        "LON": "-49,332707673311",
+        "NOME": "Rua Ciro Corrêa Pereira, 2800 - Cidade Industrial",
+        "NUM": "170623",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536919935037",
+        "LON": "-49,313642108035",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 926 -Cidade Industrial",
+        "NUM": "170492",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53957095572",
+        "LON": "-49,320118548207",
+        "NOME": "Rua Ciro Corrêa Pereira, 2049 - Cidade Industrial",
+        "NUM": "170165",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526603915867",
+        "LON": "-49,29493537991",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6339 - Pinheirinho",
+        "NUM": "160362",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542710097191",
+        "LON": "-49,322351664305",
+        "NOME": "Rua Ciro Corrêa Pereira, 1798 - Cidade Industrial",
+        "NUM": "170817",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536700653938",
+        "LON": "-49,318356336884",
+        "NOME": "Rua Ciro Corrêa Pereira, 1856 - Cidade Industrial",
+        "NUM": "170163",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536637729184",
+        "LON": "-49,318184675507",
+        "NOME": "Rua Ciro Corrêa Pereira, 1855 - Cidade Industrial",
+        "NUM": "170164",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546579712196",
+        "LON": "-49,341027885675",
+        "NOME": "Rua Engenheiro Eduardo Afonso Nadolny, 1139 - Cidade Industrial",
+        "NUM": "170615",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544225045773",
+        "LON": "-49,34226706624",
+        "NOME": "Rua Engenheiro Eduardo Afonso Nadolny, 1328 - Cidade Industrial",
+        "NUM": "170616",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54426",
+        "LON": "-49,33736",
+        "NOME": "Rua Paul Garfunkel, 4164 - Cidade Industrial",
+        "NUM": "170371",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543770079201",
+        "LON": "-49,32613760233",
+        "NOME": "Rua Ciro Corrêa Pereira, 2302 - Cidade Industrial",
+        "NUM": "170815",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54426",
+        "LON": "-49,33736",
+        "NOME": "Rua Paul Garfunkel, 4164 - Cidade Industrial",
+        "NUM": "170371",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54575026021",
+        "LON": "-49,338308796287",
+        "NOME": "Rua Lourdes Betezek,223 - Cidade Industrial",
+        "NUM": "170614",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542817789855",
+        "LON": "-49,337491393089",
+        "NOME": "Rua Paul Garfunkel, 4044 - Cidade Industrial",
+        "NUM": "170620",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543886241043",
+        "LON": "-49,329552054405",
+        "NOME": "Rua Ciro Corrêa Pereira, 2500 - Cidade Industrial",
+        "NUM": "170808",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54276575858",
+        "LON": "-49,322239011526",
+        "NOME": "Rua Ciro Corrêa Pereira, 1799 - Cidade Industrial",
+        "NUM": "170816",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512547896653",
+        "LON": "-49,295134839287",
+        "NOME": "Terminal Pinheirinho - 630 - Vitória Régia",
+        "NUM": "105728",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540803047464",
+        "LON": "-49,30885302384",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 164 -Cidade Industrial",
+        "NUM": "170491",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541873963218",
+        "LON": "-49,342111498117",
+        "NOME": "Rua Engenheiro Eduardo Afonso Nadolny, 192 - Cidade Industrial",
+        "NUM": "170617",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686187729",
+        "LON": "-49,315077513456",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12803 - Cidade Industrial",
+        "NUM": "171010",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543817269963",
+        "LON": "-49,332763999701",
+        "NOME": "Rua Ciro Corrêa Pereira, 2801 -Cidade Industrial",
+        "NUM": "170807",
+        "SENTIDO": "Vitória Régia",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540086722423",
+        "LON": "-49,340885728598",
+        "NOME": "Rua Arthur Tambosi, 404 - Cidade Industrial",
+        "NUM": "170618",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540602205576",
+        "LON": "-49,337888360023",
+        "NOME": "Rua Arthur Tambosi, 146 - Cidade Industrial",
+        "NUM": "170619",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    }
+]

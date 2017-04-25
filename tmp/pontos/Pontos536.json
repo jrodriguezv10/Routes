@@ -1,0 +1,1022 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,538504453294",
+        "LON": "-49,241729271164",
+        "NOME": "Rua Eduardo Pinto da Rocha, 825 - Alto Boqueirão",
+        "NUM": "160014",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524673693632",
+        "LON": "-49,235567550926",
+        "NOME": "Rua Pastor Antônio Pólito, 1420 - Boqueirão",
+        "NUM": "150142",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523035284002",
+        "LON": "-49,231899620867",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150137",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525317261236",
+        "LON": "-49,237477813492",
+        "NOME": "Rua Pastor Antônio Pólito, 1660 - Boqueirão",
+        "NUM": "150145",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55164",
+        "LON": "-49,23502",
+        "NOME": "Rua João Miqueletto, 874 - Alto Boqueirão",
+        "NUM": "160167",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527012929837",
+        "LON": "-49,239613411045",
+        "NOME": "Rua Pastor Antônio Pólito, 1811 - Boqueirão",
+        "NUM": "150042",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524673693632",
+        "LON": "-49,235567550926",
+        "NOME": "Rua Pastor Antônio Pólito, 1420 - Boqueirão",
+        "NUM": "150142",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531582362674",
+        "LON": "-49,233870233135",
+        "NOME": "Rua Itaúna do Sul, 276 - Alto Boqueirão",
+        "NUM": "160176",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554570291888",
+        "LON": "-49,233208250332",
+        "NOME": "Rua João Miqueletto, 1370 - Alto Boqueirão",
+        "NUM": "160163",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527012929837",
+        "LON": "-49,239613411045",
+        "NOME": "Rua Pastor Antônio Pólito, 1811 - Boqueirão",
+        "NUM": "150042",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525483312248",
+        "LON": "-49,23757157424",
+        "NOME": "Rua Pastor Antônio Pólito, 1659 - Boqueirão",
+        "NUM": "150143",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554592565752",
+        "LON": "-49,233083906746",
+        "NOME": "Rua João Miqueletto, 1389 - Alto Boqueirão",
+        "NUM": "160164",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548724092177",
+        "LON": "-49,239676093254",
+        "NOME": "Rua João Miqueletto, 469 - Alto Boqueirão",
+        "NUM": "160172",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5463",
+        "LON": "-49,24087",
+        "NOME": "Rua João Miqueletto, 75 - Alto Boqueirão",
+        "NUM": "160173",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53176085025",
+        "LON": "-49,244026419418",
+        "NOME": "Rua Eduardo Pinto da Rocha, 54  - Alto Boqueirão",
+        "NUM": "160203",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522385795292",
+        "LON": "-49,230333411045",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150135",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552162099351",
+        "LON": "-49,233928512897",
+        "NOME": "Rua João Miqueletto, 1054 - Alto Boqueirão",
+        "NUM": "160165",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544382347644",
+        "LON": "-49,241532683372",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1523 - Alto Boqueirão",
+        "NUM": "160158",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540900958834",
+        "LON": "-49,241701836805",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1121 - Alto Boqueirão",
+        "NUM": "160015",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548724092177",
+        "LON": "-49,239676093254",
+        "NOME": "Rua João Miqueletto, 469 - Alto Boqueirão",
+        "NUM": "160172",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527742229855",
+        "LON": "-49,236226938658",
+        "NOME": "Rua Ver. Antônio Giacomassi, 452 - Alto Boqueirão",
+        "NUM": "160177",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523035284002",
+        "LON": "-49,231899620867",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150137",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524482801648",
+        "LON": "-49,235401953373",
+        "NOME": "Rua Pastor Antônio Pólito, 1419 - Boqueirão",
+        "NUM": "150141",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551594022259",
+        "LON": "-49,234950262566",
+        "NOME": "Rua João Miqueletto, 883 - Alto Boqueirão",
+        "NUM": "160168",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519719743443",
+        "LON": "-49,231317171793",
+        "NOME": "Rua Januário Alves de Souza, 971 - Boqueirão",
+        "NUM": "150133",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548026798183",
+        "LON": "-49,237362273645",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160170",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546328149911",
+        "LON": "-49,240902798777",
+        "NOME": "Rua João Miqueletto, 64 - Alto Boqueirão",
+        "NUM": "160174",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523155732962",
+        "LON": "-49,23185206994",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150138",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544355020884",
+        "LON": "-49,241432595072",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1524 - Alto Boqueirão",
+        "NUM": "160157",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53649",
+        "LON": "-49,24219",
+        "NOME": "Rua Eduardo Pinto da Rocha, 601 - Alto Boqueirão",
+        "NUM": "160011",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548026798183",
+        "LON": "-49,237362273645",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160170",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54886",
+        "LON": "-49,23971",
+        "NOME": "Rua João Miqueletto, 454 - Alto Boqueirão",
+        "NUM": "160171",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536359242943",
+        "LON": "-49,242055480985",
+        "NOME": "Rua Eduardo Pinto da Rocha, 602 - Alto Boqueirão",
+        "NUM": "160012",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542404382655",
+        "LON": "-49,242024023314",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1304 - Alto Boqueirão",
+        "NUM": "160156",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533883058328",
+        "LON": "-49,234544023314",
+        "NOME": "Rua Luiz Machuca, 184 - Alto Boqueirão",
+        "NUM": "160460",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5278",
+        "LON": "-49,23614",
+        "NOME": "Rua Ver. Antônio Giacomassi, 458 - Alto Boqueirão",
+        "NUM": "160462",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53554714131",
+        "LON": "-49,236905014715",
+        "NOME": "Rua Nelso José Lautart, 89 - Alto Boqueirão",
+        "NUM": "160009",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525483312248",
+        "LON": "-49,23757157424",
+        "NOME": "Rua Pastor Antônio Pólito, 1659 - Boqueirão",
+        "NUM": "150143",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538330706356",
+        "LON": "-49,241851457672",
+        "NOME": "Rua Eduardo Pinto da Rocha, 824 - Alto Boqueirão",
+        "NUM": "160013",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517411195581",
+        "LON": "-49,23051953373",
+        "NOME": "Terminal Boqueirão - 536 - ZOOLÓGICO",
+        "NUM": "104313",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544382347644",
+        "LON": "-49,241532683372",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1523 - Alto Boqueirão",
+        "NUM": "160158",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544355020884",
+        "LON": "-49,241432595072",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1524 - Alto Boqueirão",
+        "NUM": "160157",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535862234443",
+        "LON": "-49,23895317791",
+        "NOME": "Rua Coronel Américo Valger, 258 - Alto Boqueirão",
+        "NUM": "160432",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538330706356",
+        "LON": "-49,241851457672",
+        "NOME": "Rua Eduardo Pinto da Rocha, 824 - Alto Boqueirão",
+        "NUM": "160013",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54036",
+        "LON": "-49,24173",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1048 - Alto Boqueirão",
+        "NUM": "160433",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524005221898",
+        "LON": "-49,234242682209",
+        "NOME": "Rua Pastor Antônio Pólito, 1212 - Boqueirão",
+        "NUM": "150139",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524482801648",
+        "LON": "-49,235401953373",
+        "NOME": "Rua Pastor Antônio Pólito, 1419 - Boqueirão",
+        "NUM": "150141",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535942925152",
+        "LON": "-49,238945131283",
+        "NOME": "Rua Coronel Américo Valger, 257 - Alto Boqueirão",
+        "NUM": "160010",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538504453294",
+        "LON": "-49,241729271164",
+        "NOME": "Rua Eduardo Pinto da Rocha, 825 - Alto Boqueirão",
+        "NUM": "160014",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542500821379",
+        "LON": "-49,241928542328",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1303 - Alto Boqueirão",
+        "NUM": "160155",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554592565752",
+        "LON": "-49,233083906746",
+        "NOME": "Rua João Miqueletto, 1389 - Alto Boqueirão",
+        "NUM": "160164",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551594022259",
+        "LON": "-49,234950262566",
+        "NOME": "Rua João Miqueletto, 883 - Alto Boqueirão",
+        "NUM": "160168",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "5",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519719743443",
+        "LON": "-49,231317171793",
+        "NOME": "Rua Januário Alves de Souza, 971 - Boqueirão",
+        "NUM": "150133",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522385795292",
+        "LON": "-49,230333411045",
+        "NOME": "Rua Pastor Antônio Pólito, 825 - Boqueirão",
+        "NUM": "150135",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53178989363",
+        "LON": "-49,244141754406",
+        "NOME": "Rua Eduardo Pinto da Rocha, 53 - Alto Boqueirão",
+        "NUM": "160202",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,517411195581",
+        "LON": "-49,23051953373",
+        "NOME": "Terminal Boqueirão - 536 - ZOOLÓGICO",
+        "NUM": "104313",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524075822889",
+        "LON": "-49,234093148479",
+        "NOME": "Rua Pastor Antônio Pólito, 1211 - Boqueirão",
+        "NUM": "150140",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535436436268",
+        "LON": "-49,23700682209",
+        "NOME": "Rua Nelso José Lautart, 88 - Alto Boqueirão",
+        "NUM": "160008",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,5170754008",
+        "LON": "-49,230692186508",
+        "NOME": "Terminal Boqueirão - 536 - Zoológico",
+        "NUM": "104315",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55211096155",
+        "LON": "-49,233869504299",
+        "NOME": "Rua João Miqueletto, 1067 - Alto Boqueirão",
+        "NUM": "160166",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5463",
+        "LON": "-49,24087",
+        "NOME": "Rua João Miqueletto, 75 - Alto Boqueirão",
+        "NUM": "160173",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524005221898",
+        "LON": "-49,234242682209",
+        "NOME": "Rua Pastor Antônio Pólito, 1212 - Boqueirão",
+        "NUM": "150139",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531519416977",
+        "LON": "-49,242717434941",
+        "NOME": "Rua Francisco Derosso, 940 - Alto Boqueirão",
+        "NUM": "160153",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542404382655",
+        "LON": "-49,242024023314",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1304 - Alto Boqueirão",
+        "NUM": "160156",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55164",
+        "LON": "-49,23502",
+        "NOME": "Rua João Miqueletto, 874 - Alto Boqueirão",
+        "NUM": "160167",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546328149911",
+        "LON": "-49,240902798777",
+        "NOME": "Rua João Miqueletto, 64 - Alto Boqueirão",
+        "NUM": "160174",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529267838635",
+        "LON": "-49,241006508092",
+        "NOME": "Rua Pastor Antônio Pólito, 2165 - Boqueirão",
+        "NUM": "160200",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534033473441",
+        "LON": "-49,24328612973",
+        "NOME": "Rua Eduardo Pinto da Rocha, 307 - Alto Boqueirão",
+        "NUM": "160741",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529679294406",
+        "LON": "-49,241053446748",
+        "NOME": "Rua Pastor Antônio Pólito, 2166 - Boqueirão",
+        "NUM": "160201",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540900958834",
+        "LON": "-49,241701836805",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1121 - Alto Boqueirão",
+        "NUM": "160015",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55211096155",
+        "LON": "-49,233869504299",
+        "NOME": "Rua João Miqueletto, 1067 - Alto Boqueirão",
+        "NUM": "160166",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547955729709",
+        "LON": "-49,237397871199",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160169",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53649",
+        "LON": "-49,24219",
+        "NOME": "Rua Eduardo Pinto da Rocha, 601 - Alto Boqueirão",
+        "NUM": "160011",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,5170754008",
+        "LON": "-49,230692186508",
+        "NOME": "Terminal Boqueirão - 536 - Zoológico",
+        "NUM": "104315",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55875",
+        "LON": "-49,23092",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 356 - Alto Boqueirão",
+        "NUM": "160159",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,554570291888",
+        "LON": "-49,233208250332",
+        "NOME": "Rua João Miqueletto, 1370 - Alto Boqueirão",
+        "NUM": "160163",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531612659286",
+        "LON": "-49,233946647816",
+        "NOME": "Rua Itaúna do Sul, 276 - Alto Boqueirão",
+        "NUM": "160461",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555848936872",
+        "LON": "-49,23069953373",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 303 - Alto Boqueirão",
+        "NUM": "160161",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54036",
+        "LON": "-49,24173",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1048 - Alto Boqueirão",
+        "NUM": "160433",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525317261236",
+        "LON": "-49,237477813492",
+        "NOME": "Rua Pastor Antônio Pólito, 1660 - Boqueirão",
+        "NUM": "150145",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527038789811",
+        "LON": "-49,239771224537",
+        "NOME": "Rua Pastor Antônio Pólito, 1812 - Boqueirão",
+        "NUM": "150146",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558293308605",
+        "LON": "-49,231102798777",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 337 - Alto Boqueirão",
+        "NUM": "160160",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55589",
+        "LON": "-49,23074",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 308 - Alto Boqueirão",
+        "NUM": "160162",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552162099351",
+        "LON": "-49,233928512897",
+        "NOME": "Rua João Miqueletto, 1054 - Alto Boqueirão",
+        "NUM": "160165",
+        "SENTIDO": "Atendimento  Terminal Boqueirão - Zoologico - Direto",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522453181252",
+        "LON": "-49,230213440476",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150136",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523155732962",
+        "LON": "-49,23185206994",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150138",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531559427571",
+        "LON": "-49,242979358301",
+        "NOME": "Rua Francisco Derosso, 939 - Alto Boqueirão",
+        "NUM": "160154",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542500821379",
+        "LON": "-49,241928542328",
+        "NOME": "Rua Eduardo Pinto da Rocha, 1303 - Alto Boqueirão",
+        "NUM": "160155",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555848936872",
+        "LON": "-49,23069953373",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 303 - Alto Boqueirão",
+        "NUM": "160161",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534009271077",
+        "LON": "-49,243188229101",
+        "NOME": "Rua Eduardo Pinto da Rocha, 306 - Alto Boqueirão",
+        "NUM": "160740",
+        "SENTIDO": "Atendimento Zoologico - Terminal Boqueirão - Direto",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55589",
+        "LON": "-49,23074",
+        "NOME": "Rua Engenheiro Raul Suplicy de Lacerda, 308 - Alto Boqueirão",
+        "NUM": "160162",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54886",
+        "LON": "-49,23971",
+        "NOME": "Rua João Miqueletto, 454 - Alto Boqueirão",
+        "NUM": "160171",
+        "SENTIDO": "Zoológico Via Vila Nova",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536359242943",
+        "LON": "-49,242055480985",
+        "NOME": "Rua Eduardo Pinto da Rocha, 602 - Alto Boqueirão",
+        "NUM": "160012",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51976",
+        "LON": "-49,23118",
+        "NOME": "Rua Januário Alves de Souza, 972 - Boqueirão",
+        "NUM": "150134",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522453181252",
+        "LON": "-49,230213440476",
+        "NOME": "Rua Pastor Antônio Pólito, 826 - Boqueirão",
+        "NUM": "150136",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524075822889",
+        "LON": "-49,234093148479",
+        "NOME": "Rua Pastor Antônio Pólito, 1211 - Boqueirão",
+        "NUM": "150140",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547955729709",
+        "LON": "-49,237397871199",
+        "NOME": "Rua Arcísio da Cunha Niclewicz, 572 - Alto Boqueirão",
+        "NUM": "160169",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533910638093",
+        "LON": "-49,234416093254",
+        "NOME": "Rua Luiz Machuca, 129 - Alto Boqueirão",
+        "NUM": "160175",
+        "SENTIDO": "Terminal Boqueirão Via Vila Nova",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    }
+]

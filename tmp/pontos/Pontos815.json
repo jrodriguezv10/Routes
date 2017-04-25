@@ -1,0 +1,292 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793855489",
+        "LON": "-49,321227171793",
+        "NOME": "Rua Padre Ladislau Kula, 205 - Santo Inácio",
+        "NUM": "190028",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427106178365",
+        "LON": "-49,321172478504",
+        "NOME": "Rua Padre Ladislau Kula, 609 - Santo Inácio",
+        "NUM": "190029",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43634",
+        "LON": "-49,31221",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 224 - Campina do Siqueira",
+        "NUM": "190011",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427106178365",
+        "LON": "-49,321172478504",
+        "NOME": "Rua Padre Ladislau Kula, 609 - Santo Inácio",
+        "NUM": "190029",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435857376868",
+        "LON": "-49,30734350805",
+        "NOME": "Terminal Campina do Siqueira - 815 - Tuiuti / Barigui - 816 - C.Siqueira / Sta.Felicidade",
+        "NUM": "104504",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435857376868",
+        "LON": "-49,30734350805",
+        "NOME": "Terminal Campina do Siqueira - 815 - Tuiuti / Barigui - 816 - C.Siqueira / Sta.Felicidade",
+        "NUM": "104504",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429377215997",
+        "LON": "-49,321379363537",
+        "NOME": "R. Padre Ladislau Kula, 820 - Santo Inacio - Santa Felicidade",
+        "NUM": "190948",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430958050444",
+        "LON": "-49,322961066418",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190198",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "5",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435857376868",
+        "LON": "-49,30734350805",
+        "NOME": "Terminal Campina do Siqueira - 815 - Tuiuti / Barigui - 816 - C.Siqueira / Sta.Felicidade",
+        "NUM": "104504",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429386836504",
+        "LON": "-49,321302567949",
+        "NOME": "Rua Padre Ladislau Kula, 867 - Santo Inácio",
+        "NUM": "190915",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429377215997",
+        "LON": "-49,321379363537",
+        "NOME": "R. Padre Ladislau Kula, 820 - Santo Inacio - Santa Felicidade",
+        "NUM": "190948",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43634",
+        "LON": "-49,31221",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 224 - Campina do Siqueira",
+        "NUM": "190011",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43467",
+        "LON": "-49,31044",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 80 - Campina do Siqueira",
+        "NUM": "190012",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426794969781",
+        "LON": "-49,32120770216",
+        "NOME": "R. Padre Ladislau Kula, 576 - Santo Inacio - Santa Felicidade",
+        "NUM": "190949",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "3",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793855489",
+        "LON": "-49,321227171793",
+        "NOME": "Rua Padre Ladislau Kula, 205 - Santo Inácio",
+        "NUM": "190028",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430392549079",
+        "LON": "-49,317373206186",
+        "NOME": "Marginal Rodovia BR- 277, 1 - Santo Inácio",
+        "NUM": "190004",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "3",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793855489",
+        "LON": "-49,321227171793",
+        "NOME": "Rua Padre Ladislau Kula, 205 - Santo Inácio",
+        "NUM": "190028",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435857376868",
+        "LON": "-49,30734350805",
+        "NOME": "Terminal Campina do Siqueira - 815 - Tuiuti / Barigui - 816 - C.Siqueira / Sta.Felicidade",
+        "NUM": "104504",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433715041571",
+        "LON": "-49,310821517687",
+        "NOME": "Rua General Mário Tourinho, 5337 - Seminário",
+        "NUM": "190001",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431003976097",
+        "LON": "-49,316830961971",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190199",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "11",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43467",
+        "LON": "-49,31044",
+        "NOME": "Rua Engenheiro Serafim Voloschen, 80 - Campina do Siqueira",
+        "NUM": "190012",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430958050444",
+        "LON": "-49,322961066418",
+        "NOME": "Marginal Rodovia BR- 277, 926 - Santo Inácio",
+        "NUM": "190198",
+        "SENTIDO": "Terminal Campina do Siqueira ",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793072295",
+        "LON": "-49,321030145998",
+        "NOME": "Rua Padre Ladislau Kula, 206 - Santo Inácio",
+        "NUM": "190027",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426794969781",
+        "LON": "-49,32120770216",
+        "NOME": "R. Padre Ladislau Kula, 576 - Santo Inacio - Santa Felicidade",
+        "NUM": "190949",
+        "SENTIDO": "Tuiuti - Circular",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423793072295",
+        "LON": "-49,321030145998",
+        "NOME": "Rua Padre Ladislau Kula, 206 - Santo Inácio",
+        "NUM": "190027",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429386836504",
+        "LON": "-49,321302567949",
+        "NOME": "Rua Padre Ladislau Kula, 867 - Santo Inácio",
+        "NUM": "190915",
+        "SENTIDO": "Tuiuti ",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    }
+]

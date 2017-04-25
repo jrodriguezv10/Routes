@@ -1,0 +1,282 @@
+[
+    {
+        "GRUPO": "41839",
+        "LAT": "-25,529997367388",
+        "LON": "-49,250161722719",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108102",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41838",
+        "LAT": "-25,531236563547",
+        "LON": "-49,255340077243",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108100",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41841",
+        "LAT": "-25,529054650019",
+        "LON": "-49,246220216572",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108104",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43323",
+        "LAT": "-25,527780336075",
+        "LON": "-49,240706935942",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108106",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534440000187",
+        "LON": "-49,268594541837",
+        "NOME": "Terminal Sítio Cercado - 602 - Circular Sul (Anti-Horário)",
+        "NUM": "106102",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41841",
+        "LAT": "-25,529054650019",
+        "LON": "-49,246220216572",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108104",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43328",
+        "LAT": "-25,525441033178",
+        "LON": "-49,230906144201",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108110",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534440000187",
+        "LON": "-49,268594541837",
+        "NOME": "Terminal Sítio Cercado - 602 - Circular Sul (Anti-Horário)",
+        "NUM": "106102",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43323",
+        "LAT": "-25,527780336075",
+        "LON": "-49,240706935942",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108106",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43328",
+        "LAT": "-25,525441033178",
+        "LON": "-49,230906144201",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108110",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41836",
+        "LAT": "-25,532562876501",
+        "LON": "-49,26178641659",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108098",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41841",
+        "LAT": "-25,529054650019",
+        "LON": "-49,246220216572",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108104",
+        "SENTIDO": "Estação Tubo Eucaliptos - Desativar",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41803",
+        "LAT": "-25,521034596928",
+        "LON": "-49,227946676574",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108112",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43326",
+        "LAT": "-25,526944703107",
+        "LON": "-49,237278081736",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108108",
+        "SENTIDO": "Terminal Boqueirão - Desativar",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41803",
+        "LAT": "-25,521034596928",
+        "LON": "-49,227946676574",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108112",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43326",
+        "LAT": "-25,526944703107",
+        "LON": "-49,237278081736",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108108",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Estação Tubo Eucaliptos - Desativar",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

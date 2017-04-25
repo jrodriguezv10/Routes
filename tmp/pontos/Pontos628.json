@@ -1,0 +1,912 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,504485476117",
+        "LON": "-49,318078835661",
+        "NOME": "Rua Pedro Gusso, 2510 - Novo Mundo",
+        "NUM": "170314",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544216294343",
+        "LON": "-49,315904797845",
+        "NOME": "Rua Wiegando Olsen,724 - Cidade Industrial",
+        "NUM": "170352",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550790127059",
+        "LON": "-49,338822932772",
+        "NOME": "Rua Engenheiro Eduardo Afonso Nadolny, 567 - Cidade Industrial",
+        "NUM": "170364",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495930599403",
+        "LON": "-49,30246693068",
+        "NOME": "Rua Primo Lourenço Tosin, 1082 - Novo Mundo",
+        "NUM": "170301",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "45",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516484925097",
+        "LON": "-49,326585860199",
+        "NOME": "Rua Des. Cid. Campelo, 3565 - Cidade Industrial",
+        "NUM": "170127",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519747836139",
+        "LON": "-49,326423586554",
+        "NOME": "Rua José Rodrigues Pinheiro, 2950 - Capão Raso",
+        "NUM": "170131",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5031685363",
+        "LON": "-49,314245958979",
+        "NOME": "Rua Pedro Gusso, 2101 - Novo Mundo",
+        "NUM": "170313",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504604096826",
+        "LON": "-49,317968865091",
+        "NOME": "Rua Pedro Gusso, 2509 - Novo Mundo",
+        "NUM": "170315",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53957095572",
+        "LON": "-49,320118548207",
+        "NOME": "Rua Ciro Corrêa Pereira, 2049 - Cidade Industrial",
+        "NUM": "170165",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536637729184",
+        "LON": "-49,318184675507",
+        "NOME": "Rua Ciro Corrêa Pereira, 1855 - Cidade Industrial",
+        "NUM": "170164",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520157323039",
+        "LON": "-49,334210495701",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "170028",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532393556201",
+        "LON": "-49,320616473541",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170062",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519727261682",
+        "LON": "-49,328470112032",
+        "NOME": "Rua Vicente Micheloto, 408 - Cidade Industrial",
+        "NUM": "170349",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505572424758",
+        "LON": "-49,321053405458",
+        "NOME": "Rua Pedro Gusso, 2944 - Cidade Industrial",
+        "NUM": "170317",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508857419092",
+        "LON": "-49,322686870748",
+        "NOME": "Rua Pedro Gusso, 3382 - Cidade Industrial",
+        "NUM": "170320",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536700653938",
+        "LON": "-49,318356336884",
+        "NOME": "Rua Ciro Corrêa Pereira, 1856 - Cidade Industrial",
+        "NUM": "170163",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549045368026",
+        "LON": "-49,339724155001",
+        "NOME": "Rua Engenheiro Eduardo Afonso Nadolny, 733 - Cidade Industrial",
+        "NUM": "170365",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548938890924",
+        "LON": "-49,342143507532",
+        "NOME": "Rua Professor Fernando Carneiro, 647 - Cidade Industrial",
+        "NUM": "170366",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543716556993",
+        "LON": "-49,343730034165",
+        "NOME": "Rua Ciro Corrêa Pereira, 5831 - Cidade Industrial",
+        "NUM": "170369",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515244366284",
+        "LON": "-49,328156293577",
+        "NOME": "Rua Des. Cid. Campelo, 3829 -Cidade Industrial",
+        "NUM": "170126",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520337232347",
+        "LON": "-49,328635067886",
+        "NOME": "Rua Vicente Micheloto, 1799 -Cidade Industrial",
+        "NUM": "170130",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497988997813",
+        "LON": "-49,306239565069",
+        "NOME": "Rua Pedro Gusso, 1219 - Novo Mundo",
+        "NUM": "170303",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501505394979",
+        "LON": "-49,312856574709",
+        "NOME": "Rua Pedro Gusso, 1727 - Novo Mundo",
+        "NUM": "170311",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543716556993",
+        "LON": "-49,343730034165",
+        "NOME": "Rua Ciro Corrêa Pereira, 5831 - Cidade Industrial",
+        "NUM": "170369",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494475566952",
+        "LON": "-49,298993470005",
+        "NOME": "Rua João Bonat, 431 - Novo Mundo",
+        "NUM": "170243",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549938866492",
+        "LON": "-49,328120083755",
+        "NOME": "Rua Wiegando Olsen,2020 - Cidade Industrial",
+        "NUM": "170359",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Concreto"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52655910826",
+        "LON": "-49,329032798777",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170056",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52909910849",
+        "LON": "-49,326616588955",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11100 - Cidade Industrial",
+        "NUM": "170058",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516598692776",
+        "LON": "-49,326762885994",
+        "NOME": "Rua Des. Cid. Campelo, 3564 - Cidade Industrial",
+        "NUM": "170128",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501452135342",
+        "LON": "-49,312982638533",
+        "NOME": "Rua Pedro Gusso, 1726 - Novo Mundo",
+        "NUM": "170309",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519611092006",
+        "LON": "-49,3332051534",
+        "NOME": "Rua Alfred Nobel, 392 - Cidade Industrial",
+        "NUM": "170169",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545598123819",
+        "LON": "-49,317748816543",
+        "NOME": "Rua Wiegando Olsen,1000 - Cidade Industrial",
+        "NUM": "170353",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494330610822",
+        "LON": "-49,300820560402",
+        "NOME": "Rua João Bonat, 632 - Novo Mundo",
+        "NUM": "170244",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526665732502",
+        "LON": "-49,328729038029",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170057",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53026942735",
+        "LON": "-49,32465953373",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11102 - Cidade Industrial",
+        "NUM": "170061",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548618249081",
+        "LON": "-49,324620636039",
+        "NOME": "Rua Wiegando Olsen,1600 - Cidade Industrial",
+        "NUM": "170357",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498818174749",
+        "LON": "-49,309812267477",
+        "NOME": "Rua Pedro Gusso, 1480 - Novo Mundo",
+        "NUM": "170306",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492973306142",
+        "LON": "-49,298282684616",
+        "NOME": "Rua Paulina Ader, 836 - Novo Mundo",
+        "NUM": "170992",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525136114187",
+        "LON": "-49,330091720238",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10895 - Cidade Industrial",
+        "NUM": "170050",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500275575523",
+        "LON": "-49,311797102148",
+        "NOME": "Rua Pedro Gusso, 1709 - Novo Mundo",
+        "NUM": "170308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54426",
+        "LON": "-49,33736",
+        "NOME": "Rua Paul Garfunkel, 4164 - Cidade Industrial",
+        "NUM": "170371",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525224904005",
+        "LON": "-49,330232682209",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 10894 - Cidade Industrial",
+        "NUM": "170049",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530333949223",
+        "LON": "-49,324835014715",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11103 - Cidade Industrial",
+        "NUM": "170060",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497406754821",
+        "LON": "-49,303873856718",
+        "NOME": "Rua Pedro Gusso, 885- Novo Mundo",
+        "NUM": "170177",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502836878224",
+        "LON": "-49,314138670618",
+        "NOME": "Rua Pedro Gusso, 2192 - Novo Mundo",
+        "NUM": "170312",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,548640028554",
+        "LON": "-49,325004191928",
+        "NOME": "Rua Wiegando Olsen,1600 - Cidade Industrial",
+        "NUM": "170358",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494366620386",
+        "LON": "-49,299103440575",
+        "NOME": "Rua João Bonat, 432 - Novo Mundo",
+        "NUM": "170242",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50706",
+        "LON": "-49,32217",
+        "NOME": "Rua Pedro Gusso, 3209 - Cidade Industrial",
+        "NUM": "170318",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533879879169",
+        "LON": "-49,317158046627",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170065",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497458805765",
+        "LON": "-49,303577472622",
+        "NOME": "Rua Pedro Gusso, 886 - Novo Mundo",
+        "NUM": "170178",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540784641919",
+        "LON": "-49,318527998261",
+        "NOME": "Rua Emílio Romani, 2970 - Cidade Industrial",
+        "NUM": "170345",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544298575353",
+        "LON": "-49,315810920529",
+        "NOME": "Rua Wiegando Olsen,724 - Cidade Industrial",
+        "NUM": "170351",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544074722472",
+        "LON": "-49,34078899198",
+        "NOME": "Rua Ciro Corrêa Pereira, 5557 - Cidade Industrial",
+        "NUM": "170370",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494421399661",
+        "LON": "-49,30096271748",
+        "NOME": "Rua João Bonat, 631 - Novo Mundo",
+        "NUM": "170245",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "41",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534025610825",
+        "LON": "-49,317219504299",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12793 - Cidade Industrial",
+        "NUM": "170064",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54084393435",
+        "LON": "-49,318624557785",
+        "NOME": "Rua Emílio Romani, 2969 - Cidade Industrial",
+        "NUM": "170346",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546660500275",
+        "LON": "-49,343359889321",
+        "NOME": "Rua Professor Fernando Carneiro, 323 - Cidade Industrial",
+        "NUM": "170367",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511683830972",
+        "LON": "-49,324127784061",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC",
+        "NUM": "105212",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532645574465",
+        "LON": "-49,319687962952",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12453 - Cidade Industrial",
+        "NUM": "170063",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519389598016",
+        "LON": "-49,324883998579",
+        "NOME": "Rua José Rodrigues Pinheiro, 2949  - Capão Raso",
+        "NUM": "170132",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517744835608",
+        "LON": "-49,324646623081",
+        "NOME": "Rua João Chede, 3368 - Cidade Industrial",
+        "NUM": "170133",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505430139068",
+        "LON": "-49,320441869698",
+        "NOME": "Rua Pedro Gusso, 2863 - Novo Mundo",
+        "NUM": "170208",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542640844107",
+        "LON": "-49,315161825948",
+        "NOME": "Rua Emílio Romani, 2544 - Cidade Industrial",
+        "NUM": "170347",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551435028095",
+        "LON": "-49,332069130473",
+        "NOME": "Rua Wiegando Olsen,2540 - Cidade Industrial",
+        "NUM": "170362",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546792389178",
+        "LON": "-49,336178274683",
+        "NOME": "Rua Paul Garfunkel, 4492 - Cidade Industrial",
+        "NUM": "170372",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50723",
+        "LON": "-49,32196",
+        "NOME": "Rua Pedro Gusso, 3167 - Cidade Industrial",
+        "NUM": "170319",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53952497335",
+        "LON": "-49,320215107732",
+        "NOME": "Rua Ciro Corrêa Pereira, 2050 - Cidade Industrial",
+        "NUM": "170691",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546661710266",
+        "LON": "-49,319794000916",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170355",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,551284995143",
+        "LON": "-49,332020850711",
+        "NOME": "Rua Wiegando Olsen,2540 - Cidade Industrial",
+        "NUM": "170361",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498757651079",
+        "LON": "-49,309490402395",
+        "NOME": "Rua Pedro Gusso, 1551 - Novo Mundo",
+        "NUM": "170305",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545737878891",
+        "LON": "-49,317728029423",
+        "NOME": "Rua Wiegando Olsen,1000 - Cidade Industrial",
+        "NUM": "170354",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491683947313",
+        "LON": "-49,293162853665",
+        "NOME": "Terminal Capão Raso - 628 - Carbomafra / 667 - Terminal CIC / 620-Sta.Cruz",
+        "NUM": "104806",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515064030325",
+        "LON": "-49,328661889977",
+        "NOME": "Rua Des. Cid. Campelo, 3690 - Cidade Industrial",
+        "NUM": "170125",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497997471183",
+        "LON": "-49,306805511171",
+        "NOME": "Rua Pedro Gusso, 1254 - Novo Mundo",
+        "NUM": "170304",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500246524518",
+        "LON": "-49,311947305853",
+        "NOME": "Rua Pedro Gusso, 1710 - Novo Mundo",
+        "NUM": "170307",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550091984503",
+        "LON": "-49,328834386401",
+        "NOME": "Rua Wiegando Olsen,2020 - Cidade Industrial",
+        "NUM": "170360",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55257599835",
+        "LON": "-49,335443349414",
+        "NOME": "Rua Wiegando Olsen, 2658 - Cidade Industrial",
+        "NUM": "170363",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "41",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544465557229",
+        "LON": "-49,34453201466",
+        "NOME": "Rua Professor Fernando Carneiro, 24 - Cidade Industrial",
+        "NUM": "170368",
+        "SENTIDO": "Carbomafra",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4957214",
+        "LON": "-49,3023882",
+        "NOME": "Rua Primo Lourenço Tosin, 1083- Novo Mundo",
+        "NUM": "170302",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528908535591",
+        "LON": "-49,32659524785",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 11101 - Cidade Industrial",
+        "NUM": "170059",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508921568786",
+        "LON": "-49,322517891581",
+        "NOME": "Rua Pedro Gusso, 3381 - Cidade Industrial",
+        "NUM": "170321",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546707084904",
+        "LON": "-49,319567354255",
+        "NOME": "Rua Wiegando Olsen - Cidade Industrial",
+        "NUM": "170356",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    }
+]

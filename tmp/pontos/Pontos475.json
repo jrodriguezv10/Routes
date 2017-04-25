@@ -1,0 +1,752 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435187289696",
+        "LON": "-49,271812648587",
+        "NOME": "Praça Rui Barbosa - 475 - Canal Belém",
+        "NUM": "102019",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495597047075",
+        "LON": "-49,224482209629",
+        "NOME": "Rua José Gomes de Melo, 78 - Uberaba",
+        "NUM": "140861",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435187289696",
+        "LON": "-49,271812648587",
+        "NOME": "Praça Rui Barbosa - 475 - Canal Belém",
+        "NUM": "102019",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497996245134",
+        "LON": "-49,219856740183",
+        "NOME": "Rua Tenente-Coronel Benjamin Lage, 233 - Uberaba",
+        "NUM": "140864",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47283",
+        "LON": "-49,24468",
+        "NOME": "Rua Canal Belém, 1614 - Guabirotuba",
+        "NUM": "140019",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4447087239",
+        "LON": "-49,259564265127",
+        "NOME": "Rua João Negrão, 1802 - Centro",
+        "NUM": "140464",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44656883286",
+        "LON": "-49,258803858871",
+        "NOME": "Rua João Negrão, 2024 - Centro",
+        "NUM": "140465",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451751804808",
+        "LON": "-49,256424636787",
+        "NOME": "Rua Doutor Reinaldo Machado, 996 - Prado Velho",
+        "NUM": "140775",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460323793058",
+        "LON": "-49,249500514215",
+        "NOME": "Rua Canal Belém, 101 - Guabirotuba",
+        "NUM": "140778",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484566414175",
+        "LON": "-49,233651341146",
+        "NOME": "Rua Salomão Elias Feder, 292 - Uberaba",
+        "NUM": "140797",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502567692068",
+        "LON": "-49,219079065738",
+        "NOME": "Rua Canal Belém, 5798 - Uberaba",
+        "NUM": "140867",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503766017055",
+        "LON": "-49,217551547704",
+        "NOME": "Rua Arlindo Natal, 671 - Uberaba",
+        "NUM": "140869",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47055",
+        "LON": "-49,24636",
+        "NOME": "Rua Canal Belém, 1182 - Guabirotuba",
+        "NUM": "140020",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44647",
+        "LON": "-49,25388",
+        "NOME": "Rua Imaculada Conceição, 631 - Prado Velho",
+        "NUM": "140182",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462381027825",
+        "LON": "-49,250220687336",
+        "NOME": "Rua Canal Belém, 40 - Guabirotuba",
+        "NUM": "140780",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478301309654",
+        "LON": "-49,240288467354",
+        "NOME": "Rua Canal Belém, 2372 - Guabirotuba",
+        "NUM": "140788",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486721292534",
+        "LON": "-49,231690646357",
+        "NOME": "Rua Salomão Elias Feder, 647 - Uberaba",
+        "NUM": "140798",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502847302301",
+        "LON": "-49,21648805183",
+        "NOME": "Rua Arlindo Natal, 500 - Uberaba",
+        "NUM": "140872",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500320413206",
+        "LON": "-49,219986559525",
+        "NOME": "Rua José Hauer, 508 - Uberaba",
+        "NUM": "140494",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444688097732",
+        "LON": "-49,255299616275",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 440 - Rebouças",
+        "NUM": "140875",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442052001629",
+        "LON": "-49,264006014147",
+        "NOME": "Av. Pres. Getúlio Vargas, 385 - Rebouças",
+        "NUM": "110425",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465984433744",
+        "LON": "-49,250018180555",
+        "NOME": "Rua Canal Belém, 662 - Guabirotuba",
+        "NUM": "140783",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49125851683",
+        "LON": "-49,227903367227",
+        "NOME": "Rua Salomão Elias Feder, 1250 - Uberaba",
+        "NUM": "140802",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498118503692",
+        "LON": "-49,219848693555",
+        "NOME": "Rua Tenente-Coronel Benjamin Lage, 232 - Uberaba",
+        "NUM": "140865",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472718520869",
+        "LON": "-49,244647317791",
+        "NOME": "Rua Canal Belém, 1615 - Guabirotuba",
+        "NUM": "140018",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483284364284",
+        "LON": "-49,236424745268",
+        "NOME": "Rua Canal Belém, 6321 - Guabirotuba",
+        "NUM": "140792",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448493095029",
+        "LON": "-49,258259370442",
+        "NOME": "Rua João Negrão, 2222 - Centro",
+        "NUM": "140466",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462307166562",
+        "LON": "-49,250289083666",
+        "NOME": "Rua Canal Belém, 51 - Guabirotuba",
+        "NUM": "140781",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481122160405",
+        "LON": "-49,238093079275",
+        "NOME": "Rua Canal Belém, 2771 - Guabirotuba",
+        "NUM": "140791",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483284364284",
+        "LON": "-49,236538739151",
+        "NOME": "Rua Canal Belém, 6324 - Guabirotuba",
+        "NUM": "140793",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483727453895",
+        "LON": "-49,234925390429",
+        "NOME": "Rua Mário Mendes de Lara, 843 - Uberaba",
+        "NUM": "140795",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488825288173",
+        "LON": "-49,23001963014",
+        "NOME": "Rua Salomão Elias Feder, 912 - Uberaba",
+        "NUM": "140801",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474501515376",
+        "LON": "-49,243272245369",
+        "NOME": "Rua Canal Belém, 1811 - Guabirotuba",
+        "NUM": "140016",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488693335559",
+        "LON": "-49,229975373692",
+        "NOME": "Rua Salomão Elias Feder, 913 - Uberaba",
+        "NUM": "140800",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492766851749",
+        "LON": "-49,226437540001",
+        "NOME": "Rua Salomão Elias Feder, 1395 - Uberaba",
+        "NUM": "140804",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502521695517",
+        "LON": "-49,218995917259",
+        "NOME": "Rua Canal Belém, 5799 - Uberaba",
+        "NUM": "140866",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45043",
+        "LON": "-49,25676",
+        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
+        "NUM": "140267",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443180689821",
+        "LON": "-49,26703288702",
+        "NOME": "Av. Pres. Getúlio Vargas, 767 - Rebouças",
+        "NUM": "110424",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45677591887",
+        "LON": "-49,253769249863",
+        "NOME": "Rua Prof. Regina Célia Marinoni, 308 - Prado Velho",
+        "NUM": "140777",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478350947513",
+        "LON": "-49,240391732401",
+        "NOME": "Rua Canal Belém, 2373 - Guabirotuba",
+        "NUM": "140789",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442436445978",
+        "LON": "-49,259707660622",
+        "NOME": "Rua Conselheiro Laurindo, 1697 - Centro",
+        "NUM": "110146",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46595537445",
+        "LON": "-49,249866635746",
+        "NOME": "Rua Canal Belém, 663 - Guabirotuba",
+        "NUM": "140782",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503680076974",
+        "LON": "-49,217649448333",
+        "NOME": "Rua Arlindo Natal, 696 - Uberaba",
+        "NUM": "140868",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476775818347",
+        "LON": "-49,241641953373",
+        "NOME": "Rua Canal Belém, 2088 - Guabirotuba",
+        "NUM": "140015",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47058",
+        "LON": "-49,24643",
+        "NOME": "Rua Canal Belém, 1183 - Guabirotuba",
+        "NUM": "140021",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486791507022",
+        "LON": "-49,231768430418",
+        "NOME": "Rua Salomão Elias Feder, 628 - Uberaba",
+        "NUM": "140799",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492817694169",
+        "LON": "-49,226540805048",
+        "NOME": "Rua Salomão Elias Feder, 1394 - Uberaba",
+        "NUM": "140805",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500212943887",
+        "LON": "-49,220071457672",
+        "NOME": "Rua José Hauer, 508 - Uberaba",
+        "NUM": "140495",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460452144225",
+        "LON": "-49,249462963289",
+        "NOME": "Rua Canal Belém, 80 - Guabirotuba",
+        "NUM": "140779",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495605520613",
+        "LON": "-49,224297137207",
+        "NOME": "Rua José Gomes de Melo, 79 - Uberaba",
+        "NUM": "140806",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502436767747",
+        "LON": "-49,214666327613",
+        "NOME": "Rua Tenente Antônio Miranda Marquês, 304 - Uberaba",
+        "NUM": "140871",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474568511553",
+        "LON": "-49,243337609787",
+        "NOME": "Rua Canal Belém, 1810 - Guabirotuba",
+        "NUM": "140017",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454731908372",
+        "LON": "-49,25614568705",
+        "NOME": "Rua Doutor Reinaldo Machado, 1332 - Prado Velho",
+        "NUM": "140776",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496524290754",
+        "LON": "-49,222623438782",
+        "NOME": "Rua José Gomes de Melo, 280 - Uberaba",
+        "NUM": "140863",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498661842881",
+        "LON": "-49,218746472387",
+        "NOME": "Rua José Hauer, 278 - Uberaba",
+        "NUM": "140497",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502436767747",
+        "LON": "-49,214666327613",
+        "NOME": "Rua Tenente Antônio Miranda Marquês, 304 - Uberaba",
+        "NUM": "140871",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476582106971",
+        "LON": "-49,241635131283",
+        "NOME": "Rua Canal Belém, 2089 - Guabirotuba",
+        "NUM": "140014",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481194799465",
+        "LON": "-49,237867773718",
+        "NOME": "Rua Canal Belém, 2770 - Guabirotuba",
+        "NUM": "140790",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467748205854",
+        "LON": "-49,248583411045",
+        "NOME": "Rua Canal Belém, 957 - Guabirotuba",
+        "NUM": "140022",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483658448243",
+        "LON": "-49,234993786758",
+        "NOME": "Rua Mário Mendes de Lara, 844 - Uberaba",
+        "NUM": "140106",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484520410733",
+        "LON": "-49,233562828249",
+        "NOME": "Rua Salomão Elias Feder, 293 - Uberaba",
+        "NUM": "140796",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490885667078",
+        "LON": "-49,228076369709",
+        "NOME": "Rua Salomão Elias Feder, 1179 - Uberaba",
+        "NUM": "140803",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496418977537",
+        "LON": "-49,222699881739",
+        "NOME": "Rua José Gomes de Melo, 281 - Uberaba",
+        "NUM": "140862",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499268844076",
+        "LON": "-49,219091457672",
+        "NOME": "Rua José Hauer, 278 - Uberaba",
+        "NUM": "140496",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44586134933",
+        "LON": "-49,258296489716",
+        "NOME": "Rua Baltazar Carrasco dos Reis, 788 - Rebouças",
+        "NUM": "140876",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    }
+]

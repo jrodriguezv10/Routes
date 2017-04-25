@@ -1,0 +1,1132 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,5408",
+        "LON": "-49,29182",
+        "NOME": "Rua Londrina, 963 - Pinheirinho",
+        "NUM": "160041",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53987732841",
+        "LON": "-49,285373061342",
+        "NOME": "Rua Londrina, 289 - Pinheirinho",
+        "NUM": "160251",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477283584848",
+        "LON": "-49,327171953373",
+        "NOME": "Terminal Fazendinha - 545 - Trabalhador",
+        "NUM": "105307",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482763792436",
+        "LON": "-49,326090992636",
+        "NOME": "Avenida Frederico Lambertuci, 394 - Fazendinha",
+        "NUM": "180146",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531166116021",
+        "LON": "-49,325205863661",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1320 - Cidade Industrial",
+        "NUM": "170140",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521696749343",
+        "LON": "-49,239431457672",
+        "NOME": "Rua Maestro Carlos Frank, 2261 - Boqueirão",
+        "NUM": "150030",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527907962279",
+        "LON": "-49,253038163195",
+        "NOME": "Rua Isaac Ferreira da Cruz, 130 - Xaxim",
+        "NUM": "150128",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54031",
+        "LON": "-49,28925",
+        "NOME": "Rua Londrina, 678 - Pinheirinho",
+        "NUM": "160044",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482857011281",
+        "LON": "-49,325954199976",
+        "NOME": "Avenida Frederico Lambertuci, 395 - Fazendinha",
+        "NUM": "180145",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533253124096",
+        "LON": "-49,263633061342",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2155 -Sítio Cercado",
+        "NUM": "160022",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489615790249",
+        "LON": "-49,332801879591",
+        "NOME": "Avenida Frederico Lambertuci, 1301 - Fazendinha",
+        "NUM": "180154",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492325006",
+        "LON": "-49,333900244183",
+        "NOME": "Rua João Alves, 20 - Cidade Industrial",
+        "NUM": "180155",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50778016768",
+        "LON": "-49,334576160854",
+        "NOME": "Rua Artur Martins Franco, 3029 - Cidade Industrial",
+        "NUM": "180168",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52312553975",
+        "LON": "-49,242943760748",
+        "NOME": "Rua Maestro Carlos Frank, 2630 -Boqueirão",
+        "NUM": "150121",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52434305698",
+        "LON": "-49,246039883432",
+        "NOME": "Rua Maestro Carlos Frank, 3002 - Boqueirão",
+        "NUM": "150122",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536498352218",
+        "LON": "-49,273899504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3018 - Sítio Cercado",
+        "NUM": "160025",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54067",
+        "LON": "-49,29191",
+        "NOME": "Rua Londrina, 964 - Pinheirinho",
+        "NUM": "160042",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538179630971",
+        "LON": "-49,294743263316",
+        "NOME": "Rua Nicola Pellanda, 1031 - Pinheirinho",
+        "NUM": "160141",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487352010857",
+        "LON": "-49,330328882879",
+        "NOME": "Avenida Frederico Lambertuci, 1193 - Fazendinha",
+        "NUM": "180152",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489586736666",
+        "LON": "-49,332552434153",
+        "NOME": "Avenida Frederico Lambertuci, 1302 - Fazendinha",
+        "NUM": "180153",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492440007105",
+        "LON": "-49,333790273613",
+        "NOME": "Rua João Alves, 21 - Cidade Industrial",
+        "NUM": "180156",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501875775323",
+        "LON": "-49,334843040651",
+        "NOME": "Rua Artur Martins Franco, 2407 - Cidade Industrial",
+        "NUM": "180164",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505936740553",
+        "LON": "-49,33460164184",
+        "NOME": "Rua Artur Martins Franco, 2811 - Cidade Industrial",
+        "NUM": "180167",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519747836139",
+        "LON": "-49,326423586554",
+        "NOME": "Rua José Rodrigues Pinheiro, 2950 - Capão Raso",
+        "NUM": "170131",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519356748305",
+        "LON": "-49,233373061342",
+        "NOME": "Rua Maestro Carlos Frank, 1547 - Boqueirão",
+        "NUM": "150025",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536796554977",
+        "LON": "-49,274286326389",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3040 - Sítio Cercado",
+        "NUM": "160026",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538441461916",
+        "LON": "-49,278971224537",
+        "NOME": "Rua Pedro Claudino da Rocha, 1 - Sítio Cercado",
+        "NUM": "160051",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484539780605",
+        "LON": "-49,327807606405",
+        "NOME": "Avenida Frederico Lambertuci, 644 - Fazendinha",
+        "NUM": "180147",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487315693193",
+        "LON": "-49,330522001928",
+        "NOME": "Avenida Frederico Lambertuci, 1194 - Fazendinha",
+        "NUM": "180151",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526221353643",
+        "LON": "-49,330535412973",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1635 - Cidade Industrial",
+        "NUM": "170137",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520433241239",
+        "LON": "-49,236332332507",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150028",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495697518994",
+        "LON": "-49,335190386719",
+        "NOME": "Rua Artur Martins Franco, 1641 - Cidade Industrial",
+        "NUM": "180158",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "49",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497524156466",
+        "LON": "-49,335097850508",
+        "NOME": "Rua Artur Martins Franco, 1915 - Cidade Industrial",
+        "NUM": "180159",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499845846449",
+        "LON": "-49,334969104475",
+        "NOME": "Rua Artur Martins Franco, 2196 - Cidade Industrial",
+        "NUM": "180162",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537682100813",
+        "LON": "-49,276909766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4022 -Sítio Cercado",
+        "NUM": "160028",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53958",
+        "LON": "-49,28338",
+        "NOME": "Rua Londrina, 98 - Pinheirinho",
+        "NUM": "160047",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485800026233",
+        "LON": "-49,32904678697",
+        "NOME": "Avenida Frederico Lambertuci, 803 - Fazendinha",
+        "NUM": "180149",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530401300705",
+        "LON": "-49,298724414057",
+        "NOME": "Rua Nicola Pellanda, 40 - Pinheirinho",
+        "NUM": "160439",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "33",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534325908086",
+        "LON": "-49,26782333317",
+        "NOME": "Terminal Sítio Cercado - 545 - Trabalhador - 540 - Boqueirão / Kraft",
+        "NUM": "106114",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53756114281",
+        "LON": "-49,277001953373",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4021 - Sítio Cercado",
+        "NUM": "160027",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54099",
+        "LON": "-49,29395",
+        "NOME": "Rua Londrina, 1154 - Pinheirinho",
+        "NUM": "160040",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516554386786",
+        "LON": "-49,230965976687",
+        "NOME": "Terminal Boqueirão - 545 - Trabalhador / 540 - Boqueirão / Mondelez",
+        "NUM": "104319",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507736593892",
+        "LON": "-49,334494353479",
+        "NOME": "Rua Artur Martins Franco, 3028 -- Cidade Industrial",
+        "NUM": "180169",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519389598016",
+        "LON": "-49,324883998579",
+        "NOME": "Rua José Rodrigues Pinheiro, 2949  - Capão Raso",
+        "NUM": "170132",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517744835608",
+        "LON": "-49,324646623081",
+        "NOME": "Rua João Chede, 3368 - Cidade Industrial",
+        "NUM": "170133",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534708163869",
+        "LON": "-49,317489148325",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12160 - Cidade Industrial",
+        "NUM": "170145",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52038",
+        "LON": "-49,23582",
+        "NOME": "Rua Maestro Carlos Frank, 1806 - Boqueirão",
+        "NUM": "150027",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52276",
+        "LON": "-49,24171",
+        "NOME": "Rua Maestro Carlos Frank, 2507 - Boqueirão",
+        "NUM": "150120",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524780699658",
+        "LON": "-49,246744023314",
+        "NOME": "Rua Maestro Carlos Frank, 2774 - Boqueirão",
+        "NUM": "150123",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525453757136",
+        "LON": "-49,250149650297",
+        "NOME": "Rua Maestro Carlos Frank, 3345 - Boqueirão",
+        "NUM": "150125",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530533122806",
+        "LON": "-49,25601524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 522 - Xaxim",
+        "NUM": "150129",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516554386786",
+        "LON": "-49,230965976687",
+        "NOME": "Terminal Boqueirão - 545 - Trabalhador / 540 - Boqueirão / Mondelez",
+        "NUM": "104319",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "57",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495708413534",
+        "LON": "-49,335303039497",
+        "NOME": "Rua Artur Martins Franco, 1640 - Cidade Industrial",
+        "NUM": "180157",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515064030325",
+        "LON": "-49,328661889977",
+        "NOME": "Rua Des. Cid. Campelo, 3690 - Cidade Industrial",
+        "NUM": "170125",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532951069504",
+        "LON": "-49,32142394895",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1156-1300 - Cidade Industrial",
+        "NUM": "170142",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486030040819",
+        "LON": "-49,329041422552",
+        "NOME": "Avenida Frederico Lambertuci, 802 - Fazendinha",
+        "NUM": "180150",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504090864289",
+        "LON": "-49,33471161241",
+        "NOME": "Rua Artur Martins Franco, 2661 - Cidade Industrial",
+        "NUM": "180166",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528124978167",
+        "LON": "-49,328649820036",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1502 - Cidade Industrial",
+        "NUM": "170138",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534335152878",
+        "LON": "-49,268083819084",
+        "NOME": "Terminal Sítio Cercado - 545 - Trabalhador",
+        "NUM": "106108",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "46",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52172",
+        "LON": "-49,23905",
+        "NOME": "Rua Maestro Carlos Frank, 2260 - Boqueirão",
+        "NUM": "150029",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481216591174",
+        "LON": "-49,324571521229",
+        "NOME": "Avenida Frederico Lambertuci, 149 - Fazendinha",
+        "NUM": "180144",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519727261682",
+        "LON": "-49,328470112032",
+        "NOME": "Rua Vicente Micheloto, 408 - Cidade Industrial",
+        "NUM": "170349",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534772299747",
+        "LON": "-49,317686290688",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12160 - Cidade Industrial",
+        "NUM": "170144",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530332485189",
+        "LON": "-49,25592524785",
+        "NOME": "Rua Isaac Ferreira da Cruz, 533 - Xaxim",
+        "NUM": "150130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531175224574",
+        "LON": "-49,258401224537",
+        "NOME": "Rua Isaac Ferreira da Cruz, 726 - Sítio Cercado",
+        "NUM": "150132",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533043189797",
+        "LON": "-49,263824489584",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2156 - Sítio Cercado",
+        "NUM": "160021",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536919935037",
+        "LON": "-49,313642108035",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 926 -Cidade Industrial",
+        "NUM": "170492",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516484925097",
+        "LON": "-49,326585860199",
+        "NOME": "Rua Des. Cid. Campelo, 3565 - Cidade Industrial",
+        "NUM": "170127",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526064027951",
+        "LON": "-49,330493838734",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1636- Cidade Industrial",
+        "NUM": "170136",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53271872452",
+        "LON": "-49,321552694983",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1158 - Cidade Industrial",
+        "NUM": "170143",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531250956497",
+        "LON": "-49,25813842576",
+        "NOME": "Rua Isaac Ferreira da Cruz, 725 - Sítio Cercado",
+        "NUM": "150131",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539100890603",
+        "LON": "-49,281536588955",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 1 - Sítio Cercado",
+        "NUM": "160049",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504164699885",
+        "LON": "-49,334786714262",
+        "NOME": "Rua Artur Martins Franco, 2660 - Cidade Industrial",
+        "NUM": "180165",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506118300621",
+        "LON": "-49,334671379274",
+        "NOME": "Rua Artur Martins Franco, 2812 - Cidade Industrial",
+        "NUM": "180727",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516598692776",
+        "LON": "-49,326762885994",
+        "NOME": "Rua Des. Cid. Campelo, 3564 - Cidade Industrial",
+        "NUM": "170128",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523540737703",
+        "LON": "-49,333980710453",
+        "NOME": "Rua Vicente Micheloto, 1224 - Cidade Industrial",
+        "NUM": "170134",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528550959939",
+        "LON": "-49,328436584419",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1300 - Cidade Industrial",
+        "NUM": "170139",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524761591547",
+        "LON": "-49,24845317791",
+        "NOME": "Rua Maestro Carlos Frank, 3214 - Boqueirão",
+        "NUM": "150124",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525647897974",
+        "LON": "-49,250570758266",
+        "NOME": "Rua Maestro Carlos Frank, 3452 -Boqueirão",
+        "NUM": "150126",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477283584848",
+        "LON": "-49,327171953373",
+        "NOME": "Terminal Fazendinha - 545 - Trabalhador",
+        "NUM": "105307",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "58",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535028551163",
+        "LON": "-49,295648508858",
+        "NOME": "Rua Nicola Pellanda, 675 - Pinheirinho",
+        "NUM": "160080",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540803047464",
+        "LON": "-49,30885302384",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 164 -Cidade Industrial",
+        "NUM": "170491",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48112700301",
+        "LON": "-49,324255020565",
+        "NOME": "Avenida Frederico Lambertuci, 148 - Fazendinha",
+        "NUM": "180143",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484607575135",
+        "LON": "-49,327666790432",
+        "NOME": "Avenida Frederico Lambertuci, 645 -Fazendinha",
+        "NUM": "180148",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51144030943",
+        "LON": "-49,332883686966",
+        "NOME": "R. Des. Cid. Campelo, 4366 - Cidade Industrial",
+        "NUM": "180170",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515244366284",
+        "LON": "-49,328156293577",
+        "NOME": "Rua Des. Cid. Campelo, 3829 -Cidade Industrial",
+        "NUM": "170126",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527700446571",
+        "LON": "-49,252658892031",
+        "NOME": "Rua Isaac Ferreira da Cruz, 73 - Xaxim",
+        "NUM": "150127",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541109931545",
+        "LON": "-49,293972682209",
+        "NOME": "Rua Londrina, 1155 - Pinheirinho",
+        "NUM": "160039",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54044",
+        "LON": "-49,28929",
+        "NOME": "Rua Londrina, 677 - Pinheirinho",
+        "NUM": "160043",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542013091078",
+        "LON": "-49,310121708703",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "160071",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497710571187",
+        "LON": "-49,335180998987",
+        "NOME": "Rua Artur Martins Franco, 1916 - Cidade Industrial",
+        "NUM": "180160",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499785323297",
+        "LON": "-49,335053594059",
+        "NOME": "Rua Artur Martins Franco, 2197 - Cidade Industrial",
+        "NUM": "180161",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501873354439",
+        "LON": "-49,334922165817",
+        "NOME": "Rua Artur Martins Franco, 2408 - Cidade Industrial",
+        "NUM": "180163",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519358276447",
+        "LON": "-49,233795860119",
+        "NOME": "Rua Maestro Carlos Frank, 1548 - Boqueirão",
+        "NUM": "150026",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53978",
+        "LON": "-49,28558",
+        "NOME": "Rua Londrina, 288 - Pinheirinho",
+        "NUM": "160250",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53951",
+        "LON": "-49,2835",
+        "NOME": "Rua Londrina, 97 - Pinheirinho",
+        "NUM": "160249",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539035343666",
+        "LON": "-49,281649038029",
+        "NOME": "Rua Prof. Amália Elza Gasparoto Dona, 2 - Sítio Cercado",
+        "NUM": "160050",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538361597035",
+        "LON": "-49,27913892383",
+        "NOME": "Rua Pedro Claudino da Rocha, 3 - Sítio Cercado",
+        "NUM": "160052",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520337232347",
+        "LON": "-49,328635067886",
+        "NOME": "Rua Vicente Micheloto, 1799 -Cidade Industrial",
+        "NUM": "170130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523796094669",
+        "LON": "-49,33374467606",
+        "NOME": "Rua Vicente Micheloto, 2375 - Cidade Industrial",
+        "NUM": "170135",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531016057704",
+        "LON": "-49,325090528673",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1330 - Cidade Industrial",
+        "NUM": "170141",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    }
+]

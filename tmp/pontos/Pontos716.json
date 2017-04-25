@@ -1,0 +1,992 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479606898432",
+        "LON": "-49,355284027782",
+        "NOME": "Rua Lodovico Kaminski, 2412 - Cidade Industrial",
+        "NUM": "180325",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "30",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490052604285",
+        "LON": "-49,358347828836",
+        "NOME": "Rua Jan Frederik de Jager, 220 - Cidade Industrial",
+        "NUM": "180333",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488352204003",
+        "LON": "-49,354782111144",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180331",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478359905352",
+        "LON": "-49,35667877647",
+        "NOME": "Rua Lodovico Kaminski, 2329 - Cidade Industrial",
+        "NUM": "180326",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489990105608",
+        "LON": "-49,35627744267",
+        "NOME": "Rua Jan Frederik de Jager, 2 - Cidade Industrial",
+        "NUM": "180802",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485450644152",
+        "LON": "-49,354487411705",
+        "NOME": "Rua Atílio Viceli, 56 - Cidade Industrial",
+        "NUM": "180562",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478359905352",
+        "LON": "-49,35667877647",
+        "NOME": "Rua Lodovico Kaminski, 2329 - Cidade Industrial",
+        "NUM": "180326",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490067581554",
+        "LON": "-49,356339133478",
+        "NOME": "Rua Jan Frederik de Jager, 51 - Cidade Industrial",
+        "NUM": "180332",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489990105608",
+        "LON": "-49,35627744267",
+        "NOME": "Rua Jan Frederik de Jager, 2 - Cidade Industrial",
+        "NUM": "180802",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490052604285",
+        "LON": "-49,358347828836",
+        "NOME": "Rua Jan Frederik de Jager, 220 - Cidade Industrial",
+        "NUM": "180333",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490067581554",
+        "LON": "-49,356339133478",
+        "NOME": "Rua Jan Frederik de Jager, 51 - Cidade Industrial",
+        "NUM": "180332",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "18",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490052604285",
+        "LON": "-49,358347828836",
+        "NOME": "Rua Jan Frederik de Jager, 220 - Cidade Industrial",
+        "NUM": "180333",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483583897548",
+        "LON": "-49,350353148479",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa (Bela Vista)",
+        "NUM": "105005",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48309962088",
+        "LON": "-49,353476218906",
+        "NOME": "Rua Lauro Grein, 224 - Cidade Industrial",
+        "NUM": "180455",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488352204003",
+        "LON": "-49,354782111144",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180331",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48309962088",
+        "LON": "-49,353476218906",
+        "NOME": "Rua Lauro Grein, 224 - Cidade Industrial",
+        "NUM": "180455",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475792027412",
+        "LON": "-49,359086059061",
+        "NOME": "Rua Lodovico Kaminski, 1830 - Cidade Industrial",
+        "NUM": "180328",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473299016835",
+        "LON": "-49,360687807202",
+        "NOME": "Rua José Picussa, 33 - Cidade Industrial",
+        "NUM": "181019",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477680712419",
+        "LON": "-49,359339527813",
+        "NOME": "Rua Lodovico Kaminski, 2052 - Cidade Industrial",
+        "NUM": "180327",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483583897548",
+        "LON": "-49,350353148479",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa (Bela Vista)",
+        "NUM": "105005",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48147252121",
+        "LON": "-49,353143624988",
+        "NOME": "Rua Lodovico Kaminski, 2834 - Cidade Industrial",
+        "NUM": "180433",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485450644152",
+        "LON": "-49,354487411705",
+        "NOME": "Rua Atílio Viceli, 56 - Cidade Industrial",
+        "NUM": "180562",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479606898432",
+        "LON": "-49,355284027782",
+        "NOME": "Rua Lodovico Kaminski, 2412 - Cidade Industrial",
+        "NUM": "180325",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478359905352",
+        "LON": "-49,35667877647",
+        "NOME": "Rua Lodovico Kaminski, 2329 - Cidade Industrial",
+        "NUM": "180326",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489990105608",
+        "LON": "-49,35627744267",
+        "NOME": "Rua Jan Frederik de Jager, 2 - Cidade Industrial",
+        "NUM": "180802",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479606898432",
+        "LON": "-49,355284027782",
+        "NOME": "Rua Lodovico Kaminski, 2412 - Cidade Industrial",
+        "NUM": "180325",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475792027412",
+        "LON": "-49,359086059061",
+        "NOME": "Rua Lodovico Kaminski, 1830 - Cidade Industrial",
+        "NUM": "180328",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477680712419",
+        "LON": "-49,359339527813",
+        "NOME": "Rua Lodovico Kaminski, 2052 - Cidade Industrial",
+        "NUM": "180327",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488301359693",
+        "LON": "-49,354850507474",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180803",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48147252121",
+        "LON": "-49,353143624988",
+        "NOME": "Rua Lodovico Kaminski, 2834 - Cidade Industrial",
+        "NUM": "180433",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477680712419",
+        "LON": "-49,359339527813",
+        "NOME": "Rua Lodovico Kaminski, 2052 - Cidade Industrial",
+        "NUM": "180327",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488301359693",
+        "LON": "-49,354850507474",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180803",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490067581554",
+        "LON": "-49,356339133478",
+        "NOME": "Rua Jan Frederik de Jager, 51 - Cidade Industrial",
+        "NUM": "180332",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473299016835",
+        "LON": "-49,360687807202",
+        "NOME": "Rua José Picussa, 33 - Cidade Industrial",
+        "NUM": "181019",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48309962088",
+        "LON": "-49,353476218906",
+        "NOME": "Rua Lauro Grein, 224 - Cidade Industrial",
+        "NUM": "180455",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475792027412",
+        "LON": "-49,359086059061",
+        "NOME": "Rua Lodovico Kaminski, 1830 - Cidade Industrial",
+        "NUM": "180328",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488301359693",
+        "LON": "-49,354850507474",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180803",
+        "SENTIDO": "Frigorífico / Caiuá / Bela Vista",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485450644152",
+        "LON": "-49,354487411705",
+        "NOME": "Rua Atílio Viceli, 56 - Cidade Industrial",
+        "NUM": "180562",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Frigorifico / Caiuá / Bela Vista",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48147252121",
+        "LON": "-49,353143624988",
+        "NOME": "Rua Lodovico Kaminski, 2834 - Cidade Industrial",
+        "NUM": "180433",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488352204003",
+        "LON": "-49,354782111144",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180331",
+        "SENTIDO": "Fórum/B. Vista - Circular",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    }
+]

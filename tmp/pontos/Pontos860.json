@@ -1,0 +1,832 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,440284802082",
+        "LON": "-49,277851463503",
+        "NOME": "Av. Visc. de Guarapuava, 2302 - Centro",
+        "NUM": "110090",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445918608",
+        "LON": "-49,347224782494",
+        "NOME": "Rua Eduardo Sprada, 4266 - Campo Comprido",
+        "NUM": "180226",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464068664938",
+        "LON": "-49,340141704299",
+        "NOME": "Rua Elzira Alves Lourenço, 25 - Cidade Industrial",
+        "NUM": "180567",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438175113121",
+        "LON": "-49,277019978708",
+        "NOME": "Rua Doutor Pedrosa, 299- Centro",
+        "NUM": "110400",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450875076021",
+        "LON": "-49,315331311172",
+        "NOME": "Rua Eduardo Sprada, 81 - Campo Comprido",
+        "NUM": "180586",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440213349386",
+        "LON": "-49,281829179472",
+        "NOME": "Rua Benjamin Lins, 134 -  Batel",
+        "NUM": "180958",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449797396536",
+        "LON": "-49,326999585417",
+        "NOME": "Rua Eduardo Sprada, 1658 - Campo Comprido",
+        "NUM": "180667",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44919312268",
+        "LON": "-49,351521681336",
+        "NOME": "Rua Eduardo Sprada, 4901 - Cidade Industrial",
+        "NUM": "180222",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455608685041",
+        "LON": "-49,348111252574",
+        "NOME": "Rua João Dembinski, 701 - Cidade Industrial",
+        "NUM": "180214",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458196367949",
+        "LON": "-49,346719186095",
+        "NOME": "Rua João Dembinski, 1119 - Cidade Industrial",
+        "NUM": "180178",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464094430211",
+        "LON": "-49,343074064044",
+        "NOME": "Rua Chapecó, 32 - Cidade Industrial",
+        "NUM": "180565",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449328675569",
+        "LON": "-49,31802022571",
+        "NOME": "Rua Eduardo Sprada, 331- Campo Comprido",
+        "NUM": "180588",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450029825926",
+        "LON": "-49,299209893889",
+        "NOME": "Av. Sete de Setembro, 6311 - Seminário",
+        "NUM": "180722",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449305743087",
+        "LON": "-49,326074223307",
+        "NOME": "Rua Eduardo Sprada, 1408 - Campo Comprido",
+        "NUM": "180721",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448747483905",
+        "LON": "-49,332565169123",
+        "NOME": "Rua Eduardo Sprada, 2374 - Campo Comprido",
+        "NUM": "180543",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439296738155",
+        "LON": "-49,279780403705",
+        "NOME": "Rua Benjamin Lins, 25 - Batel",
+        "NUM": "180072",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449418287414",
+        "LON": "-49,317970604843",
+        "NOME": "Rua Eduardo Sprada, 332 - Campo Comprido",
+        "NUM": "180594",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448389034129",
+        "LON": "-49,334804813651",
+        "NOME": "Rua Eduardo Sprada, 2738 - Campo Comprido",
+        "NUM": "180544",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450717651668",
+        "LON": "-49,315588803238",
+        "NOME": "Rua Eduardo Sprada, 80 -  Campo Comprido",
+        "NUM": "180471",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449681067709",
+        "LON": "-49,313371957487",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1450- Seminário",
+        "NUM": "180473",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443247023981",
+        "LON": "-49,285362989849",
+        "NOME": "Av. Visc. de Guarapuava, 3118 - Batel",
+        "NUM": "180885",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444228776465",
+        "LON": "-49,344030947632",
+        "NOME": "Rua Eduardo Sprada, 3958 - Campo Comprido",
+        "NUM": "180228",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451472151712",
+        "LON": "-49,324471603421",
+        "NOME": "Rua Eduardo Sprada, 1305 - Campo Comprido",
+        "NUM": "180665",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449958454988",
+        "LON": "-49,351573984412",
+        "NOME": "Rua João Dembinski, 74 - Cidade Industrial",
+        "NUM": "180221",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451351056674",
+        "LON": "-49,350813578156",
+        "NOME": "Rua João Dembinski, 150 - Cidade Industrial",
+        "NUM": "180220",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464159814623",
+        "LON": "-49,343048583058",
+        "NOME": "Rua Chapecó, 33 - Cidade Industrial",
+        "NUM": "180718",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "39",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441566099155",
+        "LON": "-49,285130978769",
+        "NOME": "Av. do Batel, 1190 - Batel",
+        "NUM": "180069",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449432819058",
+        "LON": "-49,30559221024",
+        "NOME": "Av. Nossa Senhora Aparecida, 779 - Seminário",
+        "NUM": "180662",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449970488661",
+        "LON": "-49,313539595551",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1449- Seminário",
+        "NUM": "180472",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450745049082",
+        "LON": "-49,319559813684",
+        "NOME": "Rua Eduardo Sprada, 640 -  Campo Comprido",
+        "NUM": "180661",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44936629165",
+        "LON": "-49,332553099183",
+        "NOME": "Rua Eduardo Sprada, 2297 - Campo Comprido",
+        "NUM": "180541",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446312184184",
+        "LON": "-49,336257229832",
+        "NOME": "Rua Eduardo Sprada, 3031 - Campo Comprido",
+        "NUM": "180547",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445601324109",
+        "LON": "-49,346307467011",
+        "NOME": "Rua Eduardo Sprada, 4300 - Campo Comprido",
+        "NUM": "180225",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447681819278",
+        "LON": "-49,349527458933",
+        "NOME": "Rua Eduardo Sprada, 4651 - Cidade Industrial",
+        "NUM": "180223",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464533958074",
+        "LON": "-49,341751734999",
+        "NOME": "Rua Araranguá, 320 - Cidade Industrial",
+        "NUM": "180566",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449309300026",
+        "LON": "-49,302755774206",
+        "NOME": "Av. Nossa Senhora Aparecida, 334 - Seminário",
+        "NUM": "180470",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447480719143",
+        "LON": "-49,310633422083",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1080- Seminário",
+        "NUM": "180583",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446172918912",
+        "LON": "-49,336335013894",
+        "NOME": "Rua Eduardo Sprada, 3032- Campo Comprido",
+        "NUM": "180546",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445236809904",
+        "LON": "-49,338655124692",
+        "NOME": "Rua Eduardo Sprada, 3237- Campo Comprido",
+        "NUM": "180549",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448254539211",
+        "LON": "-49,307778210587",
+        "NOME": "Avenida Nossa Senhora Aparecida, 785- Seminário",
+        "NUM": "180589",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451180312464",
+        "LON": "-49,350723724154",
+        "NOME": "Rua João Dembinski, 149 - Cidade Industrial",
+        "NUM": "180219",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459847999826",
+        "LON": "-49,345226536778",
+        "NOME": "Rua João Dembinski, 700 - Cidade Industrial",
+        "NUM": "180176",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439232384366",
+        "LON": "-49,275182665533",
+        "NOME": "Av. Visc. de Guarapuava, 2022 - Centro",
+        "NUM": "110089",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449025932357",
+        "LON": "-49,296590716786",
+        "NOME": "Av. Sete de Setembro, 6001 - Seminário",
+        "NUM": "180723",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442672993214",
+        "LON": "-49,288137735075",
+        "NOME": "Av. do Batel, 1614 - Batel",
+        "NUM": "180067",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449346840137",
+        "LON": "-49,299661846107",
+        "NOME": "Av. Nossa Senhora Aparecida, 83 - Seminário",
+        "NUM": "180660",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44754732357",
+        "LON": "-49,310555638021",
+        "NOME": "Avenida Nossa Senhora Aparecida, 1081- Seminário",
+        "NUM": "180474",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450660282056",
+        "LON": "-49,319675148672",
+        "NOME": "Rua Eduardo Sprada, 641 -  Campo Comprido",
+        "NUM": "180587",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4478500705",
+        "LON": "-49,293519587464",
+        "NOME": "Av. Sete de Setembro, 6001 - Batel",
+        "NUM": "180724",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444091186648",
+        "LON": "-49,340947072295",
+        "NOME": "Rua Eduardo Sprada, 3613 - Campo Comprido",
+        "NUM": "180720",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462757674447",
+        "LON": "-49,345736156491",
+        "NOME": "R. João Dembinski, 1532 - Cidade Industrial",
+        "NUM": "180175",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464687731906",
+        "LON": "-49,344885896233",
+        "NOME": "Rua Chapecó, 228- Cidade Industrial",
+        "NUM": "180719",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "38",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464575125891",
+        "LON": "-49,3417222307",
+        "NOME": "Rua Araranguá, 321 - Cidade Industrial",
+        "NUM": "180717",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "40",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444553455532",
+        "LON": "-49,28864300251",
+        "NOME": "Av. Visc. de Guarapuava, 5000 - Batel",
+        "NUM": "181004",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444335737269",
+        "LON": "-49,291263849682",
+        "NOME": "Rua Gonçalves Dias, 11 - Batel",
+        "NUM": "180064",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446974524295",
+        "LON": "-49,295025647825",
+        "NOME": "Rua Gonçalves Dias, 509  - Batel",
+        "NUM": "180063",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44812375307",
+        "LON": "-49,296893806404",
+        "NOME": "Rua Gonçalves Dias, 655 - Batel",
+        "NUM": "180062",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449521219856",
+        "LON": "-49,301673502869",
+        "NOME": "Av. Nossa Senhora Aparecida, 305 - Seminário",
+        "NUM": "180560",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449492156587",
+        "LON": "-49,303560436911",
+        "NOME": "Avenida Nossa Senhora Aparecida, 336 -  Seminário",
+        "NUM": "180663",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451460042214",
+        "LON": "-49,324640582588",
+        "NOME": "Rua Eduardo Sprada, 1304 - Campo Comprido",
+        "NUM": "180666",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449872476443",
+        "LON": "-49,329679112224",
+        "NOME": "Rua Eduardo Sprada, 1989- Campo Comprido",
+        "NUM": "180668",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444244986598",
+        "LON": "-49,340635936049",
+        "NOME": "Rua Eduardo Sprada, 3611 - Campo Comprido",
+        "NUM": "180550",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447663578481",
+        "LON": "-49,308270395941",
+        "NOME": "Avenida Nossa Senhora Aparecida, 786- Seminário",
+        "NUM": "180590",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449426840182",
+        "LON": "-49,330081443576",
+        "NOME": "Rua Eduardo Sprada, 1990 - Campo Comprido",
+        "NUM": "180669",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448196488031",
+        "LON": "-49,334690819768",
+        "NOME": "Rua Eduardo Sprada, 2739 - Campo Comprido",
+        "NUM": "180545",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455783055689",
+        "LON": "-49,348103205947",
+        "NOME": "Rua João Dembinski, 802 - Cidade Industrial",
+        "NUM": "180215",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46031297128",
+        "LON": "-49,345227877883",
+        "NOME": "Rua João Dembinski, 1352 - Cidade Industrial",
+        "NUM": "180177",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445643368017",
+        "LON": "-49,291437864304",
+        "NOME": "Av. Visc. de Guarapuava, 5332 - Batel",
+        "NUM": "180725",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452609908541",
+        "LON": "-49,322724820322",
+        "NOME": "Rua Eduardo Sprada, 1083 - Campo Comprido",
+        "NUM": "180595",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463116081435",
+        "LON": "-49,345543037442",
+        "NOME": "R. João Dembinski, 1597 - Cidade Industrial",
+        "NUM": "180174",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464601763882",
+        "LON": "-49,344926129368",
+        "NOME": "Rua Chapecó, 229 - Cidade Industrial",
+        "NUM": "180564",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464068664938",
+        "LON": "-49,340141704299",
+        "NOME": "Rua Elzira Alves Lourenço, 25 - Cidade Industrial",
+        "NUM": "180567",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449168827248",
+        "LON": "-49,306097806639",
+        "NOME": "Av. Nossa Senhora Aparecida, 778 - Seminário",
+        "NUM": "180584",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452527564707",
+        "LON": "-49,322748960203",
+        "NOME": "Rua Eduardo Sprada, 1082 -  Campo Comprido",
+        "NUM": "180585",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441524923468",
+        "LON": "-49,281029881186",
+        "NOME": "Av. Visc. de Guarapuava, 2616 - Batel",
+        "NUM": "180469",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447061791882",
+        "LON": "-49,348944078473",
+        "NOME": "Rua Eduardo Sprada, 4520 - Cidade Industrial",
+        "NUM": "180224",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453772934281",
+        "LON": "-49,349015157012",
+        "NOME": "Rua João Dembinski, 542 - Cidade Industrial",
+        "NUM": "180217",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458001415769",
+        "LON": "-49,347134928492",
+        "NOME": "Rua João Dembinski, 1340 - Cidade Industrial",
+        "NUM": "180179",
+        "SENTIDO": "V. Sandra",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444503678285",
+        "LON": "-49,344249547666",
+        "NOME": "Rua Eduardo Sprada, 3999 - Campo Comprido",
+        "NUM": "180227",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445354278057",
+        "LON": "-49,338213901309",
+        "NOME": "Rua Eduardo Sprada, 3238 - Campo Comprido",
+        "NUM": "180548",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453787465399",
+        "LON": "-49,348903845338",
+        "NOME": "Rua João Dembinski, 541 - Cidade Industrial",
+        "NUM": "180216",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    }
+]

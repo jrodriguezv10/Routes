@@ -1,0 +1,612 @@
+[
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41909",
+        "LAT": "-25,43249623228",
+        "LON": "-49,265448074947",
+        "NOME": "Terminal Guadalupe - 505-Boqueirão / Centro Cívico-507-Sítio Cercado (H)",
+        "NUM": "109027",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492386893782",
+        "LON": "-49,293011014785",
+        "NOME": "Terminal Capão Raso - 507 - Sítio Cercado(H) - 610-S.Cercado / C.Raso",
+        "NUM": "109097",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51216481452",
+        "LON": "-49,294520978617",
+        "NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horário)",
+        "NUM": "105707",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492386893782",
+        "LON": "-49,293011014785",
+        "NOME": "Terminal Capão Raso - 507 - Sítio Cercado(H) - 610-S.Cercado / C.Raso",
+        "NUM": "109097",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Horário",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51216481452",
+        "LON": "-49,294520978617",
+        "NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horário)",
+        "NUM": "105707",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Horário",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Horário",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492386893782",
+        "LON": "-49,293011014785",
+        "NOME": "Terminal Capão Raso - 507 - Sítio Cercado(H) - 610-S.Cercado / C.Raso",
+        "NUM": "109097",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51216481452",
+        "LON": "-49,294520978617",
+        "NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horário)",
+        "NUM": "105707",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "25427",
+        "LAT": "-25,433655433387",
+        "LON": "-49,263477908598",
+        "NOME": "Estação Tubo Guadalupe",
+        "NUM": "109030",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Horário",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Horário",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Horário",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41909",
+        "LAT": "-25,43249623228",
+        "LON": "-49,265448074947",
+        "NOME": "Terminal Guadalupe - 505-Boqueirão / Centro Cívico-507-Sítio Cercado (H)",
+        "NUM": "109027",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51216481452",
+        "LON": "-49,294520978617",
+        "NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horário)",
+        "NUM": "105707",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Horário",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Horário",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492386893782",
+        "LON": "-49,293011014785",
+        "NOME": "Terminal Capão Raso - 507 - Sítio Cercado(H) - 610-S.Cercado / C.Raso",
+        "NUM": "109097",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41909",
+        "LAT": "-25,43249623228",
+        "LON": "-49,265448074947",
+        "NOME": "Terminal Guadalupe - 505-Boqueirão / Centro Cívico-507-Sítio Cercado (H)",
+        "NUM": "109027",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500857171801",
+        "LON": "-49,237654831903",
+        "NOME": "Terminal Carmo - 505 - Boqueirão/C. Cívico / 507 - Sitio Cercado (H)",
+        "NUM": "109106",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Horário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41909",
+        "LAT": "-25,43249623228",
+        "LON": "-49,265448074947",
+        "NOME": "Terminal Guadalupe - 505-Boqueirão / Centro Cívico-507-Sítio Cercado (H)",
+        "NUM": "109027",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14555",
+        "LAT": "-25,448161149017",
+        "LON": "-49,258066825944",
+        "NOME": "Estação Tubo Paiol",
+        "NUM": "109039",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26127",
+        "LAT": "-25,443506463375",
+        "LON": "-49,268243834793",
+        "NOME": "Estação Tubo Westphalen / Getúlio Vargas",
+        "NUM": "109074",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Horário",
+        "SEQ": "13",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534079003482",
+        "LON": "-49,267110219499",
+        "NOME": "Terminal Sítio Cercado - 507 - Sítio Cercado (Horário)",
+        "NUM": "109113",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492386893782",
+        "LON": "-49,293011014785",
+        "NOME": "Terminal Capão Raso - 507 - Sítio Cercado(H) - 610-S.Cercado / C.Raso",
+        "NUM": "109097",
+        "SENTIDO": "Horário",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51216481452",
+        "LON": "-49,294520978617",
+        "NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horário)",
+        "NUM": "105707",
+        "SENTIDO": "Horário",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26147",
+        "LAT": "-25,449737563135",
+        "LON": "-49,284600353044",
+        "NOME": "Estação Tubo Água Verde / Getúlio Vargas",
+        "NUM": "109002",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41905",
+        "LAT": "-25,524822749335",
+        "LON": "-49,247543989706",
+        "NOME": "Estação Tubo Alto Boqueirão",
+        "NUM": "109006",
+        "SENTIDO": "Terminal Guadalupe",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41907",
+        "LAT": "-25,535641637299",
+        "LON": "-49,284699865867",
+        "NOME": "Estação Tubo Xapinhal",
+        "NUM": "109076",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516446747014",
+        "LON": "-49,23098317791",
+        "NOME": "Terminal Boqueirão - 507-Sítio Cercado(Horário)/546 - S.Cercado/Boqueirão",
+        "NUM": "109102",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41909",
+        "LAT": "-25,43249623228",
+        "LON": "-49,265448074947",
+        "NOME": "Terminal Guadalupe - 505-Boqueirão / Centro Cívico-507-Sítio Cercado (H)",
+        "NUM": "109027",
+        "SENTIDO": "Horário",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    }
+]

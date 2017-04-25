@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,46914",
+        "LON": "-49,20388",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140647",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48686041611",
+        "LON": "-49,198457696924",
+        "NOME": "Rua Feliciano Tomelim, 114 - Uberaba",
+        "NUM": "140424",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48733031529",
+        "LON": "-49,199901224537",
+        "NOME": "Rua Odenir Dissenha, 736 - Uberaba",
+        "NUM": "140697",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469070783634",
+        "LON": "-49,207805876274",
+        "NOME": "Terminal Centenário - 336 - Vila Reno",
+        "NUM": "105109",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468786950859",
+        "LON": "-49,196999504299",
+        "NOME": "Rua Luís Visinoni, 124 - Cajuru",
+        "NUM": "140686",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478820410118",
+        "LON": "-49,198904635582",
+        "NOME": "Rua Alfredo Barcik, 185 - Cajuru",
+        "NUM": "140690",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488993051992",
+        "LON": "-49,200056705523",
+        "NOME": "Rua Helena Carcereri Piekarski, 176 - Uberaba",
+        "NUM": "140699",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49646",
+        "LON": "-49,20242",
+        "NOME": "Estrada Engenheiro Blei - Uberaba",
+        "NUM": "140428",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14483",
+        "LAT": "-25,469070783634",
+        "LON": "-49,207805876274",
+        "NOME": "Terminal Centenário - 336 - Vila Reno",
+        "NUM": "105109",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469461524619",
+        "LON": "-49,205732565641",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 569 - Cajuru",
+        "NUM": "140227",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474162130311",
+        "LON": "-49,197865101852",
+        "NOME": "Rua Luís Visinoni, 658 - Cajuru",
+        "NUM": "140689",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47562488951",
+        "LON": "-49,197153294478",
+        "NOME": "Rua Alfredo Barcik, 409 - Cajuru",
+        "NUM": "140414",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48300595493",
+        "LON": "-49,19800475215",
+        "NOME": "Rua Odenir Dissenha, 216 - Jardim das Américas",
+        "NUM": "140420",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49166",
+        "LON": "-49,20084",
+        "NOME": "Rua Professor Toshiaki Saito, 909 - Uberaba",
+        "NUM": "140740",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467446676849",
+        "LON": "-49,198470669002",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140376",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471263094734",
+        "LON": "-49,197247550926",
+        "NOME": "Rua Luís Visinoni, 451 - Cajuru",
+        "NUM": "140412",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485709469757",
+        "LON": "-49,197269387732",
+        "NOME": "Rua Vicente de Cristo, 300 - Uberaba",
+        "NUM": "140422",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469009161939",
+        "LON": "-49,203829567134",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 756 - Cajuru",
+        "NUM": "140226",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49646",
+        "LON": "-49,20242",
+        "NOME": "Estrada Engenheiro Blei - Uberaba",
+        "NUM": "140428",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46962",
+        "LON": "-49,20589",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 570 - Cajuru",
+        "NUM": "140228",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480604000508",
+        "LON": "-49,198122800535",
+        "NOME": "Marginal Rodovia Br 277, 6089 - Uberaba",
+        "NUM": "140418",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48513",
+        "LON": "-49,19865",
+        "NOME": "Rua Vicente de Cristo, 100 - Uberaba",
+        "NUM": "140693",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491626368363",
+        "LON": "-49,200741107969",
+        "NOME": "Rua Professor Toshiaki Saito, 909 - Uberaba",
+        "NUM": "140426",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474159708869",
+        "LON": "-49,197757142939",
+        "NOME": "Rua Luís Visinoni, 658 - Cajuru",
+        "NUM": "140413",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471360628007",
+        "LON": "-49,197338163195",
+        "NOME": "Rua Luís Visinoni, 451 - Cajuru",
+        "NUM": "140688",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48134",
+        "LON": "-49,19729",
+        "NOME": "Rua Odenir Dissenha - Jardim das Américas",
+        "NUM": "140691",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48581853923",
+        "LON": "-49,197237580357",
+        "NOME": "Rua Vicente de Cristo, 300 - Uberaba",
+        "NUM": "140694",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482980895694",
+        "LON": "-49,197908542328",
+        "NOME": "Rua Odenir Dissenha, 216 - Jardim das Américas",
+        "NUM": "140421",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487224577615",
+        "LON": "-49,197028309193",
+        "NOME": "Rua Luís Venâncio, 42 - Uberaba",
+        "NUM": "140423",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48691973518",
+        "LON": "-49,198500262566",
+        "NOME": "Rua Feliciano Tomelim, 107 - Uberaba",
+        "NUM": "140696",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48738",
+        "LON": "-49,19985",
+        "NOME": "Rua Odenir Dissenha - Uberaba",
+        "NUM": "140698",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467723882337",
+        "LON": "-49,19849188643",
+        "NOME": "Rua Leonardo Novicki, 8 - Cajuru",
+        "NUM": "140375",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468698161648",
+        "LON": "-49,201938046627",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140225",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485245072344",
+        "LON": "-49,198486208668",
+        "NOME": "Rua Vicente de Cristo, 100 - Uberaba",
+        "NUM": "140692",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487233039931",
+        "LON": "-49,197109766865",
+        "NOME": "Rua Luís Venâncio, 42 - Uberaba",
+        "NUM": "140695",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494055420946",
+        "LON": "-49,201973790178",
+        "NOME": "Rua Helena Carcereri Piekarski, 733",
+        "NUM": "140741",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47874683898",
+        "LON": "-49,198720933146",
+        "NOME": "Rua Alfredo Barcik, 185 - Cajuru",
+        "NUM": "140416",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489000315424",
+        "LON": "-49,199951836805",
+        "NOME": "Rua Helena Carcereri Piekarski, 176 - Uberaba",
+        "NUM": "140425",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494053315733",
+        "LON": "-49,201886472387",
+        "NOME": "Rua Helena Carcereri Piekarski, 733",
+        "NUM": "140427",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480550992565",
+        "LON": "-49,198498046627",
+        "NOME": "Marginal Rodovia Br 277, 6089 - Uberaba",
+        "NUM": "140417",
+        "SENTIDO": "Vila Reno",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46853",
+        "LON": "-49,20197",
+        "NOME": "Rua Engenheiro Benedito Mário da Silva, 1031 - Cajuru",
+        "NUM": "140224",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468601702058",
+        "LON": "-49,196900262566",
+        "NOME": "Rua Luís Visinoni, 124 - Cajuru",
+        "NUM": "140411",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476043678931",
+        "LON": "-49,197267434359",
+        "NOME": "Rua Alfredo Barcik, 477 - Cajuru",
+        "NUM": "140415",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481371791681",
+        "LON": "-49,197216472387",
+        "NOME": "Rua Odenir Dissenha - Jardim das Américas",
+        "NUM": "140419",
+        "SENTIDO": "Terminal Centenário",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    }
+]

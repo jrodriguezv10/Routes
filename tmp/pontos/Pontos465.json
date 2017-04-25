@@ -1,0 +1,312 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4533969",
+        "LON": "-49,2399949",
+        "NOME": "Rua Doutor Ovande do Amaral, 81 - Jardim das Américas",
+        "NUM": "140603",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4533969",
+        "LON": "-49,2399949",
+        "NOME": "Rua Doutor Ovande do Amaral, 81 - Jardim das Américas",
+        "NUM": "140603",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450075272074",
+        "LON": "-49,241267473644",
+        "NOME": "Rua Aquelino Orestes Baglioli,  426 - Jardim Botânico",
+        "NUM": "140605",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43591",
+        "LON": "-49,26173",
+        "NOME": "Av. Sete de Setembro, 2331 - Centro",
+        "NUM": "110156",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449922050056",
+        "LON": "-49,245671660847",
+        "NOME": "Av. Comendador Franco, 1731 - Jardim Botanico",
+        "NUM": "140535",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451281385994",
+        "LON": "-49,241408289618",
+        "NOME": "Rua Dr. Salvador de Maio, 83 - Jardim Botânico",
+        "NUM": "140604",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442749288599",
+        "LON": "-49,250900627321",
+        "NOME": "Av. Comendador Franco, 648 - Jardim Botanico",
+        "NUM": "140533",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448992025069",
+        "LON": "-49,24636903519",
+        "NOME": "Av. Comendador Franco, 1432 - Jardim Botanico",
+        "NUM": "140934",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434871188651",
+        "LON": "-49,272738010698",
+        "NOME": "Praça Rui Barbosa - 465 - Erasto Gaetner",
+        "NUM": "102039",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444571886237",
+        "LON": "-49,24917462582",
+        "NOME": "Av. Comendador Franco - Jardim Botânico",
+        "NUM": "110068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449879375454",
+        "LON": "-49,244520290842",
+        "NOME": "Rua Professor Luiz Carlos Pereira da Silva - Jardim Botânico",
+        "NUM": "140283",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45143",
+        "LON": "-49,24045",
+        "NOME": "Rua Prof. Luiz C. P. da Silva,  176 - Jardim Botânico",
+        "NUM": "140284",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456108713097",
+        "LON": "-49,238091738171",
+        "NOME": "Rua Doutor Ovande do Amaral, 357- Jardim das Américas",
+        "NUM": "140679",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441466222538",
+        "LON": "-49,258628071493",
+        "NOME": "Rua Engenheiros Rebouças, 1299 - Rebouças",
+        "NUM": "110174",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434871188651",
+        "LON": "-49,272738010698",
+        "NOME": "Praça Rui Barbosa - 465 - Erasto Gaetner",
+        "NUM": "102039",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458339175983",
+        "LON": "-49,23772561664",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 970 - Jardim das Américas",
+        "NUM": "140281",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447490407062",
+        "LON": "-49,247046292967",
+        "NOME": "Av. Comendador Franco, 1327 - Uberaba",
+        "NUM": "140933",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439827660205",
+        "LON": "-49,254353971428",
+        "NOME": "Rua Engenheiros Rebouças, 858 - Jardim Botanico",
+        "NUM": "110172",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433734353726",
+        "LON": "-49,265016423912",
+        "NOME": "Rua João Negrão, 510 - Centro",
+        "NUM": "110155",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445345724999",
+        "LON": "-49,249029786533",
+        "NOME": "Av. Comendador Franco, 1127 - Prado Velho",
+        "NUM": "140534",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457491556521",
+        "LON": "-49,240179837889",
+        "NOME": "Av. Comendador Franco, 2730 -  Jardim das Américas",
+        "NUM": "140279",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449814914572",
+        "LON": "-49,244538427538",
+        "NOME": "Rua Professor Luiz Carlos Pereira da Silva - Jardim Botânico",
+        "NUM": "140756",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440844952082",
+        "LON": "-49,257091165728",
+        "NOME": "Rua Engenheiros Rebouças, 1296 - Rebouças",
+        "NUM": "110173",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43661",
+        "LON": "-49,26094",
+        "NOME": "Rua Tibagi, 960 - Rebouças",
+        "NUM": "110040",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447805264002",
+        "LON": "-49,247227342075",
+        "NOME": "Av. Comendador Franco, 1344 - Jardim Botanico",
+        "NUM": "140992",
+        "SENTIDO": "Erasto Gaertner",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    }
+]

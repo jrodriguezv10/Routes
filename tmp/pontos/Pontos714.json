@@ -1,0 +1,1382 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,485476794464",
+        "LON": "-49,351889820045",
+        "NOME": "Rua Durval Leopoldo Landal, 531 - Cidade Industrial",
+        "NUM": "180804",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497484210417",
+        "LON": "-49,345364005512",
+        "NOME": "Estrada Velha do Barigui, 2500 - Cidade Industrial",
+        "NUM": "180322",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500960677465",
+        "LON": "-49,348322482056",
+        "NOME": "Estrada Velha do Barigui, 3042 - Cidade Industrial",
+        "NUM": "180807",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433212586",
+        "LON": "-49,351771802849",
+        "NOME": "Rua Durval Leopoldo Landal, 532- Cidade Industrial",
+        "NUM": "180334",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49171852467",
+        "LON": "-49,348758341021",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 373 - Cidade Industrial",
+        "NUM": "180410",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494401061631",
+        "LON": "-49,345543713516",
+        "NOME": "Rua Deputado Cunha Bueno, 126 - Cidade Industrial",
+        "NUM": "180393",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497512051604",
+        "LON": "-49,34524732942",
+        "NOME": "Estrada Velha do Barigui, 2499 - Cidade Industrial",
+        "NUM": "180323",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500976413334",
+        "LON": "-49,34825542683",
+        "NOME": "Estrada Velha do Barigui, 3041 - Cidade Industrial",
+        "NUM": "180398",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433212586",
+        "LON": "-49,351771802849",
+        "NOME": "Rua Durval Leopoldo Landal, 532- Cidade Industrial",
+        "NUM": "180334",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490581817885",
+        "LON": "-49,34867787475",
+        "NOME": "Rua Vale dos Pássaros, 258 - Cidade Industrial",
+        "NUM": "180416",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492254794745",
+        "LON": "-49,347360910124",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 230 - Cidade Industrial",
+        "NUM": "180411",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491579311957",
+        "LON": "-49,34903192634",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 374 - Cidade Industrial",
+        "NUM": "180409",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501770466798",
+        "LON": "-49,346917004532",
+        "NOME": "Rua V, 328 - Cidade Industrial",
+        "NUM": "180399",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501821305408",
+        "LON": "-49,346816421694",
+        "NOME": "Rua V, 327 - Cidade Industrial",
+        "NUM": "180808",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "41",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478359905352",
+        "LON": "-49,35667877647",
+        "NOME": "Rua Lodovico Kaminski, 2329 - Cidade Industrial",
+        "NUM": "180326",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47827636846",
+        "LON": "-49,356658659902",
+        "NOME": "Rua Lodovico Kaminski, 2330 - Cidade Industrial",
+        "NUM": "180768",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475804134462",
+        "LON": "-49,358986817327",
+        "NOME": "Rua Lodovico Kaminski, 1829 - Cidade Industrial",
+        "NUM": "180769",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485476794464",
+        "LON": "-49,351889820045",
+        "NOME": "Rua Durval Leopoldo Landal, 531 - Cidade Industrial",
+        "NUM": "180804",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "46",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492254794745",
+        "LON": "-49,347360910124",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 230 - Cidade Industrial",
+        "NUM": "180411",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500960677465",
+        "LON": "-49,348322482056",
+        "NOME": "Estrada Velha do Barigui, 3042 - Cidade Industrial",
+        "NUM": "180807",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "60",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501821305408",
+        "LON": "-49,346816421694",
+        "NOME": "Rua V, 327 - Cidade Industrial",
+        "NUM": "180808",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "61",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488352204003",
+        "LON": "-49,354782111144",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180331",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498227446855",
+        "LON": "-49,347156638766",
+        "NOME": "Rua João Evangelista Filho, 259 - Cidade Industrial",
+        "NUM": "180315",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498405387145",
+        "LON": "-49,347352440024",
+        "NOME": "Rua João Evangelista Filho, 260 - Cidade Industrial",
+        "NUM": "180314",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "58",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490581817885",
+        "LON": "-49,34867787475",
+        "NOME": "Rua Vale dos Pássaros, 258 - Cidade Industrial",
+        "NUM": "180416",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494094800286",
+        "LON": "-49,349926443047",
+        "NOME": "Rua Durval Leopoldo Landal, 1487 - Cidade Industrial",
+        "NUM": "180407",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494493060934",
+        "LON": "-49,345528961367",
+        "NOME": "Rua Deputado Cunha Bueno, 125- Cidade Industrial",
+        "NUM": "180806",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496093353327",
+        "LON": "-49,345325113482",
+        "NOME": "Estrada Velha do Barigui, 2325 - Cidade Industrial",
+        "NUM": "180395",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497484210417",
+        "LON": "-49,345364005512",
+        "NOME": "Estrada Velha do Barigui, 2500 - Cidade Industrial",
+        "NUM": "180322",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477747300131",
+        "LON": "-49,359090082374",
+        "NOME": "Rua Lodovico Kaminski, 2075 - Cidade Industrial",
+        "NUM": "180563",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490627819007",
+        "LON": "-49,347100735849",
+        "NOME": "Rua Vale dos Pássaros, 78 - Cidade Industrial",
+        "NUM": "180414",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490661714559",
+        "LON": "-49,347028316206",
+        "NOME": "Rua Vale dos Pássaros, 77 - Cidade Industrial",
+        "NUM": "180415",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497512051604",
+        "LON": "-49,34524732942",
+        "NOME": "Estrada Velha do Barigui, 2499 - Cidade Industrial",
+        "NUM": "180323",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497484210417",
+        "LON": "-49,345364005512",
+        "NOME": "Estrada Velha do Barigui, 2500 - Cidade Industrial",
+        "NUM": "180322",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "57",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500976413334",
+        "LON": "-49,34825542683",
+        "NOME": "Estrada Velha do Barigui, 3041 - Cidade Industrial",
+        "NUM": "180398",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490661714559",
+        "LON": "-49,347028316206",
+        "NOME": "Rua Vale dos Pássaros, 77 - Cidade Industrial",
+        "NUM": "180415",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492254794745",
+        "LON": "-49,347360910124",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 230 - Cidade Industrial",
+        "NUM": "180411",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491579311957",
+        "LON": "-49,34903192634",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 374 - Cidade Industrial",
+        "NUM": "180409",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501770466798",
+        "LON": "-49,346917004532",
+        "NOME": "Rua V, 328 - Cidade Industrial",
+        "NUM": "180399",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485476794464",
+        "LON": "-49,351889820045",
+        "NOME": "Rua Durval Leopoldo Landal, 531 - Cidade Industrial",
+        "NUM": "180804",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490146016905",
+        "LON": "-49,349860728926",
+        "NOME": "Rua Durval Leopoldo Landal, 1095 - Cidade Industrial",
+        "NUM": "180805",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490067581554",
+        "LON": "-49,356339133478",
+        "NOME": "Rua Jan Frederik de Jager, 51 - Cidade Industrial",
+        "NUM": "180332",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498227446855",
+        "LON": "-49,347156638766",
+        "NOME": "Rua João Evangelista Filho, 259 - Cidade Industrial",
+        "NUM": "180315",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "37",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485450644152",
+        "LON": "-49,354487411705",
+        "NOME": "Rua Atílio Viceli, 56 - Cidade Industrial",
+        "NUM": "180562",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48147252121",
+        "LON": "-49,353143624988",
+        "NOME": "Rua Lodovico Kaminski, 2834 - Cidade Industrial",
+        "NUM": "180433",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479496727719",
+        "LON": "-49,355259887901",
+        "NOME": "Rua Lodovico Kaminski, 2411 - Cidade Industrial",
+        "NUM": "180767",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487717608063",
+        "LON": "-49,350910813755",
+        "NOME": "Rua Durval Leopoldo Landal, 847 - Cidade Industrial",
+        "NUM": "180336",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492351637844",
+        "LON": "-49,347339452452",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 229 - Cidade Industrial",
+        "NUM": "180413",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496117563336",
+        "LON": "-49,345229895062",
+        "NOME": "Estrada Velha do Barigui, 2326 - Cidade Industrial",
+        "NUM": "180394",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498227446855",
+        "LON": "-49,347156638766",
+        "NOME": "Rua João Evangelista Filho, 259 - Cidade Industrial",
+        "NUM": "180315",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490627819007",
+        "LON": "-49,347100735849",
+        "NOME": "Rua Vale dos Pássaros, 78 - Cidade Industrial",
+        "NUM": "180414",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492351637844",
+        "LON": "-49,347339452452",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 229 - Cidade Industrial",
+        "NUM": "180413",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496117563336",
+        "LON": "-49,345229895062",
+        "NOME": "Estrada Velha do Barigui, 2326 - Cidade Industrial",
+        "NUM": "180394",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497512051604",
+        "LON": "-49,34524732942",
+        "NOME": "Estrada Velha do Barigui, 2499 - Cidade Industrial",
+        "NUM": "180323",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500976413334",
+        "LON": "-49,34825542683",
+        "NOME": "Estrada Velha do Barigui, 3041 - Cidade Industrial",
+        "NUM": "180398",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500960677465",
+        "LON": "-49,348322482056",
+        "NOME": "Estrada Velha do Barigui, 3042 - Cidade Industrial",
+        "NUM": "180807",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "40",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489990105608",
+        "LON": "-49,35627744267",
+        "NOME": "Rua Jan Frederik de Jager, 2 - Cidade Industrial",
+        "NUM": "180802",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474632166405",
+        "LON": "-49,359375737634",
+        "NOME": "Rua Augusto Beck, 2 - Augusta",
+        "NUM": "180801",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491579311957",
+        "LON": "-49,34903192634",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 374 - Cidade Industrial",
+        "NUM": "180409",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "52",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494401061631",
+        "LON": "-49,345543713516",
+        "NOME": "Rua Deputado Cunha Bueno, 126 - Cidade Industrial",
+        "NUM": "180393",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499958419432",
+        "LON": "-49,347855777687",
+        "NOME": "Estrada Velha do Barigui, 3001 - Cidade Industrial",
+        "NUM": "180396",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "59",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490627819007",
+        "LON": "-49,347100735849",
+        "NOME": "Rua Vale dos Pássaros, 78 - Cidade Industrial",
+        "NUM": "180414",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490661714559",
+        "LON": "-49,347028316206",
+        "NOME": "Rua Vale dos Pássaros, 77 - Cidade Industrial",
+        "NUM": "180415",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494570533976",
+        "LON": "-49,347975135988",
+        "NOME": "Rua Deputado Cunha Bueno, 348 - Cidade Industrial",
+        "NUM": "180391",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488301359693",
+        "LON": "-49,354850507474",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180803",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490052604285",
+        "LON": "-49,358347828836",
+        "NOME": "Rua Jan Frederik de Jager, 220 - Cidade Industrial",
+        "NUM": "180333",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483793078751",
+        "LON": "-49,350222355819",
+        "NOME": "Terminal Caiuá - 719 - Fazendinha / Caiuá / Frigorífico - 714 - Vila Marisa",
+        "NUM": "105003",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433695642",
+        "LON": "-49,354408286539",
+        "NOME": "Rua Atílio Viceli, 55 - Cidade Industrial",
+        "NUM": "180764",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483105674037",
+        "LON": "-49,353367589441",
+        "NOME": "Rua Lauro Grein, 223 - Cidade Industrial",
+        "NUM": "180765",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433212586",
+        "LON": "-49,351771802849",
+        "NOME": "Rua Durval Leopoldo Landal, 532- Cidade Industrial",
+        "NUM": "180334",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487717608063",
+        "LON": "-49,350910813755",
+        "NOME": "Rua Durval Leopoldo Landal, 847 - Cidade Industrial",
+        "NUM": "180336",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490146016905",
+        "LON": "-49,349860728926",
+        "NOME": "Rua Durval Leopoldo Landal, 1095 - Cidade Industrial",
+        "NUM": "180805",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "48",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492351637844",
+        "LON": "-49,347339452452",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 229 - Cidade Industrial",
+        "NUM": "180413",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49171852467",
+        "LON": "-49,348758341021",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 373 - Cidade Industrial",
+        "NUM": "180410",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496117563336",
+        "LON": "-49,345229895062",
+        "NOME": "Estrada Velha do Barigui, 2326 - Cidade Industrial",
+        "NUM": "180394",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489990105608",
+        "LON": "-49,35627744267",
+        "NOME": "Rua Jan Frederik de Jager, 2 - Cidade Industrial",
+        "NUM": "180802",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "40",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490146016905",
+        "LON": "-49,349860728926",
+        "NOME": "Rua Durval Leopoldo Landal, 1095 - Cidade Industrial",
+        "NUM": "180805",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498405387145",
+        "LON": "-49,347352440024",
+        "NOME": "Rua João Evangelista Filho, 260 - Cidade Industrial",
+        "NUM": "180314",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487717608063",
+        "LON": "-49,350910813755",
+        "NOME": "Rua Durval Leopoldo Landal, 847 - Cidade Industrial",
+        "NUM": "180336",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49171852467",
+        "LON": "-49,348758341021",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 373 - Cidade Industrial",
+        "NUM": "180410",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494094800286",
+        "LON": "-49,349926443047",
+        "NOME": "Rua Durval Leopoldo Landal, 1487 - Cidade Industrial",
+        "NUM": "180407",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496093353327",
+        "LON": "-49,345325113482",
+        "NOME": "Estrada Velha do Barigui, 2325 - Cidade Industrial",
+        "NUM": "180395",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "62",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "45",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474745973721",
+        "LON": "-49,358981452909",
+        "NOME": "Rua Lodovico Kaminski, 1719 - Cidade Industrial",
+        "NUM": "180800",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490119384571",
+        "LON": "-49,349745393938",
+        "NOME": "Rua Durval Leopoldo Landal, 1094 - Cidade Industrial",
+        "NUM": "180390",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490514026725",
+        "LON": "-49,348629594988",
+        "NOME": "Rua Vale dos Pássaros, 257 - Cidade Industrial",
+        "NUM": "180417",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499958419432",
+        "LON": "-49,347855777687",
+        "NOME": "Estrada Velha do Barigui, 3001 - Cidade Industrial",
+        "NUM": "180396",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501821305408",
+        "LON": "-49,346816421694",
+        "NOME": "Rua V, 327 - Cidade Industrial",
+        "NUM": "180808",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490119384571",
+        "LON": "-49,349745393938",
+        "NOME": "Rua Durval Leopoldo Landal, 1094 - Cidade Industrial",
+        "NUM": "180390",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490052604285",
+        "LON": "-49,358347828836",
+        "NOME": "Rua Jan Frederik de Jager, 220 - Cidade Industrial",
+        "NUM": "180333",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490119384571",
+        "LON": "-49,349745393938",
+        "NOME": "Rua Durval Leopoldo Landal, 1094 - Cidade Industrial",
+        "NUM": "180390",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499923316039",
+        "LON": "-49,347688810176",
+        "NOME": "Estrada Velha do Barigui, 3000 - Cidade Industrial",
+        "NUM": "180397",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499958419432",
+        "LON": "-49,347855777687",
+        "NOME": "Estrada Velha do Barigui, 3001 - Cidade Industrial",
+        "NUM": "180396",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488352204003",
+        "LON": "-49,354782111144",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180331",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498405387145",
+        "LON": "-49,347352440024",
+        "NOME": "Rua João Evangelista Filho, 260 - Cidade Industrial",
+        "NUM": "180314",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "38",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48309962088",
+        "LON": "-49,353476218906",
+        "NOME": "Rua Lauro Grein, 224 - Cidade Industrial",
+        "NUM": "180455",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479606898432",
+        "LON": "-49,355284027782",
+        "NOME": "Rua Lodovico Kaminski, 2412 - Cidade Industrial",
+        "NUM": "180325",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475792027412",
+        "LON": "-49,359086059061",
+        "NOME": "Rua Lodovico Kaminski, 1830 - Cidade Industrial",
+        "NUM": "180328",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490581817885",
+        "LON": "-49,34867787475",
+        "NOME": "Rua Vale dos Pássaros, 258 - Cidade Industrial",
+        "NUM": "180416",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "49",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494094800286",
+        "LON": "-49,349926443047",
+        "NOME": "Rua Durval Leopoldo Landal, 1487 - Cidade Industrial",
+        "NUM": "180407",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "53",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494493060934",
+        "LON": "-49,345528961367",
+        "NOME": "Rua Deputado Cunha Bueno, 125- Cidade Industrial",
+        "NUM": "180806",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "55",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488301359693",
+        "LON": "-49,354850507474",
+        "NOME": "Rua Maria Lúcia Locher de Athayde, 7500 - Cidade Industrial",
+        "NUM": "180803",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "39",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490067581554",
+        "LON": "-49,356339133478",
+        "NOME": "Rua Jan Frederik de Jager, 51 - Cidade Industrial",
+        "NUM": "180332",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494570533976",
+        "LON": "-49,347975135988",
+        "NOME": "Rua Deputado Cunha Bueno, 348 - Cidade Industrial",
+        "NUM": "180391",
+        "SENTIDO": "Vila Marisa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490514026725",
+        "LON": "-49,348629594988",
+        "NOME": "Rua Vale dos Pássaros, 257 - Cidade Industrial",
+        "NUM": "180417",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501582376203",
+        "LON": "-49,345355293254",
+        "NOME": "Rua V, 176 - Cidade Industrial",
+        "NUM": "180434",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483741908752",
+        "LON": "-49,350296164418",
+        "NOME": "Terminal Caiuá - 714 - Vila Marisa / 721 - Mário Jorge",
+        "NUM": "105002",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485266631631",
+        "LON": "-49,353265665498",
+        "NOME": "Rua Raul Pompéia, 2535 - Cidade Industrial",
+        "NUM": "180453",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485196416252",
+        "LON": "-49,353410504785",
+        "NOME": "Rua Raul Pompéia, 2536 - Cidade Industrial",
+        "NUM": "180763",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490514026725",
+        "LON": "-49,348629594988",
+        "NOME": "Rua Vale dos Pássaros, 257 - Cidade Industrial",
+        "NUM": "180417",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494401061631",
+        "LON": "-49,345543713516",
+        "NOME": "Rua Deputado Cunha Bueno, 126 - Cidade Industrial",
+        "NUM": "180393",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494493060934",
+        "LON": "-49,345528961367",
+        "NOME": "Rua Deputado Cunha Bueno, 125- Cidade Industrial",
+        "NUM": "180806",
+        "SENTIDO": "Vila Marisa / Bela Vista - Dias Úteis",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481264289603",
+        "LON": "-49,353284440961",
+        "NOME": "Rua Lodovico Kaminski, 2763 - Cidade Industrial",
+        "NUM": "180766",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477680712419",
+        "LON": "-49,359339527813",
+        "NOME": "Rua Lodovico Kaminski, 2052 - Cidade Industrial",
+        "NUM": "180327",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494570533976",
+        "LON": "-49,347975135988",
+        "NOME": "Rua Deputado Cunha Bueno, 348 - Cidade Industrial",
+        "NUM": "180391",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496093353327",
+        "LON": "-49,345325113482",
+        "NOME": "Estrada Velha do Barigui, 2325 - Cidade Industrial",
+        "NUM": "180395",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501770466798",
+        "LON": "-49,346917004532",
+        "NOME": "Rua V, 328 - Cidade Industrial",
+        "NUM": "180399",
+        "SENTIDO": "Vila Marisa / Bela Vista / Frigorifíco - Domingos",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    }
+]

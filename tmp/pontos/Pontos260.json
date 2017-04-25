@@ -1,0 +1,602 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38678",
+        "LON": "-49,26138",
+        "NOME": "Av. Anita Garibaldi, 3021 - Boa Vista",
+        "NUM": "120017",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38989",
+        "LON": "-49,26065",
+        "NOME": "Av. Anita Garibaldi, 2709 - São Lourenço",
+        "NUM": "120015",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408280462347",
+        "LON": "-49,266673789325",
+        "NOME": "Rua Marechal Hermes, 1266 - Ahu",
+        "NUM": "120703",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3764248",
+        "LON": "-49,2569988",
+        "NOME": "Rua Joel Jensem Júnior, 1 - Barreirinha",
+        "NUM": "120422",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430195019723",
+        "LON": "-49,271926463789",
+        "NOME": "Praça Tiradentes - 207 - Cabral/ Osório - 260 - Mal.Hermes/Sta.Efigênia",
+        "NUM": "101005",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392260058261",
+        "LON": "-49,260980800691",
+        "NOME": "Av. Anita Garibaldi, 2393 - Boa Vista",
+        "NUM": "120014",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4011",
+        "LON": "-49,26497",
+        "NOME": "R. Brasilino Moura, 602 - Ahú",
+        "NUM": "120051",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405008470098",
+        "LON": "-49,26829384357",
+        "NOME": "Rua Albano Reis, 149 - Ahu",
+        "NUM": "120681",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40592914331",
+        "LON": "-49,267106966081",
+        "NOME": "Rua Marechal Hermes, 986 - Centro Cívico",
+        "NUM": "120701",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391684573142",
+        "LON": "-49,260814503732",
+        "NOME": "Av. Anita Garibaldi, 2480 - Boa Vista",
+        "NUM": "120013",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407846786137",
+        "LON": "-49,266774372163",
+        "NOME": "Rua Marechal Hermes, 1265 - Ahu",
+        "NUM": "120704",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410835243904",
+        "LON": "-49,265894607606",
+        "NOME": "Rua Mal. Hermes, 910 - Centro Cívico",
+        "NUM": "120705",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429998811043",
+        "LON": "-49,274660975879",
+        "NOME": "Rua Ébano Pereira, 218 - Centro",
+        "NUM": "110051",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38307",
+        "LON": "-49,26186",
+        "NOME": "Av. Anita Garibaldi, 3431 - São Lourenço",
+        "NUM": "120020",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420488362885",
+        "LON": "-49,26838521947",
+        "NOME": "Rua Heitor S de França, 295 - Centro Cívico",
+        "NUM": "110426",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380553545525",
+        "LON": "-49,261349604431",
+        "NOME": "Av. Anita Garibaldi, 3696 - São Lourenço",
+        "NUM": "120021",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38376",
+        "LON": "-49,26163",
+        "NOME": "Av. Anita Garibaldi, 3436 - São Lourenço",
+        "NUM": "120019",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40585524743",
+        "LON": "-49,266979561153",
+        "NOME": "Rua Marechal Hermes, 985 - Centro Cívico",
+        "NUM": "120702",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374595847235",
+        "LON": "-49,26155012808",
+        "NOME": "Rua Prof. Guilherme Butler, 1515 - Barreirinha",
+        "NUM": "120425",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377420338127",
+        "LON": "-49,262723594524",
+        "NOME": "Avenida Anita Garibaldi, 4080 - Barreirinha",
+        "NUM": "120426",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380417839282",
+        "LON": "-49,261556134525",
+        "NOME": "Av. Anita Garibaldi, 3693 - São Lourenço",
+        "NUM": "120022",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394434761461",
+        "LON": "-49,261682198348",
+        "NOME": "Rua Capitão Manoel Pacheco da Costa, 333 - Ahu",
+        "NUM": "120428",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395195595446",
+        "LON": "-49,264670179191",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 465 - Ahu",
+        "NUM": "120499",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376397267673",
+        "LON": "-49,262598365111",
+        "NOME": "Avenida Anita Garibaldi, 4222  - Barreirinha",
+        "NUM": "120023",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432753900975",
+        "LON": "-49,270962209648",
+        "NOME": "Marechal Floriano Peixoto - 160 - Marechal Hermes / Santa Efigênia",
+        "NUM": "103271",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40347965248",
+        "LON": "-49,268955008092",
+        "NOME": "Rua Francisco Scremin, 10 - Ahu",
+        "NUM": "120679",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401424251116",
+        "LON": "-49,267849008598",
+        "NOME": "R. Brasilino Moura, 331 - São Lourenço",
+        "NUM": "120053",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374588576903",
+        "LON": "-49,259975671388",
+        "NOME": "Rua Prof. Guilherme Butler, 1356 - Barreirinha",
+        "NUM": "120424",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397006797176",
+        "LON": "-49,264688954654",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 263 - Ahu",
+        "NUM": "120269",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413776385812",
+        "LON": "-49,266247318092",
+        "NOME": "Rua Prof. Benedito N dos Santos, 42 - Centro Cívico",
+        "NUM": "120706",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40126",
+        "LON": "-49,26492",
+        "NOME": "R. Brasilino Moura, 605 - Ahú",
+        "NUM": "120052",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374673397416",
+        "LON": "-49,261123866981",
+        "NOME": "Rua Prof. Guilherme Butler, 1515 - Barreirinha",
+        "NUM": "120139",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975298247",
+        "LON": "-49,264576301875",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 183 - Ahu",
+        "NUM": "120500",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399920412486",
+        "LON": "-49,264540092054",
+        "NOME": "Rua Deputado Vanderlei Júnior, 130 - Ahu",
+        "NUM": "120677",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394575298036",
+        "LON": "-49,263484642806",
+        "NOME": "Rua José Nicoleti, 163 - Ahu",
+        "NUM": "120497",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403568086991",
+        "LON": "-49,26902876884",
+        "NOME": "Rua Francisco Scremin, 139 - Ahu",
+        "NUM": "120680",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432753900975",
+        "LON": "-49,270962209648",
+        "NOME": "Marechal Floriano Peixoto - 160 - Marechal Hermes / Santa Efigênia",
+        "NUM": "103271",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375034489792",
+        "LON": "-49,258381308264",
+        "NOME": "Rua Prof. Guilherme Butler, 1488 - Barreirinha",
+        "NUM": "120423",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410867950571",
+        "LON": "-49,266023353639",
+        "NOME": "R. Mal. Hermes, 910 - Centro Cívico",
+        "NUM": "120100",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374719760444",
+        "LON": "-49,259815786142",
+        "NOME": "Rua Prof. Guilherme Butler, 1356 - Barreirinha",
+        "NUM": "120140",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401762136668",
+        "LON": "-49,268438163195",
+        "NOME": "Rua Brasilino Moura, 330 - São Lourenço",
+        "NUM": "120054",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38604",
+        "LON": "-49,26148",
+        "NOME": "Av. Anita Garibaldi, 3446 - São Lourenço",
+        "NUM": "120018",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39814559906",
+        "LON": "-49,264597759548",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 172 - Ahu",
+        "NUM": "120676",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3764248",
+        "LON": "-49,2569988",
+        "NOME": "Rua Joel Jensem Júnior, 1 - Barreirinha",
+        "NUM": "120422",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398161348373",
+        "LON": "-49,264703706804",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 183 - Ahu",
+        "NUM": "120429",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38867746733",
+        "LON": "-49,260652230087",
+        "NOME": "Av. Anita Garibaldi, 2816 - Boa Vista",
+        "NUM": "120016",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394432338415",
+        "LON": "-49,261577592197",
+        "NOME": "Rua Capitão Manoel Pacheco da Costa, 236 - Ahu",
+        "NUM": "120427",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394735218767",
+        "LON": "-49,262789950672",
+        "NOME": "Rua José Nicoleti, 2 - Ahu",
+        "NUM": "120496",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404881271273",
+        "LON": "-49,268116817775",
+        "NOME": "Rua Albano Reis, 150 - Ahu",
+        "NUM": "120700",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39993979597",
+        "LON": "-49,264671520295",
+        "NOME": "Rua Deputado Vanderlei Júnior, 127 - Ahu",
+        "NUM": "120678",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375112757821",
+        "LON": "-49,258469342425",
+        "NOME": "Rua Prof. Guilherme Butler, 1488 - Barreirinha",
+        "NUM": "120201",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414183583213",
+        "LON": "-49,265916974491",
+        "NOME": "R. Prefeito Rosalvo G Mello Leitão, 101 - Centro Cívico",
+        "NUM": "120113",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395233152413",
+        "LON": "-49,264566914144",
+        "NOME": "Rua Antônio Corrêa Bittencourt, 506 - Ahu",
+        "NUM": "120498",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416733202877",
+        "LON": "-49,267863349023",
+        "NOME": "Rua Ernani Santiago de Oliveira, 99 - Centro Cívico",
+        "NUM": "120707",
+        "SENTIDO": "Mal. Hermes/Sta Efigênia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

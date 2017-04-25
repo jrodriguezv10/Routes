@@ -1,0 +1,142 @@
+[
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477348742065",
+        "LON": "-49,326698046627",
+        "NOME": "Terminal Fazendinha - 778 - Cotolengo",
+        "NUM": "105303",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade(desativar)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477348742065",
+        "LON": "-49,326698046627",
+        "NOME": "Terminal Fazendinha - 778 - Cotolengo",
+        "NUM": "105303",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458842694168",
+        "LON": "-49,316230810143",
+        "NOME": "Rua João Alencar Guimarães, 1284 - Santa Quitéria",
+        "NUM": "180790",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477348742065",
+        "LON": "-49,326698046627",
+        "NOME": "Terminal Fazendinha - 778 - Cotolengo",
+        "NUM": "105303",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477348742065",
+        "LON": "-49,326698046627",
+        "NOME": "Terminal Fazendinha - 778 - Cotolengo",
+        "NUM": "105303",
+        "SENTIDO": "Atendimento Uniandrade - Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477348742065",
+        "LON": "-49,326698046627",
+        "NOME": "Terminal Fazendinha - 778 - Cotolengo",
+        "NUM": "105303",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade(desativar)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458774885114",
+        "LON": "-49,316431975819",
+        "NOME": "Rua João Alencar Guimarães, 1285 - Santa Quitéria",
+        "NUM": "180791",
+        "SENTIDO": "Atendimento Uniandrade - Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,458990216184",
+        "LON": "-49,30234107791",
+        "NOME": "Av. Pres. Arthur da S. Bernardes, 631 - Portão",
+        "NUM": "180990",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade(desativar)",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458842694168",
+        "LON": "-49,316230810143",
+        "NOME": "Rua João Alencar Guimarães, 1284 - Santa Quitéria",
+        "NUM": "180790",
+        "SENTIDO": "Terminal Fazendinha - Uniandrade(desativar)",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14415",
+        "LAT": "-25,458990216184",
+        "LON": "-49,30234107791",
+        "NOME": "Av. Pres. Arthur da S. Bernardes, 631 - Portão",
+        "NUM": "180990",
+        "SENTIDO": "Atendimento Uniandrade(desativar)",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    }
+]

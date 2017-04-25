@@ -1,0 +1,472 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,494366620386",
+        "LON": "-49,299103440575",
+        "NOME": "Rua João Bonat, 432 - Novo Mundo",
+        "NUM": "170242",
+        "SENTIDO": "Rondon",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495470664455",
+        "LON": "-49,323830817627",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1284 - Cidade Industrial",
+        "NUM": "170300",
+        "SENTIDO": "Rondon",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493826064392",
+        "LON": "-49,333586002255",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 2374 - Cidade Industrial",
+        "NUM": "180301",
+        "SENTIDO": "Rondon",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494330610822",
+        "LON": "-49,300820560402",
+        "NOME": "Rua João Bonat, 632 - Novo Mundo",
+        "NUM": "170244",
+        "SENTIDO": "Rondon",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4982307",
+        "LON": "-49,330714",
+        "NOME": "Rua Deputado João Ribeiro Júnior, 135 - Cidade Industrial",
+        "NUM": "180304",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494064537265",
+        "LON": "-49,334028566743",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 2373 - Cidade Industrial",
+        "NUM": "180302",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494236590828",
+        "LON": "-49,303557341442",
+        "NOME": "Rua João Bonat, 919 - Novo Mundo",
+        "NUM": "170246",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4982307",
+        "LON": "-49,330714",
+        "NOME": "Rua Deputado João Ribeiro Júnior, 135 - Cidade Industrial",
+        "NUM": "180304",
+        "SENTIDO": "Rondon",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494597165323",
+        "LON": "-49,327317679787",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1451 - Cidade Industrial",
+        "NUM": "180294",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496633954097",
+        "LON": "-49,33500458877",
+        "NOME": "Rua Senador Accioly Filho, 2656 - Cidade Industrial",
+        "NUM": "180306",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49196479342",
+        "LON": "-49,293122620529",
+        "NOME": "Terminal Capão Raso - 622 - Rondon",
+        "NUM": "104808",
+        "SENTIDO": "Rondon",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495624398724",
+        "LON": "-49,322197352337",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1106 - Cidade Industrial",
+        "NUM": "170298",
+        "SENTIDO": "Rondon",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494467640081",
+        "LON": "-49,327479953433",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1451 - Cidade Industrial",
+        "NUM": "180296",
+        "SENTIDO": "Rondon",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494370798687",
+        "LON": "-49,31745519724",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 640 - Cidade Industrial",
+        "NUM": "170293",
+        "SENTIDO": "Rondon",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49196479342",
+        "LON": "-49,293122620529",
+        "NOME": "Terminal Capão Raso - 622 - Rondon",
+        "NUM": "104808",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495615925187",
+        "LON": "-49,321504001306",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1063 - Cidade Industrial",
+        "NUM": "170297",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493702590941",
+        "LON": "-49,331582392121",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1971 -Cidade Industrial",
+        "NUM": "180300",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495333156573",
+        "LON": "-49,309757257367",
+        "NOME": "Rua General Potiguara, 201 - Novo Mundo",
+        "NUM": "170211",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49692",
+        "LON": "-49,33166",
+        "NOME": "Rua Rudi Labsch, 2 - Cidade Industrial",
+        "NUM": "180303",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Rondon",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495708413534",
+        "LON": "-49,335303039497",
+        "NOME": "Rua Artur Martins Franco, 1640 - Cidade Industrial",
+        "NUM": "180157",
+        "SENTIDO": "Rondon",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493903537864",
+        "LON": "-49,329491610194",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1854 - Cidade Industrial",
+        "NUM": "180297",
+        "SENTIDO": "Rondon",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494219483853",
+        "LON": "-49,306204671527",
+        "NOME": "Rua João Bonat, 1180 - Novo Mundo",
+        "NUM": "170249",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493613012084",
+        "LON": "-49,331571663285",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 3825 - Cidade Industrial",
+        "NUM": "180299",
+        "SENTIDO": "Rondon",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49414822289",
+        "LON": "-49,303470169649",
+        "NOME": "Rua João Bonat, 920 - Novo Mundo",
+        "NUM": "170247",
+        "SENTIDO": "Rondon",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497534626214",
+        "LON": "-49,334648542328",
+        "NOME": "Rua Ludovico Zanier, 468 - Cidade Industrial",
+        "NUM": "180305",
+        "SENTIDO": "Rondon",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495452506852",
+        "LON": "-49,324227784561",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1283 - Cidade Industrial",
+        "NUM": "170299",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4944833768",
+        "LON": "-49,317553097869",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 639 - Cidade Industrial",
+        "NUM": "170294",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494421399661",
+        "LON": "-49,30096271748",
+        "NOME": "Rua João Bonat, 631 - Novo Mundo",
+        "NUM": "170245",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494137168503",
+        "LON": "-49,308974052335",
+        "NOME": "Rua João Bonat, 1451 - Novo Mundo",
+        "NUM": "170285",
+        "SENTIDO": "Rondon",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494249746835",
+        "LON": "-49,315009022618",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 197 - Cidade Industrial",
+        "NUM": "170292",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49423957091",
+        "LON": "-49,311347505259",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 195 - Cidade Industrial",
+        "NUM": "170287",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494169852545",
+        "LON": "-49,3150036582",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 196 - Cidade Industrial",
+        "NUM": "170291",
+        "SENTIDO": "Rondon",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494172273585",
+        "LON": "-49,313307160998",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 430 - Cidade Industrial",
+        "NUM": "170290",
+        "SENTIDO": "Rondon",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494131115901",
+        "LON": "-49,306353534127",
+        "NOME": "Rua João Bonat, 1181 - Novo Mundo",
+        "NUM": "170248",
+        "SENTIDO": "Rondon",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494167959938",
+        "LON": "-49,311809570736",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 194 - Cidade Industrial",
+        "NUM": "170288",
+        "SENTIDO": "Rondon",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495697518994",
+        "LON": "-49,335190386719",
+        "NOME": "Rua Artur Martins Franco, 1641 - Cidade Industrial",
+        "NUM": "180158",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494963951",
+        "LON": "-49,319327379132",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 638 - Cidade Industrial",
+        "NUM": "170295",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494232799566",
+        "LON": "-49,308827871943",
+        "NOME": "Rua João Bonat, 1452 -Novo Mundo",
+        "NUM": "170286",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492973306142",
+        "LON": "-49,298282684616",
+        "NOME": "Rua Paulina Ader, 836 - Novo Mundo",
+        "NUM": "170992",
+        "SENTIDO": "Rondon",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49490947795",
+        "LON": "-49,319440031911",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 639 - Cidade Industrial",
+        "NUM": "170296",
+        "SENTIDO": "Rondon",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494582639135",
+        "LON": "-49,310063029195",
+        "NOME": "Rua General Potiguara, 458 - Novo Mundo",
+        "NUM": "170212",
+        "SENTIDO": "Rondon",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494475566952",
+        "LON": "-49,298993470005",
+        "NOME": "Rua João Bonat, 431 - Novo Mundo",
+        "NUM": "170243",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493985853374",
+        "LON": "-49,329549277688",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1853 - Cidade Industrial",
+        "NUM": "180298",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494254588911",
+        "LON": "-49,313342029715",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 431 - Cidade Industrial",
+        "NUM": "170289",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    }
+]

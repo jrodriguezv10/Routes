@@ -1,0 +1,222 @@
+[
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Sítio Cercado - Vazio",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512251957076",
+        "LON": "-49,295580139565",
+        "NOME": "Terminal Pinheirinho - 603 - Pinheirinho",
+        "NUM": "105701",
+        "SENTIDO": "Atendimento Terminal Capão Raso - Pinheirinho - Vazio",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Atendimento Terminal Capão Raso - Pinheirinho - Vazio",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Sítio Cercado - Vazio",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512251957076",
+        "LON": "-49,295580139565",
+        "NOME": "Terminal Pinheirinho - 603 - Pinheirinho",
+        "NUM": "105701",
+        "SENTIDO": "Atendimento Terminal Pinheirinho - Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

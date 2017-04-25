@@ -1,0 +1,432 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,503039725218",
+        "LON": "-49,337972898626",
+        "NOME": "R. Des. Cid. Campelo, 5485 - Cidade Industrial",
+        "NUM": "180510",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493826784933",
+        "LON": "-49,335411389016",
+        "NOME": "Rua Artur Martins Franco, 2133 - Cidade Industrial",
+        "NUM": "180516",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488316356106",
+        "LON": "-49,335782874965",
+        "NOME": "Rua Artur Martins Franco, 2735 - Cidade Industrial",
+        "NUM": "180520",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47735426104",
+        "LON": "-49,326960612268",
+        "NOME": "Terminal Fazendinha - 712 - Independência / CIC",
+        "NUM": "105314",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510792282721",
+        "LON": "-49,33389191761",
+        "NOME": "R. Des. Cid. Campelo, 4445 - Cidade Industrial",
+        "NUM": "180501",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502939259439",
+        "LON": "-49,337870974683",
+        "NOME": "R. Des. Cid. Campelo, 5486 - Cidade Industrial",
+        "NUM": "180509",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497743974775",
+        "LON": "-49,337921936654",
+        "NOME": "Rua Des. Cid Campelo, 4814 - Cidade Industrial",
+        "NUM": "180513",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511575417238",
+        "LON": "-49,324539620867",
+        "NOME": "Terminal CIC - 712 - Independência / CIC",
+        "NUM": "105209",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "22",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47735426104",
+        "LON": "-49,326960612268",
+        "NOME": "Terminal Fazendinha - 712 - Independência / CIC",
+        "NUM": "105314",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484657930987",
+        "LON": "-49,333682705306",
+        "NOME": "Rua Arnaldo Thá, 1027 - Fazendinha",
+        "NUM": "180524",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494860567463",
+        "LON": "-49,337689925575",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4510 - Cidade Industrial",
+        "NUM": "180307",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488330883052",
+        "LON": "-49,335648764514",
+        "NOME": "Rua Artur Martins Franco, 2734 - Cidade Industrial",
+        "NUM": "180519",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481672134852",
+        "LON": "-49,329596310854",
+        "NOME": "Rua Arnaldo Thá, 380 - Fazendinha",
+        "NUM": "181006",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508691092535",
+        "LON": "-49,336499024772",
+        "NOME": "R. Des. Cid. Campelo, 4728 - Cidade Industrial",
+        "NUM": "180504",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510854010679",
+        "LON": "-49,33395763173",
+        "NOME": "R. Des. Cid. Campelo, 4448 - Cidade Industrial",
+        "NUM": "180502",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500017242079",
+        "LON": "-49,338017155074",
+        "NOME": "Rua Des. Cid Campelo, 5814 - Cidade Industrial",
+        "NUM": "180512",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494739516104",
+        "LON": "-49,33787218182",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4511 - Cidade Industrial",
+        "NUM": "180308",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481597074788",
+        "LON": "-49,329723715782",
+        "NOME": "Rua Arnaldo Thá, 378 - Fazendinha",
+        "NUM": "181005",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50033317199",
+        "LON": "-49,337883044624",
+        "NOME": "Rua Des. Cid Campelo, 5815 - Cidade Industrial",
+        "NUM": "180511",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491455346206",
+        "LON": "-49,335383225822",
+        "NOME": "Rua Artur Martins Franco, 2421 - Cidade Industrial",
+        "NUM": "180517",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483133756096",
+        "LON": "-49,331523527049",
+        "NOME": "Rua Arnaldo Thá, 640 - Fazendinha",
+        "NUM": "180527",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505782529549",
+        "LON": "-49,337955464267",
+        "NOME": "R. Des. Cid. Campelo, 5162 - Cidade Industrial",
+        "NUM": "180508",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497930389155",
+        "LON": "-49,338013131761",
+        "NOME": "Rua Des. Cid Campelo, 4813 - Cidade Industrial",
+        "NUM": "180514",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495428296708",
+        "LON": "-49,338048000478",
+        "NOME": "Rua Des. Cid Campelo, 6343 - Cidade Industrial",
+        "NUM": "180309",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483378303329",
+        "LON": "-49,332025100135",
+        "NOME": "Rua Arnaldo Thá, 830 - Fazendinha",
+        "NUM": "180526",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511575417238",
+        "LON": "-49,324539620867",
+        "NOME": "Terminal CIC - 712 - Independência / CIC",
+        "NUM": "105209",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508979161107",
+        "LON": "-49,335957218551",
+        "NOME": "R. Des. Cid. Campelo, 4727 - Cidade Industrial",
+        "NUM": "180503",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480609563754",
+        "LON": "-49,328154672527",
+        "NOME": "Rua Arnaldo Thá, 279 - Fazendinha",
+        "NUM": "180528",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507393565025",
+        "LON": "-49,337691266679",
+        "NOME": "R. Des. Cid. Campelo, 5020 - Cidade Industrial",
+        "NUM": "180506",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480448546329",
+        "LON": "-49,328210998916",
+        "NOME": "Rua Arnaldo Thá, 278 - Fazendinha",
+        "NUM": "180530",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505928988212",
+        "LON": "-49,337845493698",
+        "NOME": "R. Des. Cid. Campelo, 5165 - Cidade Industrial",
+        "NUM": "180507",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491793088423",
+        "LON": "-49,335509289646",
+        "NOME": "Rua Artur Martins Franco, 2177 - Cidade Industrial",
+        "NUM": "180518",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51144030943",
+        "LON": "-49,332883686966",
+        "NOME": "R. Des. Cid. Campelo, 4366 - Cidade Industrial",
+        "NUM": "180170",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486161506344",
+        "LON": "-49,335404683494",
+        "NOME": "Rua Arnaldo Thá, 1244 - Fazendinha",
+        "NUM": "180522",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507163591336",
+        "LON": "-49,337677855634",
+        "NOME": "R. Des. Cid. Campelo, 5025 - Cidade Industrial",
+        "NUM": "180505",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493731153547",
+        "LON": "-49,335282642984",
+        "NOME": "Rua Artur Martins Franco, 2134 - Cidade Industrial",
+        "NUM": "180515",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486289829939",
+        "LON": "-49,33536176815",
+        "NOME": "Rua Arnaldo Thá, 1243 - Fazendinha",
+        "NUM": "180521",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484622823125",
+        "LON": "-49,333458740854",
+        "NOME": "Rua Arnaldo Thá, 1030 - Fazendinha",
+        "NUM": "180523",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    }
+]

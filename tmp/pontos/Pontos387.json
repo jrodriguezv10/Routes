@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435346088871",
+        "LON": "-49,242516968088",
+        "NOME": "Av. São José, 598 - Cristo Rei",
+        "NUM": "130131",
+        "SENTIDO": "Palotinos",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43131627069",
+        "LON": "-49,248765597553",
+        "NOME": "Av. Sen. Souza Naves, 837-899 - Alto da XV",
+        "NUM": "130144",
+        "SENTIDO": "Palotinos",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443697249534",
+        "LON": "-49,22809339488",
+        "NOME": "Rua Luís França, 256 - Cajuru",
+        "NUM": "140959",
+        "SENTIDO": "Palotinos",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448973582769",
+        "LON": "-49,222030261402",
+        "NOME": "Rua Doutor Estevam Ribeiro de Souza Netto, 850 - Cajuru",
+        "NUM": "140952",
+        "SENTIDO": "Palotinos",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453615160075",
+        "LON": "-49,220742801075",
+        "NOME": "Rua Goiânia, 405 - Cajuru",
+        "NUM": "140948",
+        "SENTIDO": "Palotinos",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434846838961",
+        "LON": "-49,236298681444",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 793 - Jardim Social",
+        "NUM": "130317",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4298377259",
+        "LON": "-49,251386107153",
+        "NOME": "Rua Reinaldino Schafemberg de Quadros, 641 -  Alto da Rua XV",
+        "NUM": "130762",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435381144503",
+        "LON": "-49,244814285879",
+        "NOME": "Av. São José, 372 - Cristo Rei",
+        "NUM": "130133",
+        "SENTIDO": "Palotinos",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430890225687",
+        "LON": "-49,253770590967",
+        "NOME": "Av. Visconde de Guarapuava, 9355 - Alto da XV",
+        "NUM": "130881",
+        "SENTIDO": "Palotinos",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443610055489",
+        "LON": "-49,224743315821",
+        "NOME": "Rua Antônio Meireles Sobrinho, 431 - Cajuru",
+        "NUM": "140955",
+        "SENTIDO": "Palotinos",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43458",
+        "LON": "-49,2406",
+        "NOME": "Av. São José, 807 - Cristo Rei",
+        "NUM": "130130",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433943513094",
+        "LON": "-49,261738092845",
+        "NOME": "Av. Visconde de Guarapuava, 546 - Centro",
+        "NUM": "140753",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455753640297",
+        "LON": "-49,219838896637",
+        "NOME": "Rua Goiânia, 700 - Cajuru",
+        "NUM": "140945",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434963233486",
+        "LON": "-49,272982091718",
+        "NOME": "Praça Rui Barbosa - 387 - Palotinos",
+        "NUM": "102038",
+        "SENTIDO": "Palotinos",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430606814681",
+        "LON": "-49,257014722771",
+        "NOME": "Av. Senador Souza Naves, 2 - Alto da rua XV",
+        "NUM": "110414",
+        "SENTIDO": "Palotinos",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455828716488",
+        "LON": "-49,21991131628",
+        "NOME": "Rua Goiânia, 701 - Cajuru",
+        "NUM": "140946",
+        "SENTIDO": "Palotinos",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438976914005",
+        "LON": "-49,234727130059",
+        "NOME": "Av. Nossa Senhora da Penha, 295 - Cristo Rei",
+        "NUM": "130312",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436876653866",
+        "LON": "-49,235118509478",
+        "NOME": "Av. Nossa Senhora da Penha, 29 - Cristo Rei",
+        "NUM": "130313",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429556734759",
+        "LON": "-49,254640967793",
+        "NOME": "Rua Reinaldino Schafemberg de Quadros, 333 - Alto da Rua XV",
+        "NUM": "130763",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443967308467",
+        "LON": "-49,226382145529",
+        "NOME": "Rua Capitão João Busse, 159 - Cajuru",
+        "NUM": "140956",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462408442295",
+        "LON": "-49,217555388955",
+        "NOME": "Rua Pedro Violani, 1 - Cajuru",
+        "NUM": "140942",
+        "SENTIDO": "Palotinos",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431466087779",
+        "LON": "-49,246799504299",
+        "NOME": "Av. Senador Souza Naves, 1082 - Cristo Rei",
+        "NUM": "130145",
+        "SENTIDO": "Palotinos",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Palotinos",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432681513162",
+        "LON": "-49,258593202776",
+        "NOME": "Av. Visc. de Guarapuava, 1692 - Centro",
+        "NUM": "140204",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433446779633",
+        "LON": "-49,238060892767",
+        "NOME": "Av. São José, 1063 - Cristo Rei",
+        "NUM": "130878",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435467100004",
+        "LON": "-49,247550548262",
+        "NOME": "Av. São José, 81 - Cristo Rei",
+        "NUM": "130880",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443824407403",
+        "LON": "-49,231238955502",
+        "NOME": "Rua Miguel Caluf, 65 - Cajuru",
+        "NUM": "140960",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44355313712",
+        "LON": "-49,224666872864",
+        "NOME": "Rua Antônio Meireles Sobrinho, 430 - Cajuru",
+        "NUM": "140954",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449017177857",
+        "LON": "-49,221918949728",
+        "NOME": "Rua Doutor Estevam Ribeiro de Souza Netto, 852 - Cajuru",
+        "NUM": "140951",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44468",
+        "LON": "-49,2231",
+        "NOME": "Rua Prof. Nivaldo Braga, 150 - Cajuru",
+        "NUM": "140152",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434730464729",
+        "LON": "-49,240612599688",
+        "NOME": "Av. São José, 850 - Cristo Rei",
+        "NUM": "130879",
+        "SENTIDO": "Palotinos",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431085221761",
+        "LON": "-49,251450480169",
+        "NOME": "Av. Senador Souza Naves, 550 - Alto da Rua XV",
+        "NUM": "130882",
+        "SENTIDO": "Palotinos",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446578262866",
+        "LON": "-49,221711158752",
+        "NOME": "Rua Luís França, 940 - Cajuru",
+        "NUM": "140985",
+        "SENTIDO": "Palotinos",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462408442295",
+        "LON": "-49,217555388955",
+        "NOME": "Rua Pedro Violani, 1 - Cajuru",
+        "NUM": "140942",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435225811021",
+        "LON": "-49,242962536211",
+        "NOME": "Av. São José, 587 - Cristo Rei",
+        "NUM": "130132",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435330655522",
+        "LON": "-49,246068658896",
+        "NOME": "Av. São José, 239 - Cristo Rei",
+        "NUM": "130134",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442764754393",
+        "LON": "-49,232084521894",
+        "NOME": "Rua Santo André, 21 - Cajuru",
+        "NUM": "140961",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443510751083",
+        "LON": "-49,228086689358",
+        "NOME": "Rua Luís França, 255 - Cajuru",
+        "NUM": "140958",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4348",
+        "LON": "-49,23941",
+        "NOME": "Rua Oyapock, 336 - Cristo Rei",
+        "NUM": "130149",
+        "SENTIDO": "Palotinos",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435077133935",
+        "LON": "-49,269267754631",
+        "NOME": "R. André de Barros, 360 - Centro",
+        "NUM": "110152",
+        "SENTIDO": "Palotinos",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434963233486",
+        "LON": "-49,272982091718",
+        "NOME": "Praça Rui Barbosa - 387 - Palotinos",
+        "NUM": "102038",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434899598872",
+        "LON": "-49,24965127532",
+        "NOME": "Rua Padre Germano Maier, 71 - Cristo Rei",
+        "NUM": "130136",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457829116478",
+        "LON": "-49,219057032709",
+        "NOME": "Rua Goiânia, 945 - Cajuru",
+        "NUM": "140943",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437588947287",
+        "LON": "-49,237879843658",
+        "NOME": "Rua Oyapock, 184 - Cristo Rei",
+        "NUM": "130891",
+        "SENTIDO": "Palotinos",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451246561196",
+        "LON": "-49,221626588945",
+        "NOME": "Rua Goiânia, 166 - Cajuru",
+        "NUM": "140950",
+        "SENTIDO": "Palotinos",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457844857992",
+        "LON": "-49,219144204502",
+        "NOME": "Rua Goiânia, 943- Cajuru",
+        "NUM": "140944",
+        "SENTIDO": "Palotinos",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43165329057",
+        "LON": "-49,249314635582",
+        "NOME": "Rua Padre Germano Maier, 423 - Cristo Rei",
+        "NUM": "130137",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451155739759",
+        "LON": "-49,221547463779",
+        "NOME": "Rua Goiânia, 165 - Cajuru",
+        "NUM": "140949",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453544926219",
+        "LON": "-49,220665017014",
+        "NOME": "Rua Goiânia, 404 - Cajuru",
+        "NUM": "140947",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446625468019",
+        "LON": "-49,221260495701",
+        "NOME": "Rua Luís França, 895 - Cajuru",
+        "NUM": "140229",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43144735649",
+        "LON": "-49,260449291414",
+        "NOME": "Rua Nilo Cairo, 306 - Centro",
+        "NUM": "110413",
+        "SENTIDO": "Palotinos",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433101777563",
+        "LON": "-49,264357269949",
+        "NOME": "Rua André de Barros, 929 - Centro",
+        "NUM": "110412",
+        "SENTIDO": "Palotinos",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443941876934",
+        "LON": "-49,226235965137",
+        "NOME": "Rua Capitão João Busse, 160 - Cajuru",
+        "NUM": "140957",
+        "SENTIDO": "Palotinos",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    }
+]

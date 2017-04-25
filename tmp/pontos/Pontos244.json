@@ -1,0 +1,432 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,358615185996",
+        "LON": "-49,241900635924",
+        "NOME": "Rua Padre Paulo Caneles, 277 - Santa Candida",
+        "NUM": "120752",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,371080834114",
+        "LON": "-49,254044176287",
+        "NOME": "Rua Camile Flamarion, 89 - Barreirinha",
+        "NUM": "120146",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373677110474",
+        "LON": "-49,257921639259",
+        "NOME": "Rua Deputado Edgar Távora, 487 - Barreirinha",
+        "NUM": "120593",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3586818395",
+        "LON": "-49,241821510758",
+        "NOME": "Rua Padre Paulo Caneles, 642 - Santa Candida",
+        "NUM": "120446",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373418372289",
+        "LON": "-49,25238791222",
+        "NOME": "Rua dos Pinheiros, 303 - Barreirinha",
+        "NUM": "120595",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372352041855",
+        "LON": "-49,252855957693",
+        "NOME": "Rua Maria Aparecida Beruski, 52 - Barreirinha",
+        "NUM": "120596",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351889413985",
+        "LON": "-49,243158102036",
+        "NOME": "R. Estevão Manika, 424 - Santa Candida",
+        "NUM": "120995",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368506490484",
+        "LON": "-49,252246950332",
+        "NOME": "Rua Manoel Aristides de Farias, 166 - Barreirinha",
+        "NUM": "120148",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364583211803",
+        "LON": "-49,250205814089",
+        "NOME": "Rua Fernando de Noronha, 3124 - Santa Candida",
+        "NUM": "120151",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359318788125",
+        "LON": "-49,243717754631",
+        "NOME": "Rua Padre Paulo Caneles, 247 - Santa Candida",
+        "NUM": "120753",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374158495119",
+        "LON": "-49,263220612268",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120026",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,364600177316",
+        "LON": "-49,250083773578",
+        "NOME": "Rua Fernando de Noronha, 3124 - Santa Candida",
+        "NUM": "120602",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "15",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360829640396",
+        "LON": "-49,245612937795",
+        "NOME": "Rua Teodoro Makiolka, 2802 - Santa Candida",
+        "NUM": "120754",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373401895325",
+        "LON": "-49,259444362578",
+        "NOME": "Rua Deputado Edgar Távora, 314 - Barreirinha",
+        "NUM": "120592",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374105192667",
+        "LON": "-49,254847868261",
+        "NOME": "Rua dos Pinheiros, 38 - Barreirinha",
+        "NUM": "120594",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,367948255505",
+        "LON": "-49,250318701206",
+        "NOME": "Rua Fernando de Noronha, 2772 - Santa Candida",
+        "NUM": "120600",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,360782838794",
+        "LON": "-49,245167884111",
+        "NOME": "Rua Padre Paulo Caneles, 16 - Santa Candida",
+        "NUM": "120448",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356738575685",
+        "LON": "-49,239471924694",
+        "NOME": "Rua Padre Paulo Caneles, 128 - Santa Candida",
+        "NUM": "120751",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3710953752",
+        "LON": "-49,253927500195",
+        "NOME": "Rua Camile Flamarion, 179 - Barreirinha",
+        "NUM": "120597",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374623328939",
+        "LON": "-49,263250116568",
+        "NOME": "Av. Anita Garibaldi, 4419 - Curitiba",
+        "NUM": "120025",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372902659908",
+        "LON": "-49,262227154431",
+        "NOME": "Rua Deputado Edgar Távora, 105 - Barreirinha",
+        "NUM": "120591",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368082904176",
+        "LON": "-49,250368087734",
+        "NOME": "Rua Fernando de Noronha, 2772 - Santa Candida",
+        "NUM": "120149",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366291869287",
+        "LON": "-49,250373452152",
+        "NOME": "Rua Fernando de Noronha, 2961 - Santa Candida",
+        "NUM": "120150",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373007464303",
+        "LON": "-49,262245234255",
+        "NOME": "Rua Deputado Edgar Távora, 108 - Barreirinha",
+        "NUM": "120590",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,356782204114",
+        "LON": "-49,239376706274",
+        "NOME": "Rua Padre Paulo Caneles, 642 - Santa Candida",
+        "NUM": "120445",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361539646976",
+        "LON": "-49,248148966418",
+        "NOME": "Rua Fernando de Noronha, 3652 - Santa Candida",
+        "NUM": "120603",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373582595405",
+        "LON": "-49,257917615945",
+        "NOME": "Rua Deputado Edgar Távora, 487 - Barreirinha",
+        "NUM": "120142",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361492384704",
+        "LON": "-49,248242843734",
+        "NOME": "Rua Fernando de Noronha, 3652 - Santa Candida",
+        "NUM": "120152",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37332959114",
+        "LON": "-49,25263199324",
+        "NOME": "Rua dos Pinheiros, 303 - Barreirinha",
+        "NUM": "120144",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376397267673",
+        "LON": "-49,262598365111",
+        "NOME": "Avenida Anita Garibaldi, 4222  - Barreirinha",
+        "NUM": "120023",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368435309404",
+        "LON": "-49,252128514848",
+        "NOME": "Rua Manoel Aristides de Farias, 166 - Barreirinha",
+        "NUM": "120599",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377481243178",
+        "LON": "-49,262415543551",
+        "NOME": "Terminal Barreirinha - 244 - Jardim do Arroio",
+        "NUM": "104104",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,361052542736",
+        "LON": "-49,245707575534",
+        "NOME": "Rua Teodoro Makiolka, 2801 - Santa Candida",
+        "NUM": "120479",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14517",
+        "LAT": "-25,377481243178",
+        "LON": "-49,262415543551",
+        "NOME": "Terminal Barreirinha - 244 - Jardim do Arroio",
+        "NUM": "104104",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373320092277",
+        "LON": "-49,259495970015",
+        "NOME": "Rua Deputado Edgar Távora, 314 - Barreirinha",
+        "NUM": "120141",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374038205828",
+        "LON": "-49,254913541849",
+        "NOME": "Rua dos Pinheiros, 61 - Barreirinha",
+        "NUM": "120143",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369882611642",
+        "LON": "-49,251805973921",
+        "NOME": "Rua Tomaso Campanela, 37 - Barreirinha",
+        "NUM": "120147",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,36052518977",
+        "LON": "-49,247375091649",
+        "NOME": "Rua Teodoro Makiolka, 2953 - Santa Candida",
+        "NUM": "120450",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369952894237",
+        "LON": "-49,251734895382",
+        "NOME": "Rua Tomaso Campanela, 37 - Barreirinha",
+        "NUM": "120598",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372417476039",
+        "LON": "-49,252744646019",
+        "NOME": "Rua Maria Aparecida Beruski, 52 - Barreirinha",
+        "NUM": "120145",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,351889413985",
+        "LON": "-49,243158102036",
+        "NOME": "R. Estevão Manika, 424 - Santa Candida",
+        "NUM": "120995",
+        "SENTIDO": "Terminal Barreirinha",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,359376245634",
+        "LON": "-49,243630660738",
+        "NOME": "Rua Padre Paulo Caneles, 248 - Santa Candida",
+        "NUM": "120447",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,366279751233",
+        "LON": "-49,250272869314",
+        "NOME": "Rua Fernando de Noronha, 2961 - Santa Candida",
+        "NUM": "120601",
+        "SENTIDO": "Jardim Arroio",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    }
+]

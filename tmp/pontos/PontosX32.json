@@ -1,0 +1,142 @@
+[
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511784992244",
+        "LON": "-49,324761629105",
+        "NOME": "Terminal CIC - 210 - CIC/Cabral - 601 - CIC / Tiradentes",
+        "NUM": "109673",
+        "SENTIDO": "Atendimento Capão Raso/CIC",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511781903577",
+        "LON": "-49,324788163195",
+        "NOME": "Terminal CIC - 210 - CIC/Cabral - 601 - CIC / Tiradentes",
+        "NUM": "109100",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41920",
+        "LAT": "-25,429397071406",
+        "LON": "-49,272323430723",
+        "NOME": "Praça Tiradentes - 210 - CIC / CABRAL",
+        "NUM": "109051",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491804623642",
+        "LON": "-49,29373252901",
+        "NOME": "Terminal Capão Raso - 210 - CIC/ Cabral - 606 - Ctba / Araucária",
+        "NUM": "109094",
+        "SENTIDO": "Atendimento CIC/Capão Raso (Vazio)",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511784992244",
+        "LON": "-49,324761629105",
+        "NOME": "Terminal CIC - 210 - CIC/Cabral - 601 - CIC / Tiradentes",
+        "NUM": "109673",
+        "SENTIDO": "Atendimento CIC/Capão Raso (Vazio)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26064",
+        "LAT": "-25,471888446609",
+        "LON": "-49,285734519779",
+        "NOME": "Estação Tubo Vila Guaíra",
+        "NUM": "109071",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41903",
+        "LAT": "-25,455470508595",
+        "LON": "-49,267544016501",
+        "NOME": "Estação Tubo Pres. Kennedy",
+        "NUM": "109035",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491804623642",
+        "LON": "-49,29373252901",
+        "NOME": "Terminal Capão Raso - 210 - CIC/ Cabral - 606 - Ctba / Araucária",
+        "NUM": "109094",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41911",
+        "LAT": "-25,440314255936",
+        "LON": "-49,271795462059",
+        "NOME": "Estação Tubo Sete de Setembro",
+        "NUM": "109068",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511781903577",
+        "LON": "-49,324788163195",
+        "NOME": "Terminal CIC - 210 - CIC/Cabral - 601 - CIC / Tiradentes",
+        "NUM": "109100",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491804623642",
+        "LON": "-49,29373252901",
+        "NOME": "Terminal Capão Raso - 210 - CIC/ Cabral - 606 - Ctba / Araucária",
+        "NUM": "109094",
+        "SENTIDO": "Atendimento Capão Raso/CIC",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492114522446",
+        "LON": "-49,293043201293",
+        "NOME": "Terminal Capão Raso - 210 - CIC / Cabral",
+        "NUM": "109096",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491804623642",
+        "LON": "-49,29373252901",
+        "NOME": "Terminal Capão Raso - 210 - CIC/ Cabral - 606 - Ctba / Araucária",
+        "NUM": "109094",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511781903577",
+        "LON": "-49,324788163195",
+        "NOME": "Terminal CIC - 210 - CIC/Cabral - 601 - CIC / Tiradentes",
+        "NUM": "109100",
+        "SENTIDO": "Atendimento CIC/ Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

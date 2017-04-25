@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Itupava",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436563150213",
+        "LON": "-49,285132319874",
+        "NOME": "Avenida Vicente Machado, 873 - Centro",
+        "NUM": "180251",
+        "SENTIDO": "Itupava",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438435376692",
+        "LON": "-49,289891858158",
+        "NOME": "Avenida Vicente Machado, 1430 - Centro",
+        "NUM": "180249",
+        "SENTIDO": "Itupava",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436402073846",
+        "LON": "-49,288679541296",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1410 - Centro",
+        "NUM": "180247",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428170975247",
+        "LON": "-49,264558435626",
+        "NOME": "Rua Tibagi, 79 - Centro",
+        "NUM": "110048",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42991506766",
+        "LON": "-49,235225797838",
+        "NOME": "Rua Alexandre de Gusmão, 1075 - Jardim Social",
+        "NUM": "130408",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437214720086",
+        "LON": "-49,286810041613",
+        "NOME": "Avenida Vicente Machado, 988 - Centro",
+        "NUM": "180250",
+        "SENTIDO": "Itupava",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433070288062",
+        "LON": "-49,280226559586",
+        "NOME": "Alameda Dr. Carlos de Carvalho, 552 - Centro",
+        "NUM": "110113",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422918128472",
+        "LON": "-49,24616652841",
+        "NOME": "Rua Itupava, 1428 - Alto da Glória",
+        "NUM": "130415",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431792794865",
+        "LON": "-49,232007139951",
+        "NOME": "Rua Maria Ficinska, 382 - Tarumã",
+        "NUM": "130868",
+        "SENTIDO": "Itupava",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428277513404",
+        "LON": "-49,266261920936",
+        "NOME": "Praça Santos Andrade - 380 - Detran/Vicente Machado - 366 - Itupava/Hospital Militar",
+        "NUM": "103407",
+        "SENTIDO": "Itupava",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435484055553",
+        "LON": "-49,28240585441",
+        "NOME": "Avenida Vicente Machado, 589 - Centro",
+        "NUM": "110115",
+        "SENTIDO": "Itupava",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42691",
+        "LON": "-49,26308",
+        "NOME": "Rua Amintas de Barros, 298 - Centro",
+        "NUM": "110074",
+        "SENTIDO": "Itupava",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424136626573",
+        "LON": "-49,251898409075",
+        "NOME": "Rua Professor Brandão, 396 - Alto da Rua XV",
+        "NUM": "130401",
+        "SENTIDO": "Itupava",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43257223014",
+        "LON": "-49,272639931387",
+        "NOME": "Praça Zacarias - 366 - Itupava / Hospital Militar - 393 - C. Imbuia / Parque Barigui",
+        "NUM": "103502",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435945655012",
+        "LON": "-49,276344062036",
+        "NOME": "Rua Emíliano Perneta, 492 - Centro",
+        "NUM": "110110",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429327650465",
+        "LON": "-49,236861945337",
+        "NOME": "Rua Raul Joaquim Quadros Gomes, 405 - Tarumã",
+        "NUM": "130406",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431200108488",
+        "LON": "-49,234315187878",
+        "NOME": "Rua Maria Ficinska, 155 - Tarumã",
+        "NUM": "130410",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424655029585",
+        "LON": "-49,245660932011",
+        "NOME": "Rua Professor Brandão, 1008 - Alto da Rua XV",
+        "NUM": "130403",
+        "SENTIDO": "Itupava",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429939290988",
+        "LON": "-49,235314310736",
+        "NOME": "Rua Alexandre de Gusmão, 1060 - Jardim Social",
+        "NUM": "130409",
+        "SENTIDO": "Itupava",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422569118824",
+        "LON": "-49,250246168322",
+        "NOME": "Rua Itupava, 853 - Alto da Glória",
+        "NUM": "130416",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429452401161",
+        "LON": "-49,240590215868",
+        "NOME": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+        "NUM": "130412",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430128232779",
+        "LON": "-49,2389634561",
+        "NOME": "Rua Raul Joaquim Quadros Gomes, 85 - Tarumã",
+        "NUM": "130405",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433027310274",
+        "LON": "-49,276453985285",
+        "NOME": "Praça Osório - 207 -Cabral / Osório",
+        "NUM": "103303",
+        "SENTIDO": "Itupava",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434478829609",
+        "LON": "-49,279877872414",
+        "NOME": "Avenida Vicente Machado, 249-317 - Centro",
+        "NUM": "110116",
+        "SENTIDO": "Itupava",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424825811397",
+        "LON": "-49,243672074026",
+        "NOME": "Rua Professor Brandão, 1144 - Alto da Rua XV",
+        "NUM": "130404",
+        "SENTIDO": "Itupava",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431792794865",
+        "LON": "-49,232007139951",
+        "NOME": "Rua Maria Ficinska, 382 - Tarumã",
+        "NUM": "130868",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423099813861",
+        "LON": "-49,244140119499",
+        "NOME": "Rua Itupava, 1623- Alto da Glória",
+        "NUM": "130414",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42235836282",
+        "LON": "-49,255119742102",
+        "NOME": "Rua Itupava, 555 - Alto da Glória",
+        "NUM": "130418",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430115082892",
+        "LON": "-49,271544249004",
+        "NOME": "Praça Tiradentes - 366 - Itupava/ Hospital Militar",
+        "NUM": "101009",
+        "SENTIDO": "Itupava",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424346168246",
+        "LON": "-49,249469668812",
+        "NOME": "Rua Prof. Brandão, 600 - Alto da Rua XV",
+        "NUM": "130402",
+        "SENTIDO": "Itupava",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42611",
+        "LON": "-49,26112",
+        "NOME": "Rua Amintas de Barros, 473 - Centro",
+        "NUM": "110075",
+        "SENTIDO": "Itupava",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435475577779",
+        "LON": "-49,28647610659",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1208 - Centro",
+        "NUM": "180246",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433835722828",
+        "LON": "-49,279274375385",
+        "NOME": "Rua Visconde do Rio Branco, 1335 - Centro",
+        "NUM": "110112",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435367045923",
+        "LON": "-49,277721376366",
+        "NOME": "Rua Visconde do Rio Branco, 1625 - Centro",
+        "NUM": "110111",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423298456239",
+        "LON": "-49,242281348652",
+        "NOME": "Rua Itupava, 1805- Alto da Glória",
+        "NUM": "130413",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425431245782",
+        "LON": "-49,261648238844",
+        "NOME": "Rua Conselheiro Araújo, 271 - Centro",
+        "NUM": "110043",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423223186837",
+        "LON": "-49,257211865133",
+        "NOME": "Rua Itupava, 283 -  Alto da Glória",
+        "NUM": "110118",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422347461637",
+        "LON": "-49,25278353805",
+        "NOME": "Rua Itupava, 781 - Alto da Glória",
+        "NUM": "130417",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433995591501",
+        "LON": "-49,282597632355",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 805 - Centro",
+        "NUM": "110114",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42385562214",
+        "LON": "-49,255121083206",
+        "NOME": "Rua Professor Brandão, 50 - Alto da Rua XV",
+        "NUM": "130400",
+        "SENTIDO": "Itupava",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428794733419",
+        "LON": "-49,238866896576",
+        "NOME": "Rua Madre Leonie, 523-591 - Jardim Social",
+        "NUM": "130640",
+        "SENTIDO": "Itupava",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431276411141",
+        "LON": "-49,234366149849",
+        "NOME": "Rua Maria Ficinska, 130 - Tarumã",
+        "NUM": "130411",
+        "SENTIDO": "Itupava",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434376051538",
+        "LON": "-49,274678410239",
+        "NOME": "Rua Emíliano Perneta, 240 - Centro",
+        "NUM": "110005",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42591",
+        "LON": "-49,24216",
+        "NOME": "Av. Nossa Sra. da Luz, 2561 - Alto da Rua XV",
+        "NUM": "130129",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438435376692",
+        "LON": "-49,289891858158",
+        "NOME": "Avenida Vicente Machado, 1430 - Centro",
+        "NUM": "180249",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Itupava",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Itupava",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424991748104",
+        "LON": "-49,258341075129",
+        "NOME": "Rua Amintas de Barros, 778 Centro",
+        "NUM": "110117",
+        "SENTIDO": "Itupava",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42939426493",
+        "LON": "-49,236821712202",
+        "NOME": "Rua Raul Joaquim Quadros Gomes, 342 - Tarumã",
+        "NUM": "130407",
+        "SENTIDO": "Itupava",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437370951001",
+        "LON": "-49,291116328186",
+        "NOME": "Alameda Doutor Carlos de Carvalho, 1731 - Centro",
+        "NUM": "180248",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426294836548",
+        "LON": "-49,26381009931",
+        "NOME": "Rua Conselheiro Araújo, 1 - Centro",
+        "NUM": "110044",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424354473873",
+        "LON": "-49,259219498581",
+        "NOME": "Rua Itupava, 141 - Alto da Glória",
+        "NUM": "110119",
+        "SENTIDO": "Hosp. Militar",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    }
+]

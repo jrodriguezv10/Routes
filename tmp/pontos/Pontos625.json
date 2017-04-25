@@ -1,0 +1,572 @@
+[
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49211074049",
+        "LON": "-49,293211133427",
+        "NOME": "Terminal Capão Raso - 625 - Gramados",
+        "NUM": "104812",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534445225795",
+        "LON": "-49,268320145998",
+        "NOME": "Terminal Sítio Cercado - 625 - Gramados",
+        "NUM": "106112",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531003949257",
+        "LON": "-49,267253673611",
+        "NOME": "Rua Marte, 1673 - Sítio Cercado",
+        "NUM": "150349",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508253310322",
+        "LON": "-49,283609365746",
+        "NOME": "Rua Barão de Santo Ângelo, 86 - Xaxim",
+        "NUM": "150194",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510865792969",
+        "LON": "-49,275992682209",
+        "NOME": "Rua Omar Raymundo Picheth, 913 - Xaxim",
+        "NUM": "150326",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526929374174",
+        "LON": "-49,265516954292",
+        "NOME": "Rua João Elói de Souza, 100 - Sítio Cercado",
+        "NUM": "150455",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503825665926",
+        "LON": "-49,287821775003",
+        "NOME": "Rua Martin Wendrichovski, 50 - Capão Raso",
+        "NUM": "150192",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527349309264",
+        "LON": "-49,264098065723",
+        "NOME": "Av. Sagitário, 1551 - Sítio Cercado",
+        "NUM": "150454",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "47548",
+        "LAT": "-25,506738808136",
+        "LON": "-49,284472793689",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108204",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504733714901",
+        "LON": "-49,285771356687",
+        "NOME": "Rua Mal. Althayr Roszanniy, 781 - Capão Raso",
+        "NUM": "150238",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514460084439",
+        "LON": "-49,274506748861",
+        "NOME": "Rua Odenir Silveira, 305 - Xaxim",
+        "NUM": "150444",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509808789638",
+        "LON": "-49,281268542328",
+        "NOME": "Rua Barão de Santo Ângelo, 371 - Xaxim",
+        "NUM": "150329",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512784900367",
+        "LON": "-49,276755976686",
+        "NOME": "Rua Barão de Santo Ângelo, 957 - Xaxim",
+        "NUM": "150351",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514140059491",
+        "LON": "-49,274720495701",
+        "NOME": "Rua Barão de Santo Ângelo, 1182 - Xaxim",
+        "NUM": "150352",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528814332162",
+        "LON": "-49,261005860119",
+        "NOME": "Rua Marte, 130 - Sítio Cercado",
+        "NUM": "150345",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502580134571",
+        "LON": "-49,285135542675",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 186 - Capão Raso",
+        "NUM": "150191",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498923354192",
+        "LON": "-49,286123936697",
+        "NOME": "Rua Bôrtolo Gusso, 450 - Capão Raso",
+        "NUM": "150189",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526336379757",
+        "LON": "-49,267749893297",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 187 - Pinheirinho",
+        "NUM": "150458",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528283568802",
+        "LON": "-49,261729675163",
+        "NOME": "Av. Sagitário, 1253 - Sítio Cercado",
+        "NUM": "150452",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534445225795",
+        "LON": "-49,268320145998",
+        "NOME": "Terminal Sítio Cercado - 625 - Gramados",
+        "NUM": "106112",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53028",
+        "LON": "-49,26472",
+        "NOME": "Rua Marte, 513 - Sítio Cercado",
+        "NUM": "150346",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530737963506",
+        "LON": "-49,266089504299",
+        "NOME": "Rua Marte, 1574 - Sítio Cercado",
+        "NUM": "150348",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506240434816",
+        "LON": "-49,282916014715",
+        "NOME": "Rua Omar Raymundo Picheth, 1 - Xaxim",
+        "NUM": "150237",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521523277545",
+        "LON": "-49,272268445438",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 714 - Pinheirinho",
+        "NUM": "150464",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530118854651",
+        "LON": "-49,264681836805",
+        "NOME": "Rua Marte, 514 - Sítio Cercado",
+        "NUM": "150347",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500766888966",
+        "LON": "-49,284072046801",
+        "NOME": "Rua Bôrtolo Gusso, 716 - Capão Raso",
+        "NUM": "150190",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521966226113",
+        "LON": "-49,271871478505",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 697 - Pinheirinho",
+        "NUM": "150463",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523119579056",
+        "LON": "-49,270288975185",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 477 - Pinheirinho",
+        "NUM": "150462",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502609185012",
+        "LON": "-49,285037642046",
+        "NOME": "Rua Eleonora Faria Costa da Silva, 185 - Capão Raso",
+        "NUM": "150239",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496938279745",
+        "LON": "-49,290224493689",
+        "NOME": "Rua Rodolpho Senff Júnior, 111 - Capão Raso",
+        "NUM": "150859",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518458900055",
+        "LON": "-49,276895255989",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 1275 - Pinheirinho",
+        "NUM": "150448",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524444771532",
+        "LON": "-49,269083322233",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 260 - Pinheirinho",
+        "NUM": "150459",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524216040725",
+        "LON": "-49,269414575047",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 333 - Pinheirinho",
+        "NUM": "150460",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528195225919",
+        "LON": "-49,261714923014",
+        "NOME": "Av. Sagitário, 1260 - Sítio Cercado",
+        "NUM": "150451",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "47548",
+        "LAT": "-25,506738808136",
+        "LON": "-49,284472793689",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108204",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511347896532",
+        "LON": "-49,278959038029",
+        "NOME": "Rua Barão de Santo Ângelo, 662 - Xaxim",
+        "NUM": "150350",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50559242081",
+        "LON": "-49,287583557043",
+        "NOME": "Rua Ipiranga, 742 - Capão Raso",
+        "NUM": "150357",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507915849802",
+        "LON": "-49,280408279762",
+        "NOME": "Rua Omar Raymundo Picheth, 288 - Xaxim",
+        "NUM": "150328",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496935742656",
+        "LON": "-49,286646967455",
+        "NOME": "Rua Bortolo Gusso, 211 - Capão Raso",
+        "NUM": "150242",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520201683579",
+        "LON": "-49,274294854349",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 960 - Pinheirinho",
+        "NUM": "150450",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522817021644",
+        "LON": "-49,270380170292",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 514 - Pinheirinho",
+        "NUM": "150461",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526333959366",
+        "LON": "-49,267586278547",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 178 - Pinheirinho",
+        "NUM": "150457",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516247707038",
+        "LON": "-49,27551794166",
+        "NOME": "Rua José Osíres Baglioli, 20 - Pinheirinho",
+        "NUM": "150446",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512402796898",
+        "LON": "-49,27368475215",
+        "NOME": "Rua Omar Raymundo Picheth, 1151 - Xaxim",
+        "NUM": "150325",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509461759267",
+        "LON": "-49,27810839633",
+        "NOME": "Rua Omar Raymundo Picheth, 575 - Xaxim",
+        "NUM": "150327",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529095223798",
+        "LON": "-49,261420612268",
+        "NOME": "Rua Marte, 129 - Sítio Cercado",
+        "NUM": "150344",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500605898547",
+        "LON": "-49,284069364592",
+        "NOME": "Rua Bôrtolo Gusso, 721 - Capão Raso",
+        "NUM": "150240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498890671443",
+        "LON": "-49,286003237291",
+        "NOME": "Rua Bôrtolo Gusso, 459 - Capão Raso",
+        "NUM": "150241",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516210187812",
+        "LON": "-49,275350303596",
+        "NOME": "Rua José Osíres Baglioli, 1 - Pinheirinho",
+        "NUM": "150445",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527363831488",
+        "LON": "-49,263615268101",
+        "NOME": "Av. Sagitário, 1470 - Sítio Cercado",
+        "NUM": "150453",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495989684013",
+        "LON": "-49,286990991402",
+        "NOME": "Rua Bôrtolo Gusso, 24 - Capão Raso",
+        "NUM": "150071",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518602922708",
+        "LON": "-49,276880503839",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 1290 - Pinheirinho",
+        "NUM": "150447",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520305765683",
+        "LON": "-49,274285466618",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 949 - Pinheirinho",
+        "NUM": "150449",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526994401696",
+        "LON": "-49,265482127666",
+        "NOME": "R. João Eloy de Souza, 90 - Sítio Cercado",
+        "NUM": "150879",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,49211074049",
+        "LON": "-49,293211133427",
+        "NOME": "Terminal Capão Raso - 625 - Gramados",
+        "NUM": "104812",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    }
+]

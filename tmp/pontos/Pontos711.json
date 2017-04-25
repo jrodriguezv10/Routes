@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,470727687224",
+        "LON": "-49,351928334359",
+        "NOME": "Rua do Semeador, 556- Cidade Industrial",
+        "NUM": "180500",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473692249826",
+        "LON": "-49,350013334894",
+        "NOME": "Rua Clemente Ritz, 785- Cidade Industrial",
+        "NUM": "180745",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475089419704",
+        "LON": "-49,3494795753",
+        "NOME": "Rua Darci Vargas, 1426 - Cidade Industrial",
+        "NUM": "180744",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4771051521",
+        "LON": "-49,337120236105",
+        "NOME": "Rua Raul Pompéia, 649 - Cidade Industrial",
+        "NUM": "180443",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475156008851",
+        "LON": "-49,349604298019",
+        "NOME": "Rua Darci Vargas, 1427- Cidade Industrial",
+        "NUM": "180494",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47731",
+        "LON": "-49,32693",
+        "NOME": "Terminal Fazendinha - 711 - Itatiaia",
+        "NUM": "105305",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477025246414",
+        "LON": "-49,337295920795",
+        "NOME": "Rua Raul Pompéia, 648 - Cidade Industrial",
+        "NUM": "180444",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469311762792",
+        "LON": "-49,349211354398",
+        "NOME": "Rua do Semeador, 216 - Cidade Industrial",
+        "NUM": "180748",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475636660327",
+        "LON": "-49,345705707216",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 625 Cidade Industrial",
+        "NUM": "180742",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470727687224",
+        "LON": "-49,351928334359",
+        "NOME": "Rua do Semeador, 556- Cidade Industrial",
+        "NUM": "180500",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476673020702",
+        "LON": "-49,34759934678",
+        "NOME": "Rua Prof. Hilda Hanke Gonçalves, 821 - Cidade Industrial",
+        "NUM": "180743",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474870280614",
+        "LON": "-49,343500931405",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 351 Cidade Industrial",
+        "NUM": "180741",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469503064341",
+        "LON": "-49,34729893937",
+        "NOME": "Rua Eng. Roberto Fischer 11",
+        "NUM": "180747",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472150985542",
+        "LON": "-49,347081680441",
+        "NOME": "Rua Clemente Ritz, 415- Cidade Industrial",
+        "NUM": "180746",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,47731",
+        "LON": "-49,32693",
+        "NOME": "Terminal Fazendinha - 711 - Itatiaia",
+        "NUM": "105305",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475392097348",
+        "LON": "-49,340054292821",
+        "NOME": "Rua Cidade de Laguna, 386-Cidade Industrial",
+        "NUM": "180489",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475335194009",
+        "LON": "-49,340019424104",
+        "NOME": "Rua Cidade de Laguna, 385- Cidade Industrial",
+        "NUM": "180739",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476030139325",
+        "LON": "-49,338615287685",
+        "NOME": "Rua Cidade de Laguna, 184- Cidade Industrial",
+        "NUM": "180738",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474975612713",
+        "LON": "-49,343455333852",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 350- Cidade Industrial",
+        "NUM": "180491",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469549073529",
+        "LON": "-49,34739684",
+        "NOME": "Rua Eng. Roberto Fischer 10",
+        "NUM": "180498",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476117309883",
+        "LON": "-49,338630039834",
+        "NOME": "Rua Cidade de Laguna, 183 - Cidade Industrial",
+        "NUM": "180488",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475691142111",
+        "LON": "-49,345621217632",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 624-Cidade Industrial",
+        "NUM": "180492",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47670086671",
+        "LON": "-49,347474624061",
+        "NOME": "Rua Prof. Hilda Hanke Gonçalves, 822 - Cidade Industrial",
+        "NUM": "180493",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473625659868",
+        "LON": "-49,350069661283",
+        "NOME": "Rua Clemente Ritz, 784 - Cidade Industrial",
+        "NUM": "180495",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472056547654",
+        "LON": "-49,347159464502",
+        "NOME": "Rua Clemente Ritz, 414 - Cidade Industrial",
+        "NUM": "180496",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474709255504",
+        "LON": "-49,341905017042",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 237-Cidade Industrial",
+        "NUM": "180740",
+        "SENTIDO": "Itatiaia",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474797637734",
+        "LON": "-49,341870148324",
+        "NOME": "Rua Professora Hilda Hanke Gonçalves, 238- Cidade Industrial",
+        "NUM": "180490",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46941467822",
+        "LON": "-49,349161733531",
+        "NOME": "Rua do Semeador, 215 - Cidade Industrial",
+        "NUM": "180499",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

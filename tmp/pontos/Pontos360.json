@@ -1,0 +1,182 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,425569496752",
+        "LON": "-49,263081879562",
+        "NOME": "Rua Doutor Faivre, 213-297 - Centro",
+        "NUM": "110045",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424159639838",
+        "LON": "-49,263875813431",
+        "NOME": "Rua Doutor Faivre, 75 - Centro",
+        "NUM": "110188",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432498350589",
+        "LON": "-49,272501797623",
+        "NOME": "Praça Zacarias - 370-Rua XV / Barigui - 360-Novena - 365-Jardim Social/Batel",
+        "NUM": "103503",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435377754163",
+        "LON": "-49,273891360574",
+        "NOME": "Praça Rui Barbosa - 360 - Novena",
+        "NUM": "102014",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430059369312",
+        "LON": "-49,271253229326",
+        "NOME": "Praça Tiradentes, 421 - Centro",
+        "NUM": "101011",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43008",
+        "LON": "-49,27409",
+        "NOME": "Rua Cruz Machado, 82 - Centro",
+        "NUM": "110017",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4210706",
+        "LON": "-49,2618388",
+        "NOME": "Rua Maria Clara, 248 - Alto da Glória",
+        "NUM": "110404",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430894327324",
+        "LON": "-49,276454032606",
+        "NOME": "Rua Cruz Machado, 301 - Centro",
+        "NUM": "110016",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424564188097",
+        "LON": "-49,259939671701",
+        "NOME": "Rua Ubaldino do Amaral, 410 - Alto da Glória",
+        "NUM": "110042",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433122323438",
+        "LON": "-49,276558638757",
+        "NOME": "Praça Gen. Osório, 389 - Centro",
+        "NUM": "103505",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422142934402",
+        "LON": "-49,261027307457",
+        "NOME": "Rua Ubaldino do Amaral, 106 - Alto da Glória",
+        "NUM": "110041",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428513608854",
+        "LON": "-49,26684501881",
+        "NOME": "Praça Santos Andrade - 360 - Novena - 361 - Augusto Stresser",
+        "NUM": "103404",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4210706",
+        "LON": "-49,2618388",
+        "NOME": "Rua Maria Clara, 248 - Alto da Glória",
+        "NUM": "110404",
+        "SENTIDO": "Perpétuo Socorro",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435377754163",
+        "LON": "-49,273891360574",
+        "NOME": "Praça Rui Barbosa - 360 - Novena",
+        "NUM": "102014",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    }
+]

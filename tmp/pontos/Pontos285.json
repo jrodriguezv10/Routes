@@ -1,0 +1,652 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,419969941954",
+        "LON": "-49,269177812233",
+        "NOME": "Av. Cândido de Abreu, 501 - Centro Cívico",
+        "NUM": "110121",
+        "SENTIDO": "Água Verde",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470671896491",
+        "LON": "-49,289759750926",
+        "NOME": "Rua Eng. Niepce da Silva, 456 - Portão",
+        "NUM": "150528",
+        "SENTIDO": "Juvevê",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446178041965",
+        "LON": "-49,270925439998",
+        "NOME": "Rua Eng. Rebouças, 2664 - Jardim Botânico",
+        "NUM": "110184",
+        "SENTIDO": "Água Verde",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427695151901",
+        "LON": "-49,271025854244",
+        "NOME": "Rua Barão do Serro Azul, 217 - São Francisco",
+        "NUM": "110122",
+        "SENTIDO": "Água Verde",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Água Verde",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45065221655",
+        "LON": "-49,274339723483",
+        "NOME": "Rua Alm. Gonçalves, 2316 - Água Verde",
+        "NUM": "150557",
+        "SENTIDO": "Água Verde",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451484141832",
+        "LON": "-49,276494878426",
+        "NOME": "Rua Alm. Gonçalves, 2562 - Água Verde",
+        "NUM": "150558",
+        "SENTIDO": "Água Verde",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463078426253",
+        "LON": "-49,286392229691",
+        "NOME": "Rua Monsenhor Manoel Vicente, 647 - Água Verde",
+        "NUM": "150535",
+        "SENTIDO": "Água Verde",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407636159195",
+        "LON": "-49,254614145702",
+        "NOME": "Rua Dr. Manoel Pedro, 291 - Cabral",
+        "NUM": "120230",
+        "SENTIDO": "Água Verde",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411655485426",
+        "LON": "-49,258606613821",
+        "NOME": "Rua Campos Sales, 842 - Juvevê",
+        "NUM": "120399",
+        "SENTIDO": "Água Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413712340163",
+        "LON": "-49,26050159449",
+        "NOME": "Rua Campos Sales, 592 - Juvevê",
+        "NUM": "120400",
+        "SENTIDO": "Água Verde",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464249302612",
+        "LON": "-49,283744276708",
+        "NOME": "Rua Rio Grande do Sul, 646 - Água Verde",
+        "NUM": "150533",
+        "SENTIDO": "Água Verde",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41480873962",
+        "LON": "-49,25896334762",
+        "NOME": "Rua Nicolau Maeder, 562 - Juvevê",
+        "NUM": "130421",
+        "SENTIDO": "Juvevê",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Juvevê",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470671896491",
+        "LON": "-49,289759750926",
+        "NOME": "Rua Eng. Niepce da Silva, 456 - Portão",
+        "NUM": "150528",
+        "SENTIDO": "Água Verde",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Água Verde",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46582335989",
+        "LON": "-49,285305322354",
+        "NOME": "Av. dos Estados, 612 - Água Verde",
+        "NUM": "150861",
+        "SENTIDO": "Água Verde",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4125021",
+        "LON": "-49,2463512",
+        "NOME": "Rua Menezes Dória, 1 - Cabral",
+        "NUM": "130867",
+        "SENTIDO": "Juvevê",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436527028414",
+        "LON": "-49,272802383714",
+        "NOME": "Praça Rui Barbosa - 165 - Universidades - 180 - Água Verde/Abranches - 285 - Juvevê/Água Verde",
+        "NUM": "102026",
+        "SENTIDO": "Juvevê",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Juvevê",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458776259716",
+        "LON": "-49,284379231825",
+        "NOME": "Rua Monsenhor Manoel Vicente, 242 - Água Verde",
+        "NUM": "150546",
+        "SENTIDO": "Juvevê",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450080643011",
+        "LON": "-49,276761758223",
+        "NOME": "Rua Brasílio Itiberê, 3381 - Água Verde",
+        "NUM": "150554",
+        "SENTIDO": "Juvevê",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419129434631",
+        "LON": "-49,266063154882",
+        "NOME": "Rua Comendador Fontana, 204 - Centro Cívico",
+        "NUM": "110149",
+        "SENTIDO": "Juvevê",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412029943393",
+        "LON": "-49,254561842626",
+        "NOME": "Av. Munhoz da Rocha, 332 - Juvevê",
+        "NUM": "130423",
+        "SENTIDO": "Juvevê",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452546679672",
+        "LON": "-49,280763527613",
+        "NOME": "Rua Bento Viana, 76 - Água Verde",
+        "NUM": "150231",
+        "SENTIDO": "Juvevê",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186078583",
+        "LON": "-49,273523897939",
+        "NOME": "Praça Rui Barbosa - 285 - Juvevê / Água Verde",
+        "NUM": "102035",
+        "SENTIDO": "Água Verde",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44982028552",
+        "LON": "-49,272215413942",
+        "NOME": "Rua Alm. Gonçalves, 2026 - Rebouças",
+        "NUM": "150556",
+        "SENTIDO": "Água Verde",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453459184502",
+        "LON": "-49,280857491389",
+        "NOME": "Rua Prof. Assis Gonçalves, 1-55 - Água Verde",
+        "NUM": "150552",
+        "SENTIDO": "Água Verde",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458314914967",
+        "LON": "-49,282981800929",
+        "NOME": "Rua Prof. Assis Gonçalves, 571 - Água Verde",
+        "NUM": "150549",
+        "SENTIDO": "Água Verde",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460625253599",
+        "LON": "-49,285323369398",
+        "NOME": "Rua Monsenhor Manoel Vicente, 38 - Água Verde",
+        "NUM": "150545",
+        "SENTIDO": "Água Verde",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411269072496",
+        "LON": "-49,247491050263",
+        "NOME": "Rua dos Funcionários, 1357 - Cabral",
+        "NUM": "130112",
+        "SENTIDO": "Água Verde",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408811353523",
+        "LON": "-49,251591296142",
+        "NOME": "Av. Munhoz da Rocha, 706 - Cabral",
+        "NUM": "130866",
+        "SENTIDO": "Água Verde",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409254565852",
+        "LON": "-49,25687793011",
+        "NOME": "Av. Anita Garibaldi, 261 - Ahú",
+        "NUM": "120398",
+        "SENTIDO": "Água Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415936320299",
+        "LON": "-49,262600423044",
+        "NOME": "Rua Campos Sales, 276 - Alto da Glória",
+        "NUM": "120401",
+        "SENTIDO": "Água Verde",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463056631257",
+        "LON": "-49,286244708195",
+        "NOME": "Rua Monsenhor Manoel Vicente, 646 - Água Verde",
+        "NUM": "150536",
+        "SENTIDO": "Juvevê",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450982807634",
+        "LON": "-49,279158311977",
+        "NOME": "Rua Brasílio Itiberê, 3637 - Água Verde",
+        "NUM": "150553",
+        "SENTIDO": "Juvevê",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448822445086",
+        "LON": "-49,273453253403",
+        "NOME": "Rua Brasílio Itiberê, 3001 - Água Verde",
+        "NUM": "150555",
+        "SENTIDO": "Juvevê",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465816088507",
+        "LON": "-49,287451089567",
+        "NOME": "Rua Monsenhor Manoel Vicente, 1092 - Água Verde",
+        "NUM": "150560",
+        "SENTIDO": "Juvevê",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447519099158",
+        "LON": "-49,272013269232",
+        "NOME": "Rua Lamenha Lins, 1283 - Reboucas",
+        "NUM": "110349",
+        "SENTIDO": "Água Verde",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423600052884",
+        "LON": "-49,270048917478",
+        "NOME": "Av. Cândido de Abreu, 51  - Centro Cívico",
+        "NUM": "103155",
+        "SENTIDO": "Água Verde",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418154239854",
+        "LON": "-49,268749999896",
+        "NOME": "Av. Cândido de Abreu, 707 - Centro Cívico",
+        "NUM": "110120",
+        "SENTIDO": "Água Verde",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458827116509",
+        "LON": "-49,284540164366",
+        "NOME": "Rua Monsenhor Manoel Vicente, 281 - Água Verde",
+        "NUM": "150547",
+        "SENTIDO": "Água Verde",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469735401883",
+        "LON": "-49,28805324549",
+        "NOME": "Rua Amazonas, 1252 - Portão",
+        "NUM": "150527",
+        "SENTIDO": "Água Verde",
+        "SEQ": "35",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455785358129",
+        "LON": "-49,281735914841",
+        "NOME": "Rua Prof. Assis Gonçalves, 302 - Água Verde",
+        "NUM": "150551",
+        "SENTIDO": "Juvevê",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461057529014",
+        "LON": "-49,285367625848",
+        "NOME": "Rua Monsenhor Manoel Vicente, 576 - Água Verde",
+        "NUM": "150537",
+        "SENTIDO": "Juvevê",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469074321833",
+        "LON": "-49,288671494668",
+        "NOME": "Av. dos Estados, 1091 - Portão",
+        "NUM": "150529",
+        "SENTIDO": "Juvevê",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429998811043",
+        "LON": "-49,274660975879",
+        "NOME": "Rua Ébano Pereira, 218 - Centro",
+        "NUM": "110051",
+        "SENTIDO": "Água Verde",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43013930618",
+        "LON": "-49,271632761902",
+        "NOME": "Praça Tiradentes - 285 - Juvevê/ Água Verde",
+        "NUM": "101008",
+        "SENTIDO": "Juvevê",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417505104038",
+        "LON": "-49,261441708749",
+        "NOME": "Rua Nicolau Maeder, 192 - Alto da Glória",
+        "NUM": "110128",
+        "SENTIDO": "Juvevê",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413631332472",
+        "LON": "-49,25679746384",
+        "NOME": "Rua Guarda-mor Lustosa, 96 - Juvevê",
+        "NUM": "130422",
+        "SENTIDO": "Juvevê",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409349204401",
+        "LON": "-49,252095551437",
+        "NOME": "Av. Munhoz da Rocha, 745 - Cabral",
+        "NUM": "130100",
+        "SENTIDO": "Juvevê",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4125021",
+        "LON": "-49,2463512",
+        "NOME": "Rua Menezes Dória, 1 - Cabral",
+        "NUM": "130867",
+        "SENTIDO": "Água Verde",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Água Verde",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409319381977",
+        "LON": "-49,249182507935",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130111",
+        "SENTIDO": "Água Verde",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417701181662",
+        "LON": "-49,265145839398",
+        "NOME": "Rua Lysímaco Ferreira da Costa, 1 - Alto da Glória",
+        "NUM": "120403",
+        "SENTIDO": "Água Verde",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452741835946",
+        "LON": "-49,278116588955",
+        "NOME": "Rua Alferes Ângelo Sampaio, 1 - Água Verde",
+        "NUM": "150223",
+        "SENTIDO": "Água Verde",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458247105616",
+        "LON": "-49,282835620537",
+        "NOME": "Rua Prof. Assis Gonçalves, 572 - Água Verde",
+        "NUM": "150548",
+        "SENTIDO": "Juvevê",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Juvevê",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423318109898",
+        "LON": "-49,268572186508",
+        "NOME": "Rua Heitor S de França, 93 - Centro Cívico",
+        "NUM": "110126",
+        "SENTIDO": "Juvevê",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468973827661",
+        "LON": "-49,287685782856",
+        "NOME": "Rua Paranaguá, 502 - Água Verde",
+        "NUM": "150526",
+        "SENTIDO": "Água Verde",
+        "SEQ": "34",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456002110175",
+        "LON": "-49,281967925921",
+        "NOME": "Rua Prof. Assis Gonçalves, 301 - Água Verde",
+        "NUM": "150550",
+        "SENTIDO": "Água Verde",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4478000484",
+        "LON": "-49,270826391742",
+        "NOME": "Rua Brasílio Itiberê, 2731-2839 - Rebouças",
+        "NUM": "150719",
+        "SENTIDO": "Juvevê",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Juvevê",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Juvevê",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432487450323",
+        "LON": "-49,271074862427",
+        "NOME": "Marechal Floriano Peixoto - 285 - Juvevê / Água Verde",
+        "NUM": "103273",
+        "SENTIDO": "Juvevê",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    }
+]

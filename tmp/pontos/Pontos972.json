@@ -1,0 +1,672 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,407791217061",
+        "LON": "-49,313071550077",
+        "NOME": "Rua Ângelo Domingos Durigan, 819 - Cascatinha",
+        "NUM": "109672",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414966104615",
+        "LON": "-49,303415597624",
+        "NOME": "Av. Manoel Ribas, 2262 - Mercês",
+        "NUM": "190551",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392795693807",
+        "LON": "-49,332473308987",
+        "NOME": "Rua Francisco Dalalibera, 1323 - Santa Felicidade",
+        "NUM": "190687",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39380490187",
+        "LON": "-49,321348847098",
+        "NOME": "Rua Francisco Dalalibera, 207 - Santa Felicidade",
+        "NUM": "190682",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41684247426",
+        "LON": "-49,29457445627",
+        "NOME": "Av. Manoel Ribas, 1496 - Mercês",
+        "NUM": "190494",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392721789884",
+        "LON": "-49,332344562954",
+        "NOME": "Rua Francisco Dalalibera, 1354 - Santa Felicidade",
+        "NUM": "190825",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397871994669",
+        "LON": "-49,316846759266",
+        "NOME": "Rua José Vale, 1609 - Santa Felicidade",
+        "NUM": "190407",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400785716349",
+        "LON": "-49,330491368106",
+        "NOME": "Terminal Santa Felicidade - 972 - Jardim Itália",
+        "NUM": "106015",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415972759243",
+        "LON": "-49,296807395275",
+        "NOME": "Av. Manoel Ribas, 1821 - Mercês",
+        "NUM": "190496",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398572232931",
+        "LON": "-49,31469696874",
+        "NOME": "Rua José Vale, 1332 - Santa Felicidade",
+        "NUM": "190408",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400785716349",
+        "LON": "-49,330491368106",
+        "NOME": "Terminal Santa Felicidade - 972 - Jardim Itália",
+        "NUM": "106015",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "34",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402474314455",
+        "LON": "-49,312256158537",
+        "NOME": "Rua Ângelo Domingos Durigan, 1430 - Cascatinha",
+        "NUM": "190675",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41851284247",
+        "LON": "-49,293422447499",
+        "NOME": "Av. Manoel Ribas, 1414 - Mercês",
+        "NUM": "190449",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,326179505533",
+        "NOME": "Rua Francisco Dalalibera, 662 - Santa Felicidade",
+        "NUM": "190683",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426928549988",
+        "LON": "-49,271383145224",
+        "NOME": "Rua Treze de Maio, 503 - São Francisco",
+        "NUM": "110187",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423999603302",
+        "LON": "-49,27985355409",
+        "NOME": "Av. Manoel Ribas, 66 - São Francisco",
+        "NUM": "110150",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393412365763",
+        "LON": "-49,326196939892",
+        "NOME": "Rua Francisco Dalalibera, 661 - Santa Felicidade",
+        "NUM": "190684",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394212032723",
+        "LON": "-49,31905555839",
+        "NOME": "Rua Ari José Vale, 434 - São João",
+        "NUM": "190416",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400772226172",
+        "LON": "-49,312413067764",
+        "NOME": "Rua José Valle, 1180 - Santa Felicidade",
+        "NUM": "190677",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409392662421",
+        "LON": "-49,312203855461",
+        "NOME": "Rua Ângelo Domingos Durigan, 602 - Cascatinha",
+        "NUM": "190669",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414255059596",
+        "LON": "-49,308200658507",
+        "NOME": "Av. Manoel Ribas, 3400 - Cascatinha",
+        "NUM": "190552",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415488180996",
+        "LON": "-49,300555021709",
+        "NOME": "Av. Manoel Ribas, 2262 - Mercês",
+        "NUM": "190498",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419102734923",
+        "LON": "-49,293355392273",
+        "NOME": "Av. Manoel Ribas, 1363 - Mercês",
+        "NUM": "190448",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407558630188",
+        "LON": "-49,313103736586",
+        "NOME": "Rua Ângelo Domingos Durigan, 820 - Cascatinha",
+        "NUM": "109671",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41281595313",
+        "LON": "-49,311365665144",
+        "NOME": "Rua Ângelo Domingos Durigan, 2 - Cascatinha",
+        "NUM": "190667",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421023802045",
+        "LON": "-49,29224763995",
+        "NOME": "Av. Manoel Ribas, 1141 - Mercês",
+        "NUM": "190446",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395727641154",
+        "LON": "-49,318315268702",
+        "NOME": "Rua Ari José Valle, 516 - São João",
+        "NUM": "190679",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426307121504",
+        "LON": "-49,274682433552",
+        "NOME": "Rua Treze de Maio, 879 - Centro",
+        "NUM": "110216",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404889905998",
+        "LON": "-49,313630790657",
+        "NOME": "Rua Ângelo Domingos Durigan, 1088 - Cascatinha",
+        "NUM": "190673",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393700710312",
+        "LON": "-49,321327389426",
+        "NOME": "Rua Francisco Dalalibera, 208 - Santa Felicidade",
+        "NUM": "190681",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412881365382",
+        "LON": "-49,311459542459",
+        "NOME": "Rua Ângelo Domingos Durigan, 1 - Cascatinha",
+        "NUM": "190668",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415665086969",
+        "LON": "-49,300608085449",
+        "NOME": "Av. Manoel Ribas, 2261 - Mercês",
+        "NUM": "190499",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42127816551",
+        "LON": "-49,292316036279",
+        "NOME": "Av. Manoel Ribas, 1140 - Mercês",
+        "NUM": "190447",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414494257108",
+        "LON": "-49,304343641943",
+        "NOME": "Av. Manoel Ribas, 2551 - Mercês",
+        "NUM": "190550",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392985905336",
+        "LON": "-49,329433025069",
+        "NOME": "Rua Francisco Dalalibera, 1000 - Santa Felicidade",
+        "NUM": "190685",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404895963088",
+        "LON": "-49,313743443436",
+        "NOME": "Rua Ângelo Domingos Durigan, 1087 - Cascatinha",
+        "NUM": "190674",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400820684534",
+        "LON": "-49,31256058926",
+        "NOME": "Rua José Valle, 1171 - Santa Felicidade",
+        "NUM": "190678",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416982984733",
+        "LON": "-49,294747458751",
+        "NOME": "Av. Manoel Ribas, 1495 - Mercês",
+        "NUM": "190495",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395710680014",
+        "LON": "-49,318473519033",
+        "NOME": "Rua Ari José Valle, 177 - São João",
+        "NUM": "190680",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4283721953",
+        "LON": "-49,272862767696",
+        "NOME": "Nestor de Castro - 972 - Jardim itália",
+        "NUM": "101122",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415751089928",
+        "LON": "-49,297035383041",
+        "NOME": "Av. Manoel Ribas, 1822 - Mercês",
+        "NUM": "190497",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4283721953",
+        "LON": "-49,272862767696",
+        "NOME": "Nestor de Castro - 972 - Jardim itália",
+        "NUM": "101122",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394374376983",
+        "LON": "-49,319121272511",
+        "NOME": "Rua Ari José Vale, 371 - São João",
+        "NUM": "190417",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398703072848",
+        "LON": "-49,314719767517",
+        "NOME": "Rua José Vale, 1331 - Santa Felicidade",
+        "NUM": "190409",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402404050787",
+        "LON": "-49,312364788002",
+        "NOME": "Rua Ângelo Domingos Durigan, 1407 - Cascatinha",
+        "NUM": "190676",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409867519591",
+        "LON": "-49,312101931519",
+        "NOME": "Rua Ângelo Domingos Durigan, 519 - Cascatinha",
+        "NUM": "190670",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414683867486",
+        "LON": "-49,308120192236",
+        "NOME": "Av. Manoel Ribas, 3401 - Cascatinha",
+        "NUM": "190608",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393094943657",
+        "LON": "-49,329459847159",
+        "NOME": "Rua Francisco Dalalibera, 999 - Santa Felicidade",
+        "NUM": "190686",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397776287047",
+        "LON": "-49,317050607151",
+        "NOME": "Rua José Vale, 1610 - Santa Felicidade",
+        "NUM": "190406",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    }
+]

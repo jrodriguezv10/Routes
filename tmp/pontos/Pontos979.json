@@ -1,0 +1,262 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,429586014047",
+        "LON": "-49,271544255016",
+        "NOME": "Praça Tiradentes - 979 - Linha Turismo",
+        "NUM": "101016",
+        "SENTIDO": "Turismo",
+        "SEQ": "26",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409001851992",
+        "LON": "-49,271733350699",
+        "NOME": "Rua Mateus Leme, 2081 - São Francisco (Bosque do Papa)",
+        "NUM": "120573",
+        "SENTIDO": "Turismo",
+        "SEQ": "13",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385499095487",
+        "LON": "-49,275202565641",
+        "NOME": "Rua João Gava, 870 - Abranches (Ópera de Arame - Pedreira Paulo Leminski)",
+        "NUM": "120074",
+        "SENTIDO": "Turismo",
+        "SEQ": "18",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423138307911",
+        "LON": "-49,306012988091",
+        "NOME": "Av. Cândido Hartmann, 2205 - Mercês (Parque Barigui)",
+        "NUM": "190941",
+        "SENTIDO": "Turismo",
+        "SEQ": "24",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423812053353",
+        "LON": "-49,294581923942",
+        "NOME": "Rua Jacarezinho, 620 - Mercês",
+        "NUM": "190211",
+        "SENTIDO": "Turismo",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404572285442",
+        "LON": "-49,288284927607",
+        "NOME": "Rua Nicolo Paganini, 440 - Vista Alegre (Bosque Alemão)",
+        "NUM": "190375",
+        "SENTIDO": "Turismo",
+        "SEQ": "15",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435514487",
+        "LON": "-49,257235425",
+        "NOME": "Av. Pres. Affonso Camargo, 175 - Jardim Botânico (Rodoferroviária)",
+        "NUM": "110021",
+        "SENTIDO": "Turismo",
+        "SEQ": "7",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398618570942",
+        "LON": "-49,282371829869",
+        "NOME": "Rua Victor Benato, 283 - Pilarzinho (Universidade Livre do Meio Ambiente)",
+        "NUM": "120543",
+        "SENTIDO": "Turismo",
+        "SEQ": "16",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414494257108",
+        "LON": "-49,304343641943",
+        "NOME": "Av. Manoel Ribas, 2551 - Mercês",
+        "NUM": "190550",
+        "SENTIDO": "Turismo",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402412859384",
+        "LON": "-49,305708892714",
+        "NOME": "Rua Doutor Mbá de Ferrante - São João (Memorial Ucraniano)",
+        "NUM": "190361",
+        "SENTIDO": "Turismo",
+        "SEQ": "21",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448009655163",
+        "LON": "-49,257454276085",
+        "NOME": "Rua Coronel Zacarias, 1 - Prado Velho (Teatro Paiol)",
+        "NUM": "140277",
+        "SENTIDO": "Turismo",
+        "SEQ": "5",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407194983665",
+        "LON": "-49,285600036383",
+        "NOME": "Rua Francisco Schaffer, 150 - Vista Alegre (Bosque Alemão)",
+        "NUM": "190419",
+        "SENTIDO": "Turismo",
+        "SEQ": "14",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429586014047",
+        "LON": "-49,271544255016",
+        "NOME": "Praça Tiradentes - 979 - Linha Turismo",
+        "NUM": "101016",
+        "SENTIDO": "Turismo",
+        "SEQ": "1",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429598205",
+        "LON": "-49,269204196",
+        "NOME": "Paço da Liberdade",
+        "NUM": "110001",
+        "SENTIDO": "Turismo",
+        "SEQ": "9",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388425633802",
+        "LON": "-49,305970240819",
+        "NOME": "Rua Melchiades Silveira do Valle, 1093 - São João (Parque Tingui)",
+        "NUM": "190363",
+        "SENTIDO": "Turismo",
+        "SEQ": "20",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378384576849",
+        "LON": "-49,280843138695",
+        "NOME": "Rua Oswaldo Maciel, 1 - Taboão (Parque Tanguá)",
+        "NUM": "120586",
+        "SENTIDO": "Turismo",
+        "SEQ": "19",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406814605103",
+        "LON": "-49,325461685658",
+        "NOME": "Av. Manoel Ribas, 5500 - Santa Felicidade",
+        "NUM": "190698",
+        "SENTIDO": "Turismo",
+        "SEQ": "23",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416798539173",
+        "LON": "-49,267566204071",
+        "NOME": "Rua Ernani Santiago de Oliveira, 95 - Centro Cívico (Centro Cívico)",
+        "NUM": "120461",
+        "SENTIDO": "Turismo",
+        "SEQ": "11",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437553560258",
+        "LON": "-49,26490008831",
+        "NOME": "Rua Rockfeller, 86 - Rebouças (Museu Ferroviário)",
+        "NUM": "110212",
+        "SENTIDO": "Turismo",
+        "SEQ": "4",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432102523828",
+        "LON": "-49,274255968806",
+        "NOME": "Av. Luís Xavier, 68 - Centro (Rua das Flores)",
+        "NUM": "110206",
+        "SENTIDO": "Turismo",
+        "SEQ": "2",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434898822303",
+        "LON": "-49,27603662014",
+        "NOME": "Rua Visconde de Nácar, 1172 - Centro (Rua 24 Horas)",
+        "NUM": "110093",
+        "SENTIDO": "Turismo",
+        "SEQ": "3",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408938582051",
+        "LON": "-49,266585856676",
+        "NOME": "Rua Manoel Eufrásio, 1516 - Juvevê (Museu Oscar Niemeyer)",
+        "NUM": "120542",
+        "SENTIDO": "Turismo",
+        "SEQ": "12",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388408422269",
+        "LON": "-49,267450869083",
+        "NOME": "Rua Mateus Leme, 4556 - São Lourenço (Parque São Lourenço)",
+        "NUM": "120718",
+        "SENTIDO": "Turismo",
+        "SEQ": "17",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442045869792",
+        "LON": "-49,241418773503",
+        "NOME": "Rua Eng. Ostoja Roguski, 123 - Jardim Botânico (Jd. Botânico)",
+        "NUM": "140104",
+        "SENTIDO": "Turismo",
+        "SEQ": "6",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428606306924",
+        "LON": "-49,265269813709",
+        "NOME": "Rua Quinze de Novembro, 971 - Centro (Teatro Guaíra)",
+        "NUM": "110092",
+        "SENTIDO": "Turismo",
+        "SEQ": "8",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423636504306",
+        "LON": "-49,26860706925",
+        "NOME": "Rua Heitor S. de França, 385 - Centro Cívico (Memorial Árabe)",
+        "NUM": "110002",
+        "SENTIDO": "Turismo",
+        "SEQ": "10",
+        "TIPO": "Linha Turismo"
+    }
+]

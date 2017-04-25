@@ -1,0 +1,262 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,538372100743",
+        "LON": "-49,271995635582",
+        "NOME": "Rua Tijucas do Sul, 985 - Sítio Cercado",
+        "NUM": "160019",
+        "SENTIDO": "Circular",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55134434262",
+        "LON": "-49,266980495701",
+        "NOME": "Rua Mandirituba, 3346 - Sítio Cercado",
+        "NUM": "160089",
+        "SENTIDO": "Circular",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53841",
+        "LON": "-49,27211",
+        "NOME": "Rua Tijucas do Sul, 986 - Sítio Cercado",
+        "NUM": "160434",
+        "SENTIDO": "Circular",
+        "SEQ": "4",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534192486397",
+        "LON": "-49,26746746379",
+        "NOME": "Terminal Sítio Cercado - 542 - Bairro Novo B",
+        "NUM": "106104",
+        "SENTIDO": "Circular",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54011",
+        "LON": "-49,27119",
+        "NOME": "Rua Tijucas do Sul, 1363 - Sítio Cercado",
+        "NUM": "160020",
+        "SENTIDO": "Circular",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54596",
+        "LON": "-49,26909",
+        "NOME": "Rua Lupionopolis, 1374 - Sítio Cercado",
+        "NUM": "160086",
+        "SENTIDO": "Circular",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54489",
+        "LON": "-49,26516",
+        "NOME": "Rua Tijucas do Sul, 1070 - Sítio Cercado",
+        "NUM": "160096",
+        "SENTIDO": "Circular",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54151",
+        "LON": "-49,27056",
+        "NOME": "Rua Tijucas do Sul, 1401 - Sítio Cercado",
+        "NUM": "160097",
+        "SENTIDO": "Circular",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Circular",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534192486397",
+        "LON": "-49,26746746379",
+        "NOME": "Terminal Sítio Cercado - 542 - Bairro Novo B",
+        "NUM": "106104",
+        "SENTIDO": "Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55158",
+        "LON": "-49,26278",
+        "NOME": "Rua José Bassa, 1969 - Sítio Cercado",
+        "NUM": "160091",
+        "SENTIDO": "Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53686",
+        "LON": "-49,27271",
+        "NOME": "Rua Tijucas do Sul, 787 - Sítio Cercado",
+        "NUM": "160017",
+        "SENTIDO": "Circular",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542232921852",
+        "LON": "-49,27066358532",
+        "NOME": "Rua Filósofo Humberto Rohden, 2 - Sítio Cercado",
+        "NUM": "160082",
+        "SENTIDO": "Circular",
+        "SEQ": "6",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54487917965",
+        "LON": "-49,267413790178",
+        "NOME": "Rua Lupionopolis, 1157 - Sítio Cercado",
+        "NUM": "160085",
+        "SENTIDO": "Circular",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540093195488",
+        "LON": "-49,271327434359",
+        "NOME": "Rua Tijucas do Sul, 1368 - Sítio Cercado",
+        "NUM": "160463",
+        "SENTIDO": "Circular",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54317",
+        "LON": "-49,26844",
+        "NOME": "Rua Tijucas do Sul, 1471 - Sítio Cercado",
+        "NUM": "160084",
+        "SENTIDO": "Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,547699180846",
+        "LON": "-49,270844139881",
+        "NOME": "Rua Mandirituba, 1712 - Sítio Cercado",
+        "NUM": "160087",
+        "SENTIDO": "Circular",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55006",
+        "LON": "-49,26907",
+        "NOME": "Rua Mandirituba, 3070 - Sítio Cercado",
+        "NUM": "160088",
+        "SENTIDO": "Circular",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55049",
+        "LON": "-49,26102",
+        "NOME": "Rua Olívio Domingos Leonardi, 878 - Sítio Cercado",
+        "NUM": "160092",
+        "SENTIDO": "Circular",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54803",
+        "LON": "-49,25948",
+        "NOME": "Rua Tijucas do Sul, 378 - Sítio Cercado",
+        "NUM": "160094",
+        "SENTIDO": "Circular",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,27267",
+        "NOME": "Rua Tijucas do Sul, 790 - Sítio Cercado",
+        "NUM": "160018",
+        "SENTIDO": "Circular",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543440820981",
+        "LON": "-49,268539271164",
+        "NOME": "Rua Tijucas do Sul, 1458 - Sítio Cercado",
+        "NUM": "160083",
+        "SENTIDO": "Circular",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54581",
+        "LON": "-49,26354",
+        "NOME": "Rua Tijucas do Sul, 876 - Sítio Cercado",
+        "NUM": "160095",
+        "SENTIDO": "Circular",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55053",
+        "LON": "-49,26522",
+        "NOME": "Rua Gabriel Ribeiro, 1060 - Sítio Cercado",
+        "NUM": "160090",
+        "SENTIDO": "Circular",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54969",
+        "LON": "-49,25986",
+        "NOME": "Rua Des. Carlos Pinheiro Guimarães, 1577 - Sítio Cercado",
+        "NUM": "160093",
+        "SENTIDO": "Circular",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    }
+]

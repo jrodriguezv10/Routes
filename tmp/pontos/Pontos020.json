@@ -1,0 +1,6372 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "51",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388137251867",
+        "LON": "-49,267002215939",
+        "NOME": "Rua Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120080",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "99",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "80",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431559993492",
+        "LON": "-49,212154776997",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130220",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "71",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388137251867",
+        "LON": "-49,267002215939",
+        "NOME": "Rua Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120080",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "62",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "93",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "83",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "110",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406645239008",
+        "LON": "-49,252417848411",
+        "NOME": "Terminal Cabral -  B20 - Guaraituba / Cabral (via Maracanã)",
+        "NUM": "104403",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "75",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423812053353",
+        "LON": "-49,294581923942",
+        "NOME": "Rua Jacarezinho, 620 - Mercês",
+        "NUM": "190211",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "86",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "60",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "87",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406384298118",
+        "LON": "-49,252353475395",
+        "NOME": "Terminal Cabral - 020 - Interbairros II (H)",
+        "NUM": "104406",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431559993492",
+        "LON": "-49,212154776997",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130220",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "59",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431559993492",
+        "LON": "-49,212154776997",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130220",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "82",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431559993492",
+        "LON": "-49,212154776997",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130220",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45929",
+        "LON": "-49,30256",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 830 - Portão",
+        "NUM": "180113",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "61",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "101",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45929",
+        "LON": "-49,30256",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 830 - Portão",
+        "NUM": "180113",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45929",
+        "LON": "-49,30256",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 830 - Portão",
+        "NUM": "180113",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43176",
+        "LON": "-49,21226",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130221",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43176",
+        "LON": "-49,21226",
+        "NOME": "Rua Hayton da Silva Pereira, 1202 - Capão da Imbuia",
+        "NUM": "130221",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "91",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422448817794",
+        "LON": "-49,292638512897",
+        "NOME": "Rua Jacarezinho, 879 - Mercês",
+        "NUM": "190212",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440273902521",
+        "LON": "-49,221235395617",
+        "NOME": "Terminal Capão da Imbuia - 020 - Interbairros II (Horário) / C05 - Direto C.Imbuia",
+        "NUM": "104706",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "80",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "66",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423812053353",
+        "LON": "-49,294581923942",
+        "NOME": "Rua Jacarezinho, 620 - Mercês",
+        "NUM": "190211",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387297054936",
+        "LON": "-49,26931058158",
+        "NOME": "R. João Gava, 1-299 - Abranches",
+        "NUM": "120078",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467571862062",
+        "LON": "-49,299588661203",
+        "NOME": "R. Francisco Klemtz, 2-100 - Portão",
+        "NUM": "180107",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "97",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426215134947",
+        "LON": "-49,299802186508",
+        "NOME": "Rua Noel Rosa, 1-89 - Bigorrilho",
+        "NUM": "190208",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "71",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "52",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399706751459",
+        "LON": "-49,253483701887",
+        "NOME": "Rua Pedro Fabri, 1 - Cabral",
+        "NUM": "120396",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "75",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424277296979",
+        "LON": "-49,295200145998",
+        "NOME": "Rua Jacarezinho, 418 - Mercês",
+        "NUM": "190210",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461734843386",
+        "LON": "-49,233991923943",
+        "NOME": "R. Cel. Francisco Heráclito dos Santos, 1422 -Jardim das Américas",
+        "NUM": "140174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493896631502",
+        "LON": "-49,263292069941",
+        "NOME": "Rua Evaristo da Veiga, 2896 - Xaxim",
+        "NUM": "150216",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49098",
+        "LON": "-49,29956",
+        "NOME": "Rua Sebastião Malucelli, 721 - Novo Mundo",
+        "NUM": "170004",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "60",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420220338188",
+        "LON": "-49,239922186508",
+        "NOME": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+        "NUM": "130124",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45261851561",
+        "LON": "-49,304228046627",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 77 - Portão",
+        "NUM": "180118",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435589066631",
+        "LON": "-49,302904868717",
+        "NOME": "R. Martin Afonso, 2711 - Bigorrilho",
+        "NUM": "190201",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "91",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417782374876",
+        "LON": "-49,244086475319",
+        "NOME": "R. Augusto Stresser, 1661 - Hugo Lange",
+        "NUM": "130121",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "62",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398741583224",
+        "LON": "-49,25197046627",
+        "NOME": "R. Vicente Ciccarino, 33 - Boa Vista",
+        "NUM": "120092",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449769101298",
+        "LON": "-49,304442069941",
+        "NOME": "R. Gen. Mário Tourinho, 176 - Seminário",
+        "NUM": "180120",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414928510808",
+        "LON": "-49,289786746963",
+        "NOME": "R. Jacarezinho, 1700 - Vista Alegre",
+        "NUM": "190634",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406384298118",
+        "LON": "-49,252353475395",
+        "NOME": "Terminal Cabral - 020 - Interbairros II (H)",
+        "NUM": "104406",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435605166546",
+        "LON": "-49,214855761476",
+        "NOME": "Rua Osmário de Lima, 351 - Capão da Imbuia",
+        "NUM": "130227",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455357950819",
+        "LON": "-49,231268198437",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 726 - Jardim das Américas",
+        "NUM": "140170",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "64",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429302453653",
+        "LON": "-49,300548892031",
+        "NOME": "R. Euclides da Cunha, 1761 - Bigorrilho",
+        "NUM": "190204",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390336125442",
+        "LON": "-49,259967556696",
+        "NOME": "R. Simão Mansur, 72 - Boa Vista",
+        "NUM": "120084",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477029631183",
+        "LON": "-49,29685654048",
+        "NOME": "Rua São Mateus, 187 - Portão",
+        "NUM": "170015",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39547",
+        "LON": "-49,25103",
+        "NOME": "R. Holanda, 1131 - Boa Vista",
+        "NUM": "120091",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45929",
+        "LON": "-49,30256",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 830 - Portão",
+        "NUM": "180113",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406384298118",
+        "LON": "-49,252353475395",
+        "NOME": "Terminal Cabral - 020 - Interbairros II (H)",
+        "NUM": "104406",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "83",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "48",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416333068772",
+        "LON": "-49,24791953373",
+        "NOME": "R. Padre Germano Mayer, 2017 - Hugo Lange",
+        "NUM": "130117",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388137251867",
+        "LON": "-49,267002215939",
+        "NOME": "Rua Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120080",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403217268609",
+        "LON": "-49,251451953373",
+        "NOME": "Rua Ver. Garcia Rodrigues Velho, 451 - Cabral",
+        "NUM": "120095",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388986347333",
+        "LON": "-49,26437475215",
+        "NOME": "R. Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120083",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "74",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "108",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385625734133",
+        "LON": "-49,275614635582",
+        "NOME": "Rua João Gava, 826 - Abranches",
+        "NUM": "120072",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409937293089",
+        "LON": "-49,291784635582",
+        "NOME": "R. Arthur Leinig, 784 - Vista Alegre",
+        "NUM": "190221",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404314845695",
+        "LON": "-49,290021107969",
+        "NOME": "R. João Tschannerl, 874 - Vista Alegre",
+        "NUM": "190226",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "89",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479103748398",
+        "LON": "-49,296791809683",
+        "NOME": "Rua São Mateus, 440 - Portão",
+        "NUM": "170014",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40149",
+        "LON": "-49,25321",
+        "NOME": "Rua Pedro Fabri, 202 - Cabral",
+        "NUM": "120093",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "54",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "76",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488359886818",
+        "LON": "-49,299567463789",
+        "NOME": "Rua Sebastião Malucelli, 431 - Novo Mundo",
+        "NUM": "170005",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46898",
+        "LON": "-49,30051",
+        "NOME": "R. Cel. Airton Plaisant, 1767  - Portão",
+        "NUM": "180106",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439584913726",
+        "LON": "-49,306922069941",
+        "NOME": "R. Gen. Mário Tourinho, 1424 - Seminário",
+        "NUM": "180126",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399581849395",
+        "LON": "-49,288017201223",
+        "NOME": "R. Santa Cecília, 727 - Pilarzinho",
+        "NUM": "190230",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406384298118",
+        "LON": "-49,252353475395",
+        "NOME": "Terminal Cabral - 020 - Interbairros II (H)",
+        "NUM": "104406",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "56",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41758856857",
+        "LON": "-49,246481687969",
+        "NOME": "R. Augusto Stresser, 1531 - Hugo Lange",
+        "NUM": "130119",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "61",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457834237679",
+        "LON": "-49,232410819477",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 1092 - Guabirotuba",
+        "NUM": "140172",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "85",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435877965682",
+        "LON": "-49,306887532517",
+        "NOME": "Terminal Campina do Siqueira - 020 - Interbairros II (Horário)",
+        "NUM": "104501",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496509367943",
+        "LON": "-49,271682828207",
+        "NOME": "Rua Francisco Derosso, 261 - Xaxim",
+        "NUM": "150075",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393714230605",
+        "LON": "-49,253350991402",
+        "NOME": "R. Holanda, 1487 - Boa Vista",
+        "NUM": "120089",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465404432738",
+        "LON": "-49,300395364418",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1343 - Portão",
+        "NUM": "180110",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "99",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417685941767",
+        "LON": "-49,290508838169",
+        "NOME": "R. Jacarezinho, 1399 - Mercês",
+        "NUM": "190215",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391206025289",
+        "LON": "-49,256779751282",
+        "NOME": "R. Holanda, 2017 - Bacacheri",
+        "NUM": "120087",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385459983235",
+        "LON": "-49,280687930059",
+        "NOME": "R. São Salvador, 19 - Pilarzinho",
+        "NUM": "120070",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "94",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4949694213",
+        "LON": "-49,27800157424",
+        "NOME": "Av. Brasília, 6659 - Novo Mundo",
+        "NUM": "150219",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483289734266",
+        "LON": "-49,298261341105",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 821 - Novo Mundo",
+        "NUM": "170010",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461368246655",
+        "LON": "-49,301499271164",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 1035 - Portão",
+        "NUM": "180112",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444737577965",
+        "LON": "-49,304682186508",
+        "NOME": "R. Gen. Mário Tourinho, 742 - Campina do Siqueira",
+        "NUM": "180122",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408395796733",
+        "LON": "-49,292020845404",
+        "NOME": "R. Antônio Grade, 570 - Vista Alegre",
+        "NUM": "190222",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423812053353",
+        "LON": "-49,294581923942",
+        "NOME": "Rua Jacarezinho, 620 - Mercês",
+        "NUM": "190211",
+        "SENTIDO": "Terminal Capão da Imbúia",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "67",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "69",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "90",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4262",
+        "LON": "-49,242453906746",
+        "NOME": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+        "NUM": "130128",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423102236331",
+        "LON": "-49,24181062097",
+        "NOME": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+        "NUM": "130126",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "92",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434132111242",
+        "LON": "-49,213552915344",
+        "NOME": "Rua Hayton da Silva Pereira, 904 - Capão da Imbuia",
+        "NUM": "130225",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434179132817",
+        "LON": "-49,29926682209",
+        "NOME": "R. Martin Afonso, 2241 - Bigorrilho",
+        "NUM": "190202",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "109",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411594638016",
+        "LON": "-49,247466559525",
+        "NOME": "Rua dos Funcionários, 1372 - Cabral",
+        "NUM": "130113",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "77",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437045166928",
+        "LON": "-49,219117791599",
+        "NOME": "Rua Prof. Nivaldo Braga, 1225 - Capão da Imbuia",
+        "NUM": "130231",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388137251867",
+        "LON": "-49,267002215939",
+        "NOME": "Rua Prof. Nilo Brandão, 671 - São Lourenço",
+        "NUM": "120080",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "65",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486406368206",
+        "LON": "-49,299583294477",
+        "NOME": "Rua Sebastião Malucelli, 221 - Novo Mundo",
+        "NUM": "170008",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420855183478",
+        "LON": "-49,291344519014",
+        "NOME": "R. Jacarezinho, 898 - Mercês",
+        "NUM": "190213",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481900027076",
+        "LON": "-49,247077753948",
+        "NOME": "Terminal Hauer - 020 - Interbairros II (H)",
+        "NUM": "105512",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "91",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406384298118",
+        "LON": "-49,252353475395",
+        "NOME": "Terminal Cabral - 020 - Interbairros II (H)",
+        "NUM": "104406",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "56",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "96",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "95",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494404104557",
+        "LON": "-49,282067958336",
+        "NOME": "Av. Brasília, 6105 - Novo Mundo",
+        "NUM": "150106",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "72",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494590197052",
+        "LON": "-49,285269174795",
+        "NOME": "Av. Brasília, 5847 - Novo Mundo",
+        "NUM": "150107",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472654108654",
+        "LON": "-49,296993925791",
+        "NOME": "R. Dr. Lauro Wolff Valente, 43 - Portão",
+        "NUM": "180102",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444622770282",
+        "LON": "-49,22320317791",
+        "NOME": "Rua Prof. Nivaldo Braga, 243 - Cajuru",
+        "NUM": "140125",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465791881341",
+        "LON": "-49,234808483467",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 2000 - Guabirotuba",
+        "NUM": "140177",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44187",
+        "LON": "-49,30564",
+        "NOME": "R. Gen. Mário Tourinho, 1070 - Campina do Siqueira",
+        "NUM": "180125",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423812053353",
+        "LON": "-49,294581923942",
+        "NOME": "Rua Jacarezinho, 620 - Mercês",
+        "NUM": "190211",
+        "SENTIDO": "Terminal Campina do Siqueira",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492282787478",
+        "LON": "-49,293082763875",
+        "NOME": "Terminal Capão Raso - 020 - Interbairros II (Horário)",
+        "NUM": "104805",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "106",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412541906517",
+        "LON": "-49,291303268337",
+        "NOME": "R. André Zanetti, 152 - Vista Alegre",
+        "NUM": "190218",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "93",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417965279292",
+        "LON": "-49,241829396433",
+        "NOME": "Rua Augusto Stresser, 1941- Hugo Lange",
+        "NUM": "130122",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "63",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409516291718",
+        "LON": "-49,249253236771",
+        "NOME": "Rua dos Funcionários, 1252 - Cabral",
+        "NUM": "130110",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414054252764",
+        "LON": "-49,247121836805",
+        "NOME": "Rua Jaime Balão, 571 - Cabral",
+        "NUM": "130115",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434998399247",
+        "LON": "-49,217971147246",
+        "NOME": "Rua Prof. Nivaldo Braga, 1421 - Capão da Imbuia",
+        "NUM": "130229",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "78",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447365193339",
+        "LON": "-49,225614868717",
+        "NOME": "Rua Sesinando Chaves, 101 - Cajuru",
+        "NUM": "140167",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "82",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495131157356",
+        "LON": "-49,266737171793",
+        "NOME": "Rua Antônio Rebelatto, 429 - Xaxim",
+        "NUM": "150218",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480605738536",
+        "LON": "-49,298331953373",
+        "NOME": "Rua Frei Gaspar Madre de Deus, 451 - Portão",
+        "NUM": "170012",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432634533671",
+        "LON": "-49,298883790178",
+        "NOME": "R. Euclides da Cunha, 1441- Bigorrilho",
+        "NUM": "190203",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406479714955",
+        "LON": "-49,291687813492",
+        "NOME": "R. João Tschannerl, 576 - Vista Alegre",
+        "NUM": "190224",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402265440332",
+        "LON": "-49,287720233135",
+        "NOME": "R. João Tschannerl, 1207 - Pilarzinho",
+        "NUM": "190228",
+        "SENTIDO": "Sentido Horário",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    }
+]

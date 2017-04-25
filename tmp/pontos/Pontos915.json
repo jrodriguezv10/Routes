@@ -1,0 +1,902 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,3951751",
+        "LON": "-49,3325267",
+        "NOME": "Rua Artur Bindo, 402 - Santa Felicidade",
+        "NUM": "190094",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392380135093",
+        "LON": "-49,338104147842",
+        "NOME": "Av. Napoleão Manosso, 939 - Butiatuvinha",
+        "NUM": "190153",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390549478945",
+        "LON": "-49,345304537942",
+        "NOME": "Rua João Golin, 328 - Butiatuvinha",
+        "NUM": "190754",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395316880871",
+        "LON": "-49,33062078469",
+        "NOME": "Rua Sebastião Santos, 551 - Santa Felicidade",
+        "NUM": "190096",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392380135093",
+        "LON": "-49,338104147842",
+        "NOME": "Av. Napoleão Manosso, 939 - Butiatuvinha",
+        "NUM": "190153",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389431202132",
+        "LON": "-49,344388563564",
+        "NOME": "Rua Domingos Gulin, 346 - Butiatuvinha",
+        "NUM": "190160",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392456462311",
+        "LON": "-49,335737098386",
+        "NOME": "Rua Francisco Dalalibera, 1595 - Santa Felicidade",
+        "NUM": "190150",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392343788782",
+        "LON": "-49,335560072591",
+        "NOME": "Rua Francisco Dalalibera, 1596 - Santa Felicidade",
+        "NUM": "190151",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393518980635",
+        "LON": "-49,341773409774",
+        "NOME": "Av. Napoleão Manosso, 570 - Butiatuvinha",
+        "NUM": "190154",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390364109832",
+        "LON": "-49,342606235673",
+        "NOME": "Rua Serafina Cumam Culpi, 3 - Butiatuvinha",
+        "NUM": "190161",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39525267061",
+        "LON": "-49,330619443585",
+        "NOME": "Rua Sebastião Santos, 552 - Santa Felicidade",
+        "NUM": "190097",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389431202132",
+        "LON": "-49,344388563564",
+        "NOME": "Rua Domingos Gulin, 346 - Butiatuvinha",
+        "NUM": "190160",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392343788782",
+        "LON": "-49,335560072591",
+        "NOME": "Rua Francisco Dalalibera, 1596 - Santa Felicidade",
+        "NUM": "190151",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390364109832",
+        "LON": "-49,342606235673",
+        "NOME": "Rua Serafina Cumam Culpi, 3 - Butiatuvinha",
+        "NUM": "190161",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392306230916",
+        "LON": "-49,338247646024",
+        "NOME": "Av. Napoleão Manosso, 940 - Butiatuvinha",
+        "NUM": "190152",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393518980635",
+        "LON": "-49,341773409774",
+        "NOME": "Av. Napoleão Manosso, 570 - Butiatuvinha",
+        "NUM": "190154",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397323131458",
+        "LON": "-49,329837579658",
+        "NOME": "Rua Antônio Bartapeli, 2 - Santa Felicidade",
+        "NUM": "190752",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395316880871",
+        "LON": "-49,33062078469",
+        "NOME": "Rua Sebastião Santos, 551 - Santa Felicidade",
+        "NUM": "190096",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392380135093",
+        "LON": "-49,338104147842",
+        "NOME": "Av. Napoleão Manosso, 939 - Butiatuvinha",
+        "NUM": "190153",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389431202132",
+        "LON": "-49,344388563564",
+        "NOME": "Rua Domingos Gulin, 346 - Butiatuvinha",
+        "NUM": "190160",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40061108113",
+        "LON": "-49,330637548498",
+        "NOME": "Terminal Santa Felicidade - 915 - Ouro Verde / Vila Badia",
+        "NUM": "106004",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390549478945",
+        "LON": "-49,345304537942",
+        "NOME": "Rua João Golin, 328 - Butiatuvinha",
+        "NUM": "190754",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389404547521",
+        "LON": "-49,3442209255",
+        "NOME": "Rua Domingos Gulin, 345 - Butiatuvinha",
+        "NUM": "190755",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393658306745",
+        "LON": "-49,341903496912",
+        "NOME": "Av. Napoleão Manosso, 553 - Butiatuvinha",
+        "NUM": "190155",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390579767989",
+        "LON": "-49,345402438571",
+        "NOME": "Rua João Golin, 327 - Butiatuvinha",
+        "NUM": "190159",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397387340618",
+        "LON": "-49,329938162496",
+        "NOME": "Rua Antônio Bartapeli, 1 - Santa Felicidade",
+        "NUM": "190098",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39378794046",
+        "LON": "-49,344422091177",
+        "NOME": "Rua João Golin, 2 - Butiatuvinha",
+        "NUM": "190753",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "12",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40061108113",
+        "LON": "-49,330637548498",
+        "NOME": "Terminal Santa Felicidade - 915 - Ouro Verde / Vila Badia",
+        "NUM": "106004",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3951751",
+        "LON": "-49,3325267",
+        "NOME": "Rua Artur Bindo, 402 - Santa Felicidade",
+        "NUM": "190094",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39603651807",
+        "LON": "-49,329791982105",
+        "NOME": "Rua Antônio Bartapeli, 160 - Santa Felicidade",
+        "NUM": "190751",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39603651807",
+        "LON": "-49,329791982105",
+        "NOME": "Rua Antônio Bartapeli, 160 - Santa Felicidade",
+        "NUM": "190751",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393518980635",
+        "LON": "-49,341773409774",
+        "NOME": "Av. Napoleão Manosso, 570 - Butiatuvinha",
+        "NUM": "190154",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393726152445",
+        "LON": "-49,344518650701",
+        "NOME": "Rua João Golin, 21 - Butiatuvinha",
+        "NUM": "190157",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390549478945",
+        "LON": "-49,345304537942",
+        "NOME": "Rua João Golin, 328 - Butiatuvinha",
+        "NUM": "190754",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390579767989",
+        "LON": "-49,345402438571",
+        "NOME": "Rua João Golin, 327 - Butiatuvinha",
+        "NUM": "190159",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393726152445",
+        "LON": "-49,344518650701",
+        "NOME": "Rua João Golin, 21 - Butiatuvinha",
+        "NUM": "190157",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40061108113",
+        "LON": "-49,330637548498",
+        "NOME": "Terminal Santa Felicidade - 915 - Ouro Verde / Vila Badia",
+        "NUM": "106004",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3951751",
+        "LON": "-49,3325267",
+        "NOME": "Rua Artur Bindo, 402 - Santa Felicidade",
+        "NUM": "190094",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39606922875",
+        "LON": "-49,329867083957",
+        "NOME": "Rua Antônio Bartapeli, 133 - Santa Felicidade",
+        "NUM": "190750",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392306230916",
+        "LON": "-49,338247646024",
+        "NOME": "Av. Napoleão Manosso, 940 - Butiatuvinha",
+        "NUM": "190152",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389404547521",
+        "LON": "-49,3442209255",
+        "NOME": "Rua Domingos Gulin, 345 - Butiatuvinha",
+        "NUM": "190755",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400748581864",
+        "LON": "-49,330443758896",
+        "NOME": "Terminal Santa Felicidade - 816 - C.Siqueira  / Sta.Felicidade",
+        "NUM": "106002",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39606922875",
+        "LON": "-49,329867083957",
+        "NOME": "Rua Antônio Bartapeli, 133 - Santa Felicidade",
+        "NUM": "190750",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392343788782",
+        "LON": "-49,335560072591",
+        "NOME": "Rua Francisco Dalalibera, 1596 - Santa Felicidade",
+        "NUM": "190151",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392456462311",
+        "LON": "-49,335737098386",
+        "NOME": "Rua Francisco Dalalibera, 1595 - Santa Felicidade",
+        "NUM": "190150",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393658306745",
+        "LON": "-49,341903496912",
+        "NOME": "Av. Napoleão Manosso, 553 - Butiatuvinha",
+        "NUM": "190155",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39378794046",
+        "LON": "-49,344422091177",
+        "NOME": "Rua João Golin, 2 - Butiatuvinha",
+        "NUM": "190753",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397387340618",
+        "LON": "-49,329938162496",
+        "NOME": "Rua Antônio Bartapeli, 1 - Santa Felicidade",
+        "NUM": "190098",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393726152445",
+        "LON": "-49,344518650701",
+        "NOME": "Rua João Golin, 21 - Butiatuvinha",
+        "NUM": "190157",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39525267061",
+        "LON": "-49,330619443585",
+        "NOME": "Rua Sebastião Santos, 552 - Santa Felicidade",
+        "NUM": "190097",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39378794046",
+        "LON": "-49,344422091177",
+        "NOME": "Rua João Golin, 2 - Butiatuvinha",
+        "NUM": "190753",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395316880871",
+        "LON": "-49,33062078469",
+        "NOME": "Rua Sebastião Santos, 551 - Santa Felicidade",
+        "NUM": "190096",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397387340618",
+        "LON": "-49,329938162496",
+        "NOME": "Rua Antônio Bartapeli, 1 - Santa Felicidade",
+        "NUM": "190098",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390579767989",
+        "LON": "-49,345402438571",
+        "NOME": "Rua João Golin, 327 - Butiatuvinha",
+        "NUM": "190159",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396539084551",
+        "LON": "-49,33366522193",
+        "NOME": "R. João Ferro, 114 - Santa Felicidade",
+        "NUM": "190946",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397323131458",
+        "LON": "-49,329837579658",
+        "NOME": "Rua Antônio Bartapeli, 2 - Santa Felicidade",
+        "NUM": "190752",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3951751",
+        "LON": "-49,3325267",
+        "NOME": "Rua Artur Bindo, 402 - Santa Felicidade",
+        "NUM": "190094",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392306230916",
+        "LON": "-49,338247646024",
+        "NOME": "Av. Napoleão Manosso, 940 - Butiatuvinha",
+        "NUM": "190152",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40061108113",
+        "LON": "-49,330637548498",
+        "NOME": "Terminal Santa Felicidade - 915 - Ouro Verde / Vila Badia",
+        "NUM": "106004",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397323131458",
+        "LON": "-49,329837579658",
+        "NOME": "Rua Antônio Bartapeli, 2 - Santa Felicidade",
+        "NUM": "190752",
+        "SENTIDO": "Sentido V. Badia",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400748581864",
+        "LON": "-49,330443758896",
+        "NOME": "Terminal Santa Felicidade - 816 - C.Siqueira  / Sta.Felicidade",
+        "NUM": "106002",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Sentido Ouro Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39603651807",
+        "LON": "-49,329791982105",
+        "NOME": "Rua Antônio Bartapeli, 160 - Santa Felicidade",
+        "NUM": "190751",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39525267061",
+        "LON": "-49,330619443585",
+        "NOME": "Rua Sebastião Santos, 552 - Santa Felicidade",
+        "NUM": "190097",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389404547521",
+        "LON": "-49,3442209255",
+        "NOME": "Rua Domingos Gulin, 345 - Butiatuvinha",
+        "NUM": "190755",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390364109832",
+        "LON": "-49,342606235673",
+        "NOME": "Rua Serafina Cumam Culpi, 3 - Butiatuvinha",
+        "NUM": "190161",
+        "SENTIDO": "Circular Vila Bádia - Ouro Verde",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39606922875",
+        "LON": "-49,329867083957",
+        "NOME": "Rua Antônio Bartapeli, 133 - Santa Felicidade",
+        "NUM": "190750",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393658306745",
+        "LON": "-49,341903496912",
+        "NOME": "Av. Napoleão Manosso, 553 - Butiatuvinha",
+        "NUM": "190155",
+        "SENTIDO": "Terminal Santa Felicidade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389041702199",
+        "LON": "-49,341390013492",
+        "NOME": "Rua Francisco Bordenowski, 192 - Butiatuvinha",
+        "NUM": "190162",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396457913905",
+        "LON": "-49,33376044035",
+        "NOME": "R. João Ferro, 114 - Santa Felicidade",
+        "NUM": "190947",
+        "SENTIDO": "Ouro Verde",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    }
+]

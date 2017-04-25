@@ -1,0 +1,252 @@
+[
+    {
+        "GRUPO": "41764",
+        "LAT": "-25,433994591577",
+        "LON": "-49,269173663269",
+        "NOME": "Praça Carlos Gomes - 550-Ligeirão Pinheirinho / C. Gomes",
+        "NUM": "108215",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26051",
+        "LAT": "-25,447431347258",
+        "LON": "-49,263825145262",
+        "NOME": "Estação Tubo Almirante Gonçalves",
+        "NUM": "108071",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512104886599",
+        "LON": "-49,294667234918",
+        "NOME": "Terminal Pinheirinho - 550 - Pinheirinho/C.Gomes",
+        "NUM": "105704",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26051",
+        "LAT": "-25,447431347258",
+        "LON": "-49,263825145262",
+        "NOME": "Estação Tubo Almirante Gonçalves",
+        "NUM": "108071",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438807575773",
+        "LON": "-49,268115338581",
+        "NOME": "Estação Tubo UTFPR - Desembarque",
+        "NUM": "108214",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43351",
+        "LAT": "-25,463042423329",
+        "LON": "-49,256412610828",
+        "NOME": "Estação Tubo Parolin",
+        "NUM": "108079",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47567",
+        "LAT": "-25,474845554019",
+        "LON": "-49,258702129474",
+        "NOME": "Estação Fanny",
+        "NUM": "108210",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43352",
+        "LAT": "-25,462976432893",
+        "LON": "-49,256245643318",
+        "NOME": "Estação Tubo Parolin",
+        "NUM": "108080",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14598",
+        "LAT": "-25,469144829675",
+        "LON": "-49,254036970696",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108211",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43357",
+        "LAT": "-25,439078856746",
+        "LON": "-49,26810326864",
+        "NOME": "Estação Tubo UTFPR",
+        "NUM": "108213",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438807575773",
+        "LON": "-49,268115338581",
+        "NOME": "Estação Tubo UTFPR - Desembarque",
+        "NUM": "108214",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14594",
+        "LAT": "-25,474973889693",
+        "LON": "-49,258533150306",
+        "NOME": "Estação Fanny",
+        "NUM": "108209",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43352",
+        "LAT": "-25,462976432893",
+        "LON": "-49,256245643318",
+        "NOME": "Estação Tubo Parolin",
+        "NUM": "108080",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47547",
+        "LAT": "-25,485113611665",
+        "LON": "-49,26698181147",
+        "NOME": "Estação Santa Bernadethe",
+        "NUM": "108208",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41764",
+        "LAT": "-25,433994591577",
+        "LON": "-49,269173663269",
+        "NOME": "Praça Carlos Gomes - 550-Ligeirão Pinheirinho / C. Gomes",
+        "NUM": "108215",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47548",
+        "LAT": "-25,506738808136",
+        "LON": "-49,284472793689",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108204",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496691179013",
+        "LON": "-49,276145875802",
+        "NOME": "Estação Xaxim",
+        "NUM": "108205",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41764",
+        "LAT": "-25,433994591577",
+        "LON": "-49,269173663269",
+        "NOME": "Praça Carlos Gomes - 550-Ligeirão Pinheirinho / C. Gomes",
+        "NUM": "108215",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26052",
+        "LAT": "-25,448495803122",
+        "LON": "-49,263417449491",
+        "NOME": "Estação Tubo Almirante Gonçalves",
+        "NUM": "108072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14586",
+        "LAT": "-25,496640338232",
+        "LON": "-49,27637118136",
+        "NOME": "Estação Xaxim",
+        "NUM": "108206",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512104886599",
+        "LON": "-49,294667234918",
+        "NOME": "Terminal Pinheirinho - 550 - Pinheirinho/C.Gomes",
+        "NUM": "105704",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14598",
+        "LAT": "-25,469144829675",
+        "LON": "-49,254036970696",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108211",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14590",
+        "LAT": "-25,485232091382",
+        "LON": "-49,266797036282",
+        "NOME": "Estação Santa Bernadethe",
+        "NUM": "108207",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14581",
+        "LAT": "-25,506813852496",
+        "LON": "-49,284278333535",
+        "NOME": "Estação Vila São Pedro",
+        "NUM": "108203",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    }
+]

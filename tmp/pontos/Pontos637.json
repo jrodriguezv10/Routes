@@ -1,0 +1,412 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,541625681284",
+        "LON": "-49,27941044838",
+        "NOME": "Rua Cruzeiro do Sul, 578 - Sítio Cercado",
+        "NUM": "160238",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54319063138",
+        "LON": "-49,278400612268",
+        "NOME": "Rua Cruzeiro do Sul, 836 - Sítio Cercado",
+        "NUM": "160236",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53756114281",
+        "LON": "-49,277001953373",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4021 - Sítio Cercado",
+        "NUM": "160027",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542798205685",
+        "LON": "-49,278501179524",
+        "NOME": "Rua Cruzeiro do Sul, 839 - Sítio Cercado",
+        "NUM": "160237",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534294404216",
+        "LON": "-49,267916223308",
+        "NOME": "Terminal Sítio Cercado - 637 - Santa Joana",
+        "NUM": "106115",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,540159102115",
+        "LON": "-49,273945447512",
+        "NOME": "Rua Filósofo Humberto Rohden, 425 - Sítio Cercado",
+        "NUM": "160232",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536498352218",
+        "LON": "-49,273899504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3018 - Sítio Cercado",
+        "NUM": "160025",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536796554977",
+        "LON": "-49,274286326389",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3040 - Sítio Cercado",
+        "NUM": "160026",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512347062506",
+        "LON": "-49,295139271164",
+        "NOME": "Terminal Pinheirinho - 637 - Santa Joana",
+        "NUM": "105731",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537682100813",
+        "LON": "-49,276909766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4022 -Sítio Cercado",
+        "NUM": "160028",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522075360032",
+        "LON": "-49,297146011886",
+        "NOME": "Rua Mal. Otávio Saldanha Mazza, 8636 - Pinheirinho",
+        "NUM": "170052",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535961343618",
+        "LON": "-49,283845480986",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4729 - Pinheirinho",
+        "NUM": "160031",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53727",
+        "LON": "-49,2821",
+        "NOME": "Rua Cruzeiro do Sul, 130 - Sítio Cercado",
+        "NUM": "160243",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53926885779",
+        "LON": "-49,276067550926",
+        "NOME": "Rua Filósofo Humberto Rohden, 639 - Sítio Cercado",
+        "NUM": "160231",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530323506367",
+        "LON": "-49,288999504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5608 - Pinheirinho",
+        "NUM": "160036",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53737",
+        "LON": "-49,28222",
+        "NOME": "Rua Cruzeiro do Sul, 129 - Sítio Cercado",
+        "NUM": "160242",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512347062506",
+        "LON": "-49,295139271164",
+        "NOME": "Terminal Pinheirinho - 637 - Santa Joana",
+        "NUM": "105731",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539084567378",
+        "LON": "-49,275886025734",
+        "NOME": "Rua Filósofo Humberto Rohden, 639- Sítio Cercado",
+        "NUM": "160230",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539255186713",
+        "LON": "-49,280822631426",
+        "NOME": "Rua Cruzeiro do Sul, 372 - Sítio Cercado",
+        "NUM": "160241",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536092234573",
+        "LON": "-49,283941807375",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4728 - Pinheirinho",
+        "NUM": "160032",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533720616656",
+        "LON": "-49,28669638525",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5155 - Pinheirinho",
+        "NUM": "160033",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528153440264",
+        "LON": "-49,29169157424",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6018 - Pinheirinho",
+        "NUM": "160038",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539417335359",
+        "LON": "-49,280845430203",
+        "NOME": "Rua Cruzeiro do Sul, 371 - Sítio Cercado",
+        "NUM": "160240",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543025691031",
+        "LON": "-49,276305791445",
+        "NOME": "Rua Celeste Tortato Gabardo, 538 - Sítio Cercado",
+        "NUM": "160234",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541930611333",
+        "LON": "-49,273590054817",
+        "NOME": "Rua Celeste Tortato Gabardo, 227-  Sítio Cercado",
+        "NUM": "160121",
+        "SENTIDO": "Terminal Sítio Cercado",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534294404216",
+        "LON": "-49,267916223308",
+        "NOME": "Terminal Sítio Cercado - 637 - Santa Joana",
+        "NUM": "106115",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541508307209",
+        "LON": "-49,279355463095",
+        "NOME": "Rua Cruzeiro do Sul, 579 - Sítio Cercado",
+        "NUM": "160239",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542878067611",
+        "LON": "-49,276191797562",
+        "NOME": "Rua Celeste Tortato Gabardo, 539 - Sítio Cercado",
+        "NUM": "160235",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541694406821",
+        "LON": "-49,274284139881",
+        "NOME": "Rua Mandirituba, 1616 - Sítio Cercado",
+        "NUM": "160233",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    }
+]

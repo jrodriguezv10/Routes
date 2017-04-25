@@ -1,0 +1,322 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,399941199111",
+        "LON": "-49,336436272806",
+        "NOME": "Av. Manoel Ribas, 6503 - Santa Felicidade",
+        "NUM": "190303",
+        "SENTIDO": "José Culpi",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399041075309",
+        "LON": "-49,339095683044",
+        "NOME": "Av. Manoel Ribas, 6780 - Santa Felicidade",
+        "NUM": "190304",
+        "SENTIDO": "José Culpi",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39403272687",
+        "LON": "-49,34911507482",
+        "NOME": "Av. Manoel Ribas, 7931 - Butiatuvinha",
+        "NUM": "190485",
+        "SENTIDO": "José Culpi",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398297226347",
+        "LON": "-49,342697889751",
+        "NOME": "Praça Veneto, 181 - Butiatuvinha",
+        "NUM": "190307",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391217105427",
+        "LON": "-49,34975478167",
+        "NOME": "Rua Orlando Peruci, 529 - Butiatuvinha",
+        "NUM": "190316",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392359596573",
+        "LON": "-49,348181666082",
+        "NOME": "Rua Caetano Alessi, 11 - Butiatuvinha",
+        "NUM": "190315",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39299",
+        "LON": "-49,35259",
+        "NOME": "Rua José Culpi, 2 - Butiatuvinha",
+        "NUM": "190320",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3961654",
+        "LON": "-49,3583409",
+        "NOME": "Rua José Culpi, 693 - Butiatuvinha",
+        "NUM": "190324",
+        "SENTIDO": "José Culpi",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400934598472",
+        "LON": "-49,333724559492",
+        "NOME": "Av. Manoel Ribas, 6240 - Santa Felicidade",
+        "NUM": "190301",
+        "SENTIDO": "José Culpi",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398373549823",
+        "LON": "-49,34240284676",
+        "NOME": "Praça Veneto, 56 - Butiatuvinha",
+        "NUM": "190306",
+        "SENTIDO": "José Culpi",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393973362035",
+        "LON": "-49,354494244999",
+        "NOME": "Rua José Culpi, 393 - Butiatuvinha",
+        "NUM": "190777",
+        "SENTIDO": "José Culpi",
+        "SEQ": "14",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39153937868",
+        "LON": "-49,352250577158",
+        "NOME": "Av. Manoel Ribas, 8320 - Butiatuvinha",
+        "NUM": "190489",
+        "SENTIDO": "José Culpi",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395239401668",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8177 - Butiatuvinha",
+        "NUM": "190484",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394216878824",
+        "LON": "-49,349068136162",
+        "NOME": "Av. Manoel Ribas, 7930 - Butiatuvinha",
+        "NUM": "190486",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40106901248",
+        "LON": "-49,330102447799",
+        "NOME": "Terminal Santa Felicidade - 912 - José Culpi",
+        "NUM": "106010",
+        "SENTIDO": "José Culpi",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3961654",
+        "LON": "-49,3583409",
+        "NOME": "Rua José Culpi, 693 - Butiatuvinha",
+        "NUM": "190324",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401104202424",
+        "LON": "-49,333695055193",
+        "NOME": "Av. Manoel Ribas, 6241 - Santa Felicidade",
+        "NUM": "190300",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393990323419",
+        "LON": "-49,354377568907",
+        "NOME": "Rua José Culpi, 394 - Butiatuvinha",
+        "NUM": "190322",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394781448195",
+        "LON": "-49,355906428045",
+        "NOME": "Rua José Culpi, 521 - Butiatuvinha",
+        "NUM": "190778",
+        "SENTIDO": "José Culpi",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389889233626",
+        "LON": "-49,350563467688",
+        "NOME": "Rua Aécio Marcelo Antoniacomi, 243 - Butiatuvinha",
+        "NUM": "190775",
+        "SENTIDO": "José Culpi",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39286",
+        "LON": "-49,35244",
+        "NOME": "Rua José Culpi, 3 - Butiatuvinha",
+        "NUM": "190776",
+        "SENTIDO": "José Culpi",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395058885824",
+        "LON": "-49,347555370277",
+        "NOME": "Av. Manoel Ribas, 8178 - Butiatuvinha",
+        "NUM": "190483",
+        "SENTIDO": "José Culpi",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392382615901",
+        "LON": "-49,348074377722",
+        "NOME": "Rua Caetano Alessi, 10 - Butiatuvinha",
+        "NUM": "190773",
+        "SENTIDO": "José Culpi",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,40106901248",
+        "LON": "-49,330102447799",
+        "NOME": "Terminal Santa Felicidade - 912 - José Culpi",
+        "NUM": "106010",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394963175971",
+        "LON": "-49,356072725004",
+        "NOME": "Rua José Culpi, 520 - Butiatuvinha",
+        "NUM": "190323",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396756208697",
+        "LON": "-49,344871820158",
+        "NOME": "Av. Manoel Ribas, 7405 - Butiatuvinha",
+        "NUM": "190481",
+        "SENTIDO": "José Culpi",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391228009423",
+        "LON": "-49,349670292086",
+        "NOME": "Rua Orlando Peruci, 528 - Butiatuvinha",
+        "NUM": "190774",
+        "SENTIDO": "José Culpi",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391590263852",
+        "LON": "-49,352021248287",
+        "NOME": "Av. Manoel Ribas, 8321 - Butiatuvinha",
+        "NUM": "190319",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399979966068",
+        "LON": "-49,336693764872",
+        "NOME": "Av. Manoel Ribas, 6504 - Santa Felicidade",
+        "NUM": "190302",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399170703242",
+        "LON": "-49,339127869553",
+        "NOME": "Av. Manoel Ribas, 7140 - Santa Felicidade",
+        "NUM": "190305",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396975489925",
+        "LON": "-49,344752461857",
+        "NOME": "Av. Manoel Ribas, 7406 - Butiatuvinha",
+        "NUM": "190482",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389964350851",
+        "LON": "-49,35050177688",
+        "NOME": "Rua Aécio Marcelo Antoniacomi, 244 - Butiatuvinha",
+        "NUM": "190317",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    }
+]

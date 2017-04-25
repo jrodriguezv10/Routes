@@ -1,0 +1,242 @@
+[
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501045668129",
+        "LON": "-49,237744122753",
+        "NOME": "Terminal Carmo - 500 - Ligeirão Boqueirão",
+        "NUM": "104901",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501479380774",
+        "LON": "-49,237592577944",
+        "NOME": "Terminal Carmo - 500 - Ligeirão Boqueirão",
+        "NUM": "104903",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481702320136",
+        "LON": "-49,24716326286",
+        "NOME": "Terminal Hauer - 500 - Ligeirão Boqueirão",
+        "NUM": "105501",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43353",
+        "LAT": "-25,459149308599",
+        "LON": "-49,258267608183",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108077",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501479380774",
+        "LON": "-49,237592577944",
+        "NOME": "Terminal Carmo - 500 - Ligeirão Boqueirão",
+        "NUM": "104903",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481781012068",
+        "LON": "-49,246970143813",
+        "NOME": "Terminal Hauer - 500 - Ligeirão Boqueirão",
+        "NUM": "105504",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26044",
+        "LAT": "-25,438864496385",
+        "LON": "-49,268206533687",
+        "NOME": "Estação Tubo UTFPR",
+        "NUM": "108067",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501045668129",
+        "LON": "-49,237744122753",
+        "NOME": "Terminal Carmo - 500 - Ligeirão Boqueirão",
+        "NUM": "104901",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516887223754",
+        "LON": "-49,230156716602",
+        "NOME": "Terminal Boqueirão - 500 - Ligeirão Boqueirão",
+        "NUM": "104302",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26044",
+        "LAT": "-25,438864496385",
+        "LON": "-49,268206533687",
+        "NOME": "Estação Tubo UTFPR",
+        "NUM": "108067",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516887223754",
+        "LON": "-49,230156716602",
+        "NOME": "Terminal Boqueirão - 500 - Ligeirão Boqueirão",
+        "NUM": "104302",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481781012068",
+        "LON": "-49,246970143813",
+        "NOME": "Terminal Hauer - 500 - Ligeirão Boqueirão",
+        "NUM": "105504",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481702320136",
+        "LON": "-49,24716326286",
+        "NOME": "Terminal Hauer - 500 - Ligeirão Boqueirão",
+        "NUM": "105501",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "4",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43723",
+        "LAT": "-25,433741254877",
+        "LON": "-49,270291657395",
+        "NOME": "Estação Tubo Praça Carlos Gomes",
+        "NUM": "108065",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43353",
+        "LAT": "-25,459149308599",
+        "LON": "-49,258267608183",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108077",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516887223754",
+        "LON": "-49,230156716602",
+        "NOME": "Terminal Boqueirão - 500 - Ligeirão Boqueirão",
+        "NUM": "104302",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43354",
+        "LAT": "-25,458132393893",
+        "LON": "-49,25865652849",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108078",
+        "SENTIDO": "Term. Boqueirão (sábado)",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43354",
+        "LAT": "-25,458132393893",
+        "LON": "-49,25865652849",
+        "NOME": "Estação Tubo TRE",
+        "NUM": "108078",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438807575773",
+        "LON": "-49,268115338581",
+        "NOME": "Estação Tubo UTFPR - Desembarque",
+        "NUM": "108214",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,516887223754",
+        "LON": "-49,230156716602",
+        "NOME": "Terminal Boqueirão - 500 - Ligeirão Boqueirão",
+        "NUM": "104302",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438807575773",
+        "LON": "-49,268115338581",
+        "NOME": "Estação Tubo UTFPR - Desembarque",
+        "NUM": "108214",
+        "SENTIDO": "Praça Carlos Gomes (Sábado)",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    }
+]

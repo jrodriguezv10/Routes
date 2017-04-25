@@ -1,0 +1,172 @@
+[
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435356622213",
+        "LON": "-49,260860156427",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109061",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41752",
+        "LAT": "-25,449625864526",
+        "LON": "-49,353856209822",
+        "NOME": "Estação Tubo CIC Norte",
+        "NUM": "109043",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "1",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26029",
+        "LAT": "-25,435397800008",
+        "LON": "-49,260840039859",
+        "NOME": "Estação Tubo Rodoferroviária",
+        "NUM": "109060",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441807121752",
+        "LON": "-49,347099474371",
+        "NOME": "Terminal Campo Comprido - 304 - Pinhais / Campo Comprido",
+        "NUM": "109129",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "2",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14524",
+        "LAT": "-25,4401504",
+        "LON": "-49,1830858",
+        "NOME": "Terminal Pinhais - 304 - Pinhais / Campo Comprido",
+        "NUM": "109143",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441406264539",
+        "LON": "-49,347205421627",
+        "NOME": "Terminal Campo Comprido - 304 - Pinhais / Campo Comprido",
+        "NUM": "109128",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41860",
+        "LAT": "-25,428275309955",
+        "LON": "-49,272069961971",
+        "NOME": "Estação Tubo Nestor de Castro - 304 - Pinhais / Campo Comprido",
+        "NUM": "109054",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,435742045833",
+        "LON": "-49,307359327009",
+        "NOME": "Terminal Campina do Siqueira - 304 - Pinhais / Campo Comprido",
+        "NUM": "109124",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26075",
+        "LAT": "-25,428447321831",
+        "LON": "-49,28487356633",
+        "NOME": "Estação Tubo Praça 29 de Março",
+        "NUM": "109044",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26076",
+        "LAT": "-25,428269645747",
+        "LON": "-49,284841447163",
+        "NOME": "Estação Tubo Praça 29 de Março",
+        "NUM": "109016",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14524",
+        "LAT": "-25,4401504",
+        "LON": "-49,1830858",
+        "NOME": "Terminal Pinhais - 304 - Pinhais / Campo Comprido",
+        "NUM": "109143",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14506",
+        "LAT": "-25,436093266627",
+        "LON": "-49,307176936796",
+        "NOME": "Terminal Campina do Siqueira - 304 - Pinhais / Campo Comprido",
+        "NUM": "109126",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "3",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41752",
+        "LAT": "-25,449625864526",
+        "LON": "-49,353856209822",
+        "NOME": "Estação Tubo CIC Norte",
+        "NUM": "109043",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440297515343",
+        "LON": "-49,22097431213",
+        "NOME": "Terminal Capão da Imbuia - 304 - Pinhais / Campo Comprido",
+        "NUM": "109116",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41778",
+        "LAT": "-25,436605966027",
+        "LON": "-49,317960022974",
+        "NOME": "Estação Tubo Barigui",
+        "NUM": "109009",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14478",
+        "LAT": "-25,440023814986",
+        "LON": "-49,221371279064",
+        "NOME": "Terminal Capão da Imbuia - 304 - Pinhais / Campo Comprido",
+        "NUM": "109118",
+        "SENTIDO": "Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41861",
+        "LAT": "-25,429334090459",
+        "LON": "-49,272044968019",
+        "NOME": "Praça Tiradentes - 304 - Pinhais / Campo Comprido",
+        "NUM": "109052",
+        "SENTIDO": "Terminal Pinhais",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    }
+]

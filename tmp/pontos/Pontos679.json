@@ -1,0 +1,722 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "62",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519727261682",
+        "LON": "-49,328470112032",
+        "NOME": "Rua Vicente Micheloto, 408 - Cidade Industrial",
+        "NUM": "170349",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534789175374",
+        "LON": "-49,331466063824",
+        "NOME": "Rua Paul Garfunkel, 664 - Cidade Industrial",
+        "NUM": "170688",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,600601169815",
+        "LON": "-49,324413270897",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3617 - Campo de Santana",
+        "NUM": "170562",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59211",
+        "LON": "-49,34212",
+        "NOME": "Rua Adolfo Bertoldi, 1061 - Campo de Santana",
+        "NUM": "170534",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564520121994",
+        "LON": "-49,338864684105",
+        "NOME": "Av. Pero Vaz de Caminha, 590- Tatuquara",
+        "NUM": "170648",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593128716475",
+        "LON": "-49,331810474396",
+        "NOME": "Rua Alda Bassete Bertolde, 956 - Campo de Santana",
+        "NUM": "170395",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "39",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "65",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526221353643",
+        "LON": "-49,330535412973",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1635 - Cidade Industrial",
+        "NUM": "170137",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555683607047",
+        "LON": "-49,332996339745",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 32 - Tatuquara",
+        "NUM": "170626",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "61",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,577323124779",
+        "LON": "-49,332367361731",
+        "NOME": "Rua Presidente João Goulart, 1550 - Tatuquara",
+        "NUM": "170735",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54426",
+        "LON": "-49,33736",
+        "NOME": "Rua Paul Garfunkel, 4164 - Cidade Industrial",
+        "NUM": "170371",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,584870086098",
+        "LON": "-49,318099350876",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1767 - Campo de Santana",
+        "NUM": "170553",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "47",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556399600245",
+        "LON": "-49,336013495922",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 1121 - Tatuquara",
+        "NUM": "170440",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564460841276",
+        "LON": "-49,335923641921",
+        "NOME": "Av. Pero Vaz de Caminha, 783 - Tatuquara",
+        "NUM": "170650",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "63",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516254968822",
+        "LON": "-49,323125530624",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2582 - Cidade Industrial",
+        "NUM": "170072",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559527396125",
+        "LON": "-49,331741065926",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 397 - Tatuquara",
+        "NUM": "170437",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559662900445",
+        "LON": "-49,333409399933",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170438",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570754377188",
+        "LON": "-49,331943572706",
+        "NOME": "Rua Engenheiro João Kloss, 934 -Tatuquara",
+        "NUM": "170957",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572636729175",
+        "LON": "-49,332265437788",
+        "NOME": "Rua Engenheiro João Kloss, 1155 - Tatuquara",
+        "NUM": "170955",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "31",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578361026508",
+        "LON": "-49,333446950859",
+        "NOME": "Rua Presidente João Goulart, 1754 - Tatuquara",
+        "NUM": "170524",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "33",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "57",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56250876135",
+        "LON": "-49,315252869187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 367 - Tatuquara",
+        "NUM": "170508",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "56",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,590741362989",
+        "LON": "-49,319861562199",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2335 - Campo de Santana",
+        "NUM": "170557",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "45",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519428276483",
+        "LON": "-49,294448658895",
+        "NOME": "Rua André Ferreira Barbosa, 8391 - Pinheirinho",
+        "NUM": "150272",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528550959939",
+        "LON": "-49,328436584419",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1300 - Cidade Industrial",
+        "NUM": "170139",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531973115344",
+        "LON": "-49,329311428242",
+        "NOME": "Rua Paul Garfunkel, 571 - Cidade Industrial",
+        "NUM": "170687",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,584870086097",
+        "LON": "-49,338033528274",
+        "NOME": "Rua Marcos Bertoldi, 344 - Campo de Santana",
+        "NUM": "170531",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "55",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,582787257754",
+        "LON": "-49,337485860119",
+        "NOME": "Rua Marcos Bertoldi, 2 - Campo de Santana",
+        "NUM": "170528",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595366309677",
+        "LON": "-49,331625401974",
+        "NOME": "Rua Alda Bassete Bertolde, 97 - Campo de Santana",
+        "NUM": "170397",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "40",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597855431742",
+        "LON": "-49,329991936684",
+        "NOME": "Rua Alda Bassete Bertolde, 656 - Campo de Santana",
+        "NUM": "170399",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "41",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "66",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "69",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557623060261",
+        "LON": "-49,332020015663",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 116 - Tatuquara",
+        "NUM": "170629",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511922026127",
+        "LON": "-49,299999524497",
+        "NOME": "Rua João Rodrigues Pinheiro, 482 - Capão Raso",
+        "NUM": "170053",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513914230934",
+        "LON": "-49,317782570266",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2362 - Cidade Industrial",
+        "NUM": "170071",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559630234239",
+        "LON": "-49,338706762738",
+        "NOME": "Rua Enete Dubard, 55 - Tatuquara",
+        "NUM": "170644",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561904748795",
+        "LON": "-49,339339764065",
+        "NOME": "Rua Enete Dubard, 268 - Tatuquara",
+        "NUM": "170646",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569569124529",
+        "LON": "-49,315094618855",
+        "NOME": "Estrada Delegado Bruno de Almeida, 59 - Campo de Santana",
+        "NUM": "170545",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "52",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578936828248",
+        "LON": "-49,316975505298",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1098 - Campo de Santana",
+        "NUM": "170551",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "49",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,59767669463",
+        "LON": "-49,323745400852",
+        "NOME": "Estrada Delegado Bruno de Almeida, 3345 - Campo de Santana",
+        "NUM": "170560",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "43",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566942137659",
+        "LON": "-49,332953095436",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1520 - Tatuquara",
+        "NUM": "170961",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "28",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "64",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "68",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523540737703",
+        "LON": "-49,333980710453",
+        "NOME": "Rua Vicente Micheloto, 1224 - Cidade Industrial",
+        "NUM": "170134",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512217348975",
+        "LON": "-49,313764621162",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 1622 - Cidade Industrial",
+        "NUM": "170070",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "60",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558255560624",
+        "LON": "-49,335031807423",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 951 - Tatuquara",
+        "NUM": "170439",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571400686047",
+        "LON": "-49,316575198231",
+        "NOME": "Estrada Delegado Bruno de Almeida, 244  - Campo de Santana",
+        "NUM": "170547",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575501636993",
+        "LON": "-49,316663711128",
+        "NOME": "Estrada Delegado Bruno de Almeida, 731 - Campo de Santana",
+        "NUM": "170548",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "50",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511699057902",
+        "LON": "-49,29487913847",
+        "NOME": "Rua João Rodrigues Pinheiro, 70 - Capão Raso",
+        "NUM": "150275",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "72",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565204872647",
+        "LON": "-49,333954900503",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1038 - Tatuquara",
+        "NUM": "170652",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569071341743",
+        "LON": "-49,332435429096",
+        "NOME": "Rua Engenheiro João Kloss, 96 - Tatuquara",
+        "NUM": "170959",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512038218809",
+        "LON": "-49,304108668708",
+        "NOME": "Rua João Rodrigues Pinheiro, 846 - Capão Raso",
+        "NUM": "170054",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512115680535",
+        "LON": "-49,308153439903",
+        "NOME": "Rua João Rodrigues Pinheiro, 1392 - Capão Raso",
+        "NUM": "170055",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "54",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581996030954",
+        "LON": "-49,31762459988",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1294  - Campo de Santana",
+        "NUM": "170552",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "48",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58762553375",
+        "LON": "-49,318136901802",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2073 - Campo de Santana",
+        "NUM": "170555",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "46",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595852792178",
+        "LON": "-49,323048026508",
+        "NOME": "Estrada Delegado Bruno de Almeida, 2593- Campo de Santana",
+        "NUM": "170558",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "44",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51269",
+        "LON": "-49,29425",
+        "NOME": "Rua André Ferreira Barbosa, 7590 - Capão Raso",
+        "NUM": "150273",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "67",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,546792389178",
+        "LON": "-49,336178274683",
+        "NOME": "Rua Paul Garfunkel, 4492 - Cidade Industrial",
+        "NUM": "170372",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,580048504862",
+        "LON": "-49,335227937645",
+        "NOME": "Rua Presidente João Goulart, 2070 - Tatuquara",
+        "NUM": "170526",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "34",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "59",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568528727042",
+        "LON": "-49,314450888691",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1086 -Tatuquara",
+        "NUM": "170909",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "53",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58845",
+        "LON": "-49,34119",
+        "NOME": "Rua Adolfo Bertoldi, 660 - Campo de Santana",
+        "NUM": "170533",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542817789855",
+        "LON": "-49,337491393089",
+        "NOME": "Rua Paul Garfunkel, 4044 - Cidade Industrial",
+        "NUM": "170620",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511699057902",
+        "LON": "-49,29487913847",
+        "NOME": "Rua João Rodrigues Pinheiro, 70 - Capão Raso",
+        "NUM": "150275",
+        "SENTIDO": "Mad. Tatuquara",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

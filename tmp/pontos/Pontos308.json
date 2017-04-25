@@ -1,0 +1,362 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,435853443702",
+        "LON": "-49,257311106867",
+        "NOME": "Av. Pres. Affonso Camargo, 306 - Jardim Botânico",
+        "NUM": "140217",
+        "SENTIDO": "Centenário",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435738123062",
+        "LON": "-49,260935783386",
+        "NOME": "Av. Presidente Affonso Camargo, 2 - Rebouças",
+        "NUM": "110057",
+        "SENTIDO": "Centenário",
+        "SEQ": "3",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43708002324",
+        "LON": "-49,243879616261",
+        "NOME": "Av. Pres. Affonso Camargo, 1703 - Cristo Rei",
+        "NUM": "130335",
+        "SENTIDO": "Centenário",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442177412123",
+        "LON": "-49,217839390039",
+        "NOME": "Av. Prefeito Maurício Fruet, 2520 - Cajuru",
+        "NUM": "130161",
+        "SENTIDO": "Centenário",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457244269479",
+        "LON": "-49,213066399097",
+        "NOME": "Rua Eng. Costa Barros, 1187 - Cajuru",
+        "NUM": "140728",
+        "SENTIDO": "Centenário",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450952311763",
+        "LON": "-49,215362370014",
+        "NOME": "Rua Eng. Costa Barros, 534 - Cajuru",
+        "NUM": "140739",
+        "SENTIDO": "Centenário",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437684357878",
+        "LON": "-49,266993552446",
+        "NOME": "Av. Sete de Setembro, 2787- Rebouças",
+        "NUM": "110054",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468724186061",
+        "LON": "-49,208623319864",
+        "NOME": "Rua Filipinas, 543 - Cajuru",
+        "NUM": "140734",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436084499449",
+        "LON": "-49,274792075157",
+        "NOME": "Praça Rui Barbosa - 308 - Mad. Centenário",
+        "NUM": "102046",
+        "SENTIDO": "Centenário",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435619434421",
+        "LON": "-49,256762266159",
+        "NOME": "Av. Presidente Affonso Camargo, 307 - Jardim Botânico",
+        "NUM": "110058",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435550401178",
+        "LON": "-49,25038933754",
+        "NOME": "Av. Pres. Affonso Camargo, 961 - Cristo Rei",
+        "NUM": "130430",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44217620108",
+        "LON": "-49,217569828033",
+        "NOME": "Av. Prefeito Maurício Fruet, 2520 - Cajuru",
+        "NUM": "130162",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465166873065",
+        "LON": "-49,209761917591",
+        "NOME": "Rua Filipinas, 206 - Cajuru",
+        "NUM": "140732",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452436933433",
+        "LON": "-49,214635491371",
+        "NOME": "Rua Eng. Costa Barros, 641 - Cajuru",
+        "NUM": "140748",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43957485207",
+        "LON": "-49,22264456749",
+        "NOME": "Av. Pres. Affonso Camargo, 4033 - Capão da Imbuia",
+        "NUM": "130156",
+        "SENTIDO": "Centenário",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465347283915",
+        "LON": "-49,209807515144",
+        "NOME": "Rua Filipinas, 222 - Cajuru",
+        "NUM": "140733",
+        "SENTIDO": "Centenário",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44691613111",
+        "LON": "-49,217003881931",
+        "NOME": "Rua Eng. Costa Barros, 5 - Cajuru",
+        "NUM": "140737",
+        "SENTIDO": "Centenário",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460536638973",
+        "LON": "-49,211705178022",
+        "NOME": "Rua Eng. Costa Barros, 1625 - Cajuru",
+        "NUM": "140730",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438081594226",
+        "LON": "-49,238822311163",
+        "NOME": "Av. Pres. Affonso Camargo, 2125 - Cristo Rei",
+        "NUM": "130337",
+        "SENTIDO": "Centenário",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460346534027",
+        "LON": "-49,211882203817",
+        "NOME": "Rua Eng. Costa Barros, 1596 - Cajuru",
+        "NUM": "140731",
+        "SENTIDO": "Centenário",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468724186061",
+        "LON": "-49,208623319864",
+        "NOME": "Rua Filipinas, 543 - Cajuru",
+        "NUM": "140734",
+        "SENTIDO": "Centenário",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435644867711",
+        "LON": "-49,260699748993",
+        "NOME": "Av. Presidente Affonso Camargo, 2 - rebouças",
+        "NUM": "110053",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439504610023",
+        "LON": "-49,222558736801",
+        "NOME": "Av. Pres. Affonso Camargo, 4033 - Capão da Imbuia",
+        "NUM": "130157",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447080826397",
+        "LON": "-49,216812103987",
+        "NOME": "Rua Eng. Costa Barros, 45 - Cajuru",
+        "NUM": "140738",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44180683232",
+        "LON": "-49,230885654688",
+        "NOME": "Av. Pres. Affonso Camargo, 3185 - Capão da Imbuia",
+        "NUM": "130097",
+        "SENTIDO": "Centenário",
+        "SEQ": "9",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440834357675",
+        "LON": "-49,236523658037",
+        "NOME": "Av. Pres. Affonso Camargo, 2583 - Cristo Rei",
+        "NUM": "130420",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457393209066",
+        "LON": "-49,212904125452",
+        "NOME": "Rua Eng. Costa Barros, 1122 - Cajuru",
+        "NUM": "140729",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436084499449",
+        "LON": "-49,274792075157",
+        "NOME": "Praça Rui Barbosa - 308 - Mad. Centenário",
+        "NUM": "102046",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437781244913",
+        "LON": "-49,266938567162",
+        "NOME": "Av. Sete de Setembro, 2787-3019 - Rebouças",
+        "NUM": "110055",
+        "SENTIDO": "Centenário",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435637601058",
+        "LON": "-49,250709861517",
+        "NOME": "Av. Pres. Affonso Camargo, 919 - Cristo Rei",
+        "NUM": "130431",
+        "SENTIDO": "Centenário",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440720518287",
+        "LON": "-49,236748963594",
+        "NOME": "Av. Pres. Affonso Camargo, 2583 - Cristo Rei",
+        "NUM": "130399",
+        "SENTIDO": "Centenário",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,43896931584",
+        "LON": "-49,226494878531",
+        "NOME": "Av. Pres. Affonso Camargo, 3737 - Capão da Imbuia",
+        "NUM": "130099",
+        "SENTIDO": "Centenário",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,437055801347",
+        "LON": "-49,243512153625",
+        "NOME": "Av. Pres. Affonso Camargo, 1751 - Cristo Re",
+        "NUM": "130336",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438216024522",
+        "LON": "-49,238548725843",
+        "NOME": "Av. Pres. Affonso Camargo, 2125 - Cristo Rei",
+        "NUM": "130370",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441705104331",
+        "LON": "-49,230608046055",
+        "NOME": "Av. Pres. Affonso Camargo, 3191 - Capão da Imbuia",
+        "NUM": "130098",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438773121449",
+        "LON": "-49,226229339838",
+        "NOME": "Av. Pres. Affonso Camargo, 3775 - Capão da Imbuia",
+        "NUM": "130155",
+        "SENTIDO": "Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    }
+]

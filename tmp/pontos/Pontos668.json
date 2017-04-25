@@ -1,0 +1,212 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,513755678785",
+        "LON": "-49,335573942608",
+        "NOME": "Rua João Bettega, 6618 - Portão",
+        "NUM": "170092",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516192978383",
+        "LON": "-49,350650981069",
+        "NOME": "R. dos Palmenses, 620 - São Miguel",
+        "NUM": "181023",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "1",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520026196106",
+        "LON": "-49,346408725924",
+        "NOME": "Av. das Araucárias, 183 - Barigui - Araucária - PR",
+        "NUM": "630005",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516192978383",
+        "LON": "-49,350650981069",
+        "NOME": "R. dos Palmenses, 620 - São Miguel",
+        "NUM": "181023",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517211099917",
+        "LON": "-49,342499406284",
+        "NOME": "Av. das Araucárias, 121 - Barigui - Araucária - PR",
+        "NUM": "630003",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51376294072",
+        "LON": "-49,335112602657",
+        "NOME": "Rua João Bettega, 6474 - Portão",
+        "NUM": "170091",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516292222775",
+        "LON": "-49,3505564332",
+        "NOME": "Rua Nestor Pereira Habkost, 43 - Cidade Industrial",
+        "NUM": "180955",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515453749305",
+        "LON": "-49,339428276962",
+        "NOME": "Av. das Araucárias, 40 - Barigui - Araucária - PR",
+        "NUM": "630002",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "6",
+        "TIPO": "Fora do padrão"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512426737275",
+        "LON": "-49,332958788818",
+        "NOME": "Rua João Bettega, 6205 - Portão",
+        "NUM": "170089",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517370857788",
+        "LON": "-49,342256666368",
+        "NOME": "Av. das Araucárias, 122 - Barigui - Araucária - PR",
+        "NUM": "630004",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512550191478",
+        "LON": "-49,333355755753",
+        "NOME": "Rua João Bettega, 6378 - Portão",
+        "NUM": "180954",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519864021247",
+        "LON": "-49,346611232704",
+        "NOME": "Av. das Araucárias, 198 - Barigui - Araucária - PR",
+        "NUM": "630006",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511925391882",
+        "LON": "-49,340940713882",
+        "NOME": "R. Oswaldo Ferreira dos Santos - Cidade Industrial",
+        "NUM": "181022",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516192978383",
+        "LON": "-49,350650981069",
+        "NOME": "R. dos Palmenses, 620 - São Miguel",
+        "NUM": "181023",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515734539835",
+        "LON": "-49,339536906427",
+        "NOME": "Av. das Araucárias, 40 - Barigui - Araucária - PR",
+        "NUM": "630001",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Casa de Custódia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Terminal CIC",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    }
+]

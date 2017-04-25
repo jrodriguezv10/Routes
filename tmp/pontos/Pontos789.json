@@ -1,0 +1,982 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,470101031441",
+        "LON": "-49,318554110451",
+        "NOME": "Rua Rezala Simão, 997 - Santa Quitéria",
+        "NUM": "180020",
+        "SENTIDO": "Caiuá",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Caiuá",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Caiuá",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493613012084",
+        "LON": "-49,331571663285",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 3825 - Cidade Industrial",
+        "NUM": "180299",
+        "SENTIDO": "Caiuá",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470154304971",
+        "LON": "-49,318442798776",
+        "NOME": "Rua Rezala Simão, 996 - Santa Quitéria",
+        "NUM": "180010",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460022766325",
+        "LON": "-49,312760413832",
+        "NOME": "Rua Pretextato Taborda Júnior, 500 - Santa Quitéria",
+        "NUM": "180845",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455639359749",
+        "LON": "-49,299622954077",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4272 - Rebouças",
+        "NUM": "180638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453362226006",
+        "LON": "-49,293697954363",
+        "NOME": "Av. Pres. Getúlio Vargas, 3605 - Água Verde",
+        "NUM": "180640",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434806999449",
+        "LON": "-49,272209615522",
+        "NOME": "Praça Rui Barbosa - 703 - Caiuá",
+        "NUM": "102016",
+        "SENTIDO": "Caiuá",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "Caiuá",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450067365812",
+        "LON": "-49,290571839756",
+        "NOME": "Av. Iguaçu, 3064 - Água Verde",
+        "NUM": "180641",
+        "SENTIDO": "Caiuá",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458225831115",
+        "LON": "-49,307495237535",
+        "NOME": "Rua Major França Gomes, 432 - Santa Quitéria",
+        "NUM": "180965",
+        "SENTIDO": "Caiuá",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486030040819",
+        "LON": "-49,329041422552",
+        "NOME": "Avenida Frederico Lambertuci, 802 - Fazendinha",
+        "NUM": "180150",
+        "SENTIDO": "Caiuá",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493903537864",
+        "LON": "-49,329491610194",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1854 - Cidade Industrial",
+        "NUM": "180297",
+        "SENTIDO": "Caiuá",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483796194176",
+        "LON": "-49,349676668644",
+        "NOME": "Rua Raul Pompéia, 2156 - Cidade Industrial",
+        "NUM": "180006",
+        "SENTIDO": "Caiuá",
+        "SEQ": "48",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459100084616",
+        "LON": "-49,310071499294",
+        "NOME": "Rua Major França Gomes, 697 - Santa Quitéria",
+        "NUM": "180842",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456753389811",
+        "LON": "-49,302464754528",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4557 - Rebouças",
+        "NUM": "180637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482331104997",
+        "LON": "-49,322968487429",
+        "NOME": "R. Gen. Potiguara, 2430 - Fazendinha",
+        "NUM": "180096",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483916387219",
+        "LON": "-49,323860059766",
+        "NOME": "Rua Alcir Martins Bastos, 151- Fazendinha",
+        "NUM": "180438",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485766205262",
+        "LON": "-49,324954401044",
+        "NOME": "Rua Alcir Martins Bastos, 378- Fazendinha",
+        "NUM": "180439",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487239502016",
+        "LON": "-49,325922678498",
+        "NOME": "Rua Alcir Martins Bastos, 761 - Fazendinha",
+        "NUM": "180440",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485433212586",
+        "LON": "-49,351771802849",
+        "NOME": "Rua Durval Leopoldo Landal, 532- Cidade Industrial",
+        "NUM": "180334",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Caiuá",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46010873762",
+        "LON": "-49,312839538998",
+        "NOME": "Rua Pretextato Taborda Júnior, 501 - Santa Quitéria",
+        "NUM": "180963",
+        "SENTIDO": "Caiuá",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455564283439",
+        "LON": "-49,305581481403",
+        "NOME": "Rua João Alencar Guimarães, 182 - Santa Quitéria",
+        "NUM": "180646",
+        "SENTIDO": "Caiuá",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465828239958",
+        "LON": "-49,313656271643",
+        "NOME": "Rua Rezala Simão, 316 - Santa Quitéria",
+        "NUM": "180412",
+        "SENTIDO": "Caiuá",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480128211533",
+        "LON": "-49,342460514254",
+        "NOME": "Rua Raul Pompéia, 1264 - Cidade Industrial",
+        "NUM": "180448",
+        "SENTIDO": "Caiuá",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48182675743",
+        "LON": "-49,344504357523",
+        "NOME": "Rua Raul Pompéia, 1530 - Cidade Industrial",
+        "NUM": "180449",
+        "SENTIDO": "Caiuá",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483133756096",
+        "LON": "-49,331523527049",
+        "NOME": "Rua Arnaldo Thá, 640 - Fazendinha",
+        "NUM": "180527",
+        "SENTIDO": "Caiuá",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4911614211",
+        "LON": "-49,328305760119",
+        "NOME": "Rua Alcir Martins Bastos, 1035 - Fazendinha",
+        "NUM": "180442",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476497893021",
+        "LON": "-49,321787201223",
+        "NOME": "R. Carlos Klemtz, 1201 - Fazendinha",
+        "NUM": "180003",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458286375191",
+        "LON": "-49,307404042429",
+        "NOME": "Rua Major França Gomes, 433 - Santa Quitéria",
+        "NUM": "180847",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454671235033",
+        "LON": "-49,297057421154",
+        "NOME": "Avenida Presidente Getúlio Vargas, 3969 - Rebouças",
+        "NUM": "180639",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485800026233",
+        "LON": "-49,32904678697",
+        "NOME": "Avenida Frederico Lambertuci, 803 - Fazendinha",
+        "NUM": "180149",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489615790249",
+        "LON": "-49,332801879591",
+        "NOME": "Avenida Frederico Lambertuci, 1301 - Fazendinha",
+        "NUM": "180154",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466084930413",
+        "LON": "-49,314258427567",
+        "NOME": "Rua Rezala Simão, 315 - Santa Quitéria",
+        "NUM": "180389",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477191111187",
+        "LON": "-49,335545779413",
+        "NOME": "R. Raul Pompéia, 453 - Cidade Industrial",
+        "NUM": "180130",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47726",
+        "LON": "-49,32447",
+        "NOME": "R. Carlos Klemtz, 1360 - Fazendinha",
+        "NUM": "180002",
+        "SENTIDO": "Caiuá",
+        "SEQ": "25",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Caiuá",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Caiuá",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459031064834",
+        "LON": "-49,310181469864",
+        "NOME": "Rua Major França Gomes, 698 - Santa Quitéria",
+        "NUM": "180964",
+        "SENTIDO": "Caiuá",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451533706681",
+        "LON": "-49,294584424442",
+        "NOME": "Avenida Iguaçu, 3480 - Rebouças",
+        "NUM": "180642",
+        "SENTIDO": "Caiuá",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477643908746",
+        "LON": "-49,332598031706",
+        "NOME": "R. Raul Pompéia, 114 - Cidade Industrial",
+        "NUM": "180100",
+        "SENTIDO": "Caiuá",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48269236496",
+        "LON": "-49,346117706245",
+        "NOME": "Rua Raul Pompéia, 1745 - Cidade Industrial",
+        "NUM": "180451",
+        "SENTIDO": "Caiuá",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485589456862",
+        "LON": "-49,325075100449",
+        "NOME": "Rua Alcir Martins Bastos, 377 - Fazendinha",
+        "NUM": "180760",
+        "SENTIDO": "Caiuá",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477266996889",
+        "LON": "-49,32417002943",
+        "NOME": "R. Carlos Klemtz, 1361 - Fazendinha",
+        "NUM": "180001",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47413",
+        "LON": "-49,31821",
+        "NOME": "Rua Rezala Simão, 1446 - Santa Quitéria",
+        "NUM": "180008",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487315693193",
+        "LON": "-49,330522001928",
+        "NOME": "Avenida Frederico Lambertuci, 1194 - Fazendinha",
+        "NUM": "180151",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4771051521",
+        "LON": "-49,337120236105",
+        "NOME": "Rua Raul Pompéia, 649 - Cidade Industrial",
+        "NUM": "180443",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478658459653",
+        "LON": "-49,340012998527",
+        "NOME": "Rua Raul Pompéia, 983 - Cidade Industrial",
+        "NUM": "180446",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489113480337",
+        "LON": "-49,327055911807",
+        "NOME": "Rua Alcir Martins Bastos, 762 - Fazendinha",
+        "NUM": "180441",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490119384571",
+        "LON": "-49,349745393938",
+        "NOME": "Rua Durval Leopoldo Landal, 1094 - Cidade Industrial",
+        "NUM": "180390",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476534260933",
+        "LON": "-49,322947317791",
+        "NOME": "R. Carlos Klemtz, 1249 - Fazendinha",
+        "NUM": "180004",
+        "SENTIDO": "Caiuá",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Caiuá",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Caiuá",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457069433419",
+        "LON": "-49,307369173712",
+        "NOME": "Rua Curupaitis, 332- Santa Quitéria",
+        "NUM": "180796",
+        "SENTIDO": "Caiuá",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454510788346",
+        "LON": "-49,302656532473",
+        "NOME": "Avenida Iguaçu, 4378 - Rebouças",
+        "NUM": "180645",
+        "SENTIDO": "Caiuá",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464883691965",
+        "LON": "-49,311505680605",
+        "NOME": "Rua Rezala Simão, 64 - Santa Quitéria",
+        "NUM": "180986",
+        "SENTIDO": "Caiuá",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477077306185",
+        "LON": "-49,335517616219",
+        "NOME": "R. Raul Pompéia, 452 - Cidade Industrial",
+        "NUM": "180129",
+        "SENTIDO": "Caiuá",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487197131367",
+        "LON": "-49,326072882203",
+        "NOME": "Rua Alcir Martins Bastos, 762 - Fazendinha",
+        "NUM": "180761",
+        "SENTIDO": "Caiuá",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494401061631",
+        "LON": "-49,345543713516",
+        "NOME": "Rua Deputado Cunha Bueno, 126 - Cidade Industrial",
+        "NUM": "180393",
+        "SENTIDO": "Caiuá",
+        "SEQ": "50",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481705692943",
+        "LON": "-49,344108731693",
+        "NOME": "Rua Raul Pompéia, 1551 - Cidade Industrial",
+        "NUM": "180450",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453020743049",
+        "LON": "-49,298570187038",
+        "NOME": "Avenida Iguaçu, 3922 - Rebouças",
+        "NUM": "180643",
+        "SENTIDO": "Caiuá",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487352010857",
+        "LON": "-49,330328882879",
+        "NOME": "Avenida Frederico Lambertuci, 1193 - Fazendinha",
+        "NUM": "180152",
+        "SENTIDO": "Caiuá",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487414194576",
+        "LON": "-49,348959083224",
+        "NOME": "Rua Rosa Rigoni Landal, 251 - Cidade Industrial",
+        "NUM": "180427",
+        "SENTIDO": "Caiuá",
+        "SEQ": "49",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434806999449",
+        "LON": "-49,272209615522",
+        "NOME": "Praça Rui Barbosa - 703 - Caiuá",
+        "NUM": "102016",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475752608398",
+        "LON": "-49,318800204859",
+        "NOME": "R. Carlos Klemtz, 951 - Fazendinha",
+        "NUM": "180005",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468140855894",
+        "LON": "-49,317025126165",
+        "NOME": "Rua Rezala Simão, 698 - Santa Quitéria",
+        "NUM": "180531",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482779530688",
+        "LON": "-49,346003712362",
+        "NOME": "Rua Raul Pompéia, 1746 - Cidade Industrial",
+        "NUM": "180452",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483951154003",
+        "LON": "-49,349558651447",
+        "NOME": "Rua Raul Pompéia, 2156 - Cidade Industrial",
+        "NUM": "180035",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475747264233",
+        "LON": "-49,318977930059",
+        "NOME": "R. Carlos Klemtz, 1000 - Fazendinha",
+        "NUM": "180007",
+        "SENTIDO": "Caiuá",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47428",
+        "LON": "-49,31836",
+        "NOME": "Rua Rezala Simão, 1447 -Santa Quitéria",
+        "NUM": "180009",
+        "SENTIDO": "Caiuá",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453747906833",
+        "LON": "-49,300549657291",
+        "NOME": "Avenida Iguaçu, 4123 - Rebouças",
+        "NUM": "180644",
+        "SENTIDO": "Caiuá",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477025246414",
+        "LON": "-49,337295920795",
+        "NOME": "Rua Raul Pompéia, 648 - Cidade Industrial",
+        "NUM": "180444",
+        "SENTIDO": "Caiuá",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481931593403",
+        "LON": "-49,323107962298",
+        "NOME": "R. Gen. Potiguara, 2429 - Fazendinha",
+        "NUM": "180097",
+        "SENTIDO": "Caiuá",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483877647269",
+        "LON": "-49,324002216843",
+        "NOME": "Rua Alcir Martins Bastos, 150 - Fazendinha",
+        "NUM": "180759",
+        "SENTIDO": "Caiuá",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489045688349",
+        "LON": "-49,327176611212",
+        "NOME": "Rua Alcir Martins Bastos, 761 - Fazendinha",
+        "NUM": "180762",
+        "SENTIDO": "Caiuá",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457569531378",
+        "LON": "-49,304900200314",
+        "NOME": "Rua Major França Gomes, 174 - Santa Quitéria",
+        "NUM": "180636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464911540703",
+        "LON": "-49,311249529644",
+        "NOME": "Rua Rezala Simão, 65 - Santa Quitéria",
+        "NUM": "180985",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489586736666",
+        "LON": "-49,332552434153",
+        "NOME": "Avenida Frederico Lambertuci, 1302 - Fazendinha",
+        "NUM": "180153",
+        "SENTIDO": "Caiuá",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478231090207",
+        "LON": "-49,339763553089",
+        "NOME": "Rua Raul Pompéia, 982 - Cidade Industrial",
+        "NUM": "180445",
+        "SENTIDO": "Caiuá",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480609563754",
+        "LON": "-49,328154672527",
+        "NOME": "Rua Arnaldo Thá, 279 - Fazendinha",
+        "NUM": "180528",
+        "SENTIDO": "Caiuá",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Caiuá",
+        "SEQ": "51",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477801297872",
+        "LON": "-49,332496107763",
+        "NOME": "R. Raul Pompéia, 113 - Cidade Industrial",
+        "NUM": "180128",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480135475501",
+        "LON": "-49,342258007473",
+        "NOME": "Rua Raul Pompéia, 1265 - Cidade Industrial",
+        "NUM": "180447",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480448546329",
+        "LON": "-49,328210998916",
+        "NOME": "Rua Arnaldo Thá, 278 - Fazendinha",
+        "NUM": "180530",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494450692842",
+        "LON": "-49,347886623091",
+        "NOME": "Rua Deputado Cunha Bueno, 347 - Cidade Industrial",
+        "NUM": "180392",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402691102461",
+        "LON": "-49,275231032841",
+        "NOME": "R. Cláudio Manoel da Costa, 1-149 - Pilarzinho",
+        "NUM": "120537",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390208050398",
+        "LON": "-49,289026572923",
+        "NOME": "R. Alexandre Von Humboldt, 741 - Pilarzinho",
+        "NUM": "120557",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398563751099",
+        "LON": "-49,285227760401",
+        "NOME": "R. Victor Benato, 521 - Pilarzinho",
+        "NUM": "120548",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414115420076",
+        "LON": "-49,276023837256",
+        "NOME": "R. Albino Silva, 332 - Bom Retiro",
+        "NUM": "120064",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426928549988",
+        "LON": "-49,271383145224",
+        "NOME": "Rua Treze de Maio, 503 - São Francisco",
+        "NUM": "110187",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404092287633",
+        "LON": "-49,275649006075",
+        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
+        "NUM": "120057",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393647149496",
+        "LON": "-49,2869340675",
+        "NOME": "R. Alexandre Von Humboldt, 246 - Pilarzinho",
+        "NUM": "120553",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392003090994",
+        "LON": "-49,287611325277",
+        "NOME": "R. Alexandre Von Humboldt, 474 - Pilarzinho",
+        "NUM": "120555",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402225145404",
+        "LON": "-49,275841595383",
+        "NOME": "R. Nilo Peçanha, 1993 - Bom Retiro",
+        "NUM": "120536",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391328615541",
+        "LON": "-49,294544653373",
+        "NOME": "R. Jorn. Geraldo Russe, 1-79 - Pilarzinho",
+        "NUM": "120350",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416661529486",
+        "LON": "-49,276681068932",
+        "NOME": "R. Albino Silva, 122 - Bom Retiro",
+        "NUM": "110009",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397039409924",
+        "LON": "-49,287550660275",
+        "NOME": "R. Victor Benato, 740 - Pilarzinho",
+        "NUM": "120551",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398625536637",
+        "LON": "-49,285112425413",
+        "NOME": "R. Victor Benato, 521 - Pilarzinho",
+        "NUM": "120549",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398052504843",
+        "LON": "-49,28050573143",
+        "NOME": "R. Victor Benato, 1-389 - Pilarzinho",
+        "NUM": "120545",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393641091842",
+        "LON": "-49,286822755826",
+        "NOME": "R. Alexandre Von Humboldt, 247 - Pilarzinho",
+        "NUM": "120552",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408220402306",
+        "LON": "-49,276207968194",
+        "NOME": "R. Nilo Peçanha, 1378 - Bom Retiro",
+        "NUM": "120061",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,396959451112",
+        "LON": "-49,28749567499",
+        "NOME": "R. Victor Benato, 740 - Pilarzinho",
+        "NUM": "120550",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387786107017",
+        "LON": "-49,289937182885",
+        "NOME": "R. Alexandre Von Humboldt, 937 - Pilarzinho",
+        "NUM": "120560",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388965291233",
+        "LON": "-49,294714905996",
+        "NOME": "R. Jorn. Geraldo Russe, 297 - Pilarzinho",
+        "NUM": "120349",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428178462348",
+        "LON": "-49,272275150962",
+        "NOME": "Nestor de Castro - 169 - Jd. Kosmos",
+        "NUM": "101128",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406519777418",
+        "LON": "-49,276052050075",
+        "NOME": "R. Nilo Peçanha, 1571 - Bom Retiro",
+        "NUM": "120058",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401868627243",
+        "LON": "-49,277511667134",
+        "NOME": "R. P-min. Brochado da Rocha, 2-160 - Pilarzinho",
+        "NUM": "120538",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412286976107",
+        "LON": "-49,274096713905",
+        "NOME": "R. Nilo Peçanha, 897 - São Francisco",
+        "NUM": "120066",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390169280301",
+        "LON": "-49,288939401131",
+        "NOME": "R. Alexandre Von Humboldt, 742 - Pilarzinho",
+        "NUM": "120556",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411727316186",
+        "LON": "-49,275359376192",
+        "NOME": "R. Albino Silva, 688 - Bom Retiro",
+        "NUM": "120063",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387105191723",
+        "LON": "-49,291974320631",
+        "NOME": "R. Jorge Gava, 172 - Pilarzinho",
+        "NUM": "120565",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428178462348",
+        "LON": "-49,272275150962",
+        "NOME": "Nestor de Castro - 169 - Jd. Kosmos",
+        "NUM": "101128",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387603029258",
+        "LON": "-49,294046641535",
+        "NOME": "R. Jorge Gava, 172 - Pilarzinho",
+        "NUM": "120562",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409954378395",
+        "LON": "-49,275623290553",
+        "NOME": "R. Nilo Peçanha, 1204 - Bom Retiro",
+        "NUM": "120062",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398033121056",
+        "LON": "-49,280618384209",
+        "NOME": "R. Victor Benato, 2-390 - Pilarzinho",
+        "NUM": "120544",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398910234297",
+        "LON": "-49,278609409657",
+        "NOME": "R. P-min. Brochado da Rocha, 315 - Pilarzinho",
+        "NUM": "120540",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398618570942",
+        "LON": "-49,282371829869",
+        "NOME": "Rua Victor Benato, 283 - Pilarzinho (Universidade Livre do Meio Ambiente)",
+        "NUM": "120543",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Linha Turismo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387656349892",
+        "LON": "-49,293872475935",
+        "NOME": "R. Jorge Gava, 172 - Pilarzinho",
+        "NUM": "120563",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398631594041",
+        "LON": "-49,283358260717",
+        "NOME": "Rua Victor Benato, 1-389 - Pilarzinho",
+        "NUM": "120547",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398978077044",
+        "LON": "-49,278642218234",
+        "NOME": "R. P-min. Brochado da Rocha, 282 - Pilarzinho",
+        "NUM": "120541",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387081996713",
+        "LON": "-49,292169095225",
+        "NOME": "R. Jorge Gava, 171 - Pilarzinho",
+        "NUM": "120564",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404054412746",
+        "LON": "-49,275486877311",
+        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
+        "NUM": "120056",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408545550262",
+        "LON": "-49,276305912747",
+        "NOME": "R. Nilo Peçanha, 1377 - Bom Retiro",
+        "NUM": "120060",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388972238428",
+        "LON": "-49,294834658878",
+        "NOME": "R. Jorn. Geraldo Russe, 296 - Pilarzinho",
+        "NUM": "120348",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391957538051",
+        "LON": "-49,287495031576",
+        "NOME": "R. Alexandre Von Humboldt, 451 - Pilarzinho",
+        "NUM": "120554",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388476711132",
+        "LON": "-49,289400741082",
+        "NOME": "R. Alexandre Von Humboldt, 936 - Pilarzinho",
+        "NUM": "120558",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388566368219",
+        "LON": "-49,289453044157",
+        "NOME": "R. Alexandre Von Humboldt, 791 - Pilarzinho",
+        "NUM": "120559",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3878987848",
+        "LON": "-49,289891585331",
+        "NOME": "R. Alexandre Von Humboldt, 937 - Pilarzinho",
+        "NUM": "120561",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391328615541",
+        "LON": "-49,294544653373",
+        "NOME": "R. Jorn. Geraldo Russe, 1-79 - Pilarzinho",
+        "NUM": "120350",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406362644792",
+        "LON": "-49,275850723943",
+        "NOME": "R. Nilo Peçanha, 1572 - Bom Retiro",
+        "NUM": "120059",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414232095024",
+        "LON": "-49,273642244636",
+        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
+        "NUM": "120065",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,398572231469",
+        "LON": "-49,283366307345",
+        "NOME": "Rua Victor Benato, 2-390 - Pilarzinho",
+        "NUM": "120546",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,401519729637",
+        "LON": "-49,277392308833",
+        "NOME": "R. P-min. Brochado da Rocha, 1-159 - Pilarzinho",
+        "NUM": "120539",
+        "SENTIDO": "Jd. Kosmos",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    }
+]

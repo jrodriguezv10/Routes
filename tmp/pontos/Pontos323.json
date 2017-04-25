@@ -1,0 +1,232 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,449143296784",
+        "LON": "-49,203047539219",
+        "NOME": "Rua dos Ferroviários, 1204 - Cajuru",
+        "NUM": "140655",
+        "SENTIDO": "Circular",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451138964063",
+        "LON": "-49,199781949743",
+        "NOME": "Rua Reinaldo Rodrigues Lima, 615 - Cajuru",
+        "NUM": "140657",
+        "SENTIDO": "Circular",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456173264099",
+        "LON": "-49,195094586557",
+        "NOME": "Rua Santa Lúcia, 819 - Cajuru",
+        "NUM": "140442",
+        "SENTIDO": "Circular",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448486947525",
+        "LON": "-49,201019789204",
+        "NOME": "Rua dos Ferroviários, 1398 - Cajuru",
+        "NUM": "140373",
+        "SENTIDO": "Circular",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44840338989",
+        "LON": "-49,201043929085",
+        "NOME": "Rua dos Ferroviários, 1398 - Cajuru",
+        "NUM": "140374",
+        "SENTIDO": "Circular",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451091736882",
+        "LON": "-49,199698801264",
+        "NOME": "Rua Reinaldo Rodrigues Lima, 775 - Cajuru",
+        "NUM": "140658",
+        "SENTIDO": "Circular",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454540142446",
+        "LON": "-49,197476104869",
+        "NOME": "Rua Leonardo Novicki, 59 - Cajuru",
+        "NUM": "140445",
+        "SENTIDO": "Circular",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451643397876",
+        "LON": "-49,211071341105",
+        "NOME": "R. dos Ferroviários, 381 - Cajuru",
+        "NUM": "140243",
+        "SENTIDO": "Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45167",
+        "LON": "-49,21157",
+        "NOME": "R. dos Ferroviários, 246 - Cajuru",
+        "NUM": "140244",
+        "SENTIDO": "Circular",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449041574993",
+        "LON": "-49,203091795668",
+        "NOME": "Rua dos Ferroviários, 1204 - Cajuru",
+        "NUM": "140372",
+        "SENTIDO": "Circular",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455090239238",
+        "LON": "-49,196000035032",
+        "NOME": "Rua Leonardo Novicki, 261 - Cajuru",
+        "NUM": "140441",
+        "SENTIDO": "Circular",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459038622107",
+        "LON": "-49,196156458033",
+        "NOME": "Rua Sebastião Marcos Luis, Cajuru",
+        "NUM": "140443",
+        "SENTIDO": "Circular",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450011561431",
+        "LON": "-49,205780845404",
+        "NOME": "R. dos Ferroviários, 901 - Cajuru",
+        "NUM": "140239",
+        "SENTIDO": "Circular",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451985417316",
+        "LON": "-49,198938395008",
+        "NOME": "Rua Leonardo Novicki, 34 - Cajuru",
+        "NUM": "140659",
+        "SENTIDO": "Circular",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452006003373",
+        "LON": "-49,198843176588",
+        "NOME": "Rua Leonardo Novicki, 34 - Cajuru",
+        "NUM": "140439",
+        "SENTIDO": "Circular",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453011083026",
+        "LON": "-49,197840030416",
+        "NOME": "Rua Leonardo Novicki, 34 - Cajuru",
+        "NUM": "140440",
+        "SENTIDO": "Circular",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456510291379",
+        "LON": "-49,197175697459",
+        "NOME": "Rua Leonardo Novicki, 312 - Cajuru",
+        "NUM": "140444",
+        "SENTIDO": "Circular",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450684531493",
+        "LON": "-49,208369620867",
+        "NOME": "R. dos Ferroviários, 702 - Cajuru",
+        "NUM": "140241",
+        "SENTIDO": "Circular",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450825545448",
+        "LON": "-49,208406472387",
+        "NOME": "R. dos Ferroviários, 707 - Cajuru",
+        "NUM": "140242",
+        "SENTIDO": "Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451941327444",
+        "LON": "-49,214982186508",
+        "NOME": "Terminal Oficinas - 323 - Autódromo",
+        "NUM": "105604",
+        "SENTIDO": "Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14481",
+        "LAT": "-25,451941327444",
+        "LON": "-49,214982186508",
+        "NOME": "Terminal Oficinas - 323 - Autódromo",
+        "NUM": "105604",
+        "SENTIDO": "Circular",
+        "SEQ": "24",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449765735395",
+        "LON": "-49,200079674944",
+        "NOME": "Rua Reinaldo Rodrigues Lima, 615 - Cajuru",
+        "NUM": "140656",
+        "SENTIDO": "Circular",
+        "SEQ": "7",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45001456975",
+        "LON": "-49,206222915344",
+        "NOME": "R. dos Ferroviários, 926 - Cajuru",
+        "NUM": "140240",
+        "SENTIDO": "Circular",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441461834245",
+        "LON": "-49,346109737434",
+        "NOME": "Terminal Campo Comprido - 829 - Universidade Positivo",
+        "NUM": "104621",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442310626807",
+        "LON": "-49,352797418833",
+        "NOME": "Rua Angelo Nebosne, 75 - Cidade Industrial",
+        "NUM": "190736",
+        "SENTIDO": "Sentido Positivo",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445665166166",
+        "LON": "-49,356063008308",
+        "NOME": "Rua Prof. Pedro Viriato Parigot de Souza, 5136 - Cidade Industrial",
+        "NUM": "190357",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449516110572",
+        "LON": "-49,35880959034",
+        "NOME": "Rua Carlos Müller, 871 - Cidade Industrial",
+        "NUM": "150365",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442310626807",
+        "LON": "-49,352797418833",
+        "NOME": "Rua Angelo Nebosne, 75 - Cidade Industrial",
+        "NUM": "190736",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "2",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443906769461",
+        "LON": "-49,355211406946",
+        "NOME": "Rua Prof. Pedro Viriato Parigot de Souza, 4716 - Cidade Industrial",
+        "NUM": "190737",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445665166166",
+        "LON": "-49,356063008308",
+        "NOME": "Rua Prof. Pedro Viriato Parigot de Souza, 5136 - Cidade Industrial",
+        "NUM": "190357",
+        "SENTIDO": "Sentido Positivo",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449516110572",
+        "LON": "-49,35880959034",
+        "NOME": "Rua Carlos Müller, 871 - Cidade Industrial",
+        "NUM": "150365",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4444935",
+        "LON": "-49,3589673",
+        "NOME": "Rua Casemiro Augusto Rodacki, 233 - Cidade Industrial",
+        "NUM": "190358",
+        "SENTIDO": "Sentido Positivo",
+        "SEQ": "5",
+        "TIPO": "Fora do padrão"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443707534258",
+        "LON": "-49,353224281264",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 5181 - Cidade Industrial",
+        "NUM": "180337",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4444935",
+        "LON": "-49,3589673",
+        "NOME": "Rua Casemiro Augusto Rodacki, 233 - Cidade Industrial",
+        "NUM": "190358",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "1",
+        "TIPO": "Fora do padrão"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4444935",
+        "LON": "-49,3589673",
+        "NOME": "Rua Casemiro Augusto Rodacki, 233 - Cidade Industrial",
+        "NUM": "190358",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "5",
+        "TIPO": "Fora do padrão"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443906769461",
+        "LON": "-49,355211406946",
+        "NOME": "Rua Prof. Pedro Viriato Parigot de Souza, 4716 - Cidade Industrial",
+        "NUM": "190737",
+        "SENTIDO": "Sentido Positivo",
+        "SEQ": "3",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441461834245",
+        "LON": "-49,346109737434",
+        "NOME": "Terminal Campo Comprido - 829 - Universidade Positivo",
+        "NUM": "104621",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "11",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450503268063",
+        "LON": "-49,354486198372",
+        "NOME": "Rua Eduardo Sprada, 5273 - Cidade Industrial",
+        "NUM": "190362",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "10",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446914920114",
+        "LON": "-49,36142206192",
+        "NOME": "Rua Carlos Müller, 331 - Cidade Industrial",
+        "NUM": "190359",
+        "SENTIDO": "Universidade Positivo (Circular)",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441461834245",
+        "LON": "-49,346109737434",
+        "NOME": "Terminal Campo Comprido - 829 - Universidade Positivo",
+        "NUM": "104621",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14508",
+        "LAT": "-25,441461834245",
+        "LON": "-49,346109737434",
+        "NOME": "Terminal Campo Comprido - 829 - Universidade Positivo",
+        "NUM": "104621",
+        "SENTIDO": "Sentido Positivo",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442327471106",
+        "LON": "-49,351454023313",
+        "NOME": "Rua Dep. Heitor Alencar Furtado, 4900 - Cidade Industrial",
+        "NUM": "180335",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446914920114",
+        "LON": "-49,36142206192",
+        "NOME": "Rua Carlos Müller, 331 - Cidade Industrial",
+        "NUM": "190359",
+        "SENTIDO": "Sentido Terminal Campo Comprido",
+        "SEQ": "2",
+        "TIPO": "Sem demarcação"
+    }
+]

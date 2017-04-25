@@ -43,10 +43,16 @@
         jqActualOpts  : {},    // options for jquery.actual
 
         // Callbacks
-        onLoad        : function( element ) {  // fires at end of list initialization
+        onLoad        : function( element ) { 
+         // fires at end of list initialization
             $(element).hide();
+            console.log("onload");
         },
-        onOptionClick : function( element, option ){}, // fires when an option is clicked
+        onOptionClick : function( element, option ){
+            console.log("onopctionclick");
+            
+        }, // fires when an option is clicked
+
 
         // @NOTE: these are for future development
         maxWidth      : null,  // maximum width of option overlay (or selector)
@@ -66,6 +72,7 @@
     MultiSelect.prototype = {
         /* LOAD CUSTOM MULTISELECT DOM/ACTIONS */
         load: function() {
+
             var instance = this;
 
             // make sure this is a select list and not loaded
@@ -77,7 +84,7 @@
             $(instance.element).addClass('jqmsLoaded');
 
             // add option container
-            $(instance.element).after('<div class="ms-options-wrap"><button>None Selected</button><div class="ms-options"><ul></ul></div></div>');
+            $(instance.element).after('<div class="ms-options-wrap" style="width:100%;"><button onkeypress="redirecPage()" style="margin-top: 3px;border: 0;">None Selected</button><div class="ms-options"><ul></ul></div></div>');
             var placeholder = $(instance.element).next('.ms-options-wrap').find('> button:first-child');
             var optionsWrap = $(instance.element).next('.ms-options-wrap').find('> .ms-options');
             var optionsList = optionsWrap.find('> ul');
@@ -344,7 +351,7 @@
                     instance.options.onOptionClick();
                 }
 
-                instance._updatePlaceholderText();
+                
             });
 
             // hide native select list
@@ -485,12 +492,15 @@
         // Add option to the custom dom list
         _addOption: function( container, option ) {
             container.text( option.name );
+            container.prepend(' <span class="custom-control-indicator"></span>');
             container.prepend(
                 $('<input type="checkbox" value="" title="" />')
                     .val( option.value )
                     .attr( 'title', option.name )
                     .attr( 'id', 'ms-opt-'+ msCounter )
+                    .attr( 'class', 'custom-control-input' )
             );
+
 
             if( option.checked ) {
                 container.addClass('default');
@@ -498,7 +508,7 @@
                 container.find( 'input[type="checkbox"]' ).prop( 'checked', true );
             }
 
-            var label = $('<label></label>').attr( 'for', 'ms-opt-'+ msCounter );
+            var label = $('<label></label>').attr( 'for', 'ms-opt-'+ msCounter ).attr('class', 'custom-control custom-checkbox');
             container.wrapInner( label );
 
 
@@ -545,4 +555,6 @@
             return ret;
         }
     };
+
+
 }(jQuery));

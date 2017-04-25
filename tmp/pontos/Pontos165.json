@@ -1,0 +1,612 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "PUC",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "PUC",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44758",
+        "LON": "-49,25056",
+        "NOME": "Rua Guabirotuba, 721 - Prado Velho",
+        "NUM": "140352",
+        "SENTIDO": "PUC",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444048724821",
+        "LON": "-49,237115414089",
+        "NOME": "Av. Prof. Lothário Meissner, 840 - Jardim Botânico",
+        "NUM": "140557",
+        "SENTIDO": "PUC",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457054424722",
+        "LON": "-49,235838682598",
+        "NOME": "Rua Dr. Alcides Vieira Arcoverde, 1192 - Jardim das Américas",
+        "NUM": "140286",
+        "SENTIDO": "PUC",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453714257947",
+        "LON": "-49,245857907553",
+        "NOME": "Rodovia BR476 - Pista Lateral, 10362 - Prado Velho",
+        "NUM": "140276",
+        "SENTIDO": "PUC",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417483943543",
+        "LON": "-49,27734842576",
+        "NOME": "R. Des. Hugo Simas, 47 - São Francisco",
+        "NUM": "110130",
+        "SENTIDO": "PUC",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428057764996",
+        "LON": "-49,271696557684",
+        "NOME": "Travessa. Nestor de Castro - Centro",
+        "NUM": "101131",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416400286844",
+        "LON": "-49,280021370596",
+        "NOME": "R. Dr. Roberto Barroso, Praça da Bandeira - Bom Retiro",
+        "NUM": "110420",
+        "SENTIDO": "PUC",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "PUC",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "PUC",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444224323235",
+        "LON": "-49,242752076334",
+        "NOME": "Av. Prof. Lothário Meissner - Jardim Botânico",
+        "NUM": "140556",
+        "SENTIDO": "PUC",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449879375454",
+        "LON": "-49,244520290842",
+        "NOME": "Rua Professor Luiz Carlos Pereira da Silva - Jardim Botânico",
+        "NUM": "140283",
+        "SENTIDO": "PUC",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "PUC",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433451794922",
+        "LON": "-49,272159160041",
+        "NOME": "Rua José Loureiro - 165-Universidades",
+        "NUM": "103245",
+        "SENTIDO": "PUC",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45034",
+        "LON": "-49,25677",
+        "NOME": "Rua Comendador Roseira, 257 - Prado Velho",
+        "NUM": "140268",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "PUC",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448795818253",
+        "LON": "-49,256840233135",
+        "NOME": "Rua Guabirotuba,  124 - Prado Velho",
+        "NUM": "140350",
+        "SENTIDO": "PUC",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455735148904",
+        "LON": "-49,241025404281",
+        "NOME": "Av. Comendador Franco,  2499 - Jardim das Américas",
+        "NUM": "140278",
+        "SENTIDO": "PUC",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452491327986",
+        "LON": "-49,230178775463",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 392 - Jardim das Américas",
+        "NUM": "140168",
+        "SENTIDO": "PUC",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457329297257",
+        "LON": "-49,237316579765",
+        "NOME": "Rua Doutor Ovande do Amaral, 573 - Jardim das Américas",
+        "NUM": "140282",
+        "SENTIDO": "PUC",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455101237483",
+        "LON": "-49,234112681097",
+        "NOME": "Rua Amoroso Costa, 82 - Jardim das Américas",
+        "NUM": "140288",
+        "SENTIDO": "PUC",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429160241369",
+        "LON": "-49,273873372562",
+        "NOME": "Alameda Dr. Muricy, 949 - Centro",
+        "NUM": "110341",
+        "SENTIDO": "PUC",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449268126987",
+        "LON": "-49,230067909903",
+        "NOME": "Rua Cel. Francisco Heráclito dos Santos, 610 - Guabirotuba",
+        "NUM": "140559",
+        "SENTIDO": "PUC",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45143",
+        "LON": "-49,24045",
+        "NOME": "Rua Prof. Luiz C. P. da Silva,  176 - Jardim Botânico",
+        "NUM": "140284",
+        "SENTIDO": "PUC",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452846014036",
+        "LON": "-49,242644787974",
+        "NOME": "Rodovia BR476  - Jardim Botânico",
+        "NUM": "140447",
+        "SENTIDO": "PUC",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450492536974",
+        "LON": "-49,259268192625",
+        "NOME": "Rua Comendador Roseira, 31 - Prado Velho",
+        "NUM": "140266",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413548832302",
+        "LON": "-49,283634991311",
+        "NOME": "R. Teffé, 962 - Bom Retiro",
+        "NUM": "110418",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44775367633",
+        "LON": "-49,265955544974",
+        "NOME": "Rua Des. Westphalen, 1771 - Rebouças",
+        "NUM": "110062",
+        "SENTIDO": "PUC",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450001590139",
+        "LON": "-49,264899030118",
+        "NOME": "Rua Des. Westphalen, 2046 - Rebouças",
+        "NUM": "150033",
+        "SENTIDO": "PUC",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "PUC",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454414647706",
+        "LON": "-49,231274903959",
+        "NOME": "Rua Sen. Batista de Oliveira, 14 - Jardim das Américas",
+        "NUM": "140289",
+        "SENTIDO": "PUC",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431392303248",
+        "LON": "-49,271674729546",
+        "NOME": "Av. Mal. Floriano Peixoto - 165 - Universidades",
+        "NUM": "103278",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44612944984",
+        "LON": "-49,246061457672",
+        "NOME": "Rua Alberto Twardovski, 315 - Jardim Botanico",
+        "NUM": "140048",
+        "SENTIDO": "PUC",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442390370411",
+        "LON": "-49,268457026428",
+        "NOME": "Rua Des. Westphalen, 1136 - Rebouças",
+        "NUM": "110063",
+        "SENTIDO": "PUC",
+        "SEQ": "13",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414782566583",
+        "LON": "-49,284542861179",
+        "NOME": "Rua Raquel Prado, 808 - Mercês",
+        "NUM": "110417",
+        "SENTIDO": "PUC",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "PUC",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "PUC",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "PUC",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449217492473",
+        "LON": "-49,26025226263",
+        "NOME": "Rua Rockefeller, 1315 - Prado Velho",
+        "NUM": "140210",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45056406034",
+        "LON": "-49,265392069941",
+        "NOME": "Rua Chile, 1626 - Rebouças",
+        "NUM": "150001",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415882380661",
+        "LON": "-49,282196052369",
+        "NOME": "R. Dr. Roberto Barroso, 1351 - Bom Retiro",
+        "NUM": "110419",
+        "SENTIDO": "PUC",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44814",
+        "LON": "-49,25354",
+        "NOME": "Rua Guabirotuba, 379 - Prado Velho",
+        "NUM": "140351",
+        "SENTIDO": "PUC",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "PUC",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436527028414",
+        "LON": "-49,272802383714",
+        "NOME": "Praça Rui Barbosa - 165 - Universidades - 180 - Água Verde/Abranches - 285 - Juvevê/Água Verde",
+        "NUM": "102026",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414211575508",
+        "LON": "-49,280681406974",
+        "NOME": "R. Teffé, 667 - Bom Retiro",
+        "NUM": "110421",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41498",
+        "LON": "-49,27676",
+        "NOME": "R. Teffé, 284 - Bom Retiro",
+        "NUM": "110132",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414782566583",
+        "LON": "-49,284542861179",
+        "NOME": "Rua Raquel Prado, 808 - Mercês",
+        "NUM": "110417",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449009924282",
+        "LON": "-49,261531233788",
+        "NOME": "Rua Chile, 1164 - Rebouças",
+        "NUM": "150052",
+        "SENTIDO": "Raquel Prado",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    }
+]

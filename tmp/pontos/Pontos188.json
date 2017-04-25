@@ -1,0 +1,1402 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,382745007551",
+        "LON": "-49,293668590178",
+        "NOME": "Rua José Ribeiro de Cristo, 1-119 - Pilarzinho",
+        "NUM": "120607",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "60",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394759541762",
+        "LON": "-49,303422214312",
+        "NOME": "Rua Valdiva Pereira Lima, 237 - Pilarzinho",
+        "NUM": "190606",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "74",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383203941822",
+        "LON": "-49,288326763806",
+        "NOME": "Av. Fredolin Wolf, 64 - Pilarzinho",
+        "NUM": "120322",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "58",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435743189522",
+        "LON": "-49,271563203149",
+        "NOME": "Praça Rui Barbosa - 472 - Uberaba",
+        "NUM": "102024",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392108973212",
+        "LON": "-49,298991683115",
+        "NOME": "R. Vinte e Cinco de Abril, 186 - Pilarzinho",
+        "NUM": "190613",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394808863175",
+        "LON": "-49,289404553415",
+        "NOME": "R. Raposo Tavares, 171 - Pilarzinho",
+        "NUM": "190444",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49719",
+        "LON": "-49,21615",
+        "NOME": "Rua Senador Salgado Filho, 6444 - Uberaba",
+        "NUM": "140071",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40461033176",
+        "LON": "-49,282540845404",
+        "NOME": "R. Des. Hugo Simas, 1637 - Pilarzinho",
+        "NUM": "120335",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41624",
+        "LON": "-49,27914",
+        "NOME": "R. Des. Hugo Simas, 259 - Bom Retiro",
+        "NUM": "110129",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "54",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432753900975",
+        "LON": "-49,270962209648",
+        "NOME": "Marechal Floriano Peixoto - 160 - Marechal Hermes / Santa Efigênia",
+        "NUM": "103271",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466388447053",
+        "LON": "-49,241854108143",
+        "NOME": "Av. Senador Salgado Filho, 1871 - Prado Velho",
+        "NUM": "140030",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47098",
+        "LON": "-49,23874",
+        "NOME": "Av. Senador Salgado Filho, 1666 - Prado Velho",
+        "NUM": "140033",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48811455256",
+        "LON": "-49,22321317791",
+        "NOME": "Rua Senador Salgado Filho, 5186 - Uberaba",
+        "NUM": "140062",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462772944874",
+        "LON": "-49,246283776331",
+        "NOME": "Av. Senador Salgado Filho, 1207 - Prado Velho",
+        "NUM": "140833",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482230853781",
+        "LON": "-49,224018045473",
+        "NOME": "Rua Senador Salgado Filho, 4555 - Uberaba",
+        "NUM": "140979",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409717552459",
+        "LON": "-49,281923906746",
+        "NOME": "R. Des. Hugo Simas, 1110 - Bom Retiro",
+        "NUM": "120338",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413777398895",
+        "LON": "-49,279280233135",
+        "NOME": "R. Des. Hugo Simas, 566 - Bom Retiro",
+        "NUM": "120341",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384180117699",
+        "LON": "-49,295060516542",
+        "NOME": "Av. Fredolin Wolf, 800 - Pilarzinho",
+        "NUM": "120346",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "68",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435743189522",
+        "LON": "-49,271563203149",
+        "NOME": "Praça Rui Barbosa - 472 - Uberaba",
+        "NUM": "102024",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431382964984",
+        "LON": "-49,272843533262",
+        "NOME": "Alameda Dr. Muricy, 701 - Centro",
+        "NUM": "110218",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44775367633",
+        "LON": "-49,265955544974",
+        "NOME": "Rua Des. Westphalen, 1771 - Rebouças",
+        "NUM": "110062",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393774307077",
+        "LON": "-49,291601618818",
+        "NOME": "R. Raposo Tavares, 547 - Pilarzinho",
+        "NUM": "190442",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48617",
+        "LON": "-49,22343",
+        "NOME": "Av. Sen. Salgado Filho, 4912 - Uberaba",
+        "NUM": "140059",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49238",
+        "LON": "-49,22102",
+        "NOME": "Rua Senador Salgado Filho, 5768 - Uberaba",
+        "NUM": "140065",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49904",
+        "LON": "-49,21326",
+        "NOME": "Rua Senador Salgado Filho, 6848 -  Uberaba",
+        "NUM": "140073",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450261873841",
+        "LON": "-49,259898163195",
+        "NOME": "Rua Rockefeller, 1424 - Prado Velho",
+        "NUM": "140265",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413951185123",
+        "LON": "-49,279377084656",
+        "NOME": "R. Des. Hugo Simas, 581 - Bom Retiro",
+        "NUM": "120340",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381670814559",
+        "LON": "-49,300806196924",
+        "NOME": "Rua Otalino Amado de Souza, 1 - Pilarzinho",
+        "NUM": "120317",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "64",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449217492473",
+        "LON": "-49,26025226263",
+        "NOME": "Rua Rockefeller, 1315 - Prado Velho",
+        "NUM": "140210",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446724912813",
+        "LON": "-49,26143212234",
+        "NOME": "Rua Rockefeller, 1020 - Rebouças",
+        "NUM": "140211",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440709570169",
+        "LON": "-49,264190064557",
+        "NOME": "Rua Rockefeller, 290 - Rebouças",
+        "NUM": "140213",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450492536974",
+        "LON": "-49,259268192625",
+        "NOME": "Rua Comendador Roseira, 31 - Prado Velho",
+        "NUM": "140266",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391385811852",
+        "LON": "-49,297204697934",
+        "NOME": "R. Vinte e Cinco de Abril, 23 - Pilarzinho",
+        "NUM": "190615",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393592464863",
+        "LON": "-49,293578785663",
+        "NOME": "R. Raposo Tavares, 771 - Pilarzinho",
+        "NUM": "190440",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467458519492",
+        "LON": "-49,240965131283",
+        "NOME": "Av. Senador Salgado Filho, 2020 - Prado Velho",
+        "NUM": "140029",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "41",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45398906219",
+        "LON": "-49,252730991402",
+        "NOME": "Rua Imaculada Conceição, 1477 - Prado Velho",
+        "NUM": "140272",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495249518912",
+        "LON": "-49,211364370215",
+        "NOME": "Rua Amauri Mauad Guérios, 70 - Uberaba",
+        "NUM": "140630",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "61",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492461684207",
+        "LON": "-49,20777155124",
+        "NOME": "Rua Zacarias Alves de Souza,600 - Uberaba",
+        "NUM": "140763",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443455059371",
+        "LON": "-49,262939445506",
+        "NOME": "Rua Rockefeller, 615 - Rebouças",
+        "NUM": "140212",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387841238885",
+        "LON": "-49,301100572267",
+        "NOME": "R. Raposo Tavares, 1906 - Pilarzinho",
+        "NUM": "190432",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "53",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473017389493",
+        "LON": "-49,234534695597",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140037",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47954",
+        "LON": "-49,22519",
+        "NOME": "Rua Senador Salgado Filho, 4203 - Uberaba",
+        "NUM": "140058",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492545736973",
+        "LON": "-49,205185860119",
+        "NOME": "Rua Aviador Armin Buhrer, 840 - Uberaba",
+        "NUM": "140080",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49233",
+        "LON": "-49,22081",
+        "NOME": "Rua Senador Salgado Filho, 5711 - Uberaba",
+        "NUM": "140066",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49562",
+        "LON": "-49,21772",
+        "NOME": "Rua Senador Salgado Filho, 6182 - Uberaba",
+        "NUM": "140070",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49871",
+        "LON": "-49,21341",
+        "NOME": "Rua Senador Salgado Filho, 6855 - Uberaba",
+        "NUM": "140074",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38626",
+        "LON": "-49,28241",
+        "NOME": "R. Amauri Lange Silvério, 1418 - Pilarzinho",
+        "NUM": "120609",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "55",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38301",
+        "LON": "-49,29359",
+        "NOME": "R. José Ribeiro de Cristo, 2-120 - Pilarzinho",
+        "NUM": "120612",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "67",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495986563928",
+        "LON": "-49,212234914303",
+        "NOME": "Av. Comendador Franco, 7870 - Jardim Botanico",
+        "NUM": "140617",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469364306191",
+        "LON": "-49,239986679762",
+        "NOME": "Av. Senador Salgado Filho, 1464 - Prado Velho",
+        "NUM": "140032",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427457636454",
+        "LON": "-49,274515117349",
+        "NOME": "Alameda Dr. Muricy, 1111 - São Francisco",
+        "NUM": "110325",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444263942277",
+        "LON": "-49,267576907709",
+        "NOME": "Rua Des. Westphalen, 1345 - Rebouças",
+        "NUM": "110061",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465927024894",
+        "LON": "-49,242837696925",
+        "NOME": "Av. Senador Salgado Filho, 1760 - Prado Velho",
+        "NUM": "140028",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474304528641",
+        "LON": "-49,231671341105",
+        "NOME": "Rua Senador Salgado Filho, 3344 - Uberaba",
+        "NUM": "140039",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495813947483",
+        "LON": "-49,208614519014",
+        "NOME": "Rua Velci Bolívar Grandó, 305 - Uberaba",
+        "NUM": "140077",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "64",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392515878261",
+        "LON": "-49,303368037239",
+        "NOME": "Rua Darcize Gobi, 63 - Pilarzinho",
+        "NUM": "190604",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "73",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49702",
+        "LON": "-49,21612",
+        "NOME": "Rua Senador Salgado Filho, 6449 - Uberaba",
+        "NUM": "140072",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45034",
+        "LON": "-49,25677",
+        "NOME": "Rua Comendador Roseira, 257 - Prado Velho",
+        "NUM": "140268",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468090990147",
+        "LON": "-49,240140773849",
+        "NOME": "Av. Senador Salgado Filho, 1347 - Prado Velho",
+        "NUM": "140831",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380601840251",
+        "LON": "-49,299458775463",
+        "NOME": "Rua José Izidoro Filho, 22 - Pilarzinho",
+        "NUM": "120605",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "62",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38031",
+        "LON": "-49,29981",
+        "NOME": "Rua Otalino Amado de Souza, 23 - Pilarzinho",
+        "NUM": "120318",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "65",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380972438608",
+        "LON": "-49,296646093254",
+        "NOME": "Rua José Ribeiro de Cristo, 311 - Pilarzinho",
+        "NUM": "120319",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "66",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383666028051",
+        "LON": "-49,286452709331",
+        "NOME": "Rua Domingos Antônio Moro, 314 - Pilarzinho",
+        "NUM": "120327",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "57",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41498",
+        "LON": "-49,27676",
+        "NOME": "R. Teffé, 284 - Bom Retiro",
+        "NUM": "110132",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "43",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382329755401",
+        "LON": "-49,300468862057",
+        "NOME": "Rua Lilian Júlia de Oliveira, 23 - Pilarzinho",
+        "NUM": "120716",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "63",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391734602152",
+        "LON": "-49,300984146511",
+        "NOME": "R. Marcília Vaz Carneiro, 224 - Pilarzinho",
+        "NUM": "190611",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47102",
+        "LON": "-49,23891",
+        "NOME": "Av. Senador Salgado Filho, 1665 - Prado Velho",
+        "NUM": "140640",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "43",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49579",
+        "LON": "-49,21777",
+        "NOME": "Rua Senador Salgado Filho, 6180 - Uberaba",
+        "NUM": "140069",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "55",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500173315055",
+        "LON": "-49,211349154596",
+        "NOME": "Rua José Fernandes Alves, 263 - Uberaba",
+        "NUM": "140641",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "58",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498709118387",
+        "LON": "-49,210996823244",
+        "NOME": "Rua José Fernandes Alves, 101 -  Uberaba",
+        "NUM": "140642",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "59",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50093",
+        "LON": "-49,20928",
+        "NOME": "Av. Comendador Franco, 8001 -  Uberaba",
+        "NUM": "140807",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "60",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460668493384",
+        "LON": "-49,24881846385",
+        "NOME": "Av. Sen. Salgado Filho, 890 - Prado Velho",
+        "NUM": "140681",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40098665206",
+        "LON": "-49,28516",
+        "NOME": "R. Des. Hugo Simas, 2300 - Bom Retiro",
+        "NUM": "120333",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440982096737",
+        "LON": "-49,266481978174",
+        "NOME": "Av. Iguaçu, 462 - Rebouças",
+        "NUM": "110052",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390703581692",
+        "LON": "-49,302464104451",
+        "NOME": "R. São Francisco Xavier, 62 - Pilarzinho",
+        "NUM": "190602",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "72",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474124168273",
+        "LON": "-49,231875480986",
+        "NOME": "Rua Senador Salgado Filho, 3346 - Uberaba",
+        "NUM": "140038",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49387",
+        "LON": "-49,21942",
+        "NOME": "Rua Senador Salgado Filho, 6001 -  Uberaba",
+        "NUM": "140068",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380907024363",
+        "LON": "-49,296690028276",
+        "NOME": "Rua José Ribeiro de Cristo, 311 - Pilarzinho",
+        "NUM": "120606",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "61",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383430646107",
+        "LON": "-49,291288366899",
+        "NOME": "Av. Fredolin Wolf, 448 - São João",
+        "NUM": "120608",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "59",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385005460591",
+        "LON": "-49,284676355819",
+        "NOME": "Rua Domingos Antônio Moro, 93 - Pilarzinho",
+        "NUM": "120329",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "56",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384559355984",
+        "LON": "-49,297320277637",
+        "NOME": "Av. Fredolin Wolf, 1152 - Pilarzinho",
+        "NUM": "120980",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "69",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,433406983068",
+        "LON": "-49,272047163195",
+        "NOME": "Rua José Loureiro - 175-Bom Retiro / PUC",
+        "NUM": "103243",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450001590139",
+        "LON": "-49,264899030118",
+        "NOME": "Rua Des. Westphalen, 2046 - Rebouças",
+        "NUM": "150033",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47655",
+        "LON": "-49,22749",
+        "NOME": "Rua Senador Salgado Filho, 3860 - Uberaba",
+        "NUM": "140055",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "47",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492663315887",
+        "LON": "-49,205127930059",
+        "NOME": "Rua Aviador Armin Buhrer, 842 - Uberaba",
+        "NUM": "140079",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "66",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407465130375",
+        "LON": "-49,283061720238",
+        "NOME": "R. Des. Hugo Simas, 1299 - Bom Retiro",
+        "NUM": "120337",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409966959138",
+        "LON": "-49,281960379133",
+        "NOME": "R. Des. Hugo Simas, 961 - Bom Retiro",
+        "NUM": "120339",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417483943543",
+        "LON": "-49,27734842576",
+        "NOME": "R. Des. Hugo Simas, 47 - São Francisco",
+        "NUM": "110130",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,389211409326",
+        "LON": "-49,302757242328",
+        "NOME": "Rua São Francisco Xavier, 132 - Pilarzinho",
+        "NUM": "190600",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "71",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "39",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "41",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428145839709",
+        "LON": "-49,272144387749",
+        "NOME": "Nestor de Castro - 166 - Vila Nori",
+        "NUM": "110125",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "37",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46392",
+        "LON": "-49,24517",
+        "NOME": "Av. Senador Salgado Filho, 1479 - Prado Velho",
+        "NUM": "140026",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47448",
+        "LON": "-49,23014",
+        "NOME": "Rua Senador Salgado Filho, 3544 - Uberaba",
+        "NUM": "140040",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688",
+        "LON": "-49,22696",
+        "NOME": "Rua Senador Salgado Filho, 3857 - Uberaba",
+        "NUM": "140056",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494724156832",
+        "LON": "-49,208726417649",
+        "NOME": "Rua Amauri Mauad Guérios, 321 - Uberaba",
+        "NUM": "140629",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3992567165",
+        "LON": "-49,287323906746",
+        "NOME": "R. Des. Hugo Simas, 2496 - Pilarzinho",
+        "NUM": "120330",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400776079146",
+        "LON": "-49,285298046627",
+        "NOME": "R. Des. Hugo Simas, 2300 - Bom Retiro",
+        "NUM": "120332",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393157691452",
+        "LON": "-49,295895909104",
+        "NOME": "R. Raposo Tavares, 1017 - Pilarzinho",
+        "NUM": "190438",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393982958359",
+        "LON": "-49,301437371272",
+        "NOME": "R. Catharina Potina de Mauro, 480 - Pilarzinho",
+        "NUM": "190609",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45057968767",
+        "LON": "-49,26169953373",
+        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
+        "NUM": "140053",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47485",
+        "LON": "-49,22985",
+        "NOME": "Rua Senador Salgado Filho, 3542 - Uberaba",
+        "NUM": "140054",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47972",
+        "LON": "-49,22531",
+        "NOME": "Rua Senador Salgado Filho, 4201 - Uberaba",
+        "NUM": "140057",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4907",
+        "LON": "-49,22236",
+        "NOME": "Rua Senador Salgado Filho, 5529 - Uberaba",
+        "NUM": "140063",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49426",
+        "LON": "-49,2192",
+        "NOME": "Rua Senador Salgado Filho, 6002 - Uberaba",
+        "NUM": "140067",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "54",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494820997941",
+        "LON": "-49,20873848759",
+        "NOME": "Rua Amauri Mauad Guérios, 326 - Uberaba",
+        "NUM": "140680",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "62",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48415426193",
+        "LON": "-49,223540262566",
+        "NOME": "Av. Sen. Salgado Filho, 4704 - Uberaba",
+        "NUM": "140319",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39685",
+        "LON": "-49,28791",
+        "NOME": "R. Des. Hugo Simas, 2796 - Pilarzinho",
+        "NUM": "120030",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399380329607",
+        "LON": "-49,287374868717",
+        "NOME": "R. Des. Hugo Simas, 2495 - Pilarzinho",
+        "NUM": "120331",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "40",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "52",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4906",
+        "LON": "-49,22223",
+        "NOME": "Rua Senador Salgado Filho, 5530 - Uberaba",
+        "NUM": "140064",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461083816703",
+        "LON": "-49,24806878643",
+        "NOME": "Av. Sen. Salgado Filho, 899 - Prado Velho",
+        "NUM": "140834",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483873681296",
+        "LON": "-49,223441370535",
+        "NOME": "Av. Sen. Salgado Filho, 4761 - Uberaba",
+        "NUM": "140318",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402873634315",
+        "LON": "-49,282577055225",
+        "NOME": "R. Des. Hugo Simas, 1856 - Bom Retiro",
+        "NUM": "120334",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406913634193",
+        "LON": "-49,282782215939",
+        "NOME": "R. Des. Hugo Simas, 1450 - Bom Retiro",
+        "NUM": "120336",
+        "SENTIDO": "Sentido Pilarzinho",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429160241369",
+        "LON": "-49,273873372562",
+        "NOME": "Alameda Dr. Muricy, 949 - Centro",
+        "NUM": "110341",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464439188587",
+        "LON": "-49,244885510416",
+        "NOME": "Av. Senador Salgado Filho, 1474 - Prado Velho",
+        "NUM": "140025",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "39",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47303",
+        "LON": "-49,23483",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140036",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48807",
+        "LON": "-49,2234",
+        "NOME": "Rua Senador Salgado Filho, 5185 - Uberaba",
+        "NUM": "140061",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496186946996",
+        "LON": "-49,209049038029",
+        "NOME": "Rua Velci Bolívar Grandó, 370 - Uberaba",
+        "NUM": "140076",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "63",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49356",
+        "LON": "-49,20784",
+        "NOME": "Rua Velci Bolívar Grandó, 9 - Uberaba",
+        "NUM": "140078",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "65",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45043",
+        "LON": "-49,25676",
+        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
+        "NUM": "140267",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463088972673",
+        "LON": "-49,246180511284",
+        "NOME": "Av. Senador Salgado Filho, 1202 - Prado Velho",
+        "NUM": "140682",
+        "SENTIDO": "Sentido Uberaba",
+        "SEQ": "38",
+        "TIPO": "Novo mobiliário"
+    }
+]

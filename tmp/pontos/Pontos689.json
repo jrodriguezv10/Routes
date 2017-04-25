@@ -1,0 +1,1152 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,45503",
+        "LON": "-49,26686",
+        "NOME": "Av. Pres. Kennedy, 601 - Rebouças",
+        "NUM": "150004",
+        "SENTIDO": "Circular",
+        "SEQ": "109",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461916096353",
+        "LON": "-49,274485860119",
+        "NOME": "Av. Pres. Kennedy, 1727 - Guaíra",
+        "NUM": "150009",
+        "SENTIDO": "Circular",
+        "SEQ": "106",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463483675138",
+        "LON": "-49,276244868717",
+        "NOME": "Av. Pres. Kennedy, 2043 - Portão",
+        "NUM": "150011",
+        "SENTIDO": "Circular",
+        "SEQ": "105",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469951703947",
+        "LON": "-49,283786676092",
+        "NOME": "Av. Pres. Kennedy, 3046 - Água Verde",
+        "NUM": "150018",
+        "SENTIDO": "Circular",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470490313933",
+        "LON": "-49,28399635582",
+        "NOME": "Av. Pres. Kennedy, 3145 - Guaíra",
+        "NUM": "150019",
+        "SENTIDO": "Circular",
+        "SEQ": "101",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533183277052",
+        "LON": "-49,286766646662",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5240 - Pinheirinho",
+        "NUM": "160034",
+        "SENTIDO": "Circular",
+        "SEQ": "49",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530004651449",
+        "LON": "-49,28915682209",
+        "NOME": "Rua Isaac Ferreira da Cruz, 5606 - Pinheirinho",
+        "NUM": "160035",
+        "SENTIDO": "Circular",
+        "SEQ": "50",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477121780966",
+        "LON": "-49,286730916447",
+        "NOME": "Rua José de Almeida Garrete, 33 - Portão",
+        "NUM": "150068",
+        "SENTIDO": "Circular",
+        "SEQ": "98",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493065532516",
+        "LON": "-49,278630645222",
+        "NOME": "Rua Maestro Francisco Antonello, 2892 - Novo Mundo",
+        "NUM": "150851",
+        "SENTIDO": "Circular",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537718591055",
+        "LON": "-49,294969909978",
+        "NOME": "Rua Nicola Pellanda, 854 - Pinheirinho",
+        "NUM": "160140",
+        "SENTIDO": "Circular",
+        "SEQ": "56",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53028",
+        "LON": "-49,26472",
+        "NOME": "Rua Marte, 513 - Sítio Cercado",
+        "NUM": "150346",
+        "SENTIDO": "Circular",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530118854651",
+        "LON": "-49,264681836805",
+        "NOME": "Rua Marte, 514 - Sítio Cercado",
+        "NUM": "150347",
+        "SENTIDO": "Circular",
+        "SEQ": "77",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521523277545",
+        "LON": "-49,272268445438",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 714 - Pinheirinho",
+        "NUM": "150464",
+        "SENTIDO": "Circular",
+        "SEQ": "82",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522817021644",
+        "LON": "-49,270380170292",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 514 - Pinheirinho",
+        "NUM": "150461",
+        "SENTIDO": "Circular",
+        "SEQ": "81",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534053226693",
+        "LON": "-49,266953319311",
+        "NOME": "Rua dos Pioneiros, 1359 - Sítio Cercado",
+        "NUM": "160048",
+        "SENTIDO": "Circular",
+        "SEQ": "43",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444237601078",
+        "LON": "-49,27107815732",
+        "NOME": "Rua Vinte e Quatro de Maio, 712 - Rebouças",
+        "NUM": "110023",
+        "SENTIDO": "Circular",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462720313308",
+        "LON": "-49,275764139881",
+        "NOME": "Av. Pres. Kennedy, 1840 - Água Verde",
+        "NUM": "150010",
+        "SENTIDO": "Circular",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466311567991",
+        "LON": "-49,279762915344",
+        "NOME": "Av. Pres. Kennedy, 2416 - Água Verde",
+        "NUM": "150014",
+        "SENTIDO": "Circular",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535467207864",
+        "LON": "-49,270893411045",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3350 - Sítio Cercado",
+        "NUM": "160023",
+        "SENTIDO": "Circular",
+        "SEQ": "44",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537682100813",
+        "LON": "-49,276909766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4022 -Sítio Cercado",
+        "NUM": "160028",
+        "SENTIDO": "Circular",
+        "SEQ": "69",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475184658744",
+        "LON": "-49,288000942415",
+        "NOME": "Rua Ponta Grossa, 552 - Portão",
+        "NUM": "150862",
+        "SENTIDO": "Circular",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485362676509",
+        "LON": "-49,279993207401",
+        "NOME": "Rua Djalma Ferreira Maciel, 1125 - Guaíra",
+        "NUM": "150855",
+        "SENTIDO": "Circular",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512402796898",
+        "LON": "-49,27368475215",
+        "NOME": "Rua Omar Raymundo Picheth, 1151 - Xaxim",
+        "NUM": "150325",
+        "SENTIDO": "Circular",
+        "SEQ": "86",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530737963506",
+        "LON": "-49,266089504299",
+        "NOME": "Rua Marte, 1574 - Sítio Cercado",
+        "NUM": "150348",
+        "SENTIDO": "Circular",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521966226113",
+        "LON": "-49,271871478505",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 697 - Pinheirinho",
+        "NUM": "150463",
+        "SENTIDO": "Circular",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528462617253",
+        "LON": "-49,292783321089",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 681 - Pinheirinho",
+        "NUM": "160316",
+        "SENTIDO": "Circular",
+        "SEQ": "52",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531411775602",
+        "LON": "-49,296449900812",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 540 - Pinheirinho",
+        "NUM": "160322",
+        "SENTIDO": "Circular",
+        "SEQ": "54",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503727001953",
+        "LON": "-49,276476093254",
+        "NOME": "Rua José Maria Pinheiro Lima, 271 - Xaxim",
+        "NUM": "150473",
+        "SENTIDO": "Circular",
+        "SEQ": "89",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536796554977",
+        "LON": "-49,274286326389",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3040 - Sítio Cercado",
+        "NUM": "160026",
+        "SENTIDO": "Circular",
+        "SEQ": "70",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54044",
+        "LON": "-49,28929",
+        "NOME": "Rua Londrina, 677 - Pinheirinho",
+        "NUM": "160043",
+        "SENTIDO": "Circular",
+        "SEQ": "59",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447976012999",
+        "LON": "-49,26799032206",
+        "NOME": "Rua Alferes Poli, 1345 - Rebouças",
+        "NUM": "150251",
+        "SENTIDO": "Circular",
+        "SEQ": "112",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47724769283",
+        "LON": "-49,286776514",
+        "NOME": "Rua José de Almeida Garrete, 22 - Portão",
+        "NUM": "150769",
+        "SENTIDO": "Circular",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486681022101",
+        "LON": "-49,280073673672",
+        "NOME": "Rua Elói de Assis Fabris, 40- Novo Mundo",
+        "NUM": "150725",
+        "SENTIDO": "Circular",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488532008174",
+        "LON": "-49,281416119284",
+        "NOME": "Rua Elói de Assis Fabris, 342- Novo Mundo",
+        "NUM": "150853",
+        "SENTIDO": "Circular",
+        "SEQ": "94",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491283617581",
+        "LON": "-49,277930588669",
+        "NOME": "Rua Brasílio Ribas, 647 - Novo Mundo",
+        "NUM": "150179",
+        "SENTIDO": "Circular",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,509461759267",
+        "LON": "-49,27810839633",
+        "NOME": "Rua Omar Raymundo Picheth, 575 - Xaxim",
+        "NUM": "150327",
+        "SENTIDO": "Circular",
+        "SEQ": "88",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495831789059",
+        "LON": "-49,277655860119",
+        "NOME": "Rua Infante Dom Henrique, 72 - Capão Raso",
+        "NUM": "150221",
+        "SENTIDO": "Circular",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517312273565",
+        "LON": "-49,273199390121",
+        "NOME": "Rua Primeiro de Maio, 1557 - Xaxim",
+        "NUM": "150440",
+        "SENTIDO": "Circular",
+        "SEQ": "32",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,543889999322",
+        "LON": "-49,279342771715",
+        "NOME": "Rua Celeste Tortato Gabardo, 871 - Sítio Cercado",
+        "NUM": "160247",
+        "SENTIDO": "Circular",
+        "SEQ": "64",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,530154428898",
+        "LON": "-49,294895560688",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 345 - Pinheirinho",
+        "NUM": "160318",
+        "SENTIDO": "Circular",
+        "SEQ": "53",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534082269517",
+        "LON": "-49,266341775656",
+        "NOME": "Rua Izaac Ferreira da Cruz, 3770 - Sítio Cercado",
+        "NUM": "160046",
+        "SENTIDO": "Circular",
+        "SEQ": "72",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436659994742",
+        "LON": "-49,273804188781",
+        "NOME": "Praça Rui Barbosa - 671 - Portão",
+        "NUM": "102028",
+        "SENTIDO": "Circular",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Circular",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45518",
+        "LON": "-49,26739",
+        "NOME": "Av. Pres. Kennedy, 700 - Rebouças",
+        "NUM": "150005",
+        "SENTIDO": "Circular",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460568162875",
+        "LON": "-49,27336682209",
+        "NOME": "Av. Pres. Kennedy, 1472 - Água Verde",
+        "NUM": "150008",
+        "SENTIDO": "Circular",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4684",
+        "LON": "-49,282072449074",
+        "NOME": "Av. Pres. Kennedy, 2760 - Água Verde",
+        "NUM": "150016",
+        "SENTIDO": "Circular",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53756114281",
+        "LON": "-49,277001953373",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4021 - Sítio Cercado",
+        "NUM": "160027",
+        "SENTIDO": "Circular",
+        "SEQ": "46",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448215787776",
+        "LON": "-49,269060523457",
+        "NOME": "Rua Vinte e Quatro de Maio, 1316 - Rebouças",
+        "NUM": "150180",
+        "SENTIDO": "Circular",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488481163941",
+        "LON": "-49,281531454271",
+        "NOME": "Rua Elói de Assis Fabris, 341 - Novo Mundo",
+        "NUM": "150724",
+        "SENTIDO": "Circular",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491226721764",
+        "LON": "-49,277787090487",
+        "NOME": "Rua Brasílio Ribas, 646 - Novo Mundo",
+        "NUM": "150280",
+        "SENTIDO": "Circular",
+        "SEQ": "92",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524216040725",
+        "LON": "-49,269414575047",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 333 - Pinheirinho",
+        "NUM": "150460",
+        "SENTIDO": "Circular",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,544785409717",
+        "LON": "-49,2859731924",
+        "NOME": "Rua Celeste Tortato Gabardo, 1547 - Sítio Cercado",
+        "NUM": "160225",
+        "SENTIDO": "Circular",
+        "SEQ": "61",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532863674966",
+        "LON": "-49,261882603169",
+        "NOME": "Rua Izaac Ferreira da Cruz, 4248 - Sítio Cercado",
+        "NUM": "160081",
+        "SENTIDO": "Circular",
+        "SEQ": "74",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45744",
+        "LON": "-49,26954",
+        "NOME": "Av. Pres. Kennedy, 1013 - Rebouças",
+        "NUM": "150006",
+        "SENTIDO": "Circular",
+        "SEQ": "108",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468860313802",
+        "LON": "-49,282199067459",
+        "NOME": "Av. Pres. Kennedy, 2731 - Guaíra",
+        "NUM": "150017",
+        "SENTIDO": "Circular",
+        "SEQ": "102",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4728851113",
+        "LON": "-49,286652099371",
+        "NOME": "Av. Pres. Kennedy, 3399 - Água Verde",
+        "NUM": "150021",
+        "SENTIDO": "Circular",
+        "SEQ": "100",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533253124096",
+        "LON": "-49,263633061342",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2155 -Sítio Cercado",
+        "NUM": "160022",
+        "SENTIDO": "Circular",
+        "SEQ": "73",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536498352218",
+        "LON": "-49,273899504299",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3018 - Sítio Cercado",
+        "NUM": "160025",
+        "SENTIDO": "Circular",
+        "SEQ": "45",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5408",
+        "LON": "-49,29182",
+        "NOME": "Rua Londrina, 963 - Pinheirinho",
+        "NUM": "160041",
+        "SENTIDO": "Circular",
+        "SEQ": "58",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450413700988",
+        "LON": "-49,266826243347",
+        "NOME": "Rua Alferes Poli, 1640 - Rebouças",
+        "NUM": "150250",
+        "SENTIDO": "Circular",
+        "SEQ": "111",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490150538363",
+        "LON": "-49,279369593805",
+        "NOME": "Rua Brasílio Ribas, 379 - Novo Mundo",
+        "NUM": "150178",
+        "SENTIDO": "Circular",
+        "SEQ": "93",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485352991639",
+        "LON": "-49,279885919041",
+        "NOME": "Rua Djalma Ferreira Maciel, 1126 - Guaíra",
+        "NUM": "150654",
+        "SENTIDO": "Circular",
+        "SEQ": "96",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,478664513033",
+        "LON": "-49,283773781008",
+        "NOME": "Av. Santa Bernadethe, 578 - Lindóia",
+        "NUM": "150823",
+        "SENTIDO": "Circular",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535055173536",
+        "LON": "-49,295786642623",
+        "NOME": "Rua Nicola Pellanda, 678 - Pinheirinho",
+        "NUM": "160079",
+        "SENTIDO": "Circular",
+        "SEQ": "55",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529095223798",
+        "LON": "-49,261420612268",
+        "NOME": "Rua Marte, 129 - Sítio Cercado",
+        "NUM": "150344",
+        "SENTIDO": "Circular",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531003949257",
+        "LON": "-49,267253673611",
+        "NOME": "Rua Marte, 1673 - Sítio Cercado",
+        "NUM": "150349",
+        "SENTIDO": "Circular",
+        "SEQ": "78",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516246006259",
+        "LON": "-49,274561952301",
+        "NOME": "Rua Primeiro de Maio, 1369 - Xaxim",
+        "NUM": "150197",
+        "SENTIDO": "Circular",
+        "SEQ": "84",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541508307209",
+        "LON": "-49,279355463095",
+        "NOME": "Rua Cruzeiro do Sul, 579 - Sítio Cercado",
+        "NUM": "160239",
+        "SENTIDO": "Circular",
+        "SEQ": "66",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526336379757",
+        "LON": "-49,267749893297",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 187 - Pinheirinho",
+        "NUM": "150458",
+        "SENTIDO": "Circular",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54417919341",
+        "LON": "-49,28167092914",
+        "NOME": "Rua Celeste Tortato Gabardo, 1063 - Sítio Cercado",
+        "NUM": "160229",
+        "SENTIDO": "Circular",
+        "SEQ": "63",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,545016521314",
+        "LON": "-49,287449748463",
+        "NOME": "Rua Celeste Tortato Gabardo, 164 - Sítio Cercado",
+        "NUM": "160149",
+        "SENTIDO": "Circular",
+        "SEQ": "60",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54445",
+        "LON": "-49,28311",
+        "NOME": "Rua Celeste Tortato Gabardo, 1257 - Sítio Cercado",
+        "NUM": "160227",
+        "SENTIDO": "Circular",
+        "SEQ": "62",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445839181373",
+        "LON": "-49,269014497832",
+        "NOME": "Rua Alferes Poli, 1089 - Centro",
+        "NUM": "110025",
+        "SENTIDO": "Circular",
+        "SEQ": "113",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Circular",
+        "SEQ": "114",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Circular",
+        "SEQ": "115",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45792",
+        "LON": "-49,27044",
+        "NOME": "Av. Pres. Kennedy, 1090 - Água Verde",
+        "NUM": "150007",
+        "SENTIDO": "Circular",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465042464796",
+        "LON": "-49,277976705523",
+        "NOME": "Av. Pres. Kennedy, 2159 - Guaíra",
+        "NUM": "150013",
+        "SENTIDO": "Circular",
+        "SEQ": "104",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451248049822",
+        "LON": "-49,267590672916",
+        "NOME": "Rua Vinte e Quatro de Maio, 1700 - Rebouças",
+        "NUM": "150181",
+        "SENTIDO": "Circular",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452850128684",
+        "LON": "-49,265678257889",
+        "NOME": "Rua Alferes Poli, 1873 -Centro",
+        "NUM": "150249",
+        "SENTIDO": "Circular",
+        "SEQ": "110",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475125333884",
+        "LON": "-49,287896336264",
+        "NOME": "Rua Ponta Grossa, 551 - Portão",
+        "NUM": "150863",
+        "SENTIDO": "Circular",
+        "SEQ": "99",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510865792969",
+        "LON": "-49,275992682209",
+        "NOME": "Rua Omar Raymundo Picheth, 913 - Xaxim",
+        "NUM": "150326",
+        "SENTIDO": "Circular",
+        "SEQ": "87",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528814332162",
+        "LON": "-49,261005860119",
+        "NOME": "Rua Marte, 130 - Sítio Cercado",
+        "NUM": "150345",
+        "SENTIDO": "Circular",
+        "SEQ": "76",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542798205685",
+        "LON": "-49,278501179524",
+        "NOME": "Rua Cruzeiro do Sul, 839 - Sítio Cercado",
+        "NUM": "160237",
+        "SENTIDO": "Circular",
+        "SEQ": "65",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524444771532",
+        "LON": "-49,269083322233",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 260 - Pinheirinho",
+        "NUM": "150459",
+        "SENTIDO": "Circular",
+        "SEQ": "80",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466782195459",
+        "LON": "-49,279901195106",
+        "NOME": "Av. Pres. Kennedy, 2511 - Água Verde",
+        "NUM": "150015",
+        "SENTIDO": "Circular",
+        "SEQ": "103",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,471857578511",
+        "LON": "-49,285907084656",
+        "NOME": "Av. Pres. Kennedy, 3298 - Água Verde",
+        "NUM": "150020",
+        "SENTIDO": "Circular",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,537240823609",
+        "LON": "-49,280280233135",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4386 -Sítio Cercado",
+        "NUM": "160029",
+        "SENTIDO": "Circular",
+        "SEQ": "47",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541109931545",
+        "LON": "-49,293972682209",
+        "NOME": "Rua Londrina, 1155 - Pinheirinho",
+        "NUM": "160039",
+        "SENTIDO": "Circular",
+        "SEQ": "57",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,538441461916",
+        "LON": "-49,278971224537",
+        "NOME": "Rua Pedro Claudino da Rocha, 1 - Sítio Cercado",
+        "NUM": "160051",
+        "SENTIDO": "Circular",
+        "SEQ": "68",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493477112372",
+        "LON": "-49,278788895554",
+        "NOME": "Rua Maestro Francisco Antonello, 3045 - Novo Mundo",
+        "NUM": "150850",
+        "SENTIDO": "Circular",
+        "SEQ": "91",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483080657539",
+        "LON": "-49,28112644071",
+        "NOME": "Rua Américo Vespúcio, 599 - Lindóia",
+        "NUM": "150151",
+        "SENTIDO": "Circular",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486727024716",
+        "LON": "-49,279963703102",
+        "NOME": "Rua Elói de Assis Fabris, 41 - Novo Mundo",
+        "NUM": "150854",
+        "SENTIDO": "Circular",
+        "SEQ": "95",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480688746438",
+        "LON": "-49,282749177164",
+        "NOME": "Rua Aleixo Bettega, 335 - Lindóia",
+        "NUM": "150824",
+        "SENTIDO": "Circular",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528895477963",
+        "LON": "-49,259896588955",
+        "NOME": "Rua David Tows, 1834 - Xaxim",
+        "NUM": "150343",
+        "SENTIDO": "Circular",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52884",
+        "LON": "-49,25979",
+        "NOME": "Rua David Tows, 1833 - Xaxim",
+        "NUM": "150789",
+        "SENTIDO": "Circular",
+        "SEQ": "75",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517157356769",
+        "LON": "-49,273215483376",
+        "NOME": "Rua Primeiro de Maio, 1558 - Xaxim",
+        "NUM": "150196",
+        "SENTIDO": "Circular",
+        "SEQ": "83",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539255186713",
+        "LON": "-49,280822631426",
+        "NOME": "Rua Cruzeiro do Sul, 372 - Sítio Cercado",
+        "NUM": "160241",
+        "SENTIDO": "Circular",
+        "SEQ": "67",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50155784025",
+        "LON": "-49,275155364418",
+        "NOME": "Rua José Maria Pinheiro Lima, 127 - Xaxim",
+        "NUM": "150471",
+        "SENTIDO": "Circular",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464509686549",
+        "LON": "-49,277767055225",
+        "NOME": "Av. Pres. Kennedy, 2192 - Portão",
+        "NUM": "150012",
+        "SENTIDO": "Circular",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473616904179",
+        "LON": "-49,287850495701",
+        "NOME": "Av. Pres. Kennedy, 3568 - Portão",
+        "NUM": "150022",
+        "SENTIDO": "Circular",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459500611369",
+        "LON": "-49,271815487347",
+        "NOME": "Av. Pres. Kennedy, 1351 - Parolin",
+        "NUM": "150248",
+        "SENTIDO": "Circular",
+        "SEQ": "107",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533043189797",
+        "LON": "-49,263824489584",
+        "NOME": "Rua Isaac Ferreira da Cruz, 2156 - Sítio Cercado",
+        "NUM": "160021",
+        "SENTIDO": "Circular",
+        "SEQ": "42",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535631276745",
+        "LON": "-49,270929766865",
+        "NOME": "Rua Isaac Ferreira da Cruz, 3351 - Sítio Cercado",
+        "NUM": "160024",
+        "SENTIDO": "Circular",
+        "SEQ": "71",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,535961343618",
+        "LON": "-49,283845480986",
+        "NOME": "Rua Isaac Ferreira da Cruz, 4729 - Pinheirinho",
+        "NUM": "160031",
+        "SENTIDO": "Circular",
+        "SEQ": "48",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528187134998",
+        "LON": "-49,291405597553",
+        "NOME": "Rua Isaac Ferreira da Cruz, 6019 - Pinheirinho",
+        "NUM": "160037",
+        "SENTIDO": "Circular",
+        "SEQ": "51",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45389637276",
+        "LON": "-49,266295165962",
+        "NOME": "Rua 24 de Maio, 2006 - Rebouças",
+        "NUM": "150182",
+        "SENTIDO": "Circular",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482980175072",
+        "LON": "-49,281212271399",
+        "NOME": "Rua Américo Vespúcio, 600 - Lindóia",
+        "NUM": "150149",
+        "SENTIDO": "Circular",
+        "SEQ": "97",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490288542172",
+        "LON": "-49,279420555777",
+        "NOME": "Rua Brasílio Ribas, 378 - Novo Mundo",
+        "NUM": "150177",
+        "SENTIDO": "Circular",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495536201012",
+        "LON": "-49,279484928793",
+        "NOME": "Rua São Judas Tadeu, 81 - Capão Raso",
+        "NUM": "150849",
+        "SENTIDO": "Circular",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514460084439",
+        "LON": "-49,274506748861",
+        "NOME": "Rua Odenir Silveira, 305 - Xaxim",
+        "NUM": "150444",
+        "SENTIDO": "Circular",
+        "SEQ": "85",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523119579056",
+        "LON": "-49,270288975185",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 477 - Pinheirinho",
+        "NUM": "150462",
+        "SENTIDO": "Circular",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526333959366",
+        "LON": "-49,267586278547",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 178 - Pinheirinho",
+        "NUM": "150457",
+        "SENTIDO": "Circular",
+        "SEQ": "79",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501663053779",
+        "LON": "-49,275110874834",
+        "NOME": "Rua José Maria Pinheiro Lima, 126 - Xaxim",
+        "NUM": "150470",
+        "SENTIDO": "Circular",
+        "SEQ": "90",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503803443996",
+        "LON": "-49,276624169312",
+        "NOME": "Rua José Maria Pinheiro Lima, 272 - Xaxim",
+        "NUM": "150472",
+        "SENTIDO": "Circular",
+        "SEQ": "31",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532448599716",
+        "LON": "-49,262069016695",
+        "NOME": "Rua Izaac Ferreira da Cruz, 4237 - Sítio Cercado",
+        "NUM": "160178",
+        "SENTIDO": "Circular",
+        "SEQ": "41",
+        "TIPO": "Especial Madrugueiro"
+    }
+]

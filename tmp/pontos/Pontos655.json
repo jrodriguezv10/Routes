@@ -1,0 +1,1242 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559527396125",
+        "LON": "-49,331741065926",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 397 - Tatuquara",
+        "NUM": "170437",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564127503731",
+        "LON": "-49,315480856953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 668 - Tatuquara",
+        "NUM": "170509",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51201559351",
+        "LON": "-49,29486364418",
+        "NOME": "Terminal Pinheirinho - 655 - Jardim da Ordem",
+        "NUM": "105708",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567449036837",
+        "LON": "-49,315097630024",
+        "NOME": "Rua Antônio Zanon, 220 - Tatuquara",
+        "NUM": "170514",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567705510067",
+        "LON": "-49,32232350111",
+        "NOME": "Rua Antônio Zanon, 768- Tatuquara",
+        "NUM": "170419",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563102215968",
+        "LON": "-49,33073759079",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 196 - Tatuquara",
+        "NUM": "170447",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558403165104",
+        "LON": "-49,339124858379",
+        "NOME": "Rua B, 271 - Tatuquara",
+        "NUM": "170444",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559433971652",
+        "LON": "-49,318262636662",
+        "NOME": "Rua Mateus Luís Dalagassa, 442 - Tatuquara",
+        "NUM": "170913",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557718375569",
+        "LON": "-49,318345785141",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170915",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559666869791",
+        "LON": "-49,333394989371",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170990",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559346861583",
+        "LON": "-49,318222403526",
+        "NOME": "Rua Mateus Luís Dalagassa, 443 - Tatuquara",
+        "NUM": "170914",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567370401067",
+        "LON": "-49,315093606711",
+        "NOME": "Rua Antônio Zanon, 355 - Tatuquara",
+        "NUM": "170513",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560428473789",
+        "LON": "-49,336608946323",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 831 - Tatuquara",
+        "NUM": "170643",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559527396125",
+        "LON": "-49,331741065926",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 397 - Tatuquara",
+        "NUM": "170437",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55961787048",
+        "LON": "-49,328382611275",
+        "NOME": "Rua Major Salvador João Fernandes, 278 - Tatuquara",
+        "NUM": "170435",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55857012733",
+        "LON": "-49,329340159893",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 204 - Tatuquara",
+        "NUM": "170436",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566809061147",
+        "LON": "-49,316865205765",
+        "NOME": "Rua Antônio Zanon, 2 - Tatuquara",
+        "NUM": "170711",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556399600245",
+        "LON": "-49,336013495922",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 1121 - Tatuquara",
+        "NUM": "170440",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558403165104",
+        "LON": "-49,339124858379",
+        "NOME": "Rua B, 271 - Tatuquara",
+        "NUM": "170444",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567594210431",
+        "LON": "-49,322420060635",
+        "NOME": "Rua Antônio Zanon, 767 - Tatuquara",
+        "NUM": "170418",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55961787048",
+        "LON": "-49,328382611275",
+        "NOME": "Rua Major Salvador João Fernandes, 278 - Tatuquara",
+        "NUM": "170435",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55857012733",
+        "LON": "-49,329340159893",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 204 - Tatuquara",
+        "NUM": "170436",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556399600245",
+        "LON": "-49,336013495922",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 1121 - Tatuquara",
+        "NUM": "170440",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560428473789",
+        "LON": "-49,336608946323",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 831 - Tatuquara",
+        "NUM": "170643",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55752258503",
+        "LON": "-49,322871717297",
+        "NOME": "Estrada Engenheiro Blei - Cidade Industrial",
+        "NUM": "170920",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568548722428",
+        "LON": "-49,320102632046",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170515",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561856090161",
+        "LON": "-49,327972233295",
+        "NOME": "Rua Dolores Guedes, 209 - Tatuquara",
+        "NUM": "170434",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558255560624",
+        "LON": "-49,335031807423",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 951 - Tatuquara",
+        "NUM": "170439",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56250876135",
+        "LON": "-49,315252869187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 367 - Tatuquara",
+        "NUM": "170508",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566235620666",
+        "LON": "-49,324434399605",
+        "NOME": "Rua Antônio Zanon, 1116- Tatuquara",
+        "NUM": "170430",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565858164675",
+        "LON": "-49,326177835464",
+        "NOME": "Rua Antônio Zanon, 1248 - Tatuquara",
+        "NUM": "170431",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555339729923",
+        "LON": "-49,337056875229",
+        "NOME": "Rua A, 34 - Tatuquara",
+        "NUM": "170441",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561560889526",
+        "LON": "-49,334095716476",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 567 - Tatuquara",
+        "NUM": "170641",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557413485684",
+        "LON": "-49,339382350445",
+        "NOME": "Rua A, 336- Tatuquara",
+        "NUM": "170443",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51201559351",
+        "LON": "-49,29486364418",
+        "NOME": "Terminal Pinheirinho - 655 - Jardim da Ordem",
+        "NUM": "105708",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559770312715",
+        "LON": "-49,316124916077",
+        "NOME": "Rua Mateus Luís Dalagassa, 187 - Tatuquara",
+        "NUM": "170912",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556281030743",
+        "LON": "-49,321958720684",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170921",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "20",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51201559351",
+        "LON": "-49,29486364418",
+        "NOME": "Terminal Pinheirinho - 655 - Jardim da Ordem",
+        "NUM": "105708",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559662900445",
+        "LON": "-49,333409399933",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170438",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566143676368",
+        "LON": "-49,324482679367",
+        "NOME": "Rua Antônio Zanon, 1115 - Tatuquara",
+        "NUM": "170429",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557413485684",
+        "LON": "-49,339382350445",
+        "NOME": "Rua A, 336- Tatuquara",
+        "NUM": "170443",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,558255560624",
+        "LON": "-49,335031807423",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 951 - Tatuquara",
+        "NUM": "170439",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559856212619",
+        "LON": "-49,316187947989",
+        "NOME": "Rua Mateus Luís Dalagassa, 188 - Tatuquara",
+        "NUM": "170911",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556351204544",
+        "LON": "-49,338186085224",
+        "NOME": "Rua A, 138-214 - Tatuquara",
+        "NUM": "170442",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563102215968",
+        "LON": "-49,33073759079",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 196 - Tatuquara",
+        "NUM": "170447",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557120693872",
+        "LON": "-49,320058375597",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170917",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561856090161",
+        "LON": "-49,327972233295",
+        "NOME": "Rua Dolores Guedes, 209 - Tatuquara",
+        "NUM": "170434",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,55767361004",
+        "LON": "-49,31806281209",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170916",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562511181011",
+        "LON": "-49,315381615219",
+        "NOME": "Estrada Delegado Bruno de Almeida, 408 - Tatuquara",
+        "NUM": "170507",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565768000596",
+        "LON": "-49,314858584461",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1010 - Tatuquara",
+        "NUM": "170511",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566688082371",
+        "LON": "-49,317321181297",
+        "NOME": "Rua Antônio Zanon, 55 - Tatuquara",
+        "NUM": "170710",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559662900445",
+        "LON": "-49,333409399933",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170438",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,51201559351",
+        "LON": "-49,29486364418",
+        "NOME": "Terminal Pinheirinho - 655 - Jardim da Ordem",
+        "NUM": "105708",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555339729923",
+        "LON": "-49,337056875229",
+        "NOME": "Rua A, 34 - Tatuquara",
+        "NUM": "170441",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561560889526",
+        "LON": "-49,334095716476",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 567 - Tatuquara",
+        "NUM": "170641",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559666869791",
+        "LON": "-49,333394989371",
+        "NOME": "Rua Ernesto Germano Fco. Hannemann, 587 - Tatuquara",
+        "NUM": "170990",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565647659855",
+        "LON": "-49,326362907887",
+        "NOME": "Rua Antônio Zanon, 1249 - Tatuquara",
+        "NUM": "170432",
+        "SENTIDO": "Jd. da Ordem",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568611630429",
+        "LON": "-49,319995343685",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170516",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556351204544",
+        "LON": "-49,338186085224",
+        "NOME": "Rua A, 138-214 - Tatuquara",
+        "NUM": "170442",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556374192505",
+        "LON": "-49,321989566088",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170919",
+        "SENTIDO": "Atendimento Jd. Ordem - Dalagassa - Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557040841436",
+        "LON": "-49,320012778044",
+        "NOME": "Rua Ricardo Eugenio Graeser Ronchi - Tatuquara",
+        "NUM": "170918",
+        "SENTIDO": "Atendimento Pinheirinho - Dalagassa - Jd. Ordem",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    }
+]

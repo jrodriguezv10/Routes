@@ -1,0 +1,902 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,487174562313",
+        "LON": "-49,346895123387",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 6454 - Cidade Industrial",
+        "NUM": "180429",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490244515968",
+        "LON": "-49,351572895909",
+        "NOME": "Rua do Jequitibá, 66 - Cidade Industrial",
+        "NUM": "180422",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496601762486",
+        "LON": "-49,347506667042",
+        "NOME": "Rua Prof. José R. Vieira Netto, 443 - Cidade Industrial",
+        "NUM": "180400",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499445182612",
+        "LON": "-49,344693029786",
+        "NOME": "Rua Antônio Pastre, 187 - Cidade Industrial",
+        "NUM": "180319",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493613012084",
+        "LON": "-49,331571663285",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 3825 - Cidade Industrial",
+        "NUM": "180299",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "43",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490581817885",
+        "LON": "-49,34867787475",
+        "NOME": "Rua Vale dos Pássaros, 258 - Cidade Industrial",
+        "NUM": "180416",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492254794745",
+        "LON": "-49,347360910124",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 230 - Cidade Industrial",
+        "NUM": "180411",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497484210417",
+        "LON": "-49,345364005512",
+        "NOME": "Estrada Velha do Barigui, 2500 - Cidade Industrial",
+        "NUM": "180322",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494963951",
+        "LON": "-49,319327379132",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 638 - Cidade Industrial",
+        "NUM": "170295",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4944833768",
+        "LON": "-49,317553097869",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 639 - Cidade Industrial",
+        "NUM": "170294",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494254588911",
+        "LON": "-49,313342029715",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 431 - Cidade Industrial",
+        "NUM": "170289",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494219483853",
+        "LON": "-49,306204671527",
+        "NOME": "Rua João Bonat, 1180 - Novo Mundo",
+        "NUM": "170249",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492095531902",
+        "LON": "-49,293111891693",
+        "NOME": "Terminal Capão Raso - 658 - Capão Raso / Caiuá",
+        "NUM": "104809",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491595209811",
+        "LON": "-49,297085860119",
+        "NOME": "R. Francisco Ader, 372 - Novo Mundo",
+        "NUM": "170002",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494366620386",
+        "LON": "-49,299103440575",
+        "NOME": "Rua João Bonat, 432 - Novo Mundo",
+        "NUM": "170242",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495428296708",
+        "LON": "-49,338048000478",
+        "NOME": "Rua Des. Cid Campelo, 6343 - Cidade Industrial",
+        "NUM": "180309",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495624398724",
+        "LON": "-49,322197352337",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1106 - Cidade Industrial",
+        "NUM": "170298",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489360804299",
+        "LON": "-49,350947941209",
+        "NOME": "Rua Pedro Driessen Filho, 539 - Cidade Industrial",
+        "NUM": "180424",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "40",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496595710008",
+        "LON": "-49,351344908143",
+        "NOME": "Rua Maria Lúcia Locher de Ataíde, 192 - Cidade Industrial",
+        "NUM": "180403",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494172273585",
+        "LON": "-49,313307160998",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 430 - Cidade Industrial",
+        "NUM": "170290",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49756",
+        "LON": "-49,33839",
+        "NOME": "Rua Senador Accioly Filho, 3070 - Cidade Industrial",
+        "NUM": "180310",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48591",
+        "LON": "-49,34741",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 6311 - Cidade Industrial",
+        "NUM": "180431",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492095531902",
+        "LON": "-49,293111891693",
+        "NOME": "Terminal Capão Raso - 658 - Capão Raso / Caiuá",
+        "NUM": "104809",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "45",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494475566952",
+        "LON": "-49,298993470005",
+        "NOME": "Rua João Bonat, 431 - Novo Mundo",
+        "NUM": "170243",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "42",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490250568766",
+        "LON": "-49,351673478747",
+        "NOME": "Rua do Jequitibá, 67 - Cidade Industrial",
+        "NUM": "180420",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497382529504",
+        "LON": "-49,340903068448",
+        "NOME": "Rua Soldado Agnaldo Gonçalves, 18 - Cidade Industrial",
+        "NUM": "180312",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495333156573",
+        "LON": "-49,309757257367",
+        "NOME": "Rua General Potiguara, 201 - Novo Mundo",
+        "NUM": "170211",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48594",
+        "LON": "-49,34755",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 6310 - Cidade Industrial",
+        "NUM": "180432",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490514026725",
+        "LON": "-49,348629594988",
+        "NOME": "Rua Vale dos Pássaros, 257 - Cidade Industrial",
+        "NUM": "180417",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490627819007",
+        "LON": "-49,347100735849",
+        "NOME": "Rua Vale dos Pássaros, 78 - Cidade Industrial",
+        "NUM": "180414",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494467640081",
+        "LON": "-49,327479953433",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1451 - Cidade Industrial",
+        "NUM": "180296",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494169852545",
+        "LON": "-49,3150036582",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 196 - Cidade Industrial",
+        "NUM": "170291",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494137168503",
+        "LON": "-49,308974052335",
+        "NOME": "Rua João Bonat, 1451 - Novo Mundo",
+        "NUM": "170285",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494330610822",
+        "LON": "-49,300820560402",
+        "NOME": "Rua João Bonat, 632 - Novo Mundo",
+        "NUM": "170244",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494167959938",
+        "LON": "-49,311809570736",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 194 - Cidade Industrial",
+        "NUM": "170288",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497695682296",
+        "LON": "-49,340724023314",
+        "NOME": "Rua Senador Accioly Filho, 3288 - Cidade Industrial",
+        "NUM": "180311",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48720240589",
+        "LON": "-49,347001070643",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 6455 - Cidade Industrial",
+        "NUM": "180430",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495615925187",
+        "LON": "-49,321504001306",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1063 - Cidade Industrial",
+        "NUM": "170297",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489635603007",
+        "LON": "-49,34888934579",
+        "NOME": "Rua Hilda Cadilhe de Oliveira, 644 - Cidade Industrial",
+        "NUM": "180426",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496834177384",
+        "LON": "-49,349455291892",
+        "NOME": "Rua Prof. José R. Vieira Netto, 222 - Cidade Industrial",
+        "NUM": "180401",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499512968733",
+        "LON": "-49,344573671485",
+        "NOME": "Rua Antônio Pastre, 188 - Cidade Industrial",
+        "NUM": "180318",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492973306142",
+        "LON": "-49,298282684616",
+        "NOME": "Rua Paulina Ader, 836 - Novo Mundo",
+        "NUM": "170992",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497512051604",
+        "LON": "-49,34524732942",
+        "NOME": "Estrada Velha do Barigui, 2499 - Cidade Industrial",
+        "NUM": "180323",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489618655088",
+        "LON": "-49,348804856206",
+        "NOME": "Rua Hilda Cadilhe de Oliveira, 643 - Cidade Industrial",
+        "NUM": "180425",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "41",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495470664455",
+        "LON": "-49,323830817627",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1284 - Cidade Industrial",
+        "NUM": "170300",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493903537864",
+        "LON": "-49,329491610194",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1854 - Cidade Industrial",
+        "NUM": "180297",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49490947795",
+        "LON": "-49,319440031911",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 639 - Cidade Industrial",
+        "NUM": "170296",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49414822289",
+        "LON": "-49,303470169649",
+        "NOME": "Rua João Bonat, 920 - Novo Mundo",
+        "NUM": "170247",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491579311957",
+        "LON": "-49,34903192634",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 374 - Cidade Industrial",
+        "NUM": "180409",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494064537265",
+        "LON": "-49,334028566743",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 2373 - Cidade Industrial",
+        "NUM": "180302",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493702590941",
+        "LON": "-49,331582392121",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1971 -Cidade Industrial",
+        "NUM": "180300",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493985853374",
+        "LON": "-49,329549277688",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1853 - Cidade Industrial",
+        "NUM": "180298",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49423957091",
+        "LON": "-49,311347505259",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 195 - Cidade Industrial",
+        "NUM": "170287",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493879327409",
+        "LON": "-49,352399016286",
+        "NOME": "Rua Maria Lúcia Locher de Ataíde, 514 - Cidade Industrial",
+        "NUM": "180405",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496733706416",
+        "LON": "-49,349522347117",
+        "NOME": "Rua Prof. José R. Vieira Netto,223 - Cidade Industrial",
+        "NUM": "180402",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498227446855",
+        "LON": "-49,347156638766",
+        "NOME": "Rua João Evangelista Filho, 259 - Cidade Industrial",
+        "NUM": "180315",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499407658136",
+        "LON": "-49,342985803748",
+        "NOME": "Rua Antônio Pastre, 78 - Cidade Industrial",
+        "NUM": "180321",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "24",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494131115901",
+        "LON": "-49,306353534127",
+        "NOME": "Rua João Bonat, 1181 - Novo Mundo",
+        "NUM": "170248",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494094800286",
+        "LON": "-49,349926443047",
+        "NOME": "Rua Durval Leopoldo Landal, 1487 - Cidade Industrial",
+        "NUM": "180407",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487414194576",
+        "LON": "-49,348959083224",
+        "NOME": "Rua Rosa Rigoni Landal, 251 - Cidade Industrial",
+        "NUM": "180427",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495452506852",
+        "LON": "-49,324227784561",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1283 - Cidade Industrial",
+        "NUM": "170299",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494597165323",
+        "LON": "-49,327317679787",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 1451 - Cidade Industrial",
+        "NUM": "180294",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494421399661",
+        "LON": "-49,30096271748",
+        "NOME": "Rua João Bonat, 631 - Novo Mundo",
+        "NUM": "170245",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "41",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487502567467",
+        "LON": "-49,348871911431",
+        "NOME": "Rua Rosa Rigoni Landal, 250 - Cidade Industrial",
+        "NUM": "180428",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "42",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499535967586",
+        "LON": "-49,346735531951",
+        "NOME": "Rua Antônio Pastre, 345 - Cidade Industrial",
+        "NUM": "180317",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494370798687",
+        "LON": "-49,31745519724",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 640 - Cidade Industrial",
+        "NUM": "170293",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490661714559",
+        "LON": "-49,347028316206",
+        "NOME": "Rua Vale dos Pássaros, 77 - Cidade Industrial",
+        "NUM": "180415",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489263958789",
+        "LON": "-49,350902343655",
+        "NOME": "Rua Pedro Driessen Filho, 540 - Cidade Industrial",
+        "NUM": "180423",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496618709421",
+        "LON": "-49,351458902026",
+        "NOME": "Rua Maria Lúcia Locher de Ataíde, 191- Cidade Industrial",
+        "NUM": "180404",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498405387145",
+        "LON": "-49,347352440024",
+        "NOME": "Rua João Evangelista Filho, 260 - Cidade Industrial",
+        "NUM": "180314",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494249746835",
+        "LON": "-49,315009022618",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 197 - Cidade Industrial",
+        "NUM": "170292",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483654972168",
+        "LON": "-49,350078630211",
+        "NOME": "Terminal Caiuá - 658 - Capão Raso / Caiuá",
+        "NUM": "105004",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "45",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49171852467",
+        "LON": "-49,348758341021",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 373 - Cidade Industrial",
+        "NUM": "180410",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490697264361",
+        "LON": "-49,350327009822",
+        "NOME": "Rua Vale dos Pássaros, 355 - Cidade Industrial",
+        "NUM": "180419",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494582639135",
+        "LON": "-49,310063029195",
+        "NOME": "Rua General Potiguara, 458 - Novo Mundo",
+        "NUM": "170212",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14515",
+        "LAT": "-25,483654972168",
+        "LON": "-49,350078630211",
+        "NOME": "Terminal Caiuá - 658 - Capão Raso / Caiuá",
+        "NUM": "105004",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490696053806",
+        "LON": "-49,350101704264",
+        "NOME": "Rua Vale dos Pássaros, 356 - Cidade Industrial",
+        "NUM": "180418",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494005221721",
+        "LON": "-49,352498258019",
+        "NOME": "Rua Maria Lúcia Locher de Ataíde, 513 - Cidade Industrial",
+        "NUM": "180406",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499619489702",
+        "LON": "-49,346691275502",
+        "NOME": "Rua Antônio Pastre, 346 - Cidade Industrial",
+        "NUM": "180316",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49512979102",
+        "LON": "-49,340050125981",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 3350 - Cidade Industrial",
+        "NUM": "180313",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492351637844",
+        "LON": "-49,347339452452",
+        "NOME": "Rua Antônio Dionísio Sobrinho, 229 - Cidade Industrial",
+        "NUM": "180413",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493902327341",
+        "LON": "-49,349761487192",
+        "NOME": "Rua Durval Leopoldo Landal, 1486 - Cidade Industrial",
+        "NUM": "180408",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493826064392",
+        "LON": "-49,333586002255",
+        "NOME": "Rua Professor Algacir Munhoz Mader, 2374 - Cidade Industrial",
+        "NUM": "180301",
+        "SENTIDO": "Terminal Caiuá",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "44",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494860567463",
+        "LON": "-49,337689925575",
+        "NOME": "Rua Prof. Algacir Munhoz Mader, 4510 - Cidade Industrial",
+        "NUM": "180307",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496759126789",
+        "LON": "-49,347085560227",
+        "NOME": "Rua Prof. José R. Vieira Netto, 493 - Cidade Industrial",
+        "NUM": "180324",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499500864071",
+        "LON": "-49,343004579211",
+        "NOME": "Rua Antônio Pastre, 79 - Cidade Industrial",
+        "NUM": "180320",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494232799566",
+        "LON": "-49,308827871943",
+        "NOME": "Rua João Bonat, 1452 -Novo Mundo",
+        "NUM": "170286",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494236590828",
+        "LON": "-49,303557341442",
+        "NOME": "Rua João Bonat, 919 - Novo Mundo",
+        "NUM": "170246",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Domus"
+    }
+]

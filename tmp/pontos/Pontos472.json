@@ -1,0 +1,712 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,439558923027",
+        "LON": "-49,269783900127",
+        "NOME": "Rua Des. Westphalen, 793 - Rebouças",
+        "NUM": "110060",
+        "SENTIDO": "Uberaba",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464439188587",
+        "LON": "-49,244885510416",
+        "NOME": "Av. Senador Salgado Filho, 1474 - Prado Velho",
+        "NUM": "140025",
+        "SENTIDO": "Uberaba",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48807",
+        "LON": "-49,2234",
+        "NOME": "Rua Senador Salgado Filho, 5185 - Uberaba",
+        "NUM": "140061",
+        "SENTIDO": "Uberaba",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49904",
+        "LON": "-49,21326",
+        "NOME": "Rua Senador Salgado Filho, 6848 -  Uberaba",
+        "NUM": "140073",
+        "SENTIDO": "Uberaba",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45398906219",
+        "LON": "-49,252730991402",
+        "NOME": "Rua Imaculada Conceição, 1477 - Prado Velho",
+        "NUM": "140272",
+        "SENTIDO": "Uberaba",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460668493384",
+        "LON": "-49,24881846385",
+        "NOME": "Av. Sen. Salgado Filho, 890 - Prado Velho",
+        "NUM": "140681",
+        "SENTIDO": "Uberaba",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50093",
+        "LON": "-49,20928",
+        "NOME": "Av. Comendador Franco, 8001 -  Uberaba",
+        "NUM": "140807",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462772944874",
+        "LON": "-49,246283776331",
+        "NOME": "Av. Senador Salgado Filho, 1207 - Prado Velho",
+        "NUM": "140833",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482230853781",
+        "LON": "-49,224018045473",
+        "NOME": "Rua Senador Salgado Filho, 4555 - Uberaba",
+        "NUM": "140979",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448795818253",
+        "LON": "-49,256840233135",
+        "NOME": "Rua Guabirotuba,  124 - Prado Velho",
+        "NUM": "140350",
+        "SENTIDO": "Uberaba",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47485",
+        "LON": "-49,22985",
+        "NOME": "Rua Senador Salgado Filho, 3542 - Uberaba",
+        "NUM": "140054",
+        "SENTIDO": "Uberaba",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49238",
+        "LON": "-49,22102",
+        "NOME": "Rua Senador Salgado Filho, 5768 - Uberaba",
+        "NUM": "140065",
+        "SENTIDO": "Uberaba",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49719",
+        "LON": "-49,21615",
+        "NOME": "Rua Senador Salgado Filho, 6444 - Uberaba",
+        "NUM": "140071",
+        "SENTIDO": "Uberaba",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,458270272038",
+        "LON": "-49,25124475215",
+        "NOME": "Rua Imaculada Conceição, 1986 - Prado Velho",
+        "NUM": "140273",
+        "SENTIDO": "Uberaba",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,449416367089",
+        "LON": "-49,254227813492",
+        "NOME": "Rua Iapó, 842 - Prado Velho",
+        "NUM": "140187",
+        "SENTIDO": "Uberaba",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447454019728",
+        "LON": "-49,257707463789",
+        "NOME": "Rua Chile, 821 - Rebouças",
+        "NUM": "140051",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48811455256",
+        "LON": "-49,22321317791",
+        "NOME": "Rua Senador Salgado Filho, 5186 - Uberaba",
+        "NUM": "140062",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435959450504",
+        "LON": "-49,266889275259",
+        "NOME": "Av. Visconde de Guarapuava, 2646 - Centro",
+        "NUM": "140941",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467458519492",
+        "LON": "-49,240965131283",
+        "NOME": "Av. Senador Salgado Filho, 2020 - Prado Velho",
+        "NUM": "140029",
+        "SENTIDO": "Uberaba",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474304528641",
+        "LON": "-49,231671341105",
+        "NOME": "Rua Senador Salgado Filho, 3344 - Uberaba",
+        "NUM": "140039",
+        "SENTIDO": "Uberaba",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50093",
+        "LON": "-49,20928",
+        "NOME": "Av. Comendador Franco, 8001 -  Uberaba",
+        "NUM": "140807",
+        "SENTIDO": "Uberaba",
+        "SEQ": "36",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441763500043",
+        "LON": "-49,261036695189",
+        "NOME": "Rua João Negrão, 1408 - Centro",
+        "NUM": "110145",
+        "SENTIDO": "Uberaba",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44656883286",
+        "LON": "-49,258803858871",
+        "NOME": "Rua João Negrão, 2024 - Centro",
+        "NUM": "140465",
+        "SENTIDO": "Uberaba",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443180689821",
+        "LON": "-49,26703288702",
+        "NOME": "Av. Pres. Getúlio Vargas, 767 - Rebouças",
+        "NUM": "110424",
+        "SENTIDO": "Uberaba",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49702",
+        "LON": "-49,21612",
+        "NOME": "Rua Senador Salgado Filho, 6449 - Uberaba",
+        "NUM": "140072",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49871",
+        "LON": "-49,21341",
+        "NOME": "Rua Senador Salgado Filho, 6855 - Uberaba",
+        "NUM": "140074",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457204180942",
+        "LON": "-49,250273562241",
+        "NOME": "Av. Sen. Salgado Filho, 463 - Prado Velho",
+        "NUM": "140873",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435743189522",
+        "LON": "-49,271563203149",
+        "NOME": "Praça Rui Barbosa - 472 - Uberaba",
+        "NUM": "102024",
+        "SENTIDO": "Uberaba",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47303",
+        "LON": "-49,23483",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140036",
+        "SENTIDO": "Uberaba",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500173315055",
+        "LON": "-49,211349154596",
+        "NOME": "Rua José Fernandes Alves, 263 - Uberaba",
+        "NUM": "140641",
+        "SENTIDO": "Uberaba",
+        "SEQ": "34",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498709118387",
+        "LON": "-49,210996823244",
+        "NOME": "Rua José Fernandes Alves, 101 -  Uberaba",
+        "NUM": "140642",
+        "SENTIDO": "Uberaba",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46392",
+        "LON": "-49,24517",
+        "NOME": "Av. Senador Salgado Filho, 1479 - Prado Velho",
+        "NUM": "140026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47098",
+        "LON": "-49,23874",
+        "NOME": "Av. Senador Salgado Filho, 1666 - Prado Velho",
+        "NUM": "140033",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48658",
+        "LON": "-49,22328",
+        "NOME": "Av. Sen. Salgado Filho, 5051 - Uberaba",
+        "NUM": "140060",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435186762549",
+        "LON": "-49,264932603783",
+        "NOME": "Av. Visconde de Guarapuava, 2324 - Centro",
+        "NUM": "140205",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446473987791",
+        "LON": "-49,258310229725",
+        "NOME": "Rua Conselheiro Laurindo, 2299 - Centro",
+        "NUM": "140446",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469364306191",
+        "LON": "-49,239986679762",
+        "NOME": "Av. Senador Salgado Filho, 1464 - Prado Velho",
+        "NUM": "140032",
+        "SENTIDO": "Uberaba",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47655",
+        "LON": "-49,22749",
+        "NOME": "Rua Senador Salgado Filho, 3860 - Uberaba",
+        "NUM": "140055",
+        "SENTIDO": "Uberaba",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47972",
+        "LON": "-49,22531",
+        "NOME": "Rua Senador Salgado Filho, 4201 - Uberaba",
+        "NUM": "140057",
+        "SENTIDO": "Uberaba",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4907",
+        "LON": "-49,22236",
+        "NOME": "Rua Senador Salgado Filho, 5529 - Uberaba",
+        "NUM": "140063",
+        "SENTIDO": "Uberaba",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,466388447053",
+        "LON": "-49,241854108143",
+        "NOME": "Av. Senador Salgado Filho, 1871 - Prado Velho",
+        "NUM": "140030",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,473017389493",
+        "LON": "-49,234534695597",
+        "NOME": "Rua Senador Salgado Filho, 2929 - Uberaba",
+        "NUM": "140037",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4906",
+        "LON": "-49,22223",
+        "NOME": "Rua Senador Salgado Filho, 5530 - Uberaba",
+        "NUM": "140064",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442436445978",
+        "LON": "-49,259707660622",
+        "NOME": "Rua Conselheiro Laurindo, 1697 - Centro",
+        "NUM": "110146",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465927024894",
+        "LON": "-49,242837696925",
+        "NOME": "Av. Senador Salgado Filho, 1760 - Prado Velho",
+        "NUM": "140028",
+        "SENTIDO": "Uberaba",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474124168273",
+        "LON": "-49,231875480986",
+        "NOME": "Rua Senador Salgado Filho, 3346 - Uberaba",
+        "NUM": "140038",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49233",
+        "LON": "-49,22081",
+        "NOME": "Rua Senador Salgado Filho, 5711 - Uberaba",
+        "NUM": "140066",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49387",
+        "LON": "-49,21942",
+        "NOME": "Rua Senador Salgado Filho, 6001 -  Uberaba",
+        "NUM": "140068",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49562",
+        "LON": "-49,21772",
+        "NOME": "Rua Senador Salgado Filho, 6182 - Uberaba",
+        "NUM": "140070",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,438529389521",
+        "LON": "-49,260738969988",
+        "NOME": "Rua Conselheiro Laurindo, 1264- Centro",
+        "NUM": "110147",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450188827277",
+        "LON": "-49,255166442957",
+        "NOME": "Rua Comendador Roseira, 416 - Prado Velho",
+        "NUM": "140269",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468090990147",
+        "LON": "-49,240140773849",
+        "NOME": "Av. Senador Salgado Filho, 1347 - Prado Velho",
+        "NUM": "140831",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453965000982",
+        "LON": "-49,252125627565",
+        "NOME": "Av. Sen. Salgado Filho, 80 - Prado Velho",
+        "NUM": "140874",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483873681296",
+        "LON": "-49,223441370535",
+        "NOME": "Av. Sen. Salgado Filho, 4761 - Uberaba",
+        "NUM": "140318",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44738262892",
+        "LON": "-49,256007553286",
+        "NOME": "Rua Francisco Nunes, 695 - Rebouças",
+        "NUM": "140724",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49426",
+        "LON": "-49,2192",
+        "NOME": "Rua Senador Salgado Filho, 6002 - Uberaba",
+        "NUM": "140067",
+        "SENTIDO": "Uberaba",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49579",
+        "LON": "-49,21777",
+        "NOME": "Rua Senador Salgado Filho, 6180 - Uberaba",
+        "NUM": "140069",
+        "SENTIDO": "Uberaba",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450967928953",
+        "LON": "-49,254071720238",
+        "NOME": "Rua Iapó, 1158 - Prado Velho",
+        "NUM": "140270",
+        "SENTIDO": "Uberaba",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4447087239",
+        "LON": "-49,259564265127",
+        "NOME": "Rua João Negrão, 1802 - Centro",
+        "NUM": "140464",
+        "SENTIDO": "Uberaba",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48415426193",
+        "LON": "-49,223540262566",
+        "NOME": "Av. Sen. Salgado Filho, 4704 - Uberaba",
+        "NUM": "140319",
+        "SENTIDO": "Uberaba",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47688",
+        "LON": "-49,22696",
+        "NOME": "Rua Senador Salgado Filho, 3857 - Uberaba",
+        "NUM": "140056",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47954",
+        "LON": "-49,22519",
+        "NOME": "Rua Senador Salgado Filho, 4203 - Uberaba",
+        "NUM": "140058",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451121172419",
+        "LON": "-49,25283524785",
+        "NOME": "Rua Imaculada Conceição, 1174 - Prado Velho",
+        "NUM": "140271",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47102",
+        "LON": "-49,23891",
+        "NOME": "Av. Senador Salgado Filho, 1665 - Prado Velho",
+        "NUM": "140640",
+        "SENTIDO": "Uberaba",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48617",
+        "LON": "-49,22343",
+        "NOME": "Av. Sen. Salgado Filho, 4912 - Uberaba",
+        "NUM": "140059",
+        "SENTIDO": "Uberaba",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463088972673",
+        "LON": "-49,246180511284",
+        "NOME": "Av. Senador Salgado Filho, 1202 - Prado Velho",
+        "NUM": "140682",
+        "SENTIDO": "Uberaba",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,442052001629",
+        "LON": "-49,264006014147",
+        "NOME": "Av. Pres. Getúlio Vargas, 385 - Rebouças",
+        "NUM": "110425",
+        "SENTIDO": "Uberaba",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,435743189522",
+        "LON": "-49,271563203149",
+        "NOME": "Praça Rui Barbosa - 472 - Uberaba",
+        "NUM": "102024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47448",
+        "LON": "-49,23014",
+        "NOME": "Rua Senador Salgado Filho, 3544 - Uberaba",
+        "NUM": "140040",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436399081094",
+        "LON": "-49,26186415667",
+        "NOME": "Rua Conselheiro Laurindo, 987- Centro",
+        "NUM": "110148",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461083816703",
+        "LON": "-49,24806878643",
+        "NOME": "Av. Sen. Salgado Filho, 899 - Prado Velho",
+        "NUM": "140834",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,428448509",
+        "LON": "-49,230175198263",
+        "NOME": "Av. Victor Ferreira do Amaral, 942 - Tarumã",
+        "NUM": "130207",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429568846459",
+        "LON": "-49,220228226131",
+        "NOME": "Av. Victor Ferreira do Amaral, 1457 - Tarumã",
+        "NUM": "130214",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430822400891",
+        "LON": "-49,208425165361",
+        "NOME": "Rua Vitor Ferreira do Amaral, 473 - Tarumã",
+        "NUM": "130265",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429560368269",
+        "LON": "-49,217533947176",
+        "NOME": "Av. Victor Ferreira do Amaral, 1447 - Tarumã",
+        "NUM": "130215",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429831670063",
+        "LON": "-49,217676104254",
+        "NOME": "Av. Victor Ferreira do Amaral, 1448 - Tarumã",
+        "NUM": "130216",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427576335706",
+        "LON": "-49,252034139881",
+        "NOME": "Rua Marechal Deodoro, 2152 - Centro",
+        "NUM": "130372",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415790836958",
+        "LON": "-49,202077542554",
+        "NOME": "Rua Epaminondas Santos, 2254 - Bairro Alto",
+        "NUM": "130383",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419893632142",
+        "LON": "-49,20013848061",
+        "NOME": "Rua Epaminondas Santos, 2805 - Bairro Alto",
+        "NUM": "130378",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426263043156",
+        "LON": "-49,258594868717",
+        "NOME": "Rua Quinze de Novembro, 1706 - Alto da XV",
+        "NUM": "110071",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427190085098",
+        "LON": "-49,247474105305",
+        "NOME": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+        "NUM": "140200",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428264409307",
+        "LON": "-49,230169833845",
+        "NOME": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+        "NUM": "130208",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426520293005",
+        "LON": "-49,202379466242",
+        "NOME": "Rua Pedro Eloy da Souza, 1702 - Bairro Alto",
+        "NUM": "130244",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432935852023",
+        "LON": "-49,270525009579",
+        "NOME": "Praça Carlos Gomes - 372 - Tarumã",
+        "NUM": "103203",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429205494911",
+        "LON": "-49,223230959123",
+        "NOME": "Av. Victor Ferreira do Amaral, 1857 - Tarumã",
+        "NUM": "130212",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430286486029",
+        "LON": "-49,267224682014",
+        "NOME": "Rua Mal. Deodoro, 527 - Centro",
+        "NUM": "110003",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431247786293",
+        "LON": "-49,269576114882",
+        "NOME": "Rua Mal. Deodoro, 314 - Centro",
+        "NUM": "110004",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42782",
+        "LON": "-49,26308",
+        "NOME": "Rua Quinze de Novembro, 1147 - Centro",
+        "NUM": "110073",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42702",
+        "LON": "-49,24972",
+        "NOME": "Rua Quinze de Novembro, 2493 - Alto da Rua XV",
+        "NUM": "130367",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428618074257",
+        "LON": "-49,226473749823",
+        "NOME": "Av. Victor Ferreira do Amaral, 2272 - Tarumã",
+        "NUM": "130029",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,415895009439",
+        "LON": "-49,202182148705",
+        "NOME": "Rua Epaminondas Santos, 2255 - Bairro Alto",
+        "NUM": "130382",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423281498976",
+        "LON": "-49,201611013359",
+        "NOME": "Rua José Veríssimo, 1312 - Bairro Alto",
+        "NUM": "130240",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41303",
+        "LON": "-49,20538",
+        "NOME": "Terminal Bairro Alto - 372 - Tarumã",
+        "NUM": "104003",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "30",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424217778594",
+        "LON": "-49,203291417307",
+        "NOME": "Rua Pedro Eloy da Souza, 1543 - Bairro Alto",
+        "NUM": "130242",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42749",
+        "LON": "-49,24403",
+        "NOME": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+        "NUM": "130366",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429249097155",
+        "LON": "-49,220429391808",
+        "NOME": "Av. Victor Ferreira do Amaral, 1468 - Tarumã",
+        "NUM": "130213",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,424526640262",
+        "LON": "-49,203316898293",
+        "NOME": "Rua Pedro Eloy da Souza, 1542 - Bairro Alto",
+        "NUM": "130243",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42732",
+        "LON": "-49,25479",
+        "NOME": "Rua Marechal Deodoro, 1884- Centro",
+        "NUM": "130371",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428147608557",
+        "LON": "-49,24519",
+        "NOME": "Rua Marechal Deodoro, 2812 - Centro",
+        "NUM": "130374",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422056936003",
+        "LON": "-49,199140698856",
+        "NOME": "Rua Epaminondas Santos, 2999 - Bairro Alto",
+        "NUM": "130377",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14476",
+        "LAT": "-25,41303",
+        "LON": "-49,20538",
+        "NOME": "Terminal Bairro Alto - 372 - Tarumã",
+        "NUM": "104003",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42695728244",
+        "LON": "-49,260966180391",
+        "NOME": "Rua Quinze de Novembro, 1367 -  Centro",
+        "NUM": "110072",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42644285432",
+        "LON": "-49,256413148479",
+        "NOME": "Rua Quinze de Novembro, 1855 - Alto da Rua XV",
+        "NUM": "110070",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427451702698",
+        "LON": "-49,23764515037",
+        "NOME": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+        "NUM": "130200",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430056946982",
+        "LON": "-49,212904454416",
+        "NOME": "Av. Victor Ferreira do Amaral, 2711 - Tarumã",
+        "NUM": "130217",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413157423637",
+        "LON": "-49,203719054471",
+        "NOME": "Rua Jornalista Alceu Chichorro, 444 - Bairro Alto",
+        "NUM": "130385",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419572645899",
+        "LON": "-49,200454981273",
+        "NOME": "Rua Epaminondas Santos, 2696 - Bairro Alto",
+        "NUM": "130379",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430684328868",
+        "LON": "-49,204006226009",
+        "NOME": "Rua Brasílio de Lara, 280 - Tarumã",
+        "NUM": "130249",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427823537848",
+        "LON": "-49,249283255285",
+        "NOME": "Rua Marechal Deodoro, 2374- Centro",
+        "NUM": "130373",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430262844872",
+        "LON": "-49,213757396883",
+        "NOME": "Av. Victor Ferreira do Amaral, 2712 - Capão da Imbuia",
+        "NUM": "130218",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429388548952",
+        "LON": "-49,261842698997",
+        "NOME": "Rua Benjamin Constant, 316 - Centro",
+        "NUM": "110077",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413104124889",
+        "LON": "-49,203865234862",
+        "NOME": "Rua Jornalista Alceu Chichorro, 425 - Bairro Alto",
+        "NUM": "130384",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417800544201",
+        "LON": "-49,201148332304",
+        "NOME": "Rua Epaminondas Santos, 2544 - Bairro Alto",
+        "NUM": "130380",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423411100857",
+        "LON": "-49,201568098015",
+        "NOME": "Rua José Veríssimo, 1313 - Bairro Alto",
+        "NUM": "130241",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42681",
+        "LON": "-49,25232",
+        "NOME": "Rua Quinze de Novembro, 2261 - Alto da Rua XV",
+        "NUM": "130368",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428392794649",
+        "LON": "-49,259401888794",
+        "NOME": "Rua Benjamin Constant, 481- Centro",
+        "NUM": "110078",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430942305414",
+        "LON": "-49,265317500776",
+        "NOME": "Rua José Loureiro, 161 - Centro",
+        "NUM": "110402",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427748444197",
+        "LON": "-49,237301827616",
+        "NOME": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+        "NUM": "130375",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426864273496",
+        "LON": "-49,202375442928",
+        "NOME": "Rua Visconde de Abaeté, 237 - Bairro Alto",
+        "NUM": "130245",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428119067247",
+        "LON": "-49,204321385569",
+        "NOME": "Rua Brasílio de Lara, 1 - Bairro Alto",
+        "NUM": "130246",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42664",
+        "LON": "-49,25423",
+        "NOME": "Rua Quinze de Novembro, 2097 - Alto da Rua XV",
+        "NUM": "130369",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428962048761",
+        "LON": "-49,223138422913",
+        "NOME": "Av. Victor Ferreira do Amaral, 1858 - Tarumã",
+        "NUM": "130211",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430593491925",
+        "LON": "-49,20780289287",
+        "NOME": "Rua Vitor Ferreira do Amaral, 474 - Tarumã",
+        "NUM": "130266",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,431968150347",
+        "LON": "-49,267909855789",
+        "NOME": "Rua José Loureiro, 274 - Centro",
+        "NUM": "110200",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "2",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428080309334",
+        "LON": "-49,234032214827",
+        "NOME": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+        "NUM": "130203",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428805806942",
+        "LON": "-49,227049083656",
+        "NOME": "Av. Victor Ferreira do Amaral, 2405 - Tarumã",
+        "NUM": "130210",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427524374154",
+        "LON": "-49,256165803617",
+        "NOME": "Rua Sete de Abril, 476 - Alto da Rua XV",
+        "NUM": "130902",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,430542623207",
+        "LON": "-49,203904302067",
+        "NOME": "Rua Brasílio de Lara, 281 - Tarumã",
+        "NUM": "130248",
+        "SENTIDO": "Bairro Alto",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,432935852023",
+        "LON": "-49,270525009579",
+        "NOME": "Praça Carlos Gomes - 372 - Tarumã",
+        "NUM": "103203",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,427844128035",
+        "LON": "-49,23368218655",
+        "NOME": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+        "NUM": "130869",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417893813361",
+        "LON": "-49,201232821888",
+        "NOME": "Rua Epaminondas Santos, 2543 - Bairro Alto",
+        "NUM": "130381",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42217200427",
+        "LON": "-49,199223847336",
+        "NOME": "Rua Epaminondas Santos, 2998 - Bairro Alto",
+        "NUM": "130376",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428197794218",
+        "LON": "-49,204470248169",
+        "NOME": "Rua Brasílio de Lara, 2 - Bairro Alto",
+        "NUM": "130247",
+        "SENTIDO": "Praça Carlos Gomes",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    }
+]

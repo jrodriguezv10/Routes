@@ -1,0 +1,542 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,419360518745",
+        "LON": "-49,276196351248",
+        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
+        "NUM": "110010",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387754110076",
+        "LON": "-49,282961805559",
+        "NOME": "R. Amauri Lange Silvério, 1167 - Pilarzinho",
+        "NUM": "120068",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428254719843",
+        "LON": "-49,272499115414",
+        "NOME": "Nestor de Castro - 170 - Bracatinga",
+        "NUM": "101126",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39685",
+        "LON": "-49,28791",
+        "NOME": "R. Des. Hugo Simas, 2796 - Pilarzinho",
+        "NUM": "120030",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38031",
+        "LON": "-49,29981",
+        "NOME": "Rua Otalino Amado de Souza, 23 - Pilarzinho",
+        "NUM": "120318",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385059983367",
+        "LON": "-49,284823906746",
+        "NOME": "Rua Domingos Antônio Moro, 93 - Pilarzinho",
+        "NUM": "120328",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425880768114",
+        "LON": "-49,273237735299",
+        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
+        "NUM": "110018",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402873634315",
+        "LON": "-49,282577055225",
+        "NOME": "R. Des. Hugo Simas, 1856 - Bom Retiro",
+        "NUM": "120334",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381670814559",
+        "LON": "-49,300806196924",
+        "NOME": "Rua Otalino Amado de Souza, 1 - Pilarzinho",
+        "NUM": "120317",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383567899837",
+        "LON": "-49,291065976686",
+        "NOME": "Av. Fredolin Wolf, 438 - São João",
+        "NUM": "120321",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,384330307006",
+        "LON": "-49,285894139881",
+        "NOME": "Rua Domingos Antônio Moro, 296 - Pilarzinho",
+        "NUM": "120326",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40098665206",
+        "LON": "-49,28516",
+        "NOME": "R. Des. Hugo Simas, 2300 - Bom Retiro",
+        "NUM": "120333",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,418897448474",
+        "LON": "-49,274503386745",
+        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
+        "NUM": "110008",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380907024363",
+        "LON": "-49,296690028276",
+        "NOME": "Rua José Ribeiro de Cristo, 311 - Pilarzinho",
+        "NUM": "120606",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,385005460591",
+        "LON": "-49,284676355819",
+        "NOME": "Rua Domingos Antônio Moro, 93 - Pilarzinho",
+        "NUM": "120329",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3992567165",
+        "LON": "-49,287323906746",
+        "NOME": "R. Des. Hugo Simas, 2496 - Pilarzinho",
+        "NUM": "120330",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413777398895",
+        "LON": "-49,279280233135",
+        "NOME": "R. Des. Hugo Simas, 566 - Bom Retiro",
+        "NUM": "120341",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426928549988",
+        "LON": "-49,271383145224",
+        "NOME": "Rua Treze de Maio, 503 - São Francisco",
+        "NUM": "110187",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40461033176",
+        "LON": "-49,282540845404",
+        "NOME": "R. Des. Hugo Simas, 1637 - Pilarzinho",
+        "NUM": "120335",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41624",
+        "LON": "-49,27914",
+        "NOME": "R. Des. Hugo Simas, 259 - Bom Retiro",
+        "NUM": "110129",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38626",
+        "LON": "-49,28241",
+        "NOME": "R. Amauri Lange Silvério, 1418 - Pilarzinho",
+        "NUM": "120609",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407465130375",
+        "LON": "-49,283061720238",
+        "NOME": "R. Des. Hugo Simas, 1299 - Bom Retiro",
+        "NUM": "120337",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383263929607",
+        "LON": "-49,288223907352",
+        "NOME": "Av. Fredolin Wolf, 64 - Pilarzinho",
+        "NUM": "120717",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381670814559",
+        "LON": "-49,300806196924",
+        "NOME": "Rua Otalino Amado de Souza, 1 - Pilarzinho",
+        "NUM": "120317",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423648628482",
+        "LON": "-49,273810148865",
+        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
+        "NUM": "110201",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "3",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38812161599",
+        "LON": "-49,282947301204",
+        "NOME": "R. Amauri Lange Silvério, 1168 - Pilarzinho",
+        "NUM": "120069",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383203941822",
+        "LON": "-49,288326763806",
+        "NOME": "Av. Fredolin Wolf, 64 - Pilarzinho",
+        "NUM": "120322",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383240322965",
+        "LON": "-49,293051224537",
+        "NOME": "Av. Fredolin Wolf, 592 - São João",
+        "NUM": "120320",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399380329607",
+        "LON": "-49,287374868717",
+        "NOME": "R. Des. Hugo Simas, 2495 - Pilarzinho",
+        "NUM": "120331",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417483943543",
+        "LON": "-49,27734842576",
+        "NOME": "R. Des. Hugo Simas, 47 - São Francisco",
+        "NUM": "110130",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390875329296",
+        "LON": "-49,283135317028",
+        "NOME": "R. Amauri Lange Silvério, 828 - Pilarzinho",
+        "NUM": "120043",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383430646107",
+        "LON": "-49,291288366899",
+        "NOME": "Av. Fredolin Wolf, 448 - São João",
+        "NUM": "120608",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4242957772",
+        "LON": "-49,274190974187",
+        "NOME": "Rua Trajano Reis, 296 - São Francisco",
+        "NUM": "110133",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421002030135",
+        "LON": "-49,275024597388",
+        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
+        "NUM": "110011",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,390591148156",
+        "LON": "-49,283552228243",
+        "NOME": "Rua Amauri Lange Silvério, 900 - Pilarzinho",
+        "NUM": "120067",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380972438608",
+        "LON": "-49,296646093254",
+        "NOME": "Rua José Ribeiro de Cristo, 311 - Pilarzinho",
+        "NUM": "120319",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393232978631",
+        "LON": "-49,283519018476",
+        "NOME": "R. P-min. Brochado da Rocha, 1186 - Pilarzinho",
+        "NUM": "120042",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380601840251",
+        "LON": "-49,299458775463",
+        "NOME": "Rua José Izidoro Filho, 22 - Pilarzinho",
+        "NUM": "120605",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "26",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,417176393405",
+        "LON": "-49,274231953373",
+        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
+        "NUM": "110131",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,394948890099",
+        "LON": "-49,28534879971",
+        "NOME": "R. Amauri Lange Silvério, 231 - Pilarzinho",
+        "NUM": "120033",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382745007551",
+        "LON": "-49,293668590178",
+        "NOME": "Rua José Ribeiro de Cristo, 1-119 - Pilarzinho",
+        "NUM": "120607",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,420759757556",
+        "LON": "-49,274627328935",
+        "NOME": "Rua Trajano Reis, 732 - São Francisco",
+        "NUM": "110006",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428254719843",
+        "LON": "-49,272499115414",
+        "NOME": "Nestor de Castro - 170 - Bracatinga",
+        "NUM": "101126",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397184209268",
+        "LON": "-49,287880728836",
+        "NOME": "R. Des. Hugo Simas, 2672 - Pilarzinho",
+        "NUM": "120024",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383666028051",
+        "LON": "-49,286452709331",
+        "NOME": "Rua Domingos Antônio Moro, 314 - Pilarzinho",
+        "NUM": "120327",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409717552459",
+        "LON": "-49,281923906746",
+        "NOME": "R. Des. Hugo Simas, 1110 - Bom Retiro",
+        "NUM": "120338",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382329755401",
+        "LON": "-49,300468862057",
+        "NOME": "Rua Lilian Júlia de Oliveira, 23 - Pilarzinho",
+        "NUM": "120716",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "27",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393425442425",
+        "LON": "-49,283993630137",
+        "NOME": "R. Amauri Lange Silvério, 00511 - Pilarzinho",
+        "NUM": "120041",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409966959138",
+        "LON": "-49,281960379133",
+        "NOME": "R. Des. Hugo Simas, 961 - Bom Retiro",
+        "NUM": "120339",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413951185123",
+        "LON": "-49,279377084656",
+        "NOME": "R. Des. Hugo Simas, 581 - Bom Retiro",
+        "NUM": "120340",
+        "SENTIDO": "Nestor de Castro",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,395020632843",
+        "LON": "-49,285214765023",
+        "NOME": "R. Amauri Lange Silvério, 232 - Pilarzinho",
+        "NUM": "120032",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400776079146",
+        "LON": "-49,285298046627",
+        "NOME": "R. Des. Hugo Simas, 2300 - Bom Retiro",
+        "NUM": "120332",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406913634193",
+        "LON": "-49,282782215939",
+        "NOME": "R. Des. Hugo Simas, 1450 - Bom Retiro",
+        "NUM": "120336",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41498",
+        "LON": "-49,27676",
+        "NOME": "R. Teffé, 284 - Bom Retiro",
+        "NUM": "110132",
+        "SENTIDO": "Bracatinga",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    }
+]

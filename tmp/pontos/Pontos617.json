@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565768000596",
+        "LON": "-49,314858584461",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1010 - Tatuquara",
+        "NUM": "170511",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567370401067",
+        "LON": "-49,315093606711",
+        "NOME": "Rua Antônio Zanon, 355 - Tatuquara",
+        "NUM": "170513",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "19",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562511181011",
+        "LON": "-49,315381615219",
+        "NOME": "Estrada Delegado Bruno de Almeida, 408 - Tatuquara",
+        "NUM": "170507",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575475662638",
+        "LON": "-49,338499903679",
+        "NOME": "Rua Jorn. Emílio Zola Florenzano, 300 - Tatuquara",
+        "NUM": "170488",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "30",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575122429838",
+        "LON": "-49,331259280443",
+        "NOME": "R. Guilherme Nizer, 520 - Tatuquara",
+        "NUM": "171013",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "33",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512805675291",
+        "LON": "-49,295301631947",
+        "NOME": "Terminal Pinheirinho -  617 - Jardim Ludovica",
+        "NUM": "105740",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572654875098",
+        "LON": "-49,337628514713",
+        "NOME": "Rua Odir Gomes da Rocha, 396 - Tatuquara",
+        "NUM": "170485",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568611630429",
+        "LON": "-49,319995343685",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170516",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57314217637",
+        "LON": "-49,327252186508",
+        "NOME": "Rua Presidente João Goulart, 837 - Tatuquara",
+        "NUM": "170520",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,574113533154",
+        "LON": "-49,329463541507",
+        "NOME": "Rua Odir Gomes da Rocha, 1236 - Tatuquara",
+        "NUM": "170479",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512805675291",
+        "LON": "-49,295301631947",
+        "NOME": "Terminal Pinheirinho -  617 - Jardim Ludovica",
+        "NUM": "105740",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564127503731",
+        "LON": "-49,315480856953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 668 - Tatuquara",
+        "NUM": "170509",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573390122385",
+        "LON": "-49,332679510117",
+        "NOME": "Rua Odir Gomes da Rocha, 885 - Tatuquara",
+        "NUM": "170480",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "26",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573642009149",
+        "LON": "-49,332666428036",
+        "NOME": "Rua Odir Gomes da Rocha, 882 - Tatuquara",
+        "NUM": "170481",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,567449036837",
+        "LON": "-49,315097630024",
+        "NOME": "Rua Antônio Zanon, 220 - Tatuquara",
+        "NUM": "170514",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573029890218",
+        "LON": "-49,33494094128",
+        "NOME": "Rua Odir Gomes da Rocha, 545 - Tatuquara",
+        "NUM": "170482",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566688082371",
+        "LON": "-49,317321181297",
+        "NOME": "Rua Antônio Zanon, 55 - Tatuquara",
+        "NUM": "170710",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57309495018",
+        "LON": "-49,338639378548",
+        "NOME": "Rua Enete Dubard, 1540 - Tatuquara",
+        "NUM": "170486",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56980419514",
+        "LON": "-49,323362069941",
+        "NOME": "Rua Presidente João Goulart, 263 - Tatuquara",
+        "NUM": "170518",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570775970398",
+        "LON": "-49,325104635582",
+        "NOME": "Rua Presidente João Goulart, 545 - Tatuquara",
+        "NUM": "170519",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575122429838",
+        "LON": "-49,331259280443",
+        "NOME": "R. Guilherme Nizer, 520 - Tatuquara",
+        "NUM": "171013",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566809061147",
+        "LON": "-49,316865205765",
+        "NOME": "Rua Antônio Zanon, 2 - Tatuquara",
+        "NUM": "170711",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,576353901317",
+        "LON": "-49,333189129829",
+        "NOME": "R. Jorn. Emílio Zolá Florenzano, 801 - Tatuquara",
+        "NUM": "171011",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572492771424",
+        "LON": "-49,337212772316",
+        "NOME": "Rua Odir Gomes da Rocha, 399 - Tatuquara",
+        "NUM": "170484",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568548722428",
+        "LON": "-49,320102632046",
+        "NOME": "Rua Antônio Zanon, 521 - Tatuquara",
+        "NUM": "170515",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "21",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570792985193",
+        "LON": "-49,325175597553",
+        "NOME": "Rua Presidente João Goulart, 566 - Tatuquara",
+        "NUM": "170733",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "23",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573204273608",
+        "LON": "-49,32746682209",
+        "NOME": "Rua Presidente João Goulart, 846 - Tatuquara",
+        "NUM": "170734",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569741549285",
+        "LON": "-49,323425889015",
+        "NOME": "Rua Presidente João Goulart, 264 - Tatuquara",
+        "NUM": "170980",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,576211157728",
+        "LON": "-49,335469007492",
+        "NOME": "Rua Jorn. Emílio Zola Florenzano, 552 - Tatuquara",
+        "NUM": "170595",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "31",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56250876135",
+        "LON": "-49,315252869187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 367 - Tatuquara",
+        "NUM": "170508",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575243400092",
+        "LON": "-49,338473081589",
+        "NOME": "Rua Jorn. Emílio Zola Florenzano, 335 - Tatuquara",
+        "NUM": "170489",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573844976489",
+        "LON": "-49,32951182127",
+        "NOME": "Rua Odir Gomes da Rocha, 1241 - Tatuquara",
+        "NUM": "170478",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,576547451674",
+        "LON": "-49,333328604698",
+        "NOME": "R. Jorn. Emílio Zolá Florenzano, 778 - Tatuquara",
+        "NUM": "171012",
+        "SENTIDO": "Jd. Ludovica",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521965671042",
+        "LON": "-49,294471516533",
+        "NOME": "Rodovia BR476, 19401 - Pinheirinho",
+        "NUM": "150334",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573303287598",
+        "LON": "-49,334881932682",
+        "NOME": "Rua Odir Gomes da Rocha, 542 - Tatuquara",
+        "NUM": "170483",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575983735387",
+        "LON": "-49,335442185402",
+        "NOME": "Rua Jorn. Emílio Zola Florenzano, 543 - Tatuquara",
+        "NUM": "170596",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573107047416",
+        "LON": "-49,338491857052",
+        "NOME": "Rua Enete Dubard, 1555 - Tatuquara",
+        "NUM": "170487",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

@@ -1,0 +1,2382 @@
+[
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "5",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "35",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51645008559",
+        "LON": "-49,2302453297",
+        "NOME": "Terminal Boqueirão - 602 - Circular Sul (AH)",
+        "NUM": "104304",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "8",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "37",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "32",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "35",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,47637224",
+        "LON": "-49,29260731",
+        "NOME": "Terminal Portão - 203 - Sta. Cândida / C. Raso - Pinheirinho / Rui Barbosa-Circular Sul (H)",
+        "NUM": "105801",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "41",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "37",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "32",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "35",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "37",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "37",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,47637224",
+        "LON": "-49,29260731",
+        "NOME": "Terminal Portão - 203 - Sta. Cândida / C. Raso - Pinheirinho / Rui Barbosa-Circular Sul (H)",
+        "NUM": "105801",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "35",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14499",
+        "LAT": "-25,47637224",
+        "LON": "-49,29260731",
+        "NOME": "Terminal Portão - 203 - Sta. Cândida / C. Raso - Pinheirinho / Rui Barbosa-Circular Sul (H)",
+        "NUM": "105801",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "38",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41834",
+        "LAT": "-25,534530536403",
+        "LON": "-49,282620475113",
+        "NOME": "Estação Tubo Arroio Cercado",
+        "NUM": "108130",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "31",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "2",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43341",
+        "LAT": "-25,512537136858",
+        "LON": "-49,23218524457",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108096",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "35",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "34",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "34",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47579",
+        "LAT": "-25,476504590611",
+        "LON": "-49,280131176374",
+        "NOME": "Estação Tubo Dom Ático",
+        "NUM": "108120",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "3",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "6",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14600",
+        "LAT": "-25,469295510447",
+        "LON": "-49,253855377784",
+        "NOME": "Estação Marechal Floriano",
+        "NUM": "108212",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481479933039",
+        "LON": "-49,247275209369",
+        "NOME": "Terminal Hauer - 502 - Circular Sul (H) - 503-Boqueirão",
+        "NUM": "105502",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "28",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,500777281906",
+        "LON": "-49,237867504368",
+        "NOME": "Terminal Carmo - 502 - Circular Sul (H) / 503 - Boqueirão",
+        "NUM": "104902",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "38",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41840",
+        "LAT": "-25,529811002796",
+        "LON": "-49,2501858626",
+        "NOME": "Estação Tubo Euclides da Cunha",
+        "NUM": "108101",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "38",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14492",
+        "LAT": "-25,534235490759",
+        "LON": "-49,267367711564",
+        "NOME": "Terminal Sítio Cercado - 502 - Circular Sul (Horário)",
+        "NUM": "106101",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47565",
+        "LAT": "-25,475016633746",
+        "LON": "-49,274071283898",
+        "NOME": "Estação Tubo Antero de Quental",
+        "NUM": "108118",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47555",
+        "LAT": "-25,477724967853",
+        "LON": "-49,285127796492",
+        "NOME": "Estação Tubo Wenceslau Braz",
+        "NUM": "108122",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26122",
+        "LAT": "-25,481070736737",
+        "LON": "-49,29250832943",
+        "NOME": "Estação Tubo Itajubá",
+        "NUM": "108051",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26103",
+        "LAT": "-25,495565971686",
+        "LON": "-49,29443158251",
+        "NOME": "Estação Tubo Pedro Gusso",
+        "NUM": "108058",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "38",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43335",
+        "LAT": "-25,507286589564",
+        "LON": "-49,234748408615",
+        "NOME": "Estação Tubo Quartel",
+        "NUM": "108094",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "26",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43342",
+        "LAT": "-25,511499875429",
+        "LON": "-49,232588239273",
+        "NOME": "Estação Tubo Antônio de Paula",
+        "NUM": "108095",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26111",
+        "LAT": "-25,487780521135",
+        "LON": "-49,2942378877",
+        "NOME": "Estação Tubo Herculano de Araújo",
+        "NUM": "108056",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "38",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41837",
+        "LAT": "-25,532470906368",
+        "LON": "-49,261822626411",
+        "NOME": "Estação Tubo Coqueiros",
+        "NUM": "108097",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43346",
+        "LAT": "-25,48696732168",
+        "LON": "-49,244694039642",
+        "NOME": "Estação Tubo Passarela",
+        "NUM": "108088",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43348",
+        "LAT": "-25,476966162099",
+        "LON": "-49,249580033383",
+        "NOME": "Estação Tubo Pádua Fleury",
+        "NUM": "108086",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "26090",
+        "LAT": "-25,503465274446",
+        "LON": "-49,295918867409",
+        "NOME": "Estação Tubo Santa Regina",
+        "NUM": "108062",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "25",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "30",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "14",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14489",
+        "LAT": "-25,51661831653",
+        "LON": "-49,230300314985",
+        "NOME": "Terminal Boqueirão - 502 - Circular Sul (H)",
+        "NUM": "104301",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "32",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41829",
+        "LAT": "-25,527906194845",
+        "LON": "-49,291356779895",
+        "NOME": "Estação Tubo Sagrado Coração",
+        "NUM": "108126",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26100",
+        "LAT": "-25,499475703368",
+        "LON": "-49,295950062833",
+        "NOME": "Estação Tubo José C.Bettega",
+        "NUM": "108060",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41842",
+        "LAT": "-25,528838029705",
+        "LON": "-49,245926514685",
+        "NOME": "Estação Tubo Eucaliptos",
+        "NUM": "108103",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "47553",
+        "LAT": "-25,472663886841",
+        "LON": "-49,264411755165",
+        "NOME": "Estação Tubo Marumbi",
+        "NUM": "108114",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43327",
+        "LAT": "-25,526481804713",
+        "LON": "-49,236115344128",
+        "NOME": "Estação Tubo Araça",
+        "NUM": "108107",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "33",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41827",
+        "LAT": "-25,520710249718",
+        "LON": "-49,295453854165",
+        "NOME": "Estação Tubo Winston Churchill",
+        "NUM": "108124",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "40",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26116",
+        "LAT": "-25,484422475285",
+        "LON": "-49,293689619014",
+        "NOME": "Estação Tubo Hospital do Trabalhador",
+        "NUM": "108053",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "8",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43350",
+        "LAT": "-25,473354043681",
+        "LON": "-49,25133409788",
+        "NOME": "Estação Tubo Roberto Hauer",
+        "NUM": "108083",
+        "SENTIDO": "Terminal Portão",
+        "SEQ": "17",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43339",
+        "LAT": "-25,496209215173",
+        "LON": "-49,240180131692",
+        "NOME": "Estação Tubo  Cel. Luiz José dos Santos",
+        "NUM": "108092",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43324",
+        "LAT": "-25,527600018954",
+        "LON": "-49,240774341187",
+        "NOME": "Estação Tubo Nova Europa",
+        "NUM": "108105",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "29",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492346795691",
+        "LON": "-49,293421025236",
+        "NOME": "Terminal Capão Raso - 502 - Circular Sul (H) - 603-Pinheirinho",
+        "NUM": "104804",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "37",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "47577",
+        "LAT": "-25,474024450489",
+        "LON": "-49,269980691632",
+        "NOME": "Estação Tubo Lindóia",
+        "NUM": "108116",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41804",
+        "LAT": "-25,521091478625",
+        "LON": "-49,228039212784",
+        "NOME": "Estação Tubo Parque Iguaçú",
+        "NUM": "108111",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "9",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "26050",
+        "LAT": "-25,507663079232",
+        "LON": "-49,295812920153",
+        "NOME": "Estação Tubo Ouro Verde",
+        "NUM": "108064",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "24",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41835",
+        "LAT": "-25,535704340284",
+        "LON": "-49,274915829718",
+        "NOME": "Estação Tubo Quitandinha",
+        "NUM": "108132",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "18",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43329",
+        "LAT": "-25,525255871715",
+        "LON": "-49,231059030115",
+        "NOME": "Estação Tubo Erton Coelho",
+        "NUM": "108109",
+        "SENTIDO": "Terminal Boqueirão",
+        "SEQ": "10",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "43343",
+        "LAT": "-25,490730975301",
+        "LON": "-49,242867805323",
+        "NOME": "Estação Tubo Hipólito da Costa",
+        "NUM": "108090",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "36",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41831",
+        "LAT": "-25,53071498938",
+        "LON": "-49,287633523762",
+        "NOME": "Estação Tubo Rosa Tortato",
+        "NUM": "108128",
+        "SENTIDO": "Terminal Sitio Cercado",
+        "SEQ": "13",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "41777",
+        "LAT": "-25,531111918418",
+        "LON": "-49,255624391398",
+        "NOME": "Estação Tubo Érico Veríssimo",
+        "NUM": "108099",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "39",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512702792669",
+        "LON": "-49,295566506944",
+        "NOME": "Terminal Pinheirinho - 502 - Circular Sul (Horário)",
+        "NUM": "105702",
+        "SENTIDO": "Horário Circular",
+        "SEQ": "7",
+        "TIPO": "Plataforma"
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,48644",
+        "LON": "-49,25571",
+        "NOME": "Rua Waldemar Kost, 1691 - Hauer",
+        "NUM": "150206",
+        "SENTIDO": "Itamarati",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517899615445",
+        "LON": "-49,266568629977",
+        "NOME": "Rua Vereador Aurelino Mader Gonçalves, 397 - Xaxim",
+        "NUM": "150401",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518313405622",
+        "LON": "-49,26342221622",
+        "NOME": "Rua Professor João Ducke Filho, 1 - Xaxim",
+        "NUM": "150403",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508635133856",
+        "LON": "-49,26815216603",
+        "NOME": "Rua Constantino José de Almeida, 125 - Xaxim",
+        "NUM": "150397",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505870374606",
+        "LON": "-49,265450999207",
+        "NOME": "Rua Cel. Luiz José dos Santos, 3956 - Xaxim",
+        "NUM": "150404",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498122738426",
+        "LON": "-49,262399047405",
+        "NOME": "Rua Catarina Gabardo, 401 - Xaxim",
+        "NUM": "150392",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49350019329",
+        "LON": "-49,260205856194",
+        "NOME": "Rua Humberto Cicarino, 180 - Boqueirão",
+        "NUM": "150408",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48322",
+        "LON": "-49,25275",
+        "NOME": "Rua Alcíno Guanabara, 1237 - Hauer",
+        "NUM": "150203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Itamarati",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517421516618",
+        "LON": "-49,261359240284",
+        "NOME": "Rua David Tows, 535- Xaxim",
+        "NUM": "150402",
+        "SENTIDO": "Itamarati",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513997956247",
+        "LON": "-49,26712524785",
+        "NOME": "R. Waldemar Loureiro Campos, 5088 - Xaxim",
+        "NUM": "150323",
+        "SENTIDO": "Itamarati",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492413000217",
+        "LON": "-49,259629387732",
+        "NOME": "Rua Evaristo da Veiga, 2422 - Boqueirão",
+        "NUM": "150213",
+        "SENTIDO": "Itamarati",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510728358668",
+        "LON": "-49,267650693655",
+        "NOME": "Rua Constantino José de Almeida, 261 - Xaxim",
+        "NUM": "150756",
+        "SENTIDO": "Itamarati",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507010096485",
+        "LON": "-49,265610873699",
+        "NOME": "Rua Leôncio Lopes Cortiano, 665 - Xaxim",
+        "NUM": "150754",
+        "SENTIDO": "Itamarati",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482000138562",
+        "LON": "-49,246697605795",
+        "NOME": "Terminal Hauer - 512 - Itamarati/516-Canal Belém/Salgado Filho",
+        "NUM": "105507",
+        "SENTIDO": "Itamarati",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517716356902",
+        "LON": "-49,263578863125",
+        "NOME": "Rua João Kasdorf, 1 - Xaxim",
+        "NUM": "150776",
+        "SENTIDO": "Itamarati",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490002589564",
+        "LON": "-49,255755380403",
+        "NOME": "Rua Paulo Setúbal, 1242 - Boqueirão",
+        "NUM": "150209",
+        "SENTIDO": "Itamarati",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493568617895",
+        "LON": "-49,260307551112",
+        "NOME": "Rua Humberto Cicarino, 179 - Boqueirão",
+        "NUM": "150409",
+        "SENTIDO": "Itamarati",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504317973012",
+        "LON": "-49,264953148479",
+        "NOME": "Rua Francisco Derosso, 1616 - Xaxim",
+        "NUM": "150082",
+        "SENTIDO": "Itamarati",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486548891676",
+        "LON": "-49,255632757745",
+        "NOME": "Rua Waldemar Kost, 1676 - Hauer",
+        "NUM": "150390",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512119049621",
+        "LON": "-49,267156995802",
+        "NOME": "Rua Constantino José de Almeida, 549 - Xaxim",
+        "NUM": "150399",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501363053737",
+        "LON": "-49,26599317791",
+        "NOME": "Rua Francisco Derosso, 1253 - Xaxim",
+        "NUM": "150081",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507229176973",
+        "LON": "-49,265809357166",
+        "NOME": "Rua Leôncio Lopes Cortiano, 606 - Xaxim",
+        "NUM": "150395",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Itamarati",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507730595935",
+        "LON": "-49,267456445857",
+        "NOME": "Rua Leôncio Lopes Cortiano, 866 - Xaxim",
+        "NUM": "150755",
+        "SENTIDO": "Itamarati",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508679390206",
+        "LON": "-49,268259680919",
+        "NOME": "Rua Constantino José de Almeida, 124 - Xaxim",
+        "NUM": "150644",
+        "SENTIDO": "Itamarati",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512073725021",
+        "LON": "-49,267263179231",
+        "NOME": "Rua Constantino José de Almeida, 550 - Xaxim",
+        "NUM": "150757",
+        "SENTIDO": "Itamarati",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498903231799",
+        "LON": "-49,267128769552",
+        "NOME": "Rua Dom José Marello, 18 - Xaxim",
+        "NUM": "150405",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498177130745",
+        "LON": "-49,26504490683",
+        "NOME": "Rua Vereador Osvaldo Nascimento Bittencourt, 89 - Xaxim",
+        "NUM": "150406",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49139305233",
+        "LON": "-49,256605743551",
+        "NOME": "Rua Evaristo da Veiga, 2205 - Boqueirão",
+        "NUM": "150212",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494429848743",
+        "LON": "-49,262765049934",
+        "NOME": "Rua Antônio Rebelato, 839 - Xaxim",
+        "NUM": "150407",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491399420688",
+        "LON": "-49,257001836805",
+        "NOME": "Rua Evaristo da Veiga, 2162 - Boqueirão",
+        "NUM": "150211",
+        "SENTIDO": "Itamarati",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516081318408",
+        "LON": "-49,267099165287",
+        "NOME": "Rua Vereador Aurelino Mader Gonçalves, 161 - Xaxim",
+        "NUM": "150400",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517421516618",
+        "LON": "-49,261359240284",
+        "NOME": "Rua David Tows, 535- Xaxim",
+        "NUM": "150402",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48184",
+        "LON": "-49,24937",
+        "NOME": "Rua Alcino Guanabara, 907 - Hauer",
+        "NUM": "150202",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49261",
+        "LON": "-49,25986",
+        "NOME": "Rua Evaristo da Veiga, 2517 - Boqueirão",
+        "NUM": "150214",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,510682365243",
+        "LON": "-49,267547428608",
+        "NOME": "Rua Constantino José de Almeida, 263 - Xaxim",
+        "NUM": "150398",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51611309869",
+        "LON": "-49,267196059227",
+        "NOME": "Rua Vereador Aurelino Mader Gonçalves, 162 - Xaxim",
+        "NUM": "150758",
+        "SENTIDO": "Itamarati",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494333007319",
+        "LON": "-49,262816011906",
+        "NOME": "Rua Antônio Rebelato, 856 - Xaxim",
+        "NUM": "150777",
+        "SENTIDO": "Itamarati",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482000138562",
+        "LON": "-49,246697605795",
+        "NOME": "Terminal Hauer - 512 - Itamarati/516-Canal Belém/Salgado Filho",
+        "NUM": "105507",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "27",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500425029096",
+        "LON": "-49,263072203094",
+        "NOME": "Rua Arcendino Rosa Neves, 222 - Xaxim",
+        "NUM": "150393",
+        "SENTIDO": "Itamarati",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507853633463",
+        "LON": "-49,267428719503",
+        "NOME": "Rua Leôncio Lopes Cortiano, 865 - Xaxim",
+        "NUM": "150396",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490024893716",
+        "LON": "-49,255573673611",
+        "NOME": "Rua Paulo Setúbal, 1241 - Boqueirão",
+        "NUM": "150210",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495922647644",
+        "LON": "-49,263025092105",
+        "NOME": "Rua Catarina Gabardo, 118 - Xaxim",
+        "NUM": "150752",
+        "SENTIDO": "Itamarati",
+        "SEQ": "11",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498174446827",
+        "LON": "-49,262502915996",
+        "NOME": "Rua Catarina Gabardo, 402 - Xaxim",
+        "NUM": "150753",
+        "SENTIDO": "Itamarati",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487495210595",
+        "LON": "-49,256958961086",
+        "NOME": "Rua Paulo Setúbal, 1016 - Hauer",
+        "NUM": "150207",
+        "SENTIDO": "Itamarati",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517934584528",
+        "LON": "-49,26664352417",
+        "NOME": "Rua Vereador Aurelino Mader Gonçalves, 398 - Xaxim",
+        "NUM": "150759",
+        "SENTIDO": "Itamarati",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501687891331",
+        "LON": "-49,26475122571",
+        "NOME": "Rua Herminia Zanetti, 83 - Xaxim",
+        "NUM": "150394",
+        "SENTIDO": "Itamarati",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4958684313",
+        "LON": "-49,26294236647",
+        "NOME": "Rua Catarina Gabardo, 117 - Xaxim",
+        "NUM": "150391",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50404",
+        "LON": "-49,26487",
+        "NOME": "Rua Francisco Derosso, 1619 - Xaxim",
+        "NUM": "150083",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,514176805527",
+        "LON": "-49,267328046627",
+        "NOME": "R. Waldemar Loureiro Campos, 5087 - Xaxim",
+        "NUM": "150322",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487299470558",
+        "LON": "-49,256896472387",
+        "NOME": "Rua Paulo Setúbal, 1017 - Hauer",
+        "NUM": "150208",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    }
+]

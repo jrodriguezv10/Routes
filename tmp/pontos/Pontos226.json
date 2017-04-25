@@ -1,0 +1,462 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,39171",
+        "LON": "-49,24366",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120223",
+        "SENTIDO": "Abaeté",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377451281829",
+        "LON": "-49,243689544751",
+        "NOME": "Rua Delegado Miguel Zacarias, 36 - Boa Vista",
+        "NUM": "120166",
+        "SENTIDO": "Abaeté",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383632652132",
+        "LON": "-49,246755665183",
+        "NOME": "Rua Carlota Straube de Araújo, 1736 - Boa Vista",
+        "NUM": "120572",
+        "SENTIDO": "Abaeté",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374644985336",
+        "LON": "-49,23954100055",
+        "NOME": "Rua Lourenço Volpi, 136- Santa Candida",
+        "NUM": "120173",
+        "SENTIDO": "Abaeté",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372106831526",
+        "LON": "-49,243410056353",
+        "NOME": "Rua Doutor Francisco Natel de Camargo, 211 - Santa Candida",
+        "NUM": "120576",
+        "SENTIDO": "Abaeté",
+        "SEQ": "18",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376371831246",
+        "LON": "-49,238806011914",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 401 - Santa Candida",
+        "NUM": "120172",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382672253369",
+        "LON": "-49,245587427703",
+        "NOME": "Rua Coronel Ari Pinho, 526 - Boa Vista",
+        "NUM": "120157",
+        "SENTIDO": "Abaeté",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39176",
+        "LON": "-49,24376",
+        "NOME": "Rua João Havro, 357 - Boa Vista",
+        "NUM": "120222",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377236221901",
+        "LON": "-49,240275724723",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 15 - Santa Candida",
+        "NUM": "120171",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378152753511",
+        "LON": "-49,24164719504",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 2-270 - Santa Candida",
+        "NUM": "120583",
+        "SENTIDO": "Abaeté",
+        "SEQ": "13",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,387161843411",
+        "LON": "-49,245212186508",
+        "NOME": "Rua Lodovico Geronazzo, 833 - Boa Vista",
+        "NUM": "120217",
+        "SENTIDO": "Abaeté",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379603882966",
+        "LON": "-49,246724020658",
+        "NOME": "Rua Marechal Anor Teixeira dos Santos, 655 - Boa Vista",
+        "NUM": "120162",
+        "SENTIDO": "Abaeté",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378946894926",
+        "LON": "-49,24503772317",
+        "NOME": "Rua Delegado Miguel Zacarias, 200 - Boa Vista",
+        "NUM": "120165",
+        "SENTIDO": "Abaeté",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368544376435",
+        "LON": "-49,245159095701",
+        "NOME": "Rua Amadeu Natal - Santa Candida",
+        "NUM": "120182",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,382626983452",
+        "LON": "-49,245711548661",
+        "NOME": "Rua Coronel Ari Pinho, 502 - Boa Vista",
+        "NUM": "120158",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377479593288",
+        "LON": "-49,243846240602",
+        "NOME": "Rua Delegado Miguel Zacarias, 1-69 - Boa Vista",
+        "NUM": "120167",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37203651315",
+        "LON": "-49,246098405706",
+        "NOME": "Rua Doutor Francisco Natel de Camargo, 1-73 - Santa Candida",
+        "NUM": "120577",
+        "SENTIDO": "Abaeté",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38598",
+        "LON": "-49,24697",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120214",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,370657531007",
+        "LON": "-49,245406345984",
+        "NOME": "Rua João Kania, 499 - Santa Candida",
+        "NUM": "120180",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383586610133",
+        "LON": "-49,24688575232",
+        "NOME": "Rua Carlota Straube de Araújo, 1239 - Boa Vista",
+        "NUM": "120156",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379168631855",
+        "LON": "-49,245348859416",
+        "NOME": "Rua Delegado Miguel Zacarias, 315 - Boa Vista",
+        "NUM": "120164",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39021",
+        "LON": "-49,24517",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1210 - Boa Vista",
+        "NUM": "120221",
+        "SENTIDO": "Abaeté",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373186776905",
+        "LON": "-49,244448318417",
+        "NOME": "Rua Doutor Francisco Natel de Camargo, 1-73 - Santa Candida",
+        "NUM": "120177",
+        "SENTIDO": "Abaeté",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24404",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1385 - Boa Vista",
+        "NUM": "120218",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,374634294551",
+        "LON": "-49,239739900843",
+        "NOME": "Rua Lourenço Volpi, 135 - Santa Candida",
+        "NUM": "120174",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369523003796",
+        "LON": "-49,243684016249",
+        "NOME": "Rua São Jerônimo da Serra, 1 - Santa Candida",
+        "NUM": "120181",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,376404995938",
+        "LON": "-49,238658710427",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 378 - Santa Candida",
+        "NUM": "120574",
+        "SENTIDO": "Abaeté",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38733",
+        "LON": "-49,24524",
+        "NOME": "Rua Lodovico Geronazzo, 833 - Boa Vista",
+        "NUM": "120216",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372046775722",
+        "LON": "-49,246271024164",
+        "NOME": "Rua Fernando de Noronha, 2111 - Santa Candida",
+        "NUM": "120179",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373283220312",
+        "LON": "-49,24149898243",
+        "NOME": "Rua Lourenço Volpi, 331 - Santa Candida",
+        "NUM": "120175",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,378037264678",
+        "LON": "-49,242315265856",
+        "NOME": "Rua Fernando de Noronha, 1302 - Santa Candida",
+        "NUM": "120169",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38997",
+        "LON": "-49,24512",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1211 - Boa Vista",
+        "NUM": "120220",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38883",
+        "LON": "-49,24387",
+        "NOME": "Rua Nossa Senhora de Nazaré, 1384 - Boa Vista",
+        "NUM": "120219",
+        "SENTIDO": "Abaeté",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38577",
+        "LON": "-49,24705",
+        "NOME": "Rua Lodovico Geronazzo, 1065 - Boa Vista",
+        "NUM": "120215",
+        "SENTIDO": "Abaeté",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,369464972445",
+        "LON": "-49,243620721583",
+        "NOME": "Rua São Jerônimo da Serra, 2 - Santa Candida",
+        "NUM": "120579",
+        "SENTIDO": "Abaeté",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393259115553",
+        "LON": "-49,240988775463",
+        "NOME": "Terminal Boa Vista - 226 - Abaeté",
+        "NUM": "104207",
+        "SENTIDO": "Abaeté",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380916348153",
+        "LON": "-49,247035820571",
+        "NOME": "Rua Professor Omar Gonçalves da Mota, 684 - Boa Vista",
+        "NUM": "120159",
+        "SENTIDO": "Abaeté",
+        "SEQ": "9",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37072208053",
+        "LON": "-49,245333447392",
+        "NOME": "Rua João Kania, 500 - Santa Candida",
+        "NUM": "120578",
+        "SENTIDO": "Abaeté",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14471",
+        "LAT": "-25,393259115553",
+        "LON": "-49,240988775463",
+        "NOME": "Terminal Boa Vista - 226 - Abaeté",
+        "NUM": "104207",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,368544376435",
+        "LON": "-49,245159095701",
+        "NOME": "Rua Amadeu Natal - Santa Candida",
+        "NUM": "120182",
+        "SENTIDO": "Abaeté",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377257391692",
+        "LON": "-49,240140194967",
+        "NOME": "Rua Engenheiro Luís Augusto Leão Fonógrafo, 2-270 - Santa Candida",
+        "NUM": "120170",
+        "SENTIDO": "Abaeté",
+        "SEQ": "14",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373122059431",
+        "LON": "-49,241549944401",
+        "NOME": "Rua Lourenço Volpi, 482 - Santa Candida",
+        "NUM": "120575",
+        "SENTIDO": "Abaeté",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,380978142724",
+        "LON": "-49,247085746772",
+        "NOME": "Rua Professor Omar Gonçalves da Mota, 683 - Boa Vista",
+        "NUM": "120160",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372147820603",
+        "LON": "-49,243332519467",
+        "NOME": "Rua Doutor Francisco Natel de Camargo, 144 - Santa Candida",
+        "NUM": "120176",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,379509771432",
+        "LON": "-49,246627018865",
+        "NOME": "Rua Marechal Anor Teixeira dos Santos, 578 - Boa Vista",
+        "NUM": "120163",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373244940224",
+        "LON": "-49,244343712265",
+        "NOME": "Rua Doutor Francisco Natel de Camargo, 2-74 - Santa Candida",
+        "NUM": "120178",
+        "SENTIDO": "Terminal Boa Vista",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    }
+]

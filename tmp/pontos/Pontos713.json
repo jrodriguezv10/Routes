@@ -1,0 +1,182 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,4911614211",
+        "LON": "-49,328305760119",
+        "NOME": "Rua Alcir Martins Bastos, 1035 - Fazendinha",
+        "NUM": "180442",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479890921671",
+        "LON": "-49,324250997252",
+        "NOME": "R. Gen. Potiguara, 2802 - Fazendinha",
+        "NUM": "180099",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489045688349",
+        "LON": "-49,327176611212",
+        "NOME": "Rua Alcir Martins Bastos, 761 - Fazendinha",
+        "NUM": "180762",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "8",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489113480337",
+        "LON": "-49,327055911807",
+        "NOME": "Rua Alcir Martins Bastos, 762 - Fazendinha",
+        "NUM": "180441",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482894616881",
+        "LON": "-49,323782275704",
+        "NOME": "Rua Martins Fontes, 230 - Fazendinha",
+        "NUM": "180437",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487197131367",
+        "LON": "-49,326072882203",
+        "NOME": "Rua Alcir Martins Bastos, 762 - Fazendinha",
+        "NUM": "180761",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4911614211",
+        "LON": "-49,328305760119",
+        "NOME": "Rua Alcir Martins Bastos, 1035 - Fazendinha",
+        "NUM": "180442",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48112700301",
+        "LON": "-49,324255020565",
+        "NOME": "Avenida Frederico Lambertuci, 148 - Fazendinha",
+        "NUM": "180143",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485589456862",
+        "LON": "-49,325075100449",
+        "NOME": "Rua Alcir Martins Bastos, 377 - Fazendinha",
+        "NUM": "180760",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "6",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482981782462",
+        "LON": "-49,323884199647",
+        "NOME": "Rua Martins Fontes, 232 - Fazendinha",
+        "NUM": "180758",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "4",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481216591174",
+        "LON": "-49,324571521229",
+        "NOME": "Avenida Frederico Lambertuci, 149 - Fazendinha",
+        "NUM": "180144",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483916387219",
+        "LON": "-49,323860059766",
+        "NOME": "Rua Alcir Martins Bastos, 151- Fazendinha",
+        "NUM": "180438",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479756537919",
+        "LON": "-49,324103475756",
+        "NOME": "R. Gen. Potiguara, 2803 - Fazendinha",
+        "NUM": "180142",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483916387219",
+        "LON": "-49,323860059766",
+        "NOME": "Rua Alcir Martins Bastos, 151- Fazendinha",
+        "NUM": "180438",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477342783122",
+        "LON": "-49,327058309193",
+        "NOME": "Terminal Fazendinha - 713 - Santa Amélia",
+        "NUM": "105313",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485766205262",
+        "LON": "-49,324954401044",
+        "NOME": "Rua Alcir Martins Bastos, 378- Fazendinha",
+        "NUM": "180439",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487239502016",
+        "LON": "-49,325922678498",
+        "NOME": "Rua Alcir Martins Bastos, 761 - Fazendinha",
+        "NUM": "180440",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477342783122",
+        "LON": "-49,327058309193",
+        "NOME": "Terminal Fazendinha - 713 - Santa Amélia",
+        "NUM": "105313",
+        "SENTIDO": "Sta Amélia",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    }
+]

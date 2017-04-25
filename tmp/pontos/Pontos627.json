@@ -1,0 +1,792 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,523540737703",
+        "LON": "-49,333980710453",
+        "NOME": "Rua Vicente Micheloto, 1224 - Cidade Industrial",
+        "NUM": "170134",
+        "SENTIDO": "Bosch",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526221353643",
+        "LON": "-49,330535412973",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1635 - Cidade Industrial",
+        "NUM": "170137",
+        "SENTIDO": "Bosch",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534772299747",
+        "LON": "-49,317686290688",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12160 - Cidade Industrial",
+        "NUM": "170144",
+        "SENTIDO": "Bosch",
+        "SEQ": "26",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493928736722",
+        "LON": "-49,295499154596",
+        "NOME": "Rua Antônio Gasparin, 5452 - Novo Mundo",
+        "NUM": "170170",
+        "SENTIDO": "Bosch",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53918",
+        "LON": "-49,32846",
+        "NOME": "Rua Rodolpho Hatschbach, 1284 - Cidade Industrial",
+        "NUM": "170333",
+        "SENTIDO": "Bosch",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53805",
+        "LON": "-49,33018",
+        "NOME": "Rua Rodolpho Hatschbach, 560 - Cidade Industrial",
+        "NUM": "170335",
+        "SENTIDO": "Bosch",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511683830972",
+        "LON": "-49,324127784061",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC",
+        "NUM": "105212",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "25",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492619830281",
+        "LON": "-49,296334059767",
+        "NOME": "Rua Dep.Waldemiro Pedroso, 235 - Novo Mundo",
+        "NUM": "170240",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "39",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54045",
+        "LON": "-49,32539",
+        "NOME": "Rua Rodolpho Hatschbach, 962 - Cidade Industrial",
+        "NUM": "170331",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508857419092",
+        "LON": "-49,322686870748",
+        "NOME": "Rua Pedro Gusso, 3382 - Cidade Industrial",
+        "NUM": "170320",
+        "SENTIDO": "Bosch",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532157942597",
+        "LON": "-49,33713725655",
+        "NOME": "Rua Jornalista Augusto Waldrigues, 203 - Cidade Industrial",
+        "NUM": "170720",
+        "SENTIDO": "Bosch",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49781",
+        "LON": "-49,30083",
+        "NOME": "Rua Pedro Gusso, 600 - Novo Mundo",
+        "NUM": "170175",
+        "SENTIDO": "Bosch",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541439954726",
+        "LON": "-49,322195597553",
+        "NOME": "Rua Rodolpho Hatschbach, 620 - Cidade Industrial",
+        "NUM": "170329",
+        "SENTIDO": "Bosch",
+        "SEQ": "29",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500275575523",
+        "LON": "-49,311797102148",
+        "NOME": "Rua Pedro Gusso, 1709 - Novo Mundo",
+        "NUM": "170308",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "32",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505430139068",
+        "LON": "-49,320441869698",
+        "NOME": "Rua Pedro Gusso, 2863 - Novo Mundo",
+        "NUM": "170208",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512755963766",
+        "LON": "-49,330335189755",
+        "NOME": "Rua Pedro Gusso, 4311 - Cidade Industrial",
+        "NUM": "180077",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534741557164",
+        "LON": "-49,332759891438",
+        "NOME": "Rua Emílio Romani, 1321 - Cidade Industrial",
+        "NUM": "170338",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,541554338075",
+        "LON": "-49,322178775463",
+        "NOME": "Rua Rodolpho Hatschbach, 611 - Cidade Industrial",
+        "NUM": "170328",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53655",
+        "LON": "-49,33219",
+        "NOME": "Rua Rodolpho Hatschbach, 349 - Cidade Industrial",
+        "NUM": "170336",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52982433263",
+        "LON": "-49,335846093254",
+        "NOME": "Rua Jornalista Rubens Ávila, 63 - Cidade Industrial",
+        "NUM": "170344",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532951069504",
+        "LON": "-49,32142394895",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1156-1300 - Cidade Industrial",
+        "NUM": "170142",
+        "SENTIDO": "Bosch",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498818174749",
+        "LON": "-49,309812267477",
+        "NOME": "Rua Pedro Gusso, 1480 - Novo Mundo",
+        "NUM": "170306",
+        "SENTIDO": "Bosch",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504485476117",
+        "LON": "-49,318078835661",
+        "NOME": "Rua Pedro Gusso, 2510 - Novo Mundo",
+        "NUM": "170314",
+        "SENTIDO": "Bosch",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49549089456",
+        "LON": "-49,295826472387",
+        "NOME": "Rua Antônio Gasparin, 5556 -Novo Mundo",
+        "NUM": "170171",
+        "SENTIDO": "Bosch",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52982433263",
+        "LON": "-49,335846093254",
+        "NOME": "Rua Jornalista Rubens Ávila, 63 - Cidade Industrial",
+        "NUM": "170344",
+        "SENTIDO": "Bosch",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531016057704",
+        "LON": "-49,325090528673",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1330 - Cidade Industrial",
+        "NUM": "170141",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536637729184",
+        "LON": "-49,318184675507",
+        "NOME": "Rua Ciro Corrêa Pereira, 1855 - Cidade Industrial",
+        "NUM": "170164",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51376294072",
+        "LON": "-49,335112602657",
+        "NOME": "Rua João Bettega, 6474 - Portão",
+        "NUM": "170091",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512426737275",
+        "LON": "-49,332958788818",
+        "NOME": "Rua João Bettega, 6205 - Portão",
+        "NUM": "170089",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496193631499",
+        "LON": "-49,298134139881",
+        "NOME": "Rua Paulina Ader, 1319 - Novo Mundo",
+        "NUM": "170173",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,531166116021",
+        "LON": "-49,325205863661",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1320 - Cidade Industrial",
+        "NUM": "170140",
+        "SENTIDO": "Bosch",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53952497335",
+        "LON": "-49,320215107732",
+        "NOME": "Rua Ciro Corrêa Pereira, 2050 - Cidade Industrial",
+        "NUM": "170691",
+        "SENTIDO": "Bosch",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491826791536",
+        "LON": "-49,293141395993",
+        "NOME": "Terminal Capão Raso - 627 - Bosch",
+        "NUM": "104807",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "40",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519768851102",
+        "LON": "-49,334224635582",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira - Cidade Industrial",
+        "NUM": "170029",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512101156465",
+        "LON": "-49,332374067253",
+        "NOME": "R. Des. Cid Campelo, 4091 - Cidade Industrial",
+        "NUM": "170124",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534708163869",
+        "LON": "-49,317489148325",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 12160 - Cidade Industrial",
+        "NUM": "170145",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501505394979",
+        "LON": "-49,312856574709",
+        "NOME": "Rua Pedro Gusso, 1727 - Novo Mundo",
+        "NUM": "170311",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "31",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508921568786",
+        "LON": "-49,322517891581",
+        "NOME": "Rua Pedro Gusso, 3381 - Cidade Industrial",
+        "NUM": "170321",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Bosch",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Bosch",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534652008925",
+        "LON": "-49,332679425167",
+        "NOME": "Rua Emílio Romani, 1322 - Cidade Industrial",
+        "NUM": "170339",
+        "SENTIDO": "Bosch",
+        "SEQ": "34",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50706",
+        "LON": "-49,32217",
+        "NOME": "Rua Pedro Gusso, 3209 - Cidade Industrial",
+        "NUM": "170318",
+        "SENTIDO": "Bosch",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523796094669",
+        "LON": "-49,33374467606",
+        "NOME": "Rua Vicente Micheloto, 2375 - Cidade Industrial",
+        "NUM": "170135",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526064027951",
+        "LON": "-49,330493838734",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1636- Cidade Industrial",
+        "NUM": "170136",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,498757651079",
+        "LON": "-49,309490402395",
+        "NOME": "Rua Pedro Gusso, 1551 - Novo Mundo",
+        "NUM": "170305",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "33",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504604096826",
+        "LON": "-49,317968865091",
+        "NOME": "Rua Pedro Gusso, 2509 - Novo Mundo",
+        "NUM": "170315",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,493277149288",
+        "LON": "-49,298151256375",
+        "NOME": "Rua Paulina Ader, 835 - Novo Mundo",
+        "NUM": "170174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "38",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,491826791536",
+        "LON": "-49,293141395993",
+        "NOME": "Terminal Capão Raso - 627 - Bosch",
+        "NUM": "104807",
+        "SENTIDO": "Bosch",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497406754821",
+        "LON": "-49,303873856718",
+        "NOME": "Rua Pedro Gusso, 885- Novo Mundo",
+        "NUM": "170177",
+        "SENTIDO": "Bosch",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,500246524518",
+        "LON": "-49,311947305853",
+        "NOME": "Rua Pedro Gusso, 1710 - Novo Mundo",
+        "NUM": "170307",
+        "SENTIDO": "Bosch",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505572424758",
+        "LON": "-49,321053405458",
+        "NOME": "Rua Pedro Gusso, 2944 - Cidade Industrial",
+        "NUM": "170317",
+        "SENTIDO": "Bosch",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536700653938",
+        "LON": "-49,318356336884",
+        "NOME": "Rua Ciro Corrêa Pereira, 1856 - Cidade Industrial",
+        "NUM": "170163",
+        "SENTIDO": "Bosch",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515868532172",
+        "LON": "-49,336033673611",
+        "NOME": "Av. Juscelino Kubitschek de Oliveira, 9903 - Cidade Industrial",
+        "NUM": "170027",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53271872452",
+        "LON": "-49,321552694983",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1158 - Cidade Industrial",
+        "NUM": "170143",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53957095572",
+        "LON": "-49,320118548207",
+        "NOME": "Rua Ciro Corrêa Pereira, 2049 - Cidade Industrial",
+        "NUM": "170165",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53937",
+        "LON": "-49,32839",
+        "NOME": "Rua Rodolpho Hatschbach, 1283 - Cidade Industrial",
+        "NUM": "170332",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53831",
+        "LON": "-49,33002",
+        "NOME": "Rua Rodolpho Hatschbach, 559 - Cidade Industrial",
+        "NUM": "170334",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14503",
+        "LAT": "-25,511767638017",
+        "LON": "-49,324391224537",
+        "NOME": "Terminal CIC - 627 - Bosch / 628 - Carbomafra / 667 - Terminal CIC / 826 - Campo Comprido-CIC",
+        "NUM": "105205",
+        "SENTIDO": "Bosch",
+        "SEQ": "16",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502836878224",
+        "LON": "-49,314138670618",
+        "NOME": "Rua Pedro Gusso, 2192 - Novo Mundo",
+        "NUM": "170312",
+        "SENTIDO": "Bosch",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533322088695",
+        "LON": "-49,334125135826",
+        "NOME": "Rua Emílio Romani, 1492 - Cidade Industrial",
+        "NUM": "170341",
+        "SENTIDO": "Bosch",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532038138978",
+        "LON": "-49,334689740824",
+        "NOME": "Rua Emílio Romani, 1712 - Cidade Industrial",
+        "NUM": "170342",
+        "SENTIDO": "Bosch",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51901",
+        "LON": "-49,33064",
+        "NOME": "Rua Nelson Pizzani, 587 - Cidade Industrial",
+        "NUM": "170327",
+        "SENTIDO": "Bosch",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53645",
+        "LON": "-49,33213",
+        "NOME": "Rua Rodolpho Hatschbach, 342- Cidade Industrial",
+        "NUM": "170337",
+        "SENTIDO": "Bosch",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53108598107",
+        "LON": "-49,337748885155",
+        "NOME": "R. Beato Pedro Donders, 290 - Cidade Industrial",
+        "NUM": "171007",
+        "SENTIDO": "Bosch",
+        "SEQ": "38",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528124978167",
+        "LON": "-49,328649820036",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1502 - Cidade Industrial",
+        "NUM": "170138",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497458805765",
+        "LON": "-49,303577472622",
+        "NOME": "Rua Pedro Gusso, 886 - Novo Mundo",
+        "NUM": "170178",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497988997813",
+        "LON": "-49,306239565069",
+        "NOME": "Rua Pedro Gusso, 1219 - Novo Mundo",
+        "NUM": "170303",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "34",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5031685363",
+        "LON": "-49,314245958979",
+        "NOME": "Rua Pedro Gusso, 2101 - Novo Mundo",
+        "NUM": "170313",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51163034915",
+        "LON": "-49,32822429126",
+        "NOME": "Rua Pedro Gusso, 4093 - Cidade Industrial",
+        "NUM": "180075",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,533377754442",
+        "LON": "-49,334214989828",
+        "NOME": "Rua Emílio Romani, 1493 - Cidade Industrial",
+        "NUM": "170340",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528550959939",
+        "LON": "-49,328436584419",
+        "NOME": "Av. Juscelino Kubitscheck de Oliveira, 1300 - Cidade Industrial",
+        "NUM": "170139",
+        "SENTIDO": "Bosch",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,497997471183",
+        "LON": "-49,306805511171",
+        "NOME": "Rua Pedro Gusso, 1254 - Novo Mundo",
+        "NUM": "170304",
+        "SENTIDO": "Bosch",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501452135342",
+        "LON": "-49,312982638533",
+        "NOME": "Rua Pedro Gusso, 1726 - Novo Mundo",
+        "NUM": "170309",
+        "SENTIDO": "Bosch",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,496998998031",
+        "LON": "-49,297864402447",
+        "NOME": "Rua Pedro Gusso, 232 - Novo Mundo",
+        "NUM": "170172",
+        "SENTIDO": "Bosch",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51657",
+        "LON": "-49,33061",
+        "NOME": "Rua Nelson Pizzani, 350 - Cidade Industrial",
+        "NUM": "170326",
+        "SENTIDO": "Bosch",
+        "SEQ": "19",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,54045",
+        "LON": "-49,32505",
+        "NOME": "Rua Rodolpho Hatschbach, 963 - Cidade Industrial",
+        "NUM": "170330",
+        "SENTIDO": "Bosch",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,532092595183",
+        "LON": "-49,334752772736",
+        "NOME": "Rua Emílio Romani, 1713 - Cidade Industrial",
+        "NUM": "170343",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49797",
+        "LON": "-49,30096",
+        "NOME": "Rua Pedro Gusso, 601 - Novo Mundo",
+        "NUM": "170176",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "36",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50723",
+        "LON": "-49,32196",
+        "NOME": "Rua Pedro Gusso, 3167 - Cidade Industrial",
+        "NUM": "170319",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    }
+]

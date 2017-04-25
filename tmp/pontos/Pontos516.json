@@ -1,0 +1,552 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,481602784795",
+        "LON": "-49,243458163195",
+        "NOME": "Rua Waldemar Kost, 415 - Hauer",
+        "NUM": "140001",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46482",
+        "LON": "-49,24716",
+        "NOME": "Rua Capitão João Ribas de Oliveira, 327 - Guabirotuba",
+        "NUM": "140639",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,481602784795",
+        "LON": "-49,243458163195",
+        "NOME": "Rua Waldemar Kost, 415 - Hauer",
+        "NUM": "140001",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482515206427",
+        "LON": "-49,239889008598",
+        "NOME": "Rua das Carmelitas, 1051 - Hauer",
+        "NUM": "140005",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48248",
+        "LON": "-49,23187",
+        "NOME": "Rua Doutor Manoel Magalhães Abreu, 204 -Uberaba",
+        "NUM": "140631",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467748205854",
+        "LON": "-49,248583411045",
+        "NOME": "Rua Canal Belém, 957 - Guabirotuba",
+        "NUM": "140022",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47055",
+        "LON": "-49,24636",
+        "NOME": "Rua Canal Belém, 1182 - Guabirotuba",
+        "NUM": "140020",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46589",
+        "LON": "-49,24944",
+        "NOME": "Rua Paul Cesane, 251 - Guabirotuba",
+        "NUM": "140638",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476582106971",
+        "LON": "-49,241635131283",
+        "NOME": "Rua Canal Belém, 2089 - Guabirotuba",
+        "NUM": "140014",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467458519492",
+        "LON": "-49,240965131283",
+        "NOME": "Av. Senador Salgado Filho, 2020 - Prado Velho",
+        "NUM": "140029",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476582106971",
+        "LON": "-49,241635131283",
+        "NOME": "Rua Canal Belém, 2089 - Guabirotuba",
+        "NUM": "140014",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465927024894",
+        "LON": "-49,242837696925",
+        "NOME": "Av. Senador Salgado Filho, 1760 - Prado Velho",
+        "NUM": "140028",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48315",
+        "LON": "-49,22625",
+        "NOME": "Rua Cel. José C. de Oliveira, 1469 - Uberaba",
+        "NUM": "140635",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48168",
+        "LON": "-49,22934",
+        "NOME": "Rua Francisco Timóteo de Simas, 417 - Uberaba",
+        "NUM": "140637",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47883",
+        "LON": "-49,24168",
+        "NOME": "Rua das Carmelitas, 489 - Hauer",
+        "NUM": "140009",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46589",
+        "LON": "-49,24944",
+        "NOME": "Rua Paul Cesane, 251 - Guabirotuba",
+        "NUM": "140638",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477701443292",
+        "LON": "-49,242505665773",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 161 - Hauer",
+        "NUM": "140013",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474501515376",
+        "LON": "-49,243272245369",
+        "NOME": "Rua Canal Belém, 1811 - Guabirotuba",
+        "NUM": "140016",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467748205854",
+        "LON": "-49,248583411045",
+        "NOME": "Rua Canal Belém, 957 - Guabirotuba",
+        "NUM": "140022",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482000138562",
+        "LON": "-49,246697605795",
+        "NOME": "Terminal Hauer - 512 - Itamarati/516-Canal Belém/Salgado Filho",
+        "NUM": "105507",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480957941932",
+        "LON": "-49,24077682209",
+        "NOME": "Rua das Carmelitas, 712 - Hauer",
+        "NUM": "140002",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483014576724",
+        "LON": "-49,239776093254",
+        "NOME": "Rua das Carmelitas, 1050 - Hauer",
+        "NUM": "140004",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484570994872",
+        "LON": "-49,23887157424",
+        "NOME": "Rua das Carmelitas, 1167 - Hauer",
+        "NUM": "140007",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48406",
+        "LON": "-49,22584",
+        "NOME": "Rua Pres. Wiston, 227 - Uberaba",
+        "NUM": "140634",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46482",
+        "LON": "-49,24716",
+        "NOME": "Rua Capitão João Ribas de Oliveira, 327 - Guabirotuba",
+        "NUM": "140639",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482000138562",
+        "LON": "-49,246697605795",
+        "NOME": "Terminal Hauer - 512 - Itamarati/516-Canal Belém/Salgado Filho",
+        "NUM": "105507",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480833995147",
+        "LON": "-49,240703411045",
+        "NOME": "Rua das Carmelitas, 711 - Hauer",
+        "NUM": "140003",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48465",
+        "LON": "-49,2296",
+        "NOME": "Rua Simão Brante, 620 - Uberaba",
+        "NUM": "140633",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "6",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469364306191",
+        "LON": "-49,239986679762",
+        "NOME": "Av. Senador Salgado Filho, 1464 - Prado Velho",
+        "NUM": "140032",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482000138562",
+        "LON": "-49,246697605795",
+        "NOME": "Terminal Hauer - 512 - Itamarati/516-Canal Belém/Salgado Filho",
+        "NUM": "105507",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47055",
+        "LON": "-49,24636",
+        "NOME": "Rua Canal Belém, 1182 - Guabirotuba",
+        "NUM": "140020",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464439188587",
+        "LON": "-49,244885510416",
+        "NOME": "Av. Senador Salgado Filho, 1474 - Prado Velho",
+        "NUM": "140025",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465927024894",
+        "LON": "-49,242837696925",
+        "NOME": "Av. Senador Salgado Filho, 1760 - Prado Velho",
+        "NUM": "140028",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,469364306191",
+        "LON": "-49,239986679762",
+        "NOME": "Av. Senador Salgado Filho, 1464 - Prado Velho",
+        "NUM": "140032",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472718520869",
+        "LON": "-49,244647317791",
+        "NOME": "Rua Canal Belém, 1615 - Guabirotuba",
+        "NUM": "140018",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464439188587",
+        "LON": "-49,244885510416",
+        "NOME": "Av. Senador Salgado Filho, 1474 - Prado Velho",
+        "NUM": "140025",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467458519492",
+        "LON": "-49,240965131283",
+        "NOME": "Av. Senador Salgado Filho, 2020 - Prado Velho",
+        "NUM": "140029",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47102",
+        "LON": "-49,23891",
+        "NOME": "Av. Senador Salgado Filho, 1665 - Prado Velho",
+        "NUM": "140640",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477701443292",
+        "LON": "-49,242505665773",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 161 - Hauer",
+        "NUM": "140013",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479247440428",
+        "LON": "-49,246702540872",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 486 - Hauer",
+        "NUM": "140010",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48513667852",
+        "LON": "-49,238770414566",
+        "NOME": "Rua das Carmelitas, 1230 - Hauer",
+        "NUM": "140006",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48466",
+        "LON": "-49,23499",
+        "NOME": "Rua Doutor Manoel Magalhães Abreu, 596 - Uberaba",
+        "NUM": "140632",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47102",
+        "LON": "-49,23891",
+        "NOME": "Av. Senador Salgado Filho, 1665 - Prado Velho",
+        "NUM": "140640",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "15",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477880624657",
+        "LON": "-49,243317034",
+        "NOME": "Rua Júlio César Ribeiro de Sousa, 92 - Hauer",
+        "NUM": "140011",
+        "SENTIDO": "Salgado Filho",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,481603047161",
+        "LON": "-49,246881337113",
+        "NOME": "Terminal Hauer - 516 - Canal Belém / Salgado Filho",
+        "NUM": "105510",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "19",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482026156942",
+        "LON": "-49,227206588955",
+        "NOME": "Rua Cel. José C. de Oliveira, 1311 - Uberaba",
+        "NUM": "140636",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475951562363",
+        "LON": "-49,24008727481",
+        "NOME": "Rua José Rietmeyer, 462 - Guabirotuba",
+        "NUM": "140034",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,474501515376",
+        "LON": "-49,243272245369",
+        "NOME": "Rua Canal Belém, 1811 - Guabirotuba",
+        "NUM": "140016",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472718520869",
+        "LON": "-49,244647317791",
+        "NOME": "Rua Canal Belém, 1615 - Guabirotuba",
+        "NUM": "140018",
+        "SENTIDO": "Canal Belém",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    }
+]

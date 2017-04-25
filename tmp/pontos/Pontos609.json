@@ -1,0 +1,692 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,512038218809",
+        "LON": "-49,304108668708",
+        "NOME": "Rua João Rodrigues Pinheiro, 846 - Capão Raso",
+        "NUM": "170054",
+        "SENTIDO": "CIC",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503346188416",
+        "LON": "-49,296033829451",
+        "NOME": "Av. Winston Churchill, 881 - Capão Raso",
+        "NUM": "150613",
+        "SENTIDO": "CIC",
+        "SEQ": "19",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480934243962",
+        "LON": "-49,292588531971",
+        "NOME": "Av. República Argentina, 3980 - Portão",
+        "NUM": "170263",
+        "SENTIDO": "CIC",
+        "SEQ": "13",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448184036818",
+        "LON": "-49,287834316492",
+        "NOME": "Av. Rep. Argentina, 99 - Água Verde",
+        "NUM": "150563",
+        "SENTIDO": "CIC",
+        "SEQ": "5",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511476635367",
+        "LON": "-49,328306098635",
+        "NOME": "Rua Pedro Gusso, 4150 - Cidade Industrial",
+        "NUM": "180074",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512565941394",
+        "LON": "-49,330332507546",
+        "NOME": "Rua Pedro Gusso, 4216 - Cidade Industrial",
+        "NUM": "180076",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518377811594",
+        "LON": "-49,321508158588",
+        "NOME": "Rua José Rodrigues Pinheiro - Cidade Industrial",
+        "NUM": "170449",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51597781041",
+        "LON": "-49,316582281731",
+        "NOME": "Rua José Rodrigues Pinheiro, 2062 - Cidade Industrial",
+        "NUM": "170076",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513640698089",
+        "LON": "-49,300207395696",
+        "NOME": "Rua José Rodrigues Pinheiro, 525 - Capão Raso",
+        "NUM": "170082",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461329748724",
+        "LON": "-49,289836585522",
+        "NOME": "Av. Rep. Argentina, 1672 - Água Verde",
+        "NUM": "150566",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,44124732732",
+        "LON": "-49,275948107242",
+        "NOME": "Av. Sete de Setembro, 3845 - Centro",
+        "NUM": "110065",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "34",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,495646412488",
+        "LON": "-49,29448351264",
+        "NOME": "Av. Winston Churchill, 2 - Capão Raso",
+        "NUM": "150686",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511753523337",
+        "LON": "-49,323857724667",
+        "NOME": "Rua Lea Moreira de Souza Moura, 11 - Cidade Industrial",
+        "NUM": "170154",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511922026127",
+        "LON": "-49,299999524497",
+        "NOME": "Rua João Rodrigues Pinheiro, 482 - Capão Raso",
+        "NUM": "170053",
+        "SENTIDO": "CIC",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "35",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513885183227",
+        "LON": "-49,310154367828",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170078",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51481",
+        "LON": "-49,31401",
+        "NOME": "Rua José Rodrigues Pinheiro, 1546 - Cidade Industrial",
+        "NUM": "170077",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484523777255",
+        "LON": "-49,293724447489",
+        "NOME": "Av. República Argentina, 4343 - Portão",
+        "NUM": "150699",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443036038723",
+        "LON": "-49,280596375465",
+        "NOME": "Av. Sete de Setembro, 4342 - Água Verde",
+        "NUM": "150506",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "33",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511651854505",
+        "LON": "-49,295717328787",
+        "NOME": "Av. Winston Churchill, 1682 - Capão Raso",
+        "NUM": "150274",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "Chegada - Saída - Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51456901278",
+        "LON": "-49,322571654462",
+        "NOME": "Rua Padre Gaston, 349 - Cidade Industrial",
+        "NUM": "170085",
+        "SENTIDO": "CIC",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512217348975",
+        "LON": "-49,313764621162",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 1622 - Cidade Industrial",
+        "NUM": "170070",
+        "SENTIDO": "CIC",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452182635752",
+        "LON": "-49,287940263748",
+        "NOME": "Av. Rep. Argentina, 551 - Vila Izabel",
+        "NUM": "180104",
+        "SENTIDO": "CIC",
+        "SEQ": "6",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,441550090088",
+        "LON": "-49,276991486549",
+        "NOME": "Av. Sete de Setembro, 3845 - Centro",
+        "NUM": "110066",
+        "SENTIDO": "CIC",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49542367935",
+        "LON": "-49,294496923685",
+        "NOME": "Av. Winston Churchill, 2 - Capão Raso",
+        "NUM": "170259",
+        "SENTIDO": "CIC",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499360184611",
+        "LON": "-49,296059310436",
+        "NOME": "Av. Winston Churchill, 352 - Capão Raso",
+        "NUM": "150573",
+        "SENTIDO": "CIC",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515064030325",
+        "LON": "-49,328661889977",
+        "NOME": "Rua Des. Cid. Campelo, 3690 - Cidade Industrial",
+        "NUM": "170125",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518254327262",
+        "LON": "-49,325014139881",
+        "NOME": "Rua João Chede, 3185 - Cidade Industrial",
+        "NUM": "170073",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452398183345",
+        "LON": "-49,287831634283",
+        "NOME": "Av. Rep. Argentina, 551 - Água Verde",
+        "NUM": "150564",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491391411862",
+        "LON": "-49,293768703937",
+        "NOME": "Av. República Argentina, 5027 - Novo Mundo",
+        "NUM": "150698",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499590173243",
+        "LON": "-49,295970797539",
+        "NOME": "Av. Winston Churchill, 443 - Capão Raso",
+        "NUM": "150572",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "CIC",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491391411862",
+        "LON": "-49,293768703937",
+        "NOME": "Av. República Argentina, 5027 - Novo Mundo",
+        "NUM": "150698",
+        "SENTIDO": "CIC",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511677271721",
+        "LON": "-49,295813888311",
+        "NOME": "Av. Winston Churchill, 1682 - Capão Raso",
+        "NUM": "150243",
+        "SENTIDO": "CIC",
+        "SEQ": "21",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511753523337",
+        "LON": "-49,323857724667",
+        "NOME": "Rua Lea Moreira de Souza Moura, 11 - Cidade Industrial",
+        "NUM": "170154",
+        "SENTIDO": "CIC",
+        "SEQ": "29",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487868665763",
+        "LON": "-49,294231384993",
+        "NOME": "Av. República Argentina, 4733 - Novo Mundo",
+        "NUM": "150688",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472700309299",
+        "LON": "-49,294386953115",
+        "NOME": "Av. Rep. Argentina, 3021 - Portão",
+        "NUM": "180236",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467529144041",
+        "LON": "-49,293138384819",
+        "NOME": "Av. Rep. Argentina, 2421 - Portão",
+        "NUM": "180235",
+        "SENTIDO": "CIC",
+        "SEQ": "10",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444790209583",
+        "LON": "-49,28553365171",
+        "NOME": "Av. Sete de Setembro, 4866 - Batel",
+        "NUM": "180073",
+        "SENTIDO": "CIC",
+        "SEQ": "4",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443309732235",
+        "LON": "-49,281608909369",
+        "NOME": "Av. Sete de Setembro, 4342 - Batel",
+        "NUM": "180050",
+        "SENTIDO": "CIC",
+        "SEQ": "3",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513730262009",
+        "LON": "-49,303941030645",
+        "NOME": "Rua José Rodrigues Pinheiro, 913 - Capão Raso",
+        "NUM": "170081",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448450452748",
+        "LON": "-49,287811517715",
+        "NOME": "Av. Rep. Argentina, 99 - Água Verde",
+        "NUM": "150562",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "31",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436801693209",
+        "LON": "-49,274457306676",
+        "NOME": "Praça Rui Barbosa - 860 - Vila Sandra",
+        "NUM": "102031",
+        "SENTIDO": "Antigo",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,472496905454",
+        "LON": "-49,294466078281",
+        "NOME": "Av. Rep. Argentina, 3021 - Portão",
+        "NUM": "180237",
+        "SENTIDO": "CIC",
+        "SEQ": "11",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464551779009",
+        "LON": "-49,291287660599",
+        "NOME": "Av. Rep. Argentina, 2069 - Portão",
+        "NUM": "180119",
+        "SENTIDO": "CIC",
+        "SEQ": "9",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456776864376",
+        "LON": "-49,288566559553",
+        "NOME": "Av. Rep. Argentina, 1141 - Vila Izabel",
+        "NUM": "180116",
+        "SENTIDO": "CIC",
+        "SEQ": "7",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507536615217",
+        "LON": "-49,295922517776",
+        "NOME": "Av. Winston Churchill, 1228 - Capão Raso",
+        "NUM": "170151",
+        "SENTIDO": "CIC",
+        "SEQ": "20",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,517024715466",
+        "LON": "-49,318824608469",
+        "NOME": "Rua José Rodrigues Pinheiro, 2261 - Cidade Industrial",
+        "NUM": "170075",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444858632022",
+        "LON": "-49,28539417684",
+        "NOME": "Av. Sete de Setembro, 4866 - Água Verde",
+        "NUM": "150507",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "32",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,51505555816",
+        "LON": "-49,320761163377",
+        "NOME": "Rua Padre Gaston, 457 - Cidade Industrial",
+        "NUM": "170083",
+        "SENTIDO": "CIC",
+        "SEQ": "27",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,512115680535",
+        "LON": "-49,308153439903",
+        "NOME": "Rua João Rodrigues Pinheiro, 1392 - Capão Raso",
+        "NUM": "170055",
+        "SENTIDO": "CIC",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513914230934",
+        "LON": "-49,317782570266",
+        "NOME": "Rua Manoel Valdomiro de Macedo, 2362 - Cidade Industrial",
+        "NUM": "170071",
+        "SENTIDO": "CIC",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487717342742",
+        "LON": "-49,294338673353",
+        "NOME": "Av. República Argentina, 4795 - Novo Mundo",
+        "NUM": "170261",
+        "SENTIDO": "CIC",
+        "SEQ": "15",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,484325235887",
+        "LON": "-49,293741881847",
+        "NOME": "Av. República Argentina, 4334 - Portão",
+        "NUM": "170262",
+        "SENTIDO": "CIC",
+        "SEQ": "14",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475759800635",
+        "LON": "-49,292934536934",
+        "NOME": "Av. República Argentina, 3373 - Portão",
+        "NUM": "150571",
+        "SENTIDO": "CIC",
+        "SEQ": "12",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,516598692776",
+        "LON": "-49,326762885994",
+        "NOME": "Rua Des. Cid. Campelo, 3564 - Cidade Industrial",
+        "NUM": "170128",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,513819825863",
+        "LON": "-49,307779271745",
+        "NOME": "Rua José Rodrigues Pinheiro, 1171 - Capão Raso",
+        "NUM": "170079",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475769486277",
+        "LON": "-49,292811155319",
+        "NOME": "Av. Republica Argentina, 3373 - Portão",
+        "NUM": "150570",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467768879866",
+        "LON": "-49,293209463358",
+        "NOME": "Av. Rep. Argentina, 2421 - Portão",
+        "NUM": "180218",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,511753523337",
+        "LON": "-49,323857724667",
+        "NOME": "Rua Lea Moreira de Souza Moura, 11 - Cidade Industrial",
+        "NUM": "170154",
+        "SENTIDO": "Antigo",
+        "SEQ": "2",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,461063361299",
+        "LON": "-49,289807081223",
+        "NOME": "Av. Rep. Argentina, 1672 - Vila Izabel",
+        "NUM": "180108",
+        "SENTIDO": "CIC",
+        "SEQ": "8",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48119816608",
+        "LON": "-49,292513430119",
+        "NOME": "Av. República Argentina, 3985 - Portão",
+        "NUM": "150700",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464738244862",
+        "LON": "-49,291246086359",
+        "NOME": "Av. Rep. Argentina, 2069 - Água Verde",
+        "NUM": "150567",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,457045683077",
+        "LON": "-49,288539737463",
+        "NOME": "Av. Rep. Argentina, 1141 - Água Verde",
+        "NUM": "150565",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503564065163",
+        "LON": "-49,295918494463",
+        "NOME": "Av. Winston Churchill, 881 - Capão Raso",
+        "NUM": "150574",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507767798575",
+        "LON": "-49,295809864998",
+        "NOME": "Av. Winston Churchill, 1323 - Capão Raso",
+        "NUM": "170146",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Especial Madrugueiro"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436437152371",
+        "LON": "-49,274620921426",
+        "NOME": "Praça Rui Barbosa - 670 - São Jorge",
+        "NUM": "102033",
+        "SENTIDO": "Chegada - Saída - Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,436437152371",
+        "LON": "-49,274620921426",
+        "NOME": "Praça Rui Barbosa - 670 - São Jorge",
+        "NUM": "102033",
+        "SENTIDO": "Antigo",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    }
+]

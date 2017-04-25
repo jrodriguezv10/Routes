@@ -1,0 +1,232 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,503143631289",
+        "LON": "-49,226253294477",
+        "NOME": "Rua José Hauer, 1178 - Boqueirão",
+        "NUM": "140338",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,502174897266",
+        "LON": "-49,222876326389",
+        "NOME": "Rua Augusto Dias Paredes, 446 - Boqueirão",
+        "NUM": "140339",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,499792475644",
+        "LON": "-49,233999387732",
+        "NOME": "Rua Napoleão Laureano, 591 - Boqueirão",
+        "NUM": "140333",
+        "SENTIDO": "Iguape I",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503929422835",
+        "LON": "-49,229555860119",
+        "NOME": "Rua das Carmelitas, 3556 - Boqueirão",
+        "NUM": "140299",
+        "SENTIDO": "Iguape I",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50401941337",
+        "LON": "-49,22195206994",
+        "NOME": "Rua Augusto Dias Paredes, 710 - Boqueirão",
+        "NUM": "140667",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "4",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501136107412",
+        "LON": "-49,230942186508",
+        "NOME": "Rua das Carmelitas, 3189 - Boqueirão",
+        "NUM": "140297",
+        "SENTIDO": "Iguape I",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501641510668",
+        "LON": "-49,237434215627",
+        "NOME": "Terminal Carmo - 523 - Iguape I",
+        "NUM": "104906",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "12",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,501302737312",
+        "LON": "-49,230684139881",
+        "NOME": "Rua das Carmelitas, 3190 - Boqueirão",
+        "NUM": "140298",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49789672032",
+        "LON": "-49,235063195229",
+        "NOME": "R. Antônio Schiebel, 872 - Boqueirão",
+        "NUM": "140998",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "11",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504322400411",
+        "LON": "-49,221933294477",
+        "NOME": "Rua Augusto Dias Paredes, 709 - Boqueirão",
+        "NUM": "140650",
+        "SENTIDO": "Iguape I",
+        "SEQ": "8",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508516368874",
+        "LON": "-49,217746209822",
+        "NOME": "Rua Dr. Bley Zorning, 246 - Boqueirão",
+        "NUM": "140342",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,507706109266",
+        "LON": "-49,218892682209",
+        "NOME": "Rua Dr. Laurindo Abelardo de Brito, 271 - Boqueirão",
+        "NUM": "140343",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,506907319432",
+        "LON": "-49,218919271164",
+        "NOME": "Rua Diogo Mugiatti, 210 - Boqueirão",
+        "NUM": "140652",
+        "SENTIDO": "Iguape I",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503956108208",
+        "LON": "-49,229392186508",
+        "NOME": "Rua das Carmelitas, 3556 - Boqueirão",
+        "NUM": "140334",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,504070372783",
+        "LON": "-49,228226093254",
+        "NOME": "Rua José Hauer, 1431  - Boqueirão",
+        "NUM": "140336",
+        "SENTIDO": "Iguape I",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49843",
+        "LON": "-49,23211",
+        "NOME": "Rua das Carmelitas, 2767 - Boqueirão",
+        "NUM": "140331",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14485",
+        "LAT": "-25,501641510668",
+        "LON": "-49,237434215627",
+        "NOME": "Terminal Carmo - 523 - Iguape I",
+        "NUM": "104906",
+        "SENTIDO": "Iguape I",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,50225",
+        "LON": "-49,22298",
+        "NOME": "Rua Augusto Dias Paredes, 445 - Boqueirão",
+        "NUM": "140649",
+        "SENTIDO": "Iguape I",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503832420845",
+        "LON": "-49,227948892031",
+        "NOME": "Rua José Hauer, 1351 - Boqueirão",
+        "NUM": "140335",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505754264759",
+        "LON": "-49,219838892031",
+        "NOME": "Rua Dr. Laurindo Abelardo de Brito, 55 - Boqueirão",
+        "NUM": "140341",
+        "SENTIDO": "Terminal Carmo",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,508516368874",
+        "LON": "-49,217746209822",
+        "NOME": "Rua Dr. Bley Zorning, 246 - Boqueirão",
+        "NUM": "140342",
+        "SENTIDO": "Iguape I",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,503256052142",
+        "LON": "-49,226134023314",
+        "NOME": "Rua José Hauer, 1175 - Boqueirão",
+        "NUM": "140337",
+        "SENTIDO": "Iguape I",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,505806345514",
+        "LON": "-49,219926734953",
+        "NOME": "Rua Dr. Laurindo Abelardo de Brito, 56 - Boqueirão",
+        "NUM": "140651",
+        "SENTIDO": "Iguape I",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,550677658498",
+        "LON": "-49,304471974062",
+        "NOME": "Rodovia Régis Bittencourt, 22689 - Tatuquara",
+        "NUM": "170490",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,592821497708",
+        "LON": "-49,327057600021",
+        "NOME": "Rua Lucas Carvalho, 580 - Campo de Santana",
+        "NUM": "170392",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Janaina",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585791536182",
+        "LON": "-49,319099485874",
+        "NOME": "Rua Júlio Pereira Sobrinho, 115 - Campo de Santana",
+        "NUM": "170901",
+        "SENTIDO": "Janaina",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,58756720895",
+        "LON": "-49,324616789818",
+        "NOME": "R. Júlio Pereira Sobrinho, 716 - Campo de Santana",
+        "NUM": "170995",
+        "SENTIDO": "Janaina",
+        "SEQ": "29",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "33",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "35",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "38",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "39",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56250876135",
+        "LON": "-49,315252869187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 367 - Tatuquara",
+        "NUM": "170508",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581996030954",
+        "LON": "-49,31762459988",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1294  - Campo de Santana",
+        "NUM": "170552",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,588873545388",
+        "LON": "-49,327926635742",
+        "NOME": "Rua Júlio Pereira Sobrinho, 1014 - Campo de Santana",
+        "NUM": "170388",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,553344358738",
+        "LON": "-49,305548880982",
+        "NOME": "Rodovia Régis Bittencourt, 23166 - Cidade Industrial",
+        "NUM": "170380",
+        "SENTIDO": "Janaina",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560577856179",
+        "LON": "-49,314517943917",
+        "NOME": "Rua Antônio Sarote, 35 - Tatuquara",
+        "NUM": "170505",
+        "SENTIDO": "Janaina",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562511181011",
+        "LON": "-49,315381615219",
+        "NOME": "Estrada Delegado Bruno de Almeida, 408 - Tatuquara",
+        "NUM": "170507",
+        "SENTIDO": "Janaina",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564127503731",
+        "LON": "-49,315480856953",
+        "NOME": "Estrada Delegado Bruno de Almeida, 668 - Tatuquara",
+        "NUM": "170509",
+        "SENTIDO": "Janaina",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,581787973778",
+        "LON": "-49,317731888241",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1295  - Campo de Santana",
+        "NUM": "170737",
+        "SENTIDO": "Janaina",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,579000940455",
+        "LON": "-49,317101569122",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1097 - Campo de Santana",
+        "NUM": "170550",
+        "SENTIDO": "Janaina",
+        "SEQ": "23",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,592669097554",
+        "LON": "-49,329581558704",
+        "NOME": "Rua Lucas Carvalho, 687 - Campo de Santana",
+        "NUM": "170393",
+        "SENTIDO": "Janaina",
+        "SEQ": "33",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593128716475",
+        "LON": "-49,331810474396",
+        "NOME": "Rua Alda Bassete Bertolde, 956 - Campo de Santana",
+        "NUM": "170395",
+        "SENTIDO": "Janaina",
+        "SEQ": "34",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595366309677",
+        "LON": "-49,331625401974",
+        "NOME": "Rua Alda Bassete Bertolde, 97 - Campo de Santana",
+        "NUM": "170397",
+        "SENTIDO": "Janaina",
+        "SEQ": "35",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563488720113",
+        "LON": "-49,309488802014",
+        "NOME": "Rua João Batista Betega Júnior, 113 - Tatuquara",
+        "NUM": "170501",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569569124529",
+        "LON": "-49,315094618855",
+        "NOME": "Estrada Delegado Bruno de Almeida, 59 - Campo de Santana",
+        "NUM": "170545",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575501636993",
+        "LON": "-49,316663711128",
+        "NOME": "Estrada Delegado Bruno de Almeida, 731 - Campo de Santana",
+        "NUM": "170548",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,584870086098",
+        "LON": "-49,318099350876",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1767 - Campo de Santana",
+        "NUM": "170553",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,586901939542",
+        "LON": "-49,322291314602",
+        "NOME": "Rua Júlio Pereira Sobrinho, 438 - Campo de Santana",
+        "NUM": "170905",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,590523379544",
+        "LON": "-49,326649904251",
+        "NOME": "Rua Pavo de Almeida, 186 - Campo de Santana",
+        "NUM": "170390",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,593119040305",
+        "LON": "-49,331692457199",
+        "NOME": "Rua Alda Bassete Bertolde, 955 - Campo de Santana",
+        "NUM": "170396",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "37",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564335591599",
+        "LON": "-49,312860338745",
+        "NOME": "Rua João Batista Betega Júnior, 367 - Tatuquara",
+        "NUM": "170502",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,586418104921",
+        "LON": "-49,320832192898",
+        "NOME": "Rua Júlio Pereira Sobrinho, 295 - Campo de Santana",
+        "NUM": "170903",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597836080167",
+        "LON": "-49,329881966114",
+        "NOME": "Rua Alda Bassete Bertolde, 655 - Campo de Santana",
+        "NUM": "170400",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563217719973",
+        "LON": "-49,312479465065",
+        "NOME": "Rua João Batista Betega Júnior, 380 - Tatuquara",
+        "NUM": "170732",
+        "SENTIDO": "Janaina",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562218401659",
+        "LON": "-49,312943487225",
+        "NOME": "Rua Antônio Sarote, 235 - Tatuquara",
+        "NUM": "170503",
+        "SENTIDO": "Janaina",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568417428171",
+        "LON": "-49,314598410187",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1085 - Tatuquara",
+        "NUM": "170910",
+        "SENTIDO": "Janaina",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569573963566",
+        "LON": "-49,315218000469",
+        "NOME": "Estrada Delegado Bruno de Almeida, 58 - Campo de Santana",
+        "NUM": "170544",
+        "SENTIDO": "Janaina",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,586839041152",
+        "LON": "-49,32240664959",
+        "NOME": "Rua Júlio Pereira Sobrinho, 434 - Campo de Santana",
+        "NUM": "170906",
+        "SENTIDO": "Janaina",
+        "SEQ": "28",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,588941280962",
+        "LON": "-49,328004419804",
+        "NOME": "Rua Júlio Pereira Sobrinho, 1013 - Campo de Santana",
+        "NUM": "170387",
+        "SENTIDO": "Janaina",
+        "SEQ": "30",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "34",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566162393985",
+        "LON": "-49,314542083798",
+        "NOME": "Estrada Delegado Bruno de Almeida, 842 - Tatuquara",
+        "NUM": "170512",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,568528727042",
+        "LON": "-49,314450888691",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1086 -Tatuquara",
+        "NUM": "170909",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,578936828248",
+        "LON": "-49,316975505298",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1098 - Campo de Santana",
+        "NUM": "170551",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585789116991",
+        "LON": "-49,318833947182",
+        "NOME": "Rua Júlio Pereira Sobrinho, 116 - Campo de Santana",
+        "NUM": "170902",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,595356633688",
+        "LON": "-49,331536889076",
+        "NOME": "Rua Alda Bassete Bertolde, 96  - Campo de Santana",
+        "NUM": "170398",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Janaina",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,586384236425",
+        "LON": "-49,320977032185",
+        "NOME": "Rua Júlio Pereira Sobrinho, 296 - Campo de Santana",
+        "NUM": "170904",
+        "SENTIDO": "Janaina",
+        "SEQ": "27",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,592794888171",
+        "LON": "-49,327164888382",
+        "NOME": "Rua Lucas Carvalho, 581 - Campo de Santana",
+        "NUM": "170391",
+        "SENTIDO": "Janaina",
+        "SEQ": "32",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,587674416958",
+        "LON": "-49,324726446627",
+        "NOME": "Rua Júlio Pereira Sobrinho, 677  - Campo de Santana",
+        "NUM": "170907",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,599446577056",
+        "LON": "-49,330826330688",
+        "NOME": "Rua Prof. Manoel de Oliveira Franco Sobrinho 01 - Campo de Santana",
+        "NUM": "170401",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512955416946",
+        "LON": "-49,294999854002",
+        "NOME": "Terminal Pinheirinho - 646 - Pompéia/Janaína",
+        "NUM": "105721",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "40",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "36",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552940243732",
+        "LON": "-49,30500975697",
+        "NOME": "Rodovia Régis Bittencourt, 23189 - Tatuquara",
+        "NUM": "170428",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564788060481",
+        "LON": "-49,315150945244",
+        "NOME": "Estrada Delegado Bruno de Almeida, 665 - Tatuquara",
+        "NUM": "170510",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512955416946",
+        "LON": "-49,294999854002",
+        "NOME": "Terminal Pinheirinho - 646 - Pompéia/Janaína",
+        "NUM": "105721",
+        "SENTIDO": "Janaina",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Janaina",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Janaina",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56156913386",
+        "LON": "-49,308214996742",
+        "NOME": "Rodovia Régis Bittencourt, 23960 - Tatuquara",
+        "NUM": "170908",
+        "SENTIDO": "Janaina",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,542569094365",
+        "LON": "-49,303089051304",
+        "NOME": "Rodovia BR476, 21690 - Cidade Industrial",
+        "NUM": "170378",
+        "SENTIDO": "Janaina",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,585039430628",
+        "LON": "-49,318212003654",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1768 - Campo de Santana",
+        "NUM": "170738",
+        "SENTIDO": "Janaina",
+        "SEQ": "25",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,597855431742",
+        "LON": "-49,329991936684",
+        "NOME": "Rua Alda Bassete Bertolde, 656 - Campo de Santana",
+        "NUM": "170399",
+        "SENTIDO": "Janaina",
+        "SEQ": "36",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "32",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571400686047",
+        "LON": "-49,316575198231",
+        "NOME": "Estrada Delegado Bruno de Almeida, 244  - Campo de Santana",
+        "NUM": "170547",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,592775535777",
+        "LON": "-49,329608380795",
+        "NOME": "Rua Lucas Carvalho, 686 - Campo de Santana",
+        "NUM": "170394",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550901499048",
+        "LON": "-49,305047307896",
+        "NOME": "Rodovia Régis Bittencourt, 22790 - Cidade Industrial",
+        "NUM": "170379",
+        "SENTIDO": "Janaina",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563391934419",
+        "LON": "-49,3096336413",
+        "NOME": "Rua João Batista Betega Júnior, 120 - Tatuquara",
+        "NUM": "170500",
+        "SENTIDO": "Janaina",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565768000596",
+        "LON": "-49,314858584461",
+        "NOME": "Estrada Delegado Bruno de Almeida, 1010 - Tatuquara",
+        "NUM": "170511",
+        "SENTIDO": "Janaina",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,571553113286",
+        "LON": "-49,316655664501",
+        "NOME": "Estrada Delegado Bruno de Almeida, 243 - Campo de Santana",
+        "NUM": "170546",
+        "SENTIDO": "Janaina",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575501636992",
+        "LON": "-49,316792457161",
+        "NOME": "Estrada Delegado Bruno de Almeida, 730 - Campo de Santana",
+        "NUM": "170736",
+        "SENTIDO": "Janaina",
+        "SEQ": "22",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,590598371465",
+        "LON": "-49,326674044132",
+        "NOME": "Rua Pavo de Almeida, 187 - Campo de Santana",
+        "NUM": "170389",
+        "SENTIDO": "Janaina",
+        "SEQ": "31",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,562283732651",
+        "LON": "-49,313021271286",
+        "NOME": "Rua Antônio Sarote, 218 - Tatuquara",
+        "NUM": "170504",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56073271689",
+        "LON": "-49,314579634724",
+        "NOME": "Rua Antônio Sarote, 2 - Tatuquara",
+        "NUM": "170506",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,599446577056",
+        "LON": "-49,330826330688",
+        "NOME": "Rua Prof. Manoel de Oliveira Franco Sobrinho 01 - Campo de Santana",
+        "NUM": "170401",
+        "SENTIDO": "Janaina",
+        "SEQ": "37",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Janaina",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Janaina",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    }
+]

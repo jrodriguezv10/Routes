@@ -1,0 +1,592 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,449985020239",
+        "LON": "-49,284862757868",
+        "NOME": "Av. Pres. Getúlio Vargas, 2676 - Água Verde",
+        "NUM": "150635",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,452466133913",
+        "LON": "-49,291257144159",
+        "NOME": "Av. Pres. Getúlio Vargas, 3355 - Água Verde",
+        "NUM": "180534",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447492829042",
+        "LON": "-49,278394610828",
+        "NOME": "Av. Pres. Getúlio Vargas, 1957 - Rebouças",
+        "NUM": "150637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468725470687",
+        "LON": "-49,313437171793",
+        "NOME": "Rua Amadeu do Amaral, 870 - Portão",
+        "NUM": "180024",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45929",
+        "LON": "-49,30256",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 830 - Portão",
+        "NUM": "180113",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453020743049",
+        "LON": "-49,298570187038",
+        "NOME": "Avenida Iguaçu, 3922 - Rebouças",
+        "NUM": "180643",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476497893021",
+        "LON": "-49,321787201223",
+        "NOME": "R. Carlos Klemtz, 1201 - Fazendinha",
+        "NUM": "180003",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,455639359749",
+        "LON": "-49,299622954077",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4272 - Rebouças",
+        "NUM": "180638",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434867555301",
+        "LON": "-49,272330314928",
+        "NOME": "Praça Rui Barbosa - 701 - Fazendinha",
+        "NUM": "102015",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,439756734365",
+        "LON": "-49,273240017786",
+        "NOME": "Rua Vinte e Quatro de Maio, 280-350 - Centro",
+        "NUM": "110022",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477379716669",
+        "LON": "-49,326465852041",
+        "NOME": "Terminal Fazendinha - 701 - Fazendinha",
+        "NUM": "105301",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "29",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46964",
+        "LON": "-49,31667",
+        "NOME": "Rua Amadeu do Amaral, 1277 - Portão",
+        "NUM": "180022",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "23",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,434867555301",
+        "LON": "-49,272330314928",
+        "NOME": "Praça Rui Barbosa - 701 - Fazendinha",
+        "NUM": "102015",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477266996889",
+        "LON": "-49,32417002943",
+        "NOME": "R. Carlos Klemtz, 1361 - Fazendinha",
+        "NUM": "180001",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467532823284",
+        "LON": "-49,309080845404",
+        "NOME": "Rua Amadeu do Amaral, 513 - Portão",
+        "NUM": "180027",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,459296639166",
+        "LON": "-49,301964519014",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 607 - Santa Quitéria",
+        "NUM": "180114",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47726",
+        "LON": "-49,32447",
+        "NOME": "R. Carlos Klemtz, 1360 - Fazendinha",
+        "NUM": "180002",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "28",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476534260933",
+        "LON": "-49,322947317791",
+        "NOME": "R. Carlos Klemtz, 1249 - Fazendinha",
+        "NUM": "180004",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445710238874",
+        "LON": "-49,278719158119",
+        "NOME": "Av. Iguaçu, 1788 - Água Verde",
+        "NUM": "150631",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446699628116",
+        "LON": "-49,281391979403",
+        "NOME": "Av. Iguaçu, 2083 - Água Verde",
+        "NUM": "150632",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448942375096",
+        "LON": "-49,287531555838",
+        "NOME": "Av. Iguaçu, 2612 - Água Verde",
+        "NUM": "150634",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46964",
+        "LON": "-49,31657",
+        "NOME": "Rua Amadeu do Amaral, 1278- Portão",
+        "NUM": "180021",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,446516767314",
+        "LON": "-49,27578884477",
+        "NOME": "Av. Pres. Getúlio Vargas, 1708 - Rebouças",
+        "NUM": "110210",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,448776471378",
+        "LON": "-49,281718062548",
+        "NOME": "Av. Pres. Getúlio Vargas, 2349 - Água Verde",
+        "NUM": "150636",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,447883978109",
+        "LON": "-49,284622700161",
+        "NOME": "Av. Iguaçu, 2436 - Água Verde",
+        "NUM": "150633",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470154304971",
+        "LON": "-49,318442798776",
+        "NOME": "Rua Rezala Simão, 996 - Santa Quitéria",
+        "NUM": "180010",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,445197981519",
+        "LON": "-49,272273809856",
+        "NOME": "Av. Pres. Getúlio Vargas, 1309 - Rebouças",
+        "NUM": "110211",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "27",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45671",
+        "LON": "-49,30349",
+        "NOME": "Av. Pres. Arthur da S Bernardes, 526 - Portão",
+        "NUM": "180115",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47413",
+        "LON": "-49,31821",
+        "NOME": "Rua Rezala Simão, 1446 - Santa Quitéria",
+        "NUM": "180008",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,468777531302",
+        "LON": "-49,313411284552",
+        "NOME": "Rua Amadeu do Amaral, 869 - Portão",
+        "NUM": "180023",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,456753389811",
+        "LON": "-49,302464754528",
+        "NOME": "Avenida Presidente Getúlio Vargas, 4557 - Rebouças",
+        "NUM": "180637",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,454671235033",
+        "LON": "-49,297057421154",
+        "NOME": "Avenida Presidente Getúlio Vargas, 3969 - Rebouças",
+        "NUM": "180639",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464383624402",
+        "LON": "-49,309613382145",
+        "NOME": "Rua Bocaiúva, 772 - Santa Quitéria",
+        "NUM": "180984",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460594909412",
+        "LON": "-49,304376369043",
+        "NOME": "Rua Professor Ulisses Vieira, 1445 - Vila Izabel",
+        "NUM": "180981",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,450067365812",
+        "LON": "-49,290571839756",
+        "NOME": "Av. Iguaçu, 3064 - Água Verde",
+        "NUM": "180641",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453747906833",
+        "LON": "-49,300549657291",
+        "NOME": "Avenida Iguaçu, 4123 - Rebouças",
+        "NUM": "180644",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,451533706681",
+        "LON": "-49,294584424442",
+        "NOME": "Avenida Iguaçu, 3480 - Rebouças",
+        "NUM": "180642",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,464235904288",
+        "LON": "-49,309628134294",
+        "NOME": "Rua Bocaiúva, 771 - Santa Quitéria",
+        "NUM": "180983",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,460421756595",
+        "LON": "-49,304298584982",
+        "NOME": "Rua Professor Ulisses Vieira, 1444 - Vila Izabel",
+        "NUM": "180982",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463557958561",
+        "LON": "-49,307170690245",
+        "NOME": "Rua Bocaiúva, 550 - Santa Quitéria",
+        "NUM": "180293",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14512",
+        "LAT": "-25,477379716669",
+        "LON": "-49,326465852041",
+        "NOME": "Terminal Fazendinha - 701 - Fazendinha",
+        "NUM": "105301",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475752608398",
+        "LON": "-49,318800204859",
+        "NOME": "R. Carlos Klemtz, 951 - Fazendinha",
+        "NUM": "180005",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46818",
+        "LON": "-49,31114",
+        "NOME": "Rua Amadeu do Amaral, 631 - Portão",
+        "NUM": "180025",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,453362226006",
+        "LON": "-49,293697954363",
+        "NOME": "Av. Pres. Getúlio Vargas, 3605 - Água Verde",
+        "NUM": "180640",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,462305955721",
+        "LON": "-49,305321307129",
+        "NOME": "Rua Curupaitis, 1146 - Santa Quitéria",
+        "NUM": "180355",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,463543428622",
+        "LON": "-49,306881011671",
+        "NOME": "Rua Bocaiúva, 543 - Santa Quitéria",
+        "NUM": "180243",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465690208073",
+        "LON": "-49,309414358086",
+        "NOME": "Rua Cel. Pretextato Pena Forte Taborda Ribas, 1195 - Santa Quitéria",
+        "NUM": "180295",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475747264233",
+        "LON": "-49,318977930059",
+        "NOME": "R. Carlos Klemtz, 1000 - Fazendinha",
+        "NUM": "180007",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "26",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,470101031441",
+        "LON": "-49,318554110451",
+        "NOME": "Rua Rezala Simão, 997 - Santa Quitéria",
+        "NUM": "180020",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467946455933",
+        "LON": "-49,310915976686",
+        "NOME": "Rua Amadeu do Amaral, 632 - Portão",
+        "NUM": "180026",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443296676303",
+        "LON": "-49,272462905592",
+        "NOME": "Av. Iguaçu, 1184 - Rebouças",
+        "NUM": "110208",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,444475004665",
+        "LON": "-49,275511236137",
+        "NOME": "Av. Iguaçu, 1438 - Rebouças",
+        "NUM": "110209",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,46180708829",
+        "LON": "-49,305669994301",
+        "NOME": "Rua Curupaitis, 1385 - Santa Quitéria",
+        "NUM": "180242",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,465823396737",
+        "LON": "-49,309505553192",
+        "NOME": "Rua Cel. Pretextato Pena Forte Taborda Ribas, 1198 - Santa Quitéria",
+        "NUM": "180329",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,443478176732",
+        "LON": "-49,270140950921",
+        "NOME": "Rua Alferes Poli, 787 - Rebouças",
+        "NUM": "110024",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "28",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,440705808683",
+        "LON": "-49,271456482887",
+        "NOME": "Rua Alferes Poli, 400 - Rebouças",
+        "NUM": "110026",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "29",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,45146710446",
+        "LON": "-49,288747937626",
+        "NOME": "Av. Pres. Getúlio Vargas, 3047 - Água Verde",
+        "NUM": "180535",
+        "SENTIDO": "Praça Rui Barbosa",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,47428",
+        "LON": "-49,31836",
+        "NOME": "Rua Rezala Simão, 1447 -Santa Quitéria",
+        "NUM": "180009",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "25",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,467434931096",
+        "LON": "-49,309180728836",
+        "NOME": "Rua Amadeu do Amaral, 514 - Portão",
+        "NUM": "180028",
+        "SENTIDO": "Terminal Fazendinha",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    }
+]

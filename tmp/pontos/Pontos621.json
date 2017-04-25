@@ -1,0 +1,442 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,491283617581",
+        "LON": "-49,277930588669",
+        "NOME": "Rua Brasílio Ribas, 647 - Novo Mundo",
+        "NUM": "150179",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482492118111",
+        "LON": "-49,246773323225",
+        "NOME": "Terminal Hauer - 621 - Fanny",
+        "NUM": "105514",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "21",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483005193147",
+        "LON": "-49,270350665993",
+        "NOME": "Rua Maestro Francisco Antonelo, 42 - Fanny",
+        "NUM": "150168",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,494948420494",
+        "LON": "-49,291139154597",
+        "NOME": "Rua Pedro Américo, 381 - Novo Mundo",
+        "NUM": "150108",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477905901363",
+        "LON": "-49,2663957488",
+        "NOME": "Rua Maestro Francisco Antonelo, 739 - Fanny",
+        "NUM": "150288",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,486908208621",
+        "LON": "-49,273665876335",
+        "NOME": "Rua Maestro Francisco Antonelo, 2027 - Fanny",
+        "NUM": "150284",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492026002613",
+        "LON": "-49,293224544472",
+        "NOME": "Terminal Capão Raso - 621 - Fanny",
+        "NUM": "104813",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480422886518",
+        "LON": "-49,268259884066",
+        "NOME": "Rua Maestro Francisco Antonelo, 1070 - Fanny",
+        "NUM": "150165",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48184",
+        "LON": "-49,24937",
+        "NOME": "Rua Alcino Guanabara, 907 - Hauer",
+        "NUM": "150202",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489706317333",
+        "LON": "-49,286073446274",
+        "NOME": "Rua Clara Polsin, 388 - Novo Mundo",
+        "NUM": "150171",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482222372118",
+        "LON": "-49,255292415619",
+        "NOME": "Rua Oliveira Viana, 740 - Hauer",
+        "NUM": "150297",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485237578553",
+        "LON": "-49,272334159559",
+        "NOME": "Rua Maestro Francisco Antonelo, 1755 - Fanny",
+        "NUM": "150286",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "12",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489565891722",
+        "LON": "-49,286092221737",
+        "NOME": "Rua Clara Polsin, 387- Novo Mundo",
+        "NUM": "150172",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,49104882631",
+        "LON": "-49,287968426943",
+        "NOME": "Rua Clara Polsin, 161 - Novo Mundo",
+        "NUM": "150170",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "20",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487786346063",
+        "LON": "-49,28406983614",
+        "NOME": "Rua Clara Polsin, 701 -Novo Mundo",
+        "NUM": "150174",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482418495682",
+        "LON": "-49,253642857075",
+        "NOME": "Rua Professor João Soares Barcelos, 949- Hauer",
+        "NUM": "150299",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490288542172",
+        "LON": "-49,279420555777",
+        "NOME": "Rua Brasílio Ribas, 378 - Novo Mundo",
+        "NUM": "150177",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491665473459",
+        "LON": "-49,288603003058",
+        "NOME": "Rua Clara Polsin, 140 - Novo Mundo",
+        "NUM": "150169",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "14594",
+        "LAT": "-25,474973889693",
+        "LON": "-49,258533150306",
+        "NOME": "Estação Fanny",
+        "NUM": "108209",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "7",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,482851442735",
+        "LON": "-49,270402969069",
+        "NOME": "Rua Maestro Francisco Antonelo, 41 - Fanny",
+        "NUM": "150167",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "11",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477219902422",
+        "LON": "-49,25617352128",
+        "NOME": "Rua Prof. João Soares Barcelos, 261 - Hauer",
+        "NUM": "150301",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475813821658",
+        "LON": "-49,264522225803",
+        "NOME": "Rua Maestro Francisco Antonelo, 483 - Fanny",
+        "NUM": "150289",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488590171311",
+        "LON": "-49,281975030899",
+        "NOME": "Rua Brasílio Ribas, 113 - Novo Mundo",
+        "NUM": "150630",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489745055404",
+        "LON": "-49,275771081448",
+        "NOME": "Rua Maestro Francisco Antonelo, 2341 - Fanny",
+        "NUM": "150281",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,490150538363",
+        "LON": "-49,279369593805",
+        "NOME": "Rua Brasílio Ribas, 379 - Novo Mundo",
+        "NUM": "150178",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,489565891722",
+        "LON": "-49,275816679001",
+        "NOME": "Rua Maestro Francisco Antonelo, 2340 - Fanny",
+        "NUM": "150282",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "14",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48013278884",
+        "LON": "-49,254758656025",
+        "NOME": "Rua Professor João Soares Barcelos, 700 - Hauer",
+        "NUM": "150300",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,477781200873",
+        "LON": "-49,26611009354",
+        "NOME": "Rua Maestro Francisco Antonelo, 738 - Fanny",
+        "NUM": "150287",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "13",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,485106832612",
+        "LON": "-49,272048504299",
+        "NOME": "Rua Maestro Francisco Antonelo, 1754 - Fanny",
+        "NUM": "150285",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,480287292701",
+        "LON": "-49,268334985918",
+        "NOME": "Rua Maestro Francisco Antonelo, 1071 - Fanny",
+        "NUM": "150164",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,488447323241",
+        "LON": "-49,281932115555",
+        "NOME": "Rua Brasílio Ribas, 112 - Novo Mundo",
+        "NUM": "150176",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "17",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "47567",
+        "LAT": "-25,474845554019",
+        "LON": "-49,258702129474",
+        "NOME": "Estação Fanny",
+        "NUM": "108210",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "15",
+        "TIPO": "Estação tubo"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,479147306487",
+        "LON": "-49,256818592548",
+        "NOME": "Rua Oliveira Viana, 326 - Hauer",
+        "NUM": "150296",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14487",
+        "LAT": "-25,482492118111",
+        "LON": "-49,246773323225",
+        "NOME": "Terminal Hauer - 621 - Fanny",
+        "NUM": "105514",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,483870044995",
+        "LON": "-49,249394135601",
+        "NOME": "Rua Waldemar Kost, 1037 - Hauer",
+        "NUM": "150204",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4849163261",
+        "LON": "-49,251993230182",
+        "NOME": "Rua Waldemar Kost, 1296 - Hauer",
+        "NUM": "150205",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,491226721764",
+        "LON": "-49,277787090487",
+        "NOME": "Rua Brasílio Ribas, 646 - Novo Mundo",
+        "NUM": "150280",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487030478461",
+        "LON": "-49,273606867737",
+        "NOME": "Rua Maestro Francisco Antonelo, 2026 - Fanny",
+        "NUM": "150283",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,48322",
+        "LON": "-49,25275",
+        "NOME": "Rua Alcíno Guanabara, 1237 - Hauer",
+        "NUM": "150203",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,487786346063",
+        "LON": "-49,283895492554",
+        "NOME": "Rua Clara Polsin, 700 - Novo Mundo",
+        "NUM": "150173",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,476860326761",
+        "LON": "-49,257938414812",
+        "NOME": "Rua Oliveira Viana, 140 - Hauer",
+        "NUM": "150295",
+        "SENTIDO": "Terminal Hauer",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14497",
+        "LAT": "-25,492026002613",
+        "LON": "-49,293224544472",
+        "NOME": "Terminal Capão Raso - 621 - Fanny",
+        "NUM": "104813",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "23",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,492558019642",
+        "LON": "-49,287391471519",
+        "NOME": "Rua Maria Trevisan Tortato, 642 - Novo Mundo",
+        "NUM": "150070",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,475599526716",
+        "LON": "-49,264524908012",
+        "NOME": "Rua Maestro Francisco Antonelo, 484 - Fanny",
+        "NUM": "150290",
+        "SENTIDO": "Terminal Capão Raso",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    }
+]

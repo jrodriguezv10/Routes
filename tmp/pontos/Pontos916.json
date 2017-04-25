@@ -1,0 +1,302 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,38998488978",
+        "LON": "-49,335088003805",
+        "NOME": "Rua João Refo, 270 - Santa Felicidade",
+        "NUM": "190478",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,386300456591",
+        "LON": "-49,335034359624",
+        "NOME": "Rua João Refo, 706 - Santa Felicidade",
+        "NUM": "190476",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377805598361",
+        "LON": "-49,333746899297",
+        "NOME": "Rua João Refo, 1640 - Santa Felicidade",
+        "NUM": "190469",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372273111417",
+        "LON": "-49,330314811045",
+        "NOME": "Rua Vanda Wolf, 1575 - Santa Felicidade",
+        "NUM": "190451",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399835743664",
+        "LON": "-49,333620835474",
+        "NOME": "Rua Via Veneto, 1593 - Santa Felicidade",
+        "NUM": "190239",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,3901302778",
+        "LON": "-49,335230160882",
+        "NOME": "Rua João Refo, 265 - Santa Felicidade",
+        "NUM": "190479",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388278990594",
+        "LON": "-49,335256982973",
+        "NOME": "Rua João Refo, 351 - Santa Felicidade",
+        "NUM": "190477",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383102989871",
+        "LON": "-49,334704447916",
+        "NOME": "Rua João Refo, 1045 - Santa Felicidade",
+        "NUM": "190474",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,393297270058",
+        "LON": "-49,33539914005",
+        "NOME": "Rua Saturnino Miranda, 822 - Santa Felicidade",
+        "NUM": "190149",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373136867443",
+        "LON": "-49,331489820411",
+        "NOME": "Rua Doutor Eugênio Bertolli, 749 - Santa Felicidade",
+        "NUM": "190186",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "14",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399830897789",
+        "LON": "-49,333186317613",
+        "NOME": "Rua Via Veneto, 1590 - Santa Felicidade",
+        "NUM": "190240",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397063871484",
+        "LON": "-49,33477418535",
+        "NOME": "Rua Saturnino Miranda, 400 - Santa Felicidade",
+        "NUM": "190099",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,397277094681",
+        "LON": "-49,334847946098",
+        "NOME": "Rua Saturnino Miranda, 399 - Santa Felicidade",
+        "NUM": "190100",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37787224128",
+        "LON": "-49,333830047777",
+        "NOME": "Rua João Refo, 1613 - Santa Felicidade",
+        "NUM": "190468",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,375766307258",
+        "LON": "-49,334440250328",
+        "NOME": "Rua Doutor Eugênio Bertolli, 1136 - Santa Felicidade",
+        "NUM": "190809",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,373239865011",
+        "LON": "-49,331741948059",
+        "NOME": "Rua Doutor Eugênio Bertolli, 750 - Santa Felicidade",
+        "NUM": "190465",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377048289879",
+        "LON": "-49,334680308034",
+        "NOME": "Rua Paulo J Buso, 552 - Santa Felicidade",
+        "NUM": "190810",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "12",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,377125838485",
+        "LON": "-49,334531445434",
+        "NOME": "Rua Paulo J Buso, 551-667 - Santa Felicidade",
+        "NUM": "190467",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,372273111417",
+        "LON": "-49,330314811045",
+        "NOME": "Rua Vanda Wolf, 1575 - Santa Felicidade",
+        "NUM": "190451",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,388031827065",
+        "LON": "-49,335130919149",
+        "NOME": "Rua João Refo, 470 - Santa Felicidade",
+        "NUM": "190812",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "7",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,383545236429",
+        "LON": "-49,334653485944",
+        "NOME": "Rua João Refo, 974 - Santa Felicidade",
+        "NUM": "190811",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,37577963607",
+        "LON": "-49,334330279758",
+        "NOME": "Rua Doutor Eugênio Bertolli, 1135 - Santa Felicidade",
+        "NUM": "190466",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,392132979961",
+        "LON": "-49,335193951061",
+        "NOME": "Rua João Refo, 93 - Santa Felicidade",
+        "NUM": "190480",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381922850031",
+        "LON": "-49,334456343582",
+        "NOME": "Rua João Refo, 1155 - Santa Felicidade",
+        "NUM": "190473",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,391903997549",
+        "LON": "-49,335079957178",
+        "NOME": "Rua João Refo, 2 - Santa Felicidade",
+        "NUM": "190813",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39364982603",
+        "LON": "-49,335686136415",
+        "NOME": "Rua Saturnino Miranda, 821 - Santa Felicidade",
+        "NUM": "190148",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,38590062643",
+        "LON": "-49,335136283567",
+        "NOME": "Rua João Refo, 705 - Santa Felicidade",
+        "NUM": "190475",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400938780857",
+        "LON": "-49,3301923018",
+        "NOME": "Terminal Santa Felicidade - 916 - Jardim Pinheiros",
+        "NUM": "106006",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,381953141238",
+        "LON": "-49,334300775459",
+        "NOME": "Rua João Refo, 1156 - Santa Felicidade",
+        "NUM": "190472",
+        "SENTIDO": "Pinheiros",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "14510",
+        "LAT": "-25,400938780857",
+        "LON": "-49,3301923018",
+        "NOME": "Terminal Santa Felicidade - 916 - Jardim Pinheiros",
+        "NUM": "106006",
+        "SENTIDO": "Terminal Sta. Felicidade",
+        "SEQ": "15",
+        "TIPO": "Plataforma"
+    }
+]

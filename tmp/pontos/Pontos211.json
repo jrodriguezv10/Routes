@@ -1,0 +1,392 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,411192990457",
+        "LON": "-49,232854635582",
+        "NOME": "Travessa Lange de Morretes, 104 - Jardim Social",
+        "NUM": "130067",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410738353962",
+        "LON": "-49,235409943447",
+        "NOME": "Rua Cel. Temistocles de Souza Brasil, 114-280 - Jardim Social",
+        "NUM": "130069",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40514",
+        "LON": "-49,2176",
+        "NOME": "Av. Caviúna, 244 - Bairro Alto",
+        "NUM": "130651",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "16",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411953032013",
+        "LON": "-49,220856691094",
+        "NOME": "Rodovia BR476 - Bairro Alto",
+        "NUM": "130285",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40744876934",
+        "LON": "-49,249701768694",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130001",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40335942835",
+        "LON": "-49,245174139881",
+        "NOME": "Rua Nicarágua, 239 - Bacacheri",
+        "NUM": "130013",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406497166381",
+        "LON": "-49,252462104859",
+        "NOME": "Terminal Cabral - 211 - Colina Verde",
+        "NUM": "104407",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,403133679583",
+        "LON": "-49,241859300594",
+        "NOME": "Rua México, 429 - Bacacheri",
+        "NUM": "130073",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "16",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409139097623",
+        "LON": "-49,224295860119",
+        "NOME": "Rua Prof. Raul Pinheiro Machado, 57 - Bacacheri",
+        "NUM": "130082",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40716",
+        "LON": "-49,21882",
+        "NOME": "Rodovia BR476, Pista Lateral - Bairro Alto",
+        "NUM": "130084",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40276",
+        "LON": "-49,21309",
+        "NOME": "Av. Copaíba, 125 - Bairro Alto",
+        "NUM": "130088",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409264252139",
+        "LON": "-49,224145743551",
+        "NOME": "Rua Prof. Raul Pinheiro Machado, 58 - Bacacheri",
+        "NUM": "130081",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40725",
+        "LON": "-49,21873",
+        "NOME": "Rodovia BR476, Pista Lateral - Bairro Alto",
+        "NUM": "130083",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40358",
+        "LON": "-49,21636",
+        "NOME": "Av. Copaíba, 415 - Bairro Alto",
+        "NUM": "130652",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,414106675422",
+        "LON": "-49,231597930059",
+        "NOME": "Rua Fagundes Varela, 991 - Jardim Social",
+        "NUM": "130068",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412502087695",
+        "LON": "-49,231483906746",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 25 - Bacacheri",
+        "NUM": "130075",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40345",
+        "LON": "-49,21653",
+        "NOME": "Av. Copaíba, 416 - Bairro Alto",
+        "NUM": "130086",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40751903007",
+        "LON": "-49,249488533077",
+        "NOME": "Av. Munhoz da Rocha, 1067 - Juveve",
+        "NUM": "130002",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,407736959452",
+        "LON": "-49,240344256449",
+        "NOME": "Rua Estados Unidos, 421 - Bacacheri",
+        "NUM": "130065",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40331",
+        "LON": "-49,21503",
+        "NOME": "Av. Copaíba, 236 - Bairro Alto",
+        "NUM": "130653",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "18",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41052",
+        "LON": "-49,22672",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 517 - Bacacheri",
+        "NUM": "130080",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40326",
+        "LON": "-49,21505",
+        "NOME": "Av. Copaíba, 237 - Bairro Alto",
+        "NUM": "130087",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406152399191",
+        "LON": "-49,241617317791",
+        "NOME": "Rua Estados Unidos, 701 - Bacacheri",
+        "NUM": "130064",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409790309051",
+        "LON": "-49,238721224537",
+        "NOME": "Rua Estados Unidos, 184 - Bacacheri",
+        "NUM": "130066",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412546984523",
+        "LON": "-49,231264402447",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 24 - Bacacheri",
+        "NUM": "130074",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41055788639",
+        "LON": "-49,226500495701",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 516 - Bacacheri",
+        "NUM": "130079",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40276",
+        "LON": "-49,21309",
+        "NOME": "Av. Copaíba, 125 - Bairro Alto",
+        "NUM": "130088",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,406155130757",
+        "LON": "-49,247822419643",
+        "NOME": "Av. Munhoz da Rocha, 1143 - Juveve",
+        "NUM": "130003",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,410531746735",
+        "LON": "-49,23596594841",
+        "NOME": "Rua México, 1455 - Bacacheri",
+        "NUM": "130650",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "12",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408816674837",
+        "LON": "-49,237335626984",
+        "NOME": "Rua México, 833 - Bacacheri",
+        "NUM": "130070",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41146",
+        "LON": "-49,22898",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 144 - Bacacheri",
+        "NUM": "130077",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405733016782",
+        "LON": "-49,247328309193",
+        "NOME": "Av. Munhoz da Rocha, 1361 - Juveve",
+        "NUM": "130004",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404285485932",
+        "LON": "-49,244288658895",
+        "NOME": "Av. Prefeito Erasto Gaertner, 193 - Bacacheri",
+        "NUM": "130005",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41162",
+        "LON": "-49,22907",
+        "NOME": "Rua Paulo Ildefonso Assumpção, 143 - Bacacheri",
+        "NUM": "130076",
+        "SENTIDO": "Colina Verde",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409082105456",
+        "LON": "-49,222138787003",
+        "NOME": "Rua Mercedes Seiler Rocha, 423 - Bacacheri",
+        "NUM": "130639",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,405101852055",
+        "LON": "-49,240317580357",
+        "NOME": "Rua México, 679 - Bacacheri",
+        "NUM": "130072",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "15",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "14474",
+        "LAT": "-25,406497166381",
+        "LON": "-49,252462104859",
+        "NOME": "Terminal Cabral - 211 - Colina Verde",
+        "NUM": "104407",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,4071",
+        "LON": "-49,23879",
+        "NOME": "Rua México, 590 - Bacacheri",
+        "NUM": "130071",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,40521",
+        "LON": "-49,21773",
+        "NOME": "Av. Caviúna, 243 - Bairro Alto",
+        "NUM": "130085",
+        "SENTIDO": "Terminal Cabral",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    }
+]

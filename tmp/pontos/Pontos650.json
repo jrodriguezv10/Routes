@@ -1,0 +1,562 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,568989342884",
+        "LON": "-49,332253367847",
+        "NOME": "Rua Engenheiro João Kloss, 733 - Tatuquara",
+        "NUM": "170958",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,56519908878",
+        "LON": "-49,33382514233",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1039 - Tatuquara",
+        "NUM": "170653",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564289313161",
+        "LON": "-49,338919998354",
+        "NOME": "Av. Pero Vaz de Caminha, 589 - Tatuquara",
+        "NUM": "170649",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560428473789",
+        "LON": "-49,336608946323",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 831 - Tatuquara",
+        "NUM": "170643",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,573844976489",
+        "LON": "-49,32951182127",
+        "NOME": "Rua Odir Gomes da Rocha, 1241 - Tatuquara",
+        "NUM": "170478",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,550737170604",
+        "LON": "-49,327776432037",
+        "NOME": "Rua João Lunardeli, 2095 - Cidade Industrial",
+        "NUM": "170658",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "21",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,529798854542",
+        "LON": "-49,299592186508",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20228 - Pinheirinho",
+        "NUM": "160438",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "5",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,549415898523",
+        "LON": "-49,324262738228",
+        "NOME": "Rua João Lunardeli, 1958 - Cidade Industrial",
+        "NUM": "170660",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "22",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559630234239",
+        "LON": "-49,338706762738",
+        "NOME": "Rua Enete Dubard, 55 - Tatuquara",
+        "NUM": "170644",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561904748795",
+        "LON": "-49,339339764065",
+        "NOME": "Rua Enete Dubard, 268 - Tatuquara",
+        "NUM": "170646",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560428473789",
+        "LON": "-49,336608946323",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 831 - Tatuquara",
+        "NUM": "170643",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536584739941",
+        "LON": "-49,301261031223",
+        "NOME": "Rodovia BR476, 21251 - Pinheirinho",
+        "NUM": "160073",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "24",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,534129437556",
+        "LON": "-49,300630712105",
+        "NOME": "Rodovia BR476, 20917 - Pinheirinho",
+        "NUM": "160075",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564231242143",
+        "LON": "-49,336232424921",
+        "NOME": "Av. Pero Vaz de Caminha, 783 - Tatuquara",
+        "NUM": "170651",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564561255536",
+        "LON": "-49,330227971077",
+        "NOME": "Rua Deputado Vidal Vanhoni, 906 - Tatuquara",
+        "NUM": "170637",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563386789563",
+        "LON": "-49,329247952646",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 703 - Tatuquara",
+        "NUM": "170633",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "11",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,565204872647",
+        "LON": "-49,333954900503",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1038 - Tatuquara",
+        "NUM": "170652",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "20",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512666332583",
+        "LON": "-49,295308133764",
+        "NOME": "Terminal Pinheirinho -  650 - Santa Rita / Pinheirinho",
+        "NUM": "105739",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "31",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525703693944",
+        "LON": "-49,29675635582",
+        "NOME": "Rodovia BR476 - Pista Lateral, 19805 - Pinheirinho",
+        "NUM": "160077",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "27",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561820060198",
+        "LON": "-49,339227111286",
+        "NOME": "Rua Enete Dubard, 269 -Tatuquara",
+        "NUM": "170647",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525878471402",
+        "LON": "-49,297614519014",
+        "NOME": "Rodovia BR476 - Pista Lateral - Pinheirinho",
+        "NUM": "160078",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557623060261",
+        "LON": "-49,332020015663",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 116 - Tatuquara",
+        "NUM": "170629",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560964702004",
+        "LON": "-49,330390573687",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 441 - Tatuquara",
+        "NUM": "170631",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "10",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,572636729175",
+        "LON": "-49,332265437788",
+        "NOME": "Rua Engenheiro João Kloss, 1155 - Tatuquara",
+        "NUM": "170955",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "24",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561560889526",
+        "LON": "-49,334095716476",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 567 - Tatuquara",
+        "NUM": "170641",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575122429838",
+        "LON": "-49,331259280443",
+        "NOME": "R. Guilherme Nizer, 520 - Tatuquara",
+        "NUM": "171013",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "25",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,559667739883",
+        "LON": "-49,338592768855",
+        "NOME": "Rua Enete Dubard, 54 - Tatuquara",
+        "NUM": "170645",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566860137342",
+        "LON": "-49,33289978022",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1271 -Tatuquara",
+        "NUM": "170960",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563387734231",
+        "LON": "-49,332759976387",
+        "NOME": "Rua Deputado Vidal Vanhoni, 1181 - Tatuquara",
+        "NUM": "170639",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,575122429838",
+        "LON": "-49,331259280443",
+        "NOME": "R. Guilherme Nizer, 520 - Tatuquara",
+        "NUM": "171013",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,53378939418",
+        "LON": "-49,301047795606",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20916 - Pinheirinho",
+        "NUM": "170121",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52145903092",
+        "LON": "-49,295616819782",
+        "NOME": "Av. Winston Churchill, 2770 - Capão Raso",
+        "NUM": "160301",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564520121994",
+        "LON": "-49,338864684105",
+        "NOME": "Av. Pero Vaz de Caminha, 590- Tatuquara",
+        "NUM": "170648",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,566942137659",
+        "LON": "-49,332953095436",
+        "NOME": "Rua Adriana Ceres Zago Bueno, 1520 - Tatuquara",
+        "NUM": "170961",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "21",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,569071341743",
+        "LON": "-49,332435429096",
+        "NOME": "Rua Engenheiro João Kloss, 96 - Tatuquara",
+        "NUM": "170959",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "22",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564462051087",
+        "LON": "-49,330222606659",
+        "NOME": "Rua Deputado Vidal Vanhoni, 907  - Tatuquara",
+        "NUM": "170636",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,539911210059",
+        "LON": "-49,301985597553",
+        "NOME": "Rodovia BR476, 21283 - Cidade Industrial",
+        "NUM": "160072",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "23",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519428276483",
+        "LON": "-49,294448658895",
+        "NOME": "Rua André Ferreira Barbosa, 8391 - Pinheirinho",
+        "NUM": "150272",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "30",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,536449209528",
+        "LON": "-49,301535957647",
+        "NOME": "Rodovia BR476, 21152 - Cidade Industrial",
+        "NUM": "160074",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "7",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52887878983",
+        "LON": "-49,298525743551",
+        "NOME": "Rodovia BR476 - Pista Lateral, 20227 - Pinheirinho",
+        "NUM": "160076",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521545341483",
+        "LON": "-49,292573072882",
+        "NOME": "Rua Engenheiro João Bley Filho, 95 - Pinheirinho",
+        "NUM": "150270",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "28",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,557497232683",
+        "LON": "-49,331711561626",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 117 - Tatuquara",
+        "NUM": "170630",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,57260164705",
+        "LON": "-49,332180948204",
+        "NOME": "Rua Engenheiro João Kloss, 1154 - Tatuquara",
+        "NUM": "170954",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570770103902",
+        "LON": "-49,331832261032",
+        "NOME": "Rua Engenheiro João Kloss, 933 - Tatuquara",
+        "NUM": "170956",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,560638043091",
+        "LON": "-49,330141128248",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 442 - Tatuquara",
+        "NUM": "170632",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,552010030664",
+        "LON": "-49,331177473068",
+        "NOME": "Rua João Lunardeli, 2008- Cidade Industrial",
+        "NUM": "170655",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,556058410138",
+        "LON": "-49,332413971424",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 31 - Tatuquara",
+        "NUM": "170627",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512666332583",
+        "LON": "-49,295308133764",
+        "NOME": "Terminal Pinheirinho -  650 - Santa Rita / Pinheirinho",
+        "NUM": "105739",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,555683607047",
+        "LON": "-49,332996339745",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 32 - Tatuquara",
+        "NUM": "170626",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "8",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,570754377188",
+        "LON": "-49,331943572706",
+        "NOME": "Rua Engenheiro João Kloss, 934 -Tatuquara",
+        "NUM": "170957",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522964011281",
+        "LON": "-49,292860233135",
+        "NOME": "Rua Hélio Dirceu Woitikiw, 122 - Pinheirinho",
+        "NUM": "150271",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "29",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,5630286818",
+        "LON": "-49,329003871626",
+        "NOME": "Rua Jovenilson Américo de Oliveira, 702 - Tatuquara",
+        "NUM": "170635",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,561560889526",
+        "LON": "-49,334095716476",
+        "NOME": "Rua Des. Ernani Almeida de Abreu, 567 - Tatuquara",
+        "NUM": "170641",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,564460841276",
+        "LON": "-49,335923641921",
+        "NOME": "Av. Pero Vaz de Caminha, 783 - Tatuquara",
+        "NUM": "170650",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "19",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,563300627036",
+        "LON": "-49,332746565342",
+        "NOME": "Rua Deputado Vidal Vanhoni, 1194 - Tatuquara",
+        "NUM": "170638",
+        "SENTIDO": "Santa Rita",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,411621626364",
+        "LON": "-49,294794149869",
+        "NOME": "R. Victório Viezzer, 810 - Vista Alegre",
+        "NUM": "190515",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399082273762",
+        "LON": "-49,298941101852",
+        "NOME": "Rua Itália Giampoli Amatuzzi, 4 - Vista Alegre",
+        "NUM": "190539",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "26",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429263631233",
+        "LON": "-49,271171421951",
+        "NOME": "Praça Tiradentes - 967 - Júlio Graf",
+        "NUM": "101014",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "1",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422354282858",
+        "LON": "-49,284145743551",
+        "NOME": "Av. Manoel Ribas, 530 - Mercês",
+        "NUM": "110033",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404725153047",
+        "LON": "-49,302918047852",
+        "NOME": "Rua José Casagrande 822 - Vista Alegre",
+        "NUM": "190529",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "21",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,421023802045",
+        "LON": "-49,29224763995",
+        "NOME": "Av. Manoel Ribas, 1141 - Mercês",
+        "NUM": "190446",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "10",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423430413535",
+        "LON": "-49,287646127345",
+        "NOME": "R. Júlia Wanderley, 322 - Mercês",
+        "NUM": "110036",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "20",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,404739690081",
+        "LON": "-49,303015948481",
+        "NOME": "Rua José Casagrande 825 - Vista Alegre",
+        "NUM": "190530",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "7",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402275637772",
+        "LON": "-49,302436591333",
+        "NOME": "Rua Joaquim Gonçalves Ledo, 1 - Vista Alegre",
+        "NUM": "190532",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413863801349",
+        "LON": "-49,298042561832",
+        "NOME": "Rua Izidoro Chanoski, 1 - Vista Alegre",
+        "NUM": "190519",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,39927727616",
+        "LON": "-49,301082075781",
+        "NOME": "Rua Willian Walter Atkinson, 115 - Vista Alegre",
+        "NUM": "190826",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "25",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41631792651",
+        "LON": "-49,293893184486",
+        "NOME": "Rua Victório Viezzer, 173 - Vista Alegre",
+        "NUM": "190509",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "16",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426368933248",
+        "LON": "-49,277005048116",
+        "NOME": "Rua Jaime Reis, 342 - São Francisco",
+        "NUM": "110151",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "23",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423202613978",
+        "LON": "-49,280679589087",
+        "NOME": "Av. Manoel Ribas, 156 - São Francisco",
+        "NUM": "110143",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,425330236089",
+        "LON": "-49,279466041144",
+        "NOME": "Rua dos Presbíteros, 49 - São Francisco",
+        "NUM": "110142",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412726359175",
+        "LON": "-49,296434577528",
+        "NOME": "Rua Júlio Graf, 180 - Vista Alegre",
+        "NUM": "190517",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "15",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,426941197815",
+        "LON": "-49,279158740696",
+        "NOME": "Alameda Cabral, 724 - São Francisco",
+        "NUM": "110141",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "4",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422572451556",
+        "LON": "-49,290002332506",
+        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
+        "NUM": "110035",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "9",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400726190711",
+        "LON": "-49,303919852919",
+        "NOME": "Rua Joaquim Gonçalves Ledo, 210 - Vista Alegre",
+        "NUM": "190533",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "23",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409815845474",
+        "LON": "-49,303871184061",
+        "NOME": "Rua José Casagrande 802 Curitiba - PR",
+        "NUM": "190526",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "9",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399587413179",
+        "LON": "-49,303290874905",
+        "NOME": "Rua José Abentin, 220 - Vista Alegre",
+        "NUM": "190536",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "4",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399203376206",
+        "LON": "-49,301102192348",
+        "NOME": "Rua Willian Walter Atkinson, 106 - Vista Alegre",
+        "NUM": "190537",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399959334257",
+        "LON": "-49,299991757816",
+        "NOME": "Rua Frei Valentim Hela, 2 - Vista Alegre",
+        "NUM": "190538",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "2",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,419102734923",
+        "LON": "-49,293355392273",
+        "NOME": "Av. Manoel Ribas, 1363 - Mercês",
+        "NUM": "190448",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "17",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,42127816551",
+        "LON": "-49,292316036279",
+        "NOME": "Av. Manoel Ribas, 1140 - Mercês",
+        "NUM": "190447",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "18",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,411520228346",
+        "LON": "-49,294655560634",
+        "NOME": "R. Victório Viezzer, 805 - Vista Alegre",
+        "NUM": "190516",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,409791203386",
+        "LON": "-49,303725392765",
+        "NOME": "Rua José Casagrande 803 Curitiba - PR",
+        "NUM": "190525",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399591047593",
+        "LON": "-49,303172857708",
+        "NOME": "Rua José Abentin, 1 - Vista Alegre",
+        "NUM": "190535",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "24",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412033471145",
+        "LON": "-49,30289467794",
+        "NOME": "Rua José Casagrande, 390 - Vista Alegre",
+        "NUM": "190524",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429263631233",
+        "LON": "-49,271171421951",
+        "NOME": "Praça Tiradentes - 967 - Júlio Graf",
+        "NUM": "101014",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "24",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422482678274",
+        "LON": "-49,284327553297",
+        "NOME": "Av. Manoel Ribas, 531 - Mercês",
+        "NUM": "110037",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "21",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,412068600179",
+        "LON": "-49,303052928272",
+        "NOME": "Rua José Casagrande, 361 - Vista Alegre",
+        "NUM": "190523",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "10",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413375635255",
+        "LON": "-49,301066752497",
+        "NOME": "Rua Izidoro Chanoski, 299 - Vista Alegre",
+        "NUM": "190521",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408068624777",
+        "LON": "-49,304025800175",
+        "NOME": "Rua José Casagrande 812 - Curitiba - PR",
+        "NUM": "190528",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "8",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413184244536",
+        "LON": "-49,294176157537",
+        "NOME": "Rua Victório Viezzer, 559 - Vista Alegre",
+        "NUM": "190514",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423999603302",
+        "LON": "-49,27985355409",
+        "NOME": "Av. Manoel Ribas, 66 - São Francisco",
+        "NUM": "110150",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "22",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,429152243676",
+        "LON": "-49,276481034584",
+        "NOME": "Alameda Augusto Stellfeld, 285 - São Francisco",
+        "NUM": "110013",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "2",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,428837147515",
+        "LON": "-49,27833535206",
+        "NOME": "Alameda Cabral, 464 - São Francisco",
+        "NUM": "110140",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "3",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,408060145075",
+        "LON": "-49,303880960888",
+        "NOME": "Rua José Casagrande 815 - Curitiba - PR",
+        "NUM": "190527",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "20",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,416258572641",
+        "LON": "-49,293816741529",
+        "NOME": "Rua Victório Viezzer, 174 - Vista Alegre",
+        "NUM": "190512",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "12",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413276305932",
+        "LON": "-49,301023837152",
+        "NOME": "Rua Izidoro Chanoski, 300 - Vista Alegre",
+        "NUM": "190522",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "17",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413143059151",
+        "LON": "-49,294074233595",
+        "NOME": "Rua Victório Viezzer, 560 - Vista Alegre",
+        "NUM": "190513",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "13",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41851284247",
+        "LON": "-49,293422447499",
+        "NOME": "Av. Manoel Ribas, 1414 - Mercês",
+        "NUM": "190449",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "11",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,399082273762",
+        "LON": "-49,298941101852",
+        "NOME": "Rua Itália Giampoli Amatuzzi, 4 - Vista Alegre",
+        "NUM": "190539",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,423931211227",
+        "LON": "-49,291052449074",
+        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
+        "NUM": "190170",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "19",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,422197325377",
+        "LON": "-49,288070641699",
+        "NOME": "Av. Manoel Ribas, 898 - Mercês",
+        "NUM": "110034",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "8",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,413422877222",
+        "LON": "-49,298356380287",
+        "NOME": "Rua Izidoro Chanoski, 70 - Vista Alegre",
+        "NUM": "190520",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "16",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,402095132453",
+        "LON": "-49,302483529991",
+        "NOME": "Rua Joaquim Gonçalves Ledo, 66 - Vista Alegre",
+        "NUM": "190531",
+        "SENTIDO": "Julio Graf",
+        "SEQ": "22",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,400801301191",
+        "LON": "-49,303968132681",
+        "NOME": "Rua Joaquim Gonçalves Ledo, 212 - Vista Alegre",
+        "NUM": "190534",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,41274816328",
+        "LON": "-49,296296443764",
+        "NOME": "Rua Júlio Graf, 179 - Vista Alegre",
+        "NUM": "190518",
+        "SENTIDO": "Praça Tiradentes",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    }
+]

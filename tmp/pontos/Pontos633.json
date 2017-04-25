@@ -1,0 +1,392 @@
+[
+    {
+        "GRUPO": "",
+        "LAT": "-25,527413449076",
+        "LON": "-49,274282413353",
+        "NOME": "Rua Miguel Raicoski Sobrinho, 120 - Pinheirinho",
+        "NUM": "150538",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "19",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525816036122",
+        "LON": "-49,293896099826",
+        "NOME": "Rua Mal. Otávio Saldanha Maza, 3046 - Capão Raso",
+        "NUM": "160245",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520201683579",
+        "LON": "-49,274294854349",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 960 - Pinheirinho",
+        "NUM": "150450",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521523277545",
+        "LON": "-49,272268445438",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 714 - Pinheirinho",
+        "NUM": "150464",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "7",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527528359109",
+        "LON": "-49,271780283398",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 365 - Pinheirinho",
+        "NUM": "150541",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "3",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520305765683",
+        "LON": "-49,274285466618",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 949 - Pinheirinho",
+        "NUM": "150449",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520096180913",
+        "LON": "-49,278472023834",
+        "NOME": "Rua José Osíres Baglioli, 527 - Pinheirinho",
+        "NUM": "150523",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "10",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524212199868",
+        "LON": "-49,285936611523",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 1469 - Pinheirinho",
+        "NUM": "150517",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "7",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525595470043",
+        "LON": "-49,288341211905",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 443 - Pinheirinho",
+        "NUM": "150515",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "6",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526777832696",
+        "LON": "-49,29035420977",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 713 - Pinheirinho",
+        "NUM": "150513",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "5",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527413449076",
+        "LON": "-49,274282413353",
+        "NOME": "Rua Miguel Raicoski Sobrinho, 120 - Pinheirinho",
+        "NUM": "150538",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "1",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528147971541",
+        "LON": "-49,272814274973",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 497 - Pinheirinho",
+        "NUM": "150539",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519971524211",
+        "LON": "-49,278500187029",
+        "NOME": "Rua José Osíres Baglioli, 528- Pinheirinho",
+        "NUM": "150525",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "10",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522500940683",
+        "LON": "-49,284505653013",
+        "NOME": "Rua Aracari, 300 - Pinheirinho",
+        "NUM": "150519",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "12",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522304882556",
+        "LON": "-49,281146186222",
+        "NOME": "Rua Engenheiro João Bley Filho, 11 - Pinheirinho",
+        "NUM": "150521",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "9",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522817021644",
+        "LON": "-49,270380170292",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 514 - Pinheirinho",
+        "NUM": "150461",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "6",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524246085942",
+        "LON": "-49,286173987021",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 1441 - Pinheirinho",
+        "NUM": "150518",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "13",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526506749555",
+        "LON": "-49,29013695084",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 720 - Pinheirinho",
+        "NUM": "150514",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512342420674",
+        "LON": "-49,294849504299",
+        "NOME": "Terminal Pinheirinho - 633 - Maria Angélica",
+        "NUM": "105710",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "1",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518348864079",
+        "LON": "-49,29566769888",
+        "NOME": "Av. Winston Churchill, 2472 - Capão Raso",
+        "NUM": "150331",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "2",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,523119579056",
+        "LON": "-49,270288975185",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 477 - Pinheirinho",
+        "NUM": "150462",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "14",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524216040725",
+        "LON": "-49,269414575047",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 333 - Pinheirinho",
+        "NUM": "150460",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "15",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "14494",
+        "LAT": "-25,512342420674",
+        "LON": "-49,294849504299",
+        "NOME": "Terminal Pinheirinho - 633 - Maria Angélica",
+        "NUM": "105710",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "20",
+        "TIPO": "Plataforma"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,519229941942",
+        "LON": "-49,295454463264",
+        "NOME": "Av. Winston Churchill, 2546 - Capão Raso",
+        "NUM": "150330",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "18",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,528131029056",
+        "LON": "-49,272920222229",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 498 - Pinheirinho",
+        "NUM": "150540",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "18",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518602922708",
+        "LON": "-49,276880503839",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 1290 - Pinheirinho",
+        "NUM": "150447",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,521966226113",
+        "LON": "-49,271871478505",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 697 - Pinheirinho",
+        "NUM": "150463",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "13",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52261",
+        "LON": "-49,28461",
+        "NOME": "Rua Aracari, 295 - Pinheirinho",
+        "NUM": "150520",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "8",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524017075104",
+        "LON": "-49,292992119479",
+        "NOME": "Rua Emanoel Voluz, 284 - Pinheirinho",
+        "NUM": "160244",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "16",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,524444771532",
+        "LON": "-49,269083322233",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 260 - Pinheirinho",
+        "NUM": "150459",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "5",
+        "TIPO": "Novo mobiliário"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,52114093887",
+        "LON": "-49,296043208143",
+        "NOME": "Rua Joaquim Simões, 10 - Pinheirinho",
+        "NUM": "170051",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "3",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526360526199",
+        "LON": "-49,269938946909",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 80 - Pinheirinho",
+        "NUM": "150544",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "16",
+        "TIPO": "Sem demarcação"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,527398869388",
+        "LON": "-49,271715910381",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 376 - Pinheirinho",
+        "NUM": "150542",
+        "SENTIDO": "Maria Angélica",
+        "SEQ": "17",
+        "TIPO": "Placa em cano"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,526453711211",
+        "LON": "-49,269933582491",
+        "NOME": "Rua Prof. Júlio Teodorico Guimarães, 15 - Pinheirinho",
+        "NUM": "150543",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "4",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,515159644727",
+        "LON": "-49,294443608469",
+        "NOME": "Rua Léon Nicolas, 2081 - Capão Raso",
+        "NUM": "150332",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "19",
+        "TIPO": "Domus"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,520731874323",
+        "LON": "-49,295383384725",
+        "NOME": "Av. Winston Churchill, 2677 - Capão Raso",
+        "NUM": "150751",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "17",
+        "TIPO": "Placa em poste"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,518458900055",
+        "LON": "-49,276895255989",
+        "NOME": "Rua Cid. Marcondes de Albuquerque, 1275 - Pinheirinho",
+        "NUM": "150448",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "9",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,522214114796",
+        "LON": "-49,281095224251",
+        "NOME": "Rua Engenheiro João Bley Filho, 100 - Pinheirinho",
+        "NUM": "150522",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "11",
+        "TIPO": "Chapéu chinês"
+    },
+    {
+        "GRUPO": "",
+        "LAT": "-25,525389735331",
+        "LON": "-49,288186984886",
+        "NOME": "Alameda Nsa. Sra. do Sagrado Coração, 560 - Pinheirinho",
+        "NUM": "150516",
+        "SENTIDO": "Terminal Pinheirinho",
+        "SEQ": "14",
+        "TIPO": "Chapéu chinês"
+    }
+]
