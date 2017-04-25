@@ -26,29 +26,6 @@
           dataType: 'json',
           success: function(response) {
               response.sort(compareLinhas);
-              /*var supported = [];
-              var notSupported = [];
-
-              $.each(response, function(index, data) {
-                if(isSupported(data.COD)){
-                  supported.push(data);
-                }else{
-                  notSupported.push(data);
-                }
-              });
-
-              $.each(supported, function(index, data) {
-                  condicionIgual[index] = data.COD;
-                  $("#linhaSelector").append(new Option( "[" + data.COD + "] " + data.NOME, data.COD));
-                  addPonto(data.NOME, data.COD, false);
-              });
-
-              $.each(notSupported, function(index, data) {
-                  condicionIgual[index] = data.COD;
-                  $("#linhaSelector").append(new Option( "(Not) [" + data.COD + "] " + data.NOME, data.COD));
-                  addPonto(data.NOME, data.COD, false);
-              });*/
-
               $.each(response, function(index, data) {
                   if(isSupported(data.COD)){
                     condicionIgual[index] = data.COD;
@@ -110,32 +87,16 @@
       var totalBack = 0;
       var totalTmp = 0;
 
-
-      /*$.each(jsonResponse.points, function(i, item) {
-
-        console.log("???");
-        if(item.stop){
-          totalTmp += item.disStop;
-
-          if(totalSentido == item.sentido){
-            totalGo += totalTmp;
-          }else{
-            totalBack += totalTmp;
-          }
-
-          totalTmp = item.disStop;
-
-        }else{
-          distantotalTmpce += item.disNext;
-        }
-
-    });
-*/
-    console.log("totalGo: " + totalGo);
-    console.log("totalBack: " + totalBack);
-
       $.each(jsonResponse.points, function(i, point) {
           if (point.stop) {
+
+            if(point.sentido == jsonResponse.points[0].sentido){
+              totalGo += point.disStop + totalTmp;
+            }else{
+              totalBack += point.disStop + totalTmp;
+            }
+
+            totalTmp = point.disStop;
 
               if (point.sentido != jsonResponse.points[0].sentido && flag) {
 
@@ -146,8 +107,7 @@
                   html += "<label id='distancia' style='color: #000000;font-size: 18px;font-weight: bold;'>" + point.sentido.trim() + "</label>";
                   html += "</div>";
                   html += "</div>";
-                  distStop = 0;
-
+                  distStop = point.disStop;
               }
 
               html += "<div class='form-group row'>";
@@ -157,13 +117,21 @@
               html += "</label></div>";
               html += "</div>";
               //console.log("-> [" + (distStop + point.disStop) + "m] " + point.nome);
-              distStop = 0;
+              distStop = point.disStop;
           } else {
               distStop += point.disNext;
+              totalTmp += point.disNext;
           }
 
 
       });
+
+
+      html += "<br><div><strong>Total recorrido [" + jsonResponse.points[0].sentido + "]: " + totalGo + "m </strong><div>";
+      html += "<div><strong>Total recorrido ["+ jsonResponse.points[jsonResponse.points.length-1].sentido +"]: " + totalBack + "m </strong><div>";
+      console.log("totalGo: " + totalGo);
+      console.log("totalBack: " + totalBack);
+
       $("#routes").append(html);
   }
 
