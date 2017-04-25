@@ -122,7 +122,7 @@
       }
 
       console.log("radius: " + radius);
-
+      
       /**
        * Separe stops
        **/

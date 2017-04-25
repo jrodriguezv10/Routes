@@ -1,13 +1,32 @@
 $(document).ready(function() {
 
-    getJsonFromServer('166', false, 111).then(function(result) {
-        parseJson(result); // "Stuff worked!"
+    /*getJsonFromServer('222', false, 111).then(function(result) {
+        console.log(result); // "Stuff worked!"
     }, function(err) {
         console.log(err); // Error: "It broke"
-    });
+    });*/
 });
 
 
+google.maps.event.addDomListener(window, 'load', initialize);
+
+function initialize() {
+    var mapCanvas = document.getElementById('map');
+    var mapOptions = {
+        center: new google.maps.LatLng(-25.383948, -49.246980),
+        zoom: 15,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        scrollwheel: false,
+        styles: mapStylesGray
+    }
+
+    map = new google.maps.Map(mapCanvas, mapOptions);
+    getJsonFromServer('X33', false, 111).then(function(result) {
+        console.log(result); // "Stuff worked!"
+    }, function(err) {
+        console.log(err); // Error: "It broke"
+    });
+}
 
 
 function getLinha() {
