@@ -78,5 +78,35 @@ function divideSHP(shape) {
 }
 
 function printShape(shapesDivided) {
+  var routeLines = [];
+  var routePaths = [];
+
+  $.each(shapesDivided, function(i, shape) {
+      routeLines.push([]);
+      routePaths.push([]);
+  });
+
+  $.each(shapesDivided, function(i, shape) {
+    $.each(shape, function(j, shapeUnique) {
+      routeLines[shapeUnique.POS].push({
+          lat: parseFloat(shapeUnique.LAT.replace(",", ".")),
+          lng: parseFloat(shapeUnique.LON.replace(",", "."))
+      });
+    });
+  });
+
+let i = 3;
+  //$.each(routeLines, function(i, routeLine) {
+    var routePath = new google.maps.Polyline({
+        path: routeLines[i],
+        geodesic: true,
+        strokeColor: colors[i],
+        strokeOpacity: 1.0,
+        strokeWeight: 2
+    });
+    routePath.setMap(map);
+  //});
+
+
 
 }
