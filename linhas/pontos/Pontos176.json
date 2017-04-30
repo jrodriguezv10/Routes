@@ -1,512 +1,512 @@
 [
-    {
-        "GRUPO": "",
-        "LAT": "-25,393745945038",
-        "LON": "-49,272898765081",
-        "NOME": "R. Nilo Peçanha, 3169 - Pilarzinho",
-        "NUM": "120358",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "10",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,414232095024",
-        "LON": "-49,273642244636",
-        "NOME": "R. Nilo Peçanha, 600 - Pilarzinho",
-        "NUM": "120065",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "7",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,421002030135",
-        "LON": "-49,275024597388",
-        "NOME": "Rua Des. Benvindo Valente, 104 - São Francisco",
-        "NUM": "110011",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "22",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,411727316186",
-        "LON": "-49,275359376192",
-        "NOME": "R. Albino Silva, 688 - Bom Retiro",
-        "NUM": "120063",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "18",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,380029593833",
-        "LON": "-49,28003673543",
-        "NOME": "Rua Eugênio Flor, 661 - Taboão",
-        "NUM": "120243",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "3",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,386348662342",
-        "LON": "-49,277608522626",
-        "NOME": "R. Nilo Peçanha, 4091 - Pilarzinho",
-        "NUM": "120366",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "6",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,423648628482",
-        "LON": "-49,273810148865",
-        "NOME": "Rua Inácio Lustosa, 434 - São Francisco",
-        "NUM": "110201",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "3",
-        "TIPO": "Placa em poste"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,406362644792",
-        "LON": "-49,275850723943",
-        "NOME": "R. Nilo Peçanha, 1572 - Bom Retiro",
-        "NUM": "120059",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "13",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,408220402306",
-        "LON": "-49,276207968194",
-        "NOME": "R. Nilo Peçanha, 1378 - Bom Retiro",
-        "NUM": "120061",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "10",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,391517742487",
-        "LON": "-49,272459571118",
-        "NOME": "R. Nilo Peçanha, 3212 - Pilarzinho",
-        "NUM": "120359",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "18",
-        "TIPO": "Placa em poste"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,382199752804",
-        "LON": "-49,279602017195",
-        "NOME": "Rua Eugênio Flor, 146 - Pilarzinho",
-        "NUM": "120369",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "23",
-        "TIPO": "Sem demarcação"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,402691102461",
-        "LON": "-49,275231032841",
-        "NOME": "R. Cláudio Manoel da Costa, 1-149 - Pilarzinho",
-        "NUM": "120537",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "14",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,426928549988",
-        "LON": "-49,271383145224",
-        "NOME": "Rua Treze de Maio, 503 - São Francisco",
-        "NUM": "110187",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "24",
-        "TIPO": "Placa em cano"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,428087576443",
-        "LON": "-49,271933169312",
-        "NOME": "Nestor de Castro - 176 - Nilo Peçanha",
-        "NUM": "101129",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "25",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,378383902312",
-        "LON": "-49,280682082408",
-        "NOME": "Rua Oswaldo Maciel, 192 - Taboão",
-        "NUM": "120245",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "2",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,409954378395",
-        "LON": "-49,275623290553",
-        "NOME": "R. Nilo Peçanha, 1204 - Bom Retiro",
-        "NUM": "120062",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "9",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,428087576443",
-        "LON": "-49,271933169312",
-        "NOME": "Nestor de Castro - 176 - Nilo Peçanha",
-        "NUM": "101129",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "1",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,387498233427",
-        "LON": "-49,275078417242",
-        "NOME": "Rua Nilo Peçanha, 3942 - Pilarzinho",
-        "NUM": "120689",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "20",
-        "TIPO": "Placa em poste"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,401489592509",
-        "LON": "-49,27521251142",
-        "NOME": "R. Nilo Peçanha, 2150 - São Francisco",
-        "NUM": "120994",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "12",
-        "TIPO": "Placa em cano"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,419360518745",
-        "LON": "-49,276196351248",
-        "NOME": "R. Des. Benvindo Valente, 285 - São Francisco",
-        "NUM": "110010",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "21",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416661529486",
-        "LON": "-49,276681068932",
-        "NOME": "R. Albino Silva, 122 - Bom Retiro",
-        "NUM": "110009",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "20",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,408545550262",
-        "LON": "-49,276305912747",
-        "NOME": "R. Nilo Peçanha, 1377 - Bom Retiro",
-        "NUM": "120060",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "17",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,376172287231",
-        "LON": "-49,282141656822",
-        "NOME": "Rua Verônica Mickosz Bodzinski, 111 - Taboão",
-        "NUM": "120248",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "1",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,382158527786",
-        "LON": "-49,279735548417",
-        "NOME": "Rua Eugênio Flor, 415 - Taboão",
-        "NUM": "120241",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "4",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,398691109023",
-        "LON": "-49,273703400944",
-        "NOME": "R. Nilo Peçanha, 2487 - Pilarzinho",
-        "NUM": "120354",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "12",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,400743687539",
-        "LON": "-49,274865492877",
-        "NOME": "R. Nilo Peçanha, 2278 - Pilarzinho",
-        "NUM": "120351",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "13",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,384805368779",
-        "LON": "-49,27974800373",
-        "NOME": "R. Eugênio Flor, 1-111 - Pilarzinho",
-        "NUM": "120368",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "5",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,39626313477",
-        "LON": "-49,27348995802",
-        "NOME": "R. Nilo Peçanha, 2771 - Pilarzinho",
-        "NUM": "120355",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "11",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,404054412746",
-        "LON": "-49,275486877311",
-        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
-        "NUM": "120056",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "11",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,376172287231",
-        "LON": "-49,282141656822",
-        "NOME": "Rua Verônica Mickosz Bodzinski, 111 - Taboão",
-        "NUM": "120248",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "26",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,400362028327",
-        "LON": "-49,27442666297",
-        "NOME": "R. Nilo Peçanha, 2287 - Pilarzinho",
-        "NUM": "120352",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "14",
-        "TIPO": "Placa em cano"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,389388156949",
-        "LON": "-49,272104170719",
-        "NOME": "R. Nilo Peçanha, 3540 - Pilarzinho",
-        "NUM": "120361",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "19",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,386247161016",
-        "LON": "-49,277586873582",
-        "NOME": "R. Nilo Peçanha, 4092 - Pilarzinho",
-        "NUM": "120365",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "21",
-        "TIPO": "Placa em cano"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,414115420076",
-        "LON": "-49,276023837256",
-        "NOME": "R. Albino Silva, 332 - Bom Retiro",
-        "NUM": "120064",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "19",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,406519777418",
-        "LON": "-49,276052050075",
-        "NOME": "R. Nilo Peçanha, 1571 - Bom Retiro",
-        "NUM": "120058",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "16",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,404092287633",
-        "LON": "-49,275649006075",
-        "NOME": "R. Nilo Peçanha, 1900 - Pilarzinho",
-        "NUM": "120057",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "15",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,389193403133",
-        "LON": "-49,272207685338",
-        "NOME": "R. Nilo Peçanha, 3581 - Pilarzinho",
-        "NUM": "120362",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "8",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,39172764817",
-        "LON": "-49,27260980749",
-        "NOME": "R. Nilo Peçanha, 3355 - Pilarzinho",
-        "NUM": "120360",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "9",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,396185264018",
-        "LON": "-49,273311590789",
-        "NOME": "R. Nilo Peçanha, 2772 - Pilarzinho",
-        "NUM": "120356",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "16",
-        "TIPO": "Placa em poste"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,394138846748",
-        "LON": "-49,272758201509",
-        "NOME": "R. Nilo Peçanha, 3012 - Pilarzinho",
-        "NUM": "120357",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "17",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,398670513858",
-        "LON": "-49,273574654911",
-        "NOME": "R. Nilo Peçanha, 2488 - Pilarzinho",
-        "NUM": "120353",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "15",
-        "TIPO": "Placa em poste"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,4242957772",
-        "LON": "-49,274190974187",
-        "NOME": "Rua Trajano Reis, 296 - São Francisco",
-        "NUM": "110133",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "23",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,418897448474",
-        "LON": "-49,274503386745",
-        "NOME": "R. Nilo Peçanha,162 - Bom Retiro",
-        "NUM": "110008",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "5",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,38481329057",
-        "LON": "-49,279631459296",
-        "NOME": "R. Eugênio Flor, 2-144 - Pilarzinho",
-        "NUM": "120367",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "22",
-        "TIPO": "Sem demarcação"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,380018600732",
-        "LON": "-49,279938277248",
-        "NOME": "Rua Eugênio Flor, 596 - Taboão",
-        "NUM": "120242",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "24",
-        "TIPO": "Sem demarcação"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,417176393405",
-        "LON": "-49,274231953373",
-        "NOME": "R. Nilo Peçanha, 374 - Bom Retiro",
-        "NUM": "110131",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "6",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,387650229444",
-        "LON": "-49,275059164495",
-        "NOME": "R. Nilo Peçanha, 3942 - Pilarzinho",
-        "NUM": "120364",
-        "SENTIDO": "Nestor de Castro",
-        "SEQ": "7",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,420759757556",
-        "LON": "-49,274627328935",
-        "NOME": "Rua Trajano Reis, 732 - São Francisco",
-        "NUM": "110006",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "4",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,425880768114",
-        "LON": "-49,273237735299",
-        "NOME": "Rua Duque de Caxias, 155 - São Francisco",
-        "NUM": "110018",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "2",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,412286976107",
-        "LON": "-49,274096713905",
-        "NOME": "R. Nilo Peçanha, 897 - São Francisco",
-        "NUM": "120066",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "8",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,378273486944",
-        "LON": "-49,280726878771",
-        "NOME": "Rua Oswaldo Maciel, 191 - Taboão",
-        "NUM": "120244",
-        "SENTIDO": "Nilo Peçanha",
-        "SEQ": "25",
-        "TIPO": "Sem demarcação"
-    }
+  {
+    "NOME": "R. Nilo Peçanha. 3169 - Pilarzinho",
+    "NUM": 120358,
+    "LAT": -25.393745945038,
+    "LON": -49.272898765081,
+    "SEQ": 10,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 600 - Pilarzinho",
+    "NUM": 120065,
+    "LAT": -25.414232095024,
+    "LON": -49.273642244636,
+    "SEQ": 7,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Des. Benvindo Valente. 104 - São Francisco",
+    "NUM": 110011,
+    "LAT": -25.421002030135,
+    "LON": -49.275024597388,
+    "SEQ": 22,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Albino Silva. 688 - Bom Retiro",
+    "NUM": 120063,
+    "LAT": -25.411727316186,
+    "LON": -49.275359376192,
+    "SEQ": 18,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Eugênio Flor. 661 - Taboão",
+    "NUM": 120243,
+    "LAT": -25.380029593833,
+    "LON": -49.28003673543,
+    "SEQ": 3,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 4091 - Pilarzinho",
+    "NUM": 120366,
+    "LAT": -25.386348662342,
+    "LON": -49.277608522626,
+    "SEQ": 6,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Inácio Lustosa. 434 - São Francisco",
+    "NUM": 110201,
+    "LAT": -25.423648628482,
+    "LON": -49.273810148865,
+    "SEQ": 3,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em poste"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1572 - Bom Retiro",
+    "NUM": 120059,
+    "LAT": -25.406362644792,
+    "LON": -49.275850723943,
+    "SEQ": 11,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1378 - Bom Retiro",
+    "NUM": 120061,
+    "LAT": -25.408220402306,
+    "LON": -49.276207968194,
+    "SEQ": 10,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3212 - Pilarzinho",
+    "NUM": 120359,
+    "LAT": -25.391517742487,
+    "LON": -49.272459571118,
+    "SEQ": 18,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em poste"
+  },
+  {
+    "NOME": "Rua Eugênio Flor. 146 - Pilarzinho",
+    "NUM": 120369,
+    "LAT": -25.382199752804,
+    "LON": -49.279602017195,
+    "SEQ": 23,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Sem demarcação"
+  },
+  {
+    "NOME": "R. Cláudio Manoel da Costa. 1-149 - Pilarzinho",
+    "NUM": 120537,
+    "LAT": -25.402691102461,
+    "LON": -49.275231032841,
+    "SEQ": 14,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Treze de Maio. 503 - São Francisco",
+    "NUM": 110187,
+    "LAT": -25.426928549988,
+    "LON": -49.271383145224,
+    "SEQ": 24,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Placa em cano"
+  },
+  {
+    "NOME": "Nestor de Castro - 176 - Nilo Peçanha",
+    "NUM": 101129,
+    "LAT": -25.428087576443,
+    "LON": -49.271933169312,
+    "SEQ": 25,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Oswaldo Maciel. 192 - Taboão",
+    "NUM": 120245,
+    "LAT": -25.378383902312,
+    "LON": -49.280682082408,
+    "SEQ": 2,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1204 - Bom Retiro",
+    "NUM": 120062,
+    "LAT": -25.409954378395,
+    "LON": -49.275623290553,
+    "SEQ": 9,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Nestor de Castro - 176 - Nilo Peçanha",
+    "NUM": 101129,
+    "LAT": -25.428087576443,
+    "LON": -49.271933169312,
+    "SEQ": 1,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Nilo Peçanha. 3942 - Pilarzinho",
+    "NUM": 120689,
+    "LAT": -25.387498233427,
+    "LON": -49.275078417242,
+    "SEQ": 20,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em poste"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2150 - São Francisco",
+    "NUM": 120994,
+    "LAT": -25.401489592509,
+    "LON": -49.27521251142,
+    "SEQ": 13,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em cano"
+  },
+  {
+    "NOME": "R. Des. Benvindo Valente. 285 - São Francisco",
+    "NUM": 110010,
+    "LAT": -25.419360518745,
+    "LON": -49.276196351248,
+    "SEQ": 21,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Albino Silva. 122 - Bom Retiro",
+    "NUM": 110009,
+    "LAT": -25.416661529486,
+    "LON": -49.276681068932,
+    "SEQ": 20,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1377 - Bom Retiro",
+    "NUM": 120060,
+    "LAT": -25.408545550262,
+    "LON": -49.276305912747,
+    "SEQ": 17,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Verônica Mickosz Bodzinski. 111 - Taboão",
+    "NUM": 120248,
+    "LAT": -25.376172287231,
+    "LON": -49.282141656822,
+    "SEQ": 1,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "NOME": "Rua Eugênio Flor. 415 - Taboão",
+    "NUM": 120241,
+    "LAT": -25.382158527786,
+    "LON": -49.279735548417,
+    "SEQ": 4,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2487 - Pilarzinho",
+    "NUM": 120354,
+    "LAT": -25.398691109023,
+    "LON": -49.273703400944,
+    "SEQ": 12,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2278 - Pilarzinho",
+    "NUM": 120351,
+    "LAT": -25.400743687539,
+    "LON": -49.274865492877,
+    "SEQ": 13,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Eugênio Flor. 1-111 - Pilarzinho",
+    "NUM": 120368,
+    "LAT": -25.384805368779,
+    "LON": -49.27974800373,
+    "SEQ": 5,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2771 - Pilarzinho",
+    "NUM": 120355,
+    "LAT": -25.39626313477,
+    "LON": -49.27348995802,
+    "SEQ": 11,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1900 - Pilarzinho",
+    "NUM": 120056,
+    "LAT": -25.404054412746,
+    "LON": -49.275486877311,
+    "SEQ": 12,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Verônica Mickosz Bodzinski. 111 - Taboão",
+    "NUM": 120248,
+    "LAT": -25.376172287231,
+    "LON": -49.282141656822,
+    "SEQ": 26,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2287 - Pilarzinho",
+    "NUM": 120352,
+    "LAT": -25.400362028327,
+    "LON": -49.27442666297,
+    "SEQ": 14,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em cano"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3540 - Pilarzinho",
+    "NUM": 120361,
+    "LAT": -25.389388156949,
+    "LON": -49.272104170719,
+    "SEQ": 19,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 4092 - Pilarzinho",
+    "NUM": 120365,
+    "LAT": -25.386247161016,
+    "LON": -49.277586873582,
+    "SEQ": 21,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em cano"
+  },
+  {
+    "NOME": "R. Albino Silva. 332 - Bom Retiro",
+    "NUM": 120064,
+    "LAT": -25.414115420076,
+    "LON": -49.276023837256,
+    "SEQ": 19,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1571 - Bom Retiro",
+    "NUM": 120058,
+    "LAT": -25.406519777418,
+    "LON": -49.276052050075,
+    "SEQ": 16,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 1900 - Pilarzinho",
+    "NUM": 120057,
+    "LAT": -25.404092287633,
+    "LON": -49.275649006075,
+    "SEQ": 15,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3581 - Pilarzinho",
+    "NUM": 120362,
+    "LAT": -25.389193403133,
+    "LON": -49.272207685338,
+    "SEQ": 8,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3355 - Pilarzinho",
+    "NUM": 120360,
+    "LAT": -25.39172764817,
+    "LON": -49.27260980749,
+    "SEQ": 9,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2772 - Pilarzinho",
+    "NUM": 120356,
+    "LAT": -25.396185264018,
+    "LON": -49.273311590789,
+    "SEQ": 16,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em poste"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3012 - Pilarzinho",
+    "NUM": 120357,
+    "LAT": -25.394138846748,
+    "LON": -49.272758201509,
+    "SEQ": 17,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 2488 - Pilarzinho",
+    "NUM": 120353,
+    "LAT": -25.398670513858,
+    "LON": -49.273574654911,
+    "SEQ": 15,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Placa em poste"
+  },
+  {
+    "NOME": "Rua Trajano Reis. 296 - São Francisco",
+    "NUM": 110133,
+    "LAT": -25.4242957772,
+    "LON": -49.274190974187,
+    "SEQ": 23,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha.162 - Bom Retiro",
+    "NUM": 110008,
+    "LAT": -25.418897448474,
+    "LON": -49.274503386745,
+    "SEQ": 5,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Eugênio Flor. 2-144 - Pilarzinho",
+    "NUM": 120367,
+    "LAT": -25.38481329057,
+    "LON": -49.279631459296,
+    "SEQ": 22,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Sem demarcação"
+  },
+  {
+    "NOME": "Rua Eugênio Flor. 596 - Taboão",
+    "NUM": 120242,
+    "LAT": -25.380018600732,
+    "LON": -49.279938277248,
+    "SEQ": 24,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Sem demarcação"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 374 - Bom Retiro",
+    "NUM": 110131,
+    "LAT": -25.417176393405,
+    "LON": -49.274231953373,
+    "SEQ": 6,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 3942 - Pilarzinho",
+    "NUM": 120364,
+    "LAT": -25.387650229444,
+    "LON": -49.275059164495,
+    "SEQ": 7,
+    "GRUPO": "",
+    "SENTIDO": "Nestor de Castro",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Trajano Reis. 732 - São Francisco",
+    "NUM": 110006,
+    "LAT": -25.420759757556,
+    "LON": -49.274627328935,
+    "SEQ": 4,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Duque de Caxias. 155 - São Francisco",
+    "NUM": 110018,
+    "LAT": -25.425880768114,
+    "LON": -49.273237735299,
+    "SEQ": 2,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "R. Nilo Peçanha. 897 - São Francisco",
+    "NUM": 120066,
+    "LAT": -25.412286976107,
+    "LON": -49.274096713905,
+    "SEQ": 8,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "NOME": "Rua Oswaldo Maciel. 191 - Taboão",
+    "NUM": 120244,
+    "LAT": -25.378273486944,
+    "LON": -49.280726878771,
+    "SEQ": 25,
+    "GRUPO": "",
+    "SENTIDO": "Nilo Peçanha",
+    "TIPO": "Sem demarcação"
+  }
 ]
