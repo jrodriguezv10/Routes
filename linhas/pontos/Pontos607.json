@@ -156,7 +156,7 @@
         "NOME": "Estação Tubo Praça Rui Barbosa - 210 - CIC / Cabral",
         "NUM": "109063",
         "SENTIDO": "Terminal CIC",
-        "SEQ": "6",
+        "SEQ": "5",
         "TIPO": "Estação tubo"
     },
     {
@@ -166,7 +166,7 @@
         "NOME": "Estação Tubo Pres. Kennedy",
         "NUM": "109035",
         "SENTIDO": "Terminal CIC",
-        "SEQ": "5",
+        "SEQ": "6",
         "TIPO": "Estação tubo"
     },
     {
