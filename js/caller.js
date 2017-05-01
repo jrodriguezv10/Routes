@@ -21,7 +21,7 @@ function initialize() {
     }
 
     map = new google.maps.Map(mapCanvas, mapOptions);
-    getJsonFromServer('X33', false, 111).then(function(result) {
+    getJsonFromServer('203', false, 111).then(function(result) {
         console.log(result); // "Stuff worked!"
     }, function(err) {
         console.log(err); // Error: "It broke"
