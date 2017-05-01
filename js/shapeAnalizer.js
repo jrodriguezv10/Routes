@@ -30,12 +30,12 @@ function initializedMap() {
     map = new google.maps.Map(mapCanvas, mapOptions);
 
     //SETTINGS
-    controllerShape = 0; //-1 shows all
+    controllerShape = -1; //-1 shows all
     controllerStops = -1; //-1 shows all
     showMarkersOnShape = true; //if some controller is -1, it will be consider false
     showShape = true;
-    showStops = false;
-    getShapeOf("474");
+    showStops = true;
+    getShapeOf("040");
 }
 
 function getShapeOf(linha) {

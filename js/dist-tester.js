@@ -217,7 +217,6 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
 
         console.log("Distance to A: " + distanceToA);
         console.log("Distance to B: " + distanceToB);
-
         stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
         stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
     } else {
@@ -236,14 +235,14 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
     console.log("shapeBack: " + shapeBack.length);
     console.log("=====================");
 
-    //printShape(shapeGo, true);
-    //printStops(stopsGo, true, radius, linha);
+    printShape(shapeGo, true);
+    printStops(stopsGo, true, radius, linha);
 
-    printShape(shapeBack, true);
-    printStops(stopsBack, true, radius, linha);
+    //printShape(shapeBack, true);
+    //printStops(stopsBack, true, radius, linha);
 
 
-    //getReferentShapePoint(shapeGo, stopsGo, getCustomRadius(linha, radius));
+    getReferentShapePoint(shapeGo, stopsGo, getCustomRadius(linha, radius));
     if (shapeBack.length > 0 && stopsBack.length > 0) {
         getReferentShapePoint(shapeBack, stopsBack, getCustomRadius(linha, radius));
     } else {
@@ -504,6 +503,18 @@ function getCustomRadius(linha, radius) {
         default:
             return radius;
     }
+}
+
+function specialLinha(linha) {
+  switch (linha) {
+    case "711":
+      return true;
+      break;
+    default:
+      return false;
+      break;
+
+  }
 }
 
 
