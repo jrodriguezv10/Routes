@@ -99,12 +99,12 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
     $.each(shape, function(i, item) {
         item.LAT = item.LAT.replace(",", ".");
         item.LON = item.LON.replace(",", ".");
-        nShp = firstShapeSHP == item.SHP ? 1 : 2;
-        if (firstShapeSHP == item.SHP) {
-            shapeGo.push(item);
-        } else {
-            shapeBack.push(item);
-        }
+        //nShp = firstShapeSHP == item.SHP ? 1 : 2;
+        //if (firstShapeSHP == item.SHP) {
+        //    shapeGo.push(item);
+        //} else {
+        //    shapeBack.push(item);
+        //}
     });
 
     $.each(shape, function(i, item) {
@@ -127,6 +127,13 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
     }
 
     console.log("radius: " + radius);
+
+    shape = divideSHP(shape);
+    nShp = shape.length;
+    shapeGo = shape[0];
+    if(shape.length >1){
+      shapeBack = shape[1];
+    }
 
     /**
      * Separe stops
@@ -201,7 +208,7 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
      * Determinate 'Sentido'
      **/
     if (stopsB.length > 0) {
-        var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
+        var firstShape = new google.maps.LatLng(shapeGo[0].LAT, shapeGo[0].LON);
         var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
         var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
 
@@ -210,12 +217,12 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
 
         console.log("Distance to A: " + distanceToA);
         console.log("Distance to B: " + distanceToB);
-
         stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
         stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
     } else {
         stopsGo = stopsA;
     }
+
 
     stopsGo.sort(compare);
     stopsBack.sort(compare);
@@ -227,6 +234,7 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
     console.log("stopsBack: " + stopsBack.length);
     console.log("shapeBack: " + shapeBack.length);
     console.log("=====================");
+
     printShape(shapeGo, true);
     printStops(stopsGo, true, radius, linha);
 
@@ -245,6 +253,48 @@ function createJsonResponse(sent, identifier, shape, stops, linha) {
     jsonResponse.identifier = identifier;
     return jsonResponse;
     //console.log(jsonResponse);
+}
+
+function divideSHP(shape) {
+    //getting just the SHP
+    var shapes = [];
+    $.each(shape, function(i, item) {
+        shapes.push(item.SHP);
+    });
+
+    var deleteDuplicates = [];
+    var shpAndColors = [];
+
+    //remove duplicates
+    $.each(shapes, function(i, shp) {
+        if ($.inArray(shp, deleteDuplicates) === -1) {
+            deleteDuplicates.push(shp);
+        }
+    });
+
+    console.log(deleteDuplicates);
+    //set color and pos
+    $.each(deleteDuplicates, function(i, shp) {
+        shpAndColors[shp] = i;
+    });
+
+    //Set pos in shape SHPs
+    $.each(shape, function(i, item) {
+        item.POS = shpAndColors[item.SHP];
+    });
+
+    var shapesDivided = [];
+
+    $.each(deleteDuplicates, function(i, shp) {
+        shapesDivided.push([]);
+    });
+
+    $.each(shape, function(i, item) {
+        shapesDivided[item.POS].push(item);
+    });
+
+    return shapesDivided;
+
 }
 
 function getReferentShapePoint(shapeTmp, stopsTmp, radius) {
@@ -453,6 +503,18 @@ function getCustomRadius(linha, radius) {
         default:
             return radius;
     }
+}
+
+function specialLinha(linha) {
+  switch (linha) {
+    case "711":
+      return true;
+      break;
+    default:
+      return false;
+      break;
+
+  }
 }
 
 

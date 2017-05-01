@@ -94,12 +94,6 @@ function createJsonResponse(sent, identifier, shape, stops, linha, pos) {
     $.each(shape, function(i, item) {
         item.LAT = item.LAT.replace(",", ".");
         item.LON = item.LON.replace(",", ".");
-        nShp = firstShapeSHP == item.SHP ? 1 : 2;
-        if (firstShapeSHP == item.SHP) {
-            shapeGo.push(item);
-        } else {
-            shapeBack.push(item);
-        }
     });
 
     $.each(shape, function(i, item) {
@@ -122,6 +116,13 @@ function createJsonResponse(sent, identifier, shape, stops, linha, pos) {
     }
 
     console.log("radius: " + radius);
+
+    shape = divideSHP(shape);
+    nShp = shape.length;
+    shapeGo = shape[0];
+    if (shape.length > 1) {
+        shapeBack = shape[1];
+    }
 
     /**
      * Separe stops
@@ -168,44 +169,44 @@ function createJsonResponse(sent, identifier, shape, stops, linha, pos) {
      **/
     if (nStops == 3) {
         if (stopsA[0].LAT == stopsB[0].LAT && stopsA[0].LON == stopsB[0].LON) {
-          console.log("A==B ["+stopsA[0].LAT +"=="+stopsA[0].LON + ","+stopsB[0].LAT+ "=="+stopsB[0].LON + "] \nSEQ: " + stopsA[0].SEQ + " - " +stopsB[0].SEQ);
+            console.log("A==B [" + stopsA[0].LAT + "==" + stopsA[0].LON + "," + stopsB[0].LAT + "==" + stopsB[0].LON + "] \nSEQ: " + stopsA[0].SEQ + " - " + stopsB[0].SEQ);
             stopsA = mergeStops(stopsA, stopsB); //merge A and B
             stopsB = stopsC;
         } else if (stopsA[0].LAT == stopsC[0].LAT && stopsA[0].LON == stopsC[0].LON) {
-          console.log("A==C ["+stopsA[0].LAT +"=="+stopsA[0].LON + ","+stopsC[0].LAT+ "=="+stopsC[0].LON + "] \nSEQ: " + stopsA[0].SEQ + " - " +stopsC[0].SEQ);
+            console.log("A==C [" + stopsA[0].LAT + "==" + stopsA[0].LON + "," + stopsC[0].LAT + "==" + stopsC[0].LON + "] \nSEQ: " + stopsA[0].SEQ + " - " + stopsC[0].SEQ);
             stopsA = mergeStops(stopsA, stopsC); //merge A and C
         } else {
-          console.log("B==C ["+stopsB[0].LAT +"=="+stopsB[0].LON + ","+stopsC[0].LAT+ "=="+stopsC[0].LON + "] \nSEQ: " + stopsB[0].SEQ + " - " +stopsC[0].SEQ);
+            console.log("B==C [" + stopsB[0].LAT + "==" + stopsB[0].LON + "," + stopsC[0].LAT + "==" + stopsC[0].LON + "] \nSEQ: " + stopsB[0].SEQ + " - " + stopsC[0].SEQ);
             stopsB = mergeStops(stopsB, stopsC); //merge B and C
         }
-    }else if (nShp == 1 && nStops == 2) {
+    } else if (nShp == 1 && nStops == 2) {
         //it has one SHP and two Sentidos: possible use of shp (shape)
         //for go and back. ex. 222
         //So, duplicate an inverse shape
         var tmpShape = shape;
-        for(var i = tmpShape.length - 1; i >=0; i--){
-          shapeBack.push(tmpShape[i]);
+        for (var i = tmpShape.length - 1; i >= 0; i--) {
+            shapeBack.push(tmpShape[i]);
         }
     }
 
     /**
      * Determinate 'Sentido'
      **/
-    if(stopsB.length > 0){
-      var firstShape = new google.maps.LatLng(shape[0].LAT, shape[0].LON);
-      var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
-      var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
+    if (stopsB.length > 0) {
+        var firstShape = new google.maps.LatLng(shapeGo[0].LAT, shapeGo[0].LON);
+        var firstStopA = new google.maps.LatLng(stopsA[0].LAT, stopsA[0].LON);
+        var firstStopB = new google.maps.LatLng(stopsB[0].LAT, stopsB[0].LON);
 
-      var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
-      var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
+        var distanceToA = distanceBetweenPoints(firstShape, firstStopA);
+        var distanceToB = distanceBetweenPoints(firstShape, firstStopB);
 
-      console.log("Distance to A: " + distanceToA);
-      console.log("Distance to B: " + distanceToB);
+        console.log("Distance to A: " + distanceToA);
+        console.log("Distance to B: " + distanceToB);
 
-      stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
-      stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
-    }else{
-      stopsGo = stopsA;
+        stopsGo = distanceToA < distanceToB ? stopsA : stopsB;
+        stopsBack = distanceToA < distanceToB ? stopsB : stopsA;
+    } else {
+        stopsGo = stopsA;
     }
 
     stopsGo.sort(compare);
@@ -222,8 +223,8 @@ function createJsonResponse(sent, identifier, shape, stops, linha, pos) {
     getReferentShapePoint(shapeGo, stopsGo, getCustomRadius(linha, radius));
     if (shapeBack.length > 0 && stopsBack.length > 0) {
         getReferentShapePoint(shapeBack, stopsBack, getCustomRadius(linha, radius));
-    }else{
-      console.log("can't handle back");
+    } else {
+        console.log("can't handle back");
     }
 
     //TODO check out for possible duplicate on different threads
@@ -231,6 +232,48 @@ function createJsonResponse(sent, identifier, shape, stops, linha, pos) {
     jsonResponse.pos = pos;
     return jsonResponse;
     //console.log(jsonResponse);
+}
+
+function divideSHP(shape) {
+    //getting just the SHP
+    var shapes = [];
+    $.each(shape, function(i, item) {
+        shapes.push(item.SHP);
+    });
+
+    var deleteDuplicates = [];
+    var shpAndColors = [];
+
+    //remove duplicates
+    $.each(shapes, function(i, shp) {
+        if ($.inArray(shp, deleteDuplicates) === -1) {
+            deleteDuplicates.push(shp);
+        }
+    });
+
+    console.log(deleteDuplicates);
+    //set color and pos
+    $.each(deleteDuplicates, function(i, shp) {
+        shpAndColors[shp] = i;
+    });
+
+    //Set pos in shape SHPs
+    $.each(shape, function(i, item) {
+        item.POS = shpAndColors[item.SHP];
+    });
+
+    var shapesDivided = [];
+
+    $.each(deleteDuplicates, function(i, shp) {
+        shapesDivided.push([]);
+    });
+
+    $.each(shape, function(i, item) {
+        shapesDivided[item.POS].push(item);
+    });
+
+    return shapesDivided;
+
 }
 
 function getReferentShapePoint(shapeTmp, stopsTmp, radius) {
@@ -242,57 +285,59 @@ function getReferentShapePoint(shapeTmp, stopsTmp, radius) {
 
     //$.each(shapeTmp, function(i, shapePoint) {
     for (var i = 0; i < shapeTmp.length; i++) {
-        if(stopIndex < stopsTmp.length){
-          var shapePoint = shapeTmp[i];
-          var shapePointLoc = new google.maps.LatLng(shapePoint.LAT, shapePoint.LON);
-          var stopLoc = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
-          distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
+        if (stopIndex < stopsTmp.length) {
+            var shapePoint = shapeTmp[i];
+            var shapePointLoc = new google.maps.LatLng(shapePoint.LAT, shapePoint.LON);
+            var stopLoc = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
+            distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
 
-          if (stopIndex == 0) { //begin
-              addStop(stopsTmp[stopIndex], distShapeToStop);
-              addShapePoint(shapePoint, distanceBetweenPoints(
-                  new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
-                  new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
-              stopIndex++; //next stop
+            if (stopIndex == 0) { //begin
+                addStop(stopsTmp[stopIndex], distShapeToStop);
+                addShapePoint(shapePoint, distanceBetweenPoints(
+                    new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
+                    new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON),
+                    stopsTmp[stopIndex].NUM));
+                stopIndex++; //next stop
 
-          } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
-              addShapePoint(shapePoint, 0);
-              addStop(stopsTmp[stopIndex], distShapeToStop);
-          } else {
-              if (!retake) {
-                  addShapePoint(shapePoint, distanceBetweenPoints(
-                      new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
-                      new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON)));
-              } else {
-                  retake = false;
-              }
+            } else if (stopIndex == stopsTmp.length - 1 && i == shapeTmp.length - 1) { //last stop and last shape
+                addShapePoint(shapePoint, 0, stopsTmp[stopIndex].NUM);
+                addStop(stopsTmp[stopIndex], distShapeToStop);
+            } else {
+                if (!retake) {
+                    addShapePoint(shapePoint, distanceBetweenPoints(
+                        new google.maps.LatLng(shapePoint.LAT, shapePoint.LON),
+                        new google.maps.LatLng(shapeTmp[i + 1].LAT, shapeTmp[i + 1].LON),
+                        0));
+                } else {
+                    retake = false;
+                }
 
-              if (distShapeToStop <= radius) { //radius in meters
-                  recluting = true;
-                  if (distShapeToStop < distController) {
-                      distController = distShapeToStop;
-                      indexController = i;
-                  }
+                if (distShapeToStop <= radius) { //radius in meters
+                    recluting = true;
+                    if (distShapeToStop < distController) {
+                        distController = distShapeToStop;
+                        indexController = i;
+                    }
 
-              } else {
-                  if (recluting) {
-                      //make change
-                      var p1 = new google.maps.LatLng(shapeTmp[indexController].LAT, shapeTmp[indexController].LON);
-                      var p2 = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
+                } else {
+                    if (recluting) {
+                        //make change
+                        var p1 = new google.maps.LatLng(shapeTmp[indexController].LAT, shapeTmp[indexController].LON);
+                        var p2 = new google.maps.LatLng(stopsTmp[stopIndex].LAT, stopsTmp[stopIndex].LON);
 
-                      distShapeToStop = distanceBetweenPoints(p1, p2); //get distance between shape to next stop (stopsTmp[stopIndex])
-                      addStop(stopsTmp[stopIndex], distShapeToStop);
-                      distController = radius + 1;
-                      indexController = -1;
-                      stopIndex++; //next stop
-                      i--;
-                      retake = true;
-                      recluting = false; //
-                  }
-              }
-          }
-        }else{
-          //console.log("no more stops");
+                        distShapeToStop = distanceBetweenPoints(p1, p2); //get distance between shape to next stop (stopsTmp[stopIndex])
+                        addStop(stopsTmp[stopIndex], distShapeToStop);
+                        distController = radius + 1;
+                        indexController = -1;
+                        stopIndex++; //next stop
+                        i--;
+                        retake = true;
+                        recluting = false; //
+                    }
+                }
+            }
+        } else {
+            //console.log("no more stops");
         }
     }
     //});
@@ -325,7 +370,7 @@ function addStop(stop, distance) {
     });
 }
 
-function addShapePoint(shapePoint, distance) {
+function addShapePoint(shapePoint, distance, stopNum) {
     jsonResponse.points.push({
         stop: false,
         shp: shapePoint.SHP,
@@ -366,12 +411,12 @@ function mergeStops(firstStop, secondStop) {
     console.log("n firstStop: " + firstStop.length + "\nn secondStop: " + secondStop.length);
     var bigger = [];
     var smaller = [];
-    if(firstStop.length >= secondStop.length){
-      bigger = firstStop;
-      smaller = secondStop;
-    }else{
-      bigger = secondStop;
-      smaller = firstStop;
+    if (firstStop.length >= secondStop.length) {
+        bigger = firstStop;
+        smaller = secondStop;
+    } else {
+        bigger = secondStop;
+        smaller = firstStop;
     }
 
 
@@ -416,6 +461,33 @@ function getCustomRadius(linha, radius) {
         case "636":
             console.log("Custom radius for " + linha + ": " + 60 + "m");
             return 60;
+        case "913":
+            console.log("Custom radius for " + linha + ": " + 25 + "m");
+            return 25;
+        case "270":
+            console.log("Custom radius for " + linha + ": " + 50 + "m");
+            return 50;
+        case "271":
+            console.log("Custom radius for " + linha + ": " + 50 + "m");
+            return 50;
+        case "340":
+            console.log("Custom radius for " + linha + ": " + 20 + "m");
+            return 20;
+        case "610":
+            console.log("Custom radius for " + linha + ": " + 150 + "m");
+            return 150;
+        case "822":
+            console.log("Custom radius for " + linha + ": " + 30 + "m");
+            return 30;
+        case "519":
+            console.log("Custom radius for " + linha + ": " + 150 + "m");
+            return 150;
+        case "214":
+            console.log("Custom radius for " + linha + ": " + 200 + "m");
+            return 200;
+        case "209":
+            console.log("Custom radius for " + linha + ": " + 180 + "m");
+            return 180;
         default:
             return radius;
     }
