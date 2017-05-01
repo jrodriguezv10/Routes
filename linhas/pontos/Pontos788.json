@@ -361,16 +361,6 @@
     },
     {
         "GRUPO": "",
-        "LAT": "-25,460863628602",
-        "LON": "-49,328575677134",
-        "NOME": "Rua Renato Polati, 223 - Campo Comprido",
-        "NUM": "180274",
-        "SENTIDO": "Circular",
-        "SEQ": "54",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
         "LAT": "-25,461105799415",
         "LON": "-49,32572717116",
         "NOME": "Rua Renato Polati, 3 - Campo Comprido",

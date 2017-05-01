@@ -1,1062 +1,542 @@
 [
-    {
-        "GRUPO": "",
-        "LAT": "-25,45057968767",
-        "LON": "-49,26169953373",
-        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
-        "NUM": "140053",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "31",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,410867950571",
-        "LON": "-49,266023353639",
-        "NOME": "R. Mal. Hermes, 910 - Centro Cívico",
-        "NUM": "120100",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "51",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45555",
-        "LON": "-49,27243",
-        "NOME": "R. Silveira Neto, 686 - Água Verde",
-        "NUM": "150225",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "28",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44264",
-        "LON": "-49,25573",
-        "NOME": "Rua Imaculada Conceição, 205 - Rebouças",
-        "NUM": "140183",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "37",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41395",
-        "LON": "-49,25893",
-        "NOME": "Rua Rocha Pombo, 466 - Juvevê",
-        "NUM": "130236",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "47",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,427157483578",
-        "LON": "-49,289513906746",
-        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
-        "NUM": "190171",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "14",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,454366316417",
-        "LON": "-49,271165800764",
-        "NOME": "Rua Conselheiro Dantas, 1520 - Água Verde",
-        "NUM": "150715",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "48",
-        "TIPO": "Chapéu chinês"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,441566099155",
-        "LON": "-49,285130978769",
-        "NOME": "Av. do Batel, 1190 - Batel",
-        "NUM": "180069",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "41",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,446854383581",
-        "LON": "-49,280945364418",
-        "NOME": "Rua Alferes Ângelo Sampaio, 615 - Água Verde",
-        "NUM": "150220",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "43",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44981",
-        "LON": "-49,27953",
-        "NOME": "Rua Alferes Ângelo Sampaio, 262 - Água Verde",
-        "NUM": "150222",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "44",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45434",
-        "LON": "-49,27595",
-        "NOME": "Rua Silveira Neto, 349 - Água Verde",
-        "NUM": "150224",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "46",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45052",
-        "LON": "-49,25291",
-        "NOME": "Rua Imaculada Conceição, 1091 - Prado Velho",
-        "NUM": "140181",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "1",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44647",
-        "LON": "-49,25388",
-        "NOME": "Rua Imaculada Conceição, 631 - Prado Velho",
-        "NUM": "140182",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "2",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416890336817",
-        "LON": "-49,252919504299",
-        "NOME": "Rua Augusto Stresser, 908 - Juvevê",
-        "NUM": "130234",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "11",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,412399381482",
-        "LON": "-49,262105976686",
-        "NOME": "Rua Rocha Pombo, 920 - Juvevê",
-        "NUM": "120097",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "14",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416719717526",
-        "LON": "-49,282000495701",
-        "NOME": "R. Dom Alberto Gonçalves, 611-745 - Mercês",
-        "NUM": "110030",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "25",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,429076024657",
-        "LON": "-49,293428775463",
-        "NOME": "R. Padre Agostinho, 1380 - Bigorrilho",
-        "NUM": "190173",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "34",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,442824460903",
-        "LON": "-49,282907143517",
-        "NOME": "Rua Alferes Ângelo Sampaio, 1177 - Batel",
-        "NUM": "180036",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "23",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422197325377",
-        "LON": "-49,288070641699",
-        "NOME": "Av. Manoel Ribas, 898 - Mercês",
-        "NUM": "110034",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "11",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,423931211227",
-        "LON": "-49,291052449074",
-        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
-        "NUM": "190170",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "13",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,430755003707",
-        "LON": "-49,295877667494",
-        "NOME": "R. Francisco Rocha, 1711 - Bigorrilho",
-        "NUM": "190174",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "17",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,450261873841",
-        "LON": "-49,259898163195",
-        "NOME": "Rua Rockefeller, 1424 - Prado Velho",
-        "NUM": "140265",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "52",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,452741835946",
-        "LON": "-49,278116588955",
-        "NOME": "Rua Alferes Ângelo Sampaio, 1 - Água Verde",
-        "NUM": "150223",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "45",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,429290931856",
-        "LON": "-49,253856588955",
-        "NOME": "R. José de Alencar, 641 - Alto da Rua Quinze",
-        "NUM": "110028",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "7",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42337",
-        "LON": "-49,25315",
-        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
-        "NUM": "130232",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "9",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41395",
-        "LON": "-49,25893",
-        "NOME": "Rua Rocha Pombo, 466 - Juvevê",
-        "NUM": "130236",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "13",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41197",
-        "LON": "-49,27903",
-        "NOME": "R. Carlos Pioli, 861 - Bom Retiro",
-        "NUM": "120108",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "23",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422197325377",
-        "LON": "-49,288070641699",
-        "NOME": "Av. Manoel Ribas, 898 - Mercês",
-        "NUM": "110034",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "29",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,430755003707",
-        "LON": "-49,295877667494",
-        "NOME": "R. Francisco Rocha, 1711 - Bigorrilho",
-        "NUM": "190174",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "36",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,440617266354",
-        "LON": "-49,290334139881",
-        "NOME": "R. Francisco Rocha, 612 - Batel",
-        "NUM": "180039",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "39",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,429777952575",
-        "LON": "-49,295175851531",
-        "NOME": "Rua Padre Agostinho, 1702 - São Francisco",
-        "NUM": "190048",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "35",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,450261873841",
-        "LON": "-49,259898163195",
-        "NOME": "Rua Rockefeller, 1424 - Prado Velho",
-        "NUM": "140265",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "32",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45434",
-        "LON": "-49,27595",
-        "NOME": "Rua Silveira Neto, 349 - Água Verde",
-        "NUM": "150224",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "27",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42337",
-        "LON": "-49,25315",
-        "NOME": "Rua José de Alencar, 1391 - Alto da Rua XV",
-        "NUM": "130232",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "43",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416176648704",
-        "LON": "-49,255896588955",
-        "NOME": "Rua Rocha Pombo, 2 - Juvevê",
-        "NUM": "130235",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "46",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41632",
-        "LON": "-49,26904",
-        "NOME": "Rua Ernani Santiago de Oliveira, 171 - Centro Cívico",
-        "NUM": "120104",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "1",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422354282858",
-        "LON": "-49,284145743551",
-        "NOME": "Av. Manoel Ribas, 530 - Mercês",
-        "NUM": "110033",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "10",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,410867950571",
-        "LON": "-49,266023353639",
-        "NOME": "R. Mal. Hermes, 910 - Centro Cívico",
-        "NUM": "120100",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "17",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45387",
-        "LON": "-49,26991",
-        "NOME": "Rua Conselheiro Dantas, 1206 - Rebouças",
-        "NUM": "150226",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "49",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42017",
-        "LON": "-49,25279",
-        "NOME": "R. José de Alencar, 1693 - Alto da XV",
-        "NUM": "130233",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "10",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416176648704",
-        "LON": "-49,255896588955",
-        "NOME": "Rua Rocha Pombo, 2 - Juvevê",
-        "NUM": "130235",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "12",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41632",
-        "LON": "-49,26904",
-        "NOME": "Rua Ernani Santiago de Oliveira, 171 - Centro Cívico",
-        "NUM": "120104",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "19",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,410308195459",
-        "LON": "-49,27609842576",
-        "NOME": "R. Carlos Pioli, 471 - Bom Retiro",
-        "NUM": "120107",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "22",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422354282858",
-        "LON": "-49,284145743551",
-        "NOME": "Av. Manoel Ribas, 530 - Mercês",
-        "NUM": "110033",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "28",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,427157483578",
-        "LON": "-49,289513906746",
-        "NOME": "Alameda Pres. Taunay, 1432 - Mercês",
-        "NUM": "190171",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "32",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,437100622493",
-        "LON": "-49,292313790178",
-        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
-        "NUM": "180038",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "38",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,409179497499",
-        "LON": "-49,265251786655",
-        "NOME": "R. Manoel Eufrásio, 1223 - Ahú",
-        "NUM": "120099",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "50",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,436607355344",
-        "LON": "-49,260179058856",
-        "NOME": "Viaduto Colorado, 1159 - Rebouças",
-        "NUM": "140216",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "38",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45043",
-        "LON": "-49,25676",
-        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
-        "NUM": "140267",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "33",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,446854383581",
-        "LON": "-49,280945364418",
-        "NOME": "Rua Alferes Ângelo Sampaio, 615 - Água Verde",
-        "NUM": "150220",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "24",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45201",
-        "LON": "-49,26525",
-        "NOME": "Rua Conselheiro Dantas, 761 - Rebouças",
-        "NUM": "150227",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "30",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,43405",
-        "LON": "-49,25686",
-        "NOME": "Av. Sete de Setembro, 1797 - Centro",
-        "NUM": "110015",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "39",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,429290931856",
-        "LON": "-49,253856588955",
-        "NOME": "R. José de Alencar, 641 - Alto da Rua Quinze",
-        "NUM": "110028",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "41",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,414750954843",
-        "LON": "-49,269954606152",
-        "NOME": "R. Jacy Loureiro de Campos, 1 - Centro Cívico",
-        "NUM": "120105",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "2",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41197",
-        "LON": "-49,27903",
-        "NOME": "R. Carlos Pioli, 861 - Bom Retiro",
-        "NUM": "120108",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "5",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416719717526",
-        "LON": "-49,282000495701",
-        "NOME": "R. Dom Alberto Gonçalves, 611-745 - Mercês",
-        "NUM": "110030",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "7",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,433904877339",
-        "LON": "-49,29412046627",
-        "NOME": "R. Francisco Rocha, 1362 - Bigorrilho",
-        "NUM": "180037",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "18",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45057968767",
-        "LON": "-49,26169953373",
-        "NOME": "Rua Conselheiro Dantas, 356 - Prado Velho",
-        "NUM": "140053",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "51",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45043",
-        "LON": "-49,25676",
-        "NOME": "Rua Comendador Roseira, 260 - Prado Velho",
-        "NUM": "140267",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "53",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45555",
-        "LON": "-49,27243",
-        "NOME": "R. Silveira Neto, 686 - Água Verde",
-        "NUM": "150225",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "47",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44264",
-        "LON": "-49,25573",
-        "NOME": "Rua Imaculada Conceição, 205 - Rebouças",
-        "NUM": "140183",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "3",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41108",
-        "LON": "-49,26382",
-        "NOME": "Rua Alberto Folloni, 477 - Juvevê",
-        "NUM": "120098",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "15",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,411519072436",
-        "LON": "-49,27147046627",
-        "NOME": "R. Dep. Mário de Barros, 1681 - Centro Cívico",
-        "NUM": "120106",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "21",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,419750929556",
-        "LON": "-49,282769766865",
-        "NOME": "R. Dom Alberto Gonçalves, 256 - Mercês",
-        "NUM": "110031",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "26",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,421716676263",
-        "LON": "-49,28331842576",
-        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
-        "NUM": "110032",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "27",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,433904877339",
-        "LON": "-49,29412046627",
-        "NOME": "R. Francisco Rocha, 1362 - Bigorrilho",
-        "NUM": "180037",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "37",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45387",
-        "LON": "-49,26991",
-        "NOME": "Rua Conselheiro Dantas, 1206 - Rebouças",
-        "NUM": "150226",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "29",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45052",
-        "LON": "-49,25291",
-        "NOME": "Rua Imaculada Conceição, 1091 - Prado Velho",
-        "NUM": "140181",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "35",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42656",
-        "LON": "-49,25351",
-        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
-        "NUM": "110029",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "42",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,412399381482",
-        "LON": "-49,262105976686",
-        "NOME": "Rua Rocha Pombo, 920 - Juvevê",
-        "NUM": "120097",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "48",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,41108",
-        "LON": "-49,26382",
-        "NOME": "Rua Alberto Folloni, 477 - Juvevê",
-        "NUM": "120098",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "49",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,411519072436",
-        "LON": "-49,27147046627",
-        "NOME": "R. Dep. Mário de Barros, 1681 - Centro Cívico",
-        "NUM": "120106",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "3",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,419750929556",
-        "LON": "-49,282769766865",
-        "NOME": "R. Dom Alberto Gonçalves, 256 - Mercês",
-        "NUM": "110031",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "8",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,413776385812",
-        "LON": "-49,266247318092",
-        "NOME": "Rua Prof. Benedito N dos Santos, 42 - Centro Cívico",
-        "NUM": "120706",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "18",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,450967928953",
-        "LON": "-49,254071720238",
-        "NOME": "Rua Iapó, 1158 - Prado Velho",
-        "NUM": "140270",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "54",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,442824460903",
-        "LON": "-49,282907143517",
-        "NOME": "Rua Alferes Ângelo Sampaio, 1177 - Batel",
-        "NUM": "180036",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "42",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,414750954843",
-        "LON": "-49,269954606152",
-        "NOME": "R. Jacy Loureiro de Campos, 1 - Centro Cívico",
-        "NUM": "120105",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "20",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,452741835946",
-        "LON": "-49,278116588955",
-        "NOME": "Rua Alferes Ângelo Sampaio, 1 - Água Verde",
-        "NUM": "150223",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "26",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,413472422663",
-        "LON": "-49,281147930059",
-        "NOME": "R. Dom Alberto Gonçalves, 951 - Bom Retiro",
-        "NUM": "120109",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "6",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42804152399",
-        "LON": "-49,290816150961",
-        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
-        "NUM": "190172",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "15",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,442672993214",
-        "LON": "-49,288137735075",
-        "NOME": "Av. do Batel, 1614 - Batel",
-        "NUM": "180067",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "40",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,43405",
-        "LON": "-49,25686",
-        "NOME": "Av. Sete de Setembro, 1797 - Centro",
-        "NUM": "110015",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "5",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,413472422663",
-        "LON": "-49,281147930059",
-        "NOME": "R. Dom Alberto Gonçalves, 951 - Bom Retiro",
-        "NUM": "120109",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "24",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422572451556",
-        "LON": "-49,290002332506",
-        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
-        "NUM": "110035",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "30",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,423931211227",
-        "LON": "-49,291052449074",
-        "NOME": "Alameda Pres. Taunay, 1826 - Mercês",
-        "NUM": "190170",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "31",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42804152399",
-        "LON": "-49,290816150961",
-        "NOME": "R. Padre Agostinho, 1168 - Bigorrilho",
-        "NUM": "190172",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "33",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,441566099155",
-        "LON": "-49,285130978769",
-        "NOME": "Av. do Batel, 1190 - Batel",
-        "NUM": "180069",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "22",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,442672993214",
-        "LON": "-49,288137735075",
-        "NOME": "Av. do Batel, 1614 - Batel",
-        "NUM": "180067",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "21",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44981",
-        "LON": "-49,27953",
-        "NOME": "Rua Alferes Ângelo Sampaio, 262 - Água Verde",
-        "NUM": "150222",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "25",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,44647",
-        "LON": "-49,25388",
-        "NOME": "Rua Imaculada Conceição, 631 - Prado Velho",
-        "NUM": "140182",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "36",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,431270813559",
-        "LON": "-49,254113440476",
-        "NOME": "R. José de Alencar, 361 - Alto da Rua Quinze",
-        "NUM": "110027",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "40",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,416890336817",
-        "LON": "-49,252919504299",
-        "NOME": "Rua Augusto Stresser, 908 - Juvevê",
-        "NUM": "130234",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "45",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,421716676263",
-        "LON": "-49,28331842576",
-        "NOME": "R. Dom Alberto Gonçalves, 44 - Mercês",
-        "NUM": "110032",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "9",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,422572451556",
-        "LON": "-49,290002332506",
-        "NOME": "Av. Manoel Ribas, 1054 - Mercês",
-        "NUM": "110035",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "12",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,45201",
-        "LON": "-49,26525",
-        "NOME": "Rua Conselheiro Dantas, 761 - Rebouças",
-        "NUM": "150227",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "50",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42656",
-        "LON": "-49,25351",
-        "NOME": "Rua José de Alencar, 967 - Alto da Rua XV",
-        "NUM": "110029",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "8",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,413776385812",
-        "LON": "-49,266247318092",
-        "NOME": "Rua Prof. Benedito N dos Santos, 42 - Centro Cívico",
-        "NUM": "120706",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "52",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,450967928953",
-        "LON": "-49,254071720238",
-        "NOME": "Rua Iapó, 1158 - Prado Velho",
-        "NUM": "140270",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "34",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,42017",
-        "LON": "-49,25279",
-        "NOME": "R. José de Alencar, 1693 - Alto da XV",
-        "NUM": "130233",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "44",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,410308195459",
-        "LON": "-49,27609842576",
-        "NOME": "R. Carlos Pioli, 471 - Bom Retiro",
-        "NUM": "120107",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "4",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,429076024657",
-        "LON": "-49,293428775463",
-        "NOME": "R. Padre Agostinho, 1380 - Bigorrilho",
-        "NUM": "190173",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "16",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,437100622493",
-        "LON": "-49,292313790178",
-        "NOME": "R. Francisco Rocha, 956 - Bigorrilho",
-        "NUM": "180038",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "19",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,440617266354",
-        "LON": "-49,290334139881",
-        "NOME": "R. Francisco Rocha, 612 - Batel",
-        "NUM": "180039",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "20",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,409179497499",
-        "LON": "-49,265251786655",
-        "NOME": "R. Manoel Eufrásio, 1223 - Ahú",
-        "NUM": "120099",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "16",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,436607355344",
-        "LON": "-49,260179058856",
-        "NOME": "Viaduto Colorado, 1159 - Rebouças",
-        "NUM": "140216",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "4",
-        "TIPO": "Novo mobiliário"
-    },
-    {
-        "GRUPO": "",
-        "LAT": "-25,431270813559",
-        "LON": "-49,254113440476",
-        "NOME": "R. José de Alencar, 361 - Alto da Rua Quinze",
-        "NUM": "110027",
-        "SENTIDO": "Anti-horário",
-        "SEQ": "6",
-        "TIPO": "Novo mobiliário"
-    }
+  {
+    "GRUPO": "",
+    "LAT": "-25,45052",
+    "LON": "-49,25291",
+    "NOME": "Rua Imaculada Conceição. 1091 - Prado Velho",
+    "NUM": "140181",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "1",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,44647",
+    "LON": "-49,25388",
+    "NOME": "Rua Imaculada Conceição. 631 - Prado Velho",
+    "NUM": "140182",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "2",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,44264",
+    "LON": "-49,25573",
+    "NOME": "Rua Imaculada Conceição. 205 - Rebouças",
+    "NUM": "140183",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "3",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,436607355344",
+    "LON": "-49,260179058856",
+    "NOME": "Viaduto Colorado. 1159 - Rebouças",
+    "NUM": "140216",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "4",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,43405",
+    "LON": "-49,25686",
+    "NOME": "Av. Sete de Setembro. 1797 - Centro",
+    "NUM": "110015",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "5",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,431270813559",
+    "LON": "-49,254113440476",
+    "NOME": "R. José de Alencar. 361 - Alto da Rua Quinze",
+    "NUM": "110027",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "6",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,429290931856",
+    "LON": "-49,253856588955",
+    "NOME": "R. José de Alencar. 641 - Alto da Rua Quinze",
+    "NUM": "110028",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "7",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,42656",
+    "LON": "-49,25351",
+    "NOME": "Rua José de Alencar. 967 - Alto da Rua XV",
+    "NUM": "110029",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "8",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,42337",
+    "LON": "-49,25315",
+    "NOME": "Rua José de Alencar. 1391 - Alto da Rua XV",
+    "NUM": "130232",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "9",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,42017",
+    "LON": "-49,25279",
+    "NOME": "R. José de Alencar. 1693 - Alto da XV",
+    "NUM": "130233",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "10",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,416890336817",
+    "LON": "-49,252919504299",
+    "NOME": "Rua Augusto Stresser. 908 - Juvevê",
+    "NUM": "130234",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "11",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,416176648704",
+    "LON": "-49,255896588955",
+    "NOME": "Rua Rocha Pombo. 2 - Juvevê",
+    "NUM": "130235",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "12",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,41395",
+    "LON": "-49,25893",
+    "NOME": "Rua Rocha Pombo. 466 - Juvevê",
+    "NUM": "130236",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "13",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,412399381482",
+    "LON": "-49,262105976686",
+    "NOME": "Rua Rocha Pombo. 920 - Juvevê",
+    "NUM": "120097",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "14",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,41108",
+    "LON": "-49,26382",
+    "NOME": "Rua Alberto Folloni. 477 - Juvevê",
+    "NUM": "120098",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "15",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,409179497499",
+    "LON": "-49,265251786655",
+    "NOME": "R. Manoel Eufrásio. 1223 - Ahú",
+    "NUM": "120099",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "16",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,410867950571",
+    "LON": "-49,266023353639",
+    "NOME": "R. Mal. Hermes. 910 - Centro Cívico",
+    "NUM": "120100",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "17",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,413776385812",
+    "LON": "-49,266247318092",
+    "NOME": "Rua Prof. Benedito N dos Santos. 42 - Centro Cívico",
+    "NUM": "120706",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "18",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,41632",
+    "LON": "-49,26904",
+    "NOME": "Rua Ernani Santiago de Oliveira. 171 - Centro Cívico",
+    "NUM": "120104",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "19",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,414750954843",
+    "LON": "-49,269954606152",
+    "NOME": "R. Jacy Loureiro de Campos. 1 - Centro Cívico",
+    "NUM": "120105",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "20",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,411519072436",
+    "LON": "-49,27147046627",
+    "NOME": "R. Dep. Mário de Barros. 1681 - Centro Cívico",
+    "NUM": "120106",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "21",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,410308195459",
+    "LON": "-49,27609842576",
+    "NOME": "R. Carlos Pioli. 471 - Bom Retiro",
+    "NUM": "120107",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "22",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,41197",
+    "LON": "-49,27903",
+    "NOME": "R. Carlos Pioli. 861 - Bom Retiro",
+    "NUM": "120108",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "23",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,413472422663",
+    "LON": "-49,281147930059",
+    "NOME": "R. Dom Alberto Gonçalves. 951 - Bom Retiro",
+    "NUM": "120109",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "24",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,416719717526",
+    "LON": "-49,282000495701",
+    "NOME": "R. Dom Alberto Gonçalves. 611-745 - Mercês",
+    "NUM": "110030",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "25",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,419750929556",
+    "LON": "-49,282769766865",
+    "NOME": "R. Dom Alberto Gonçalves. 256 - Mercês",
+    "NUM": "110031",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "26",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,421716676263",
+    "LON": "-49,28331842576",
+    "NOME": "R. Dom Alberto Gonçalves. 44 - Mercês",
+    "NUM": "110032",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "27",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,422354282858",
+    "LON": "-49,284145743551",
+    "NOME": "Av. Manoel Ribas. 530 - Mercês",
+    "NUM": "110033",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "28",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,422197325377",
+    "LON": "-49,288070641699",
+    "NOME": "Av. Manoel Ribas. 898 - Mercês",
+    "NUM": "110034",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "29",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,422572451556",
+    "LON": "-49,290002332506",
+    "NOME": "Av. Manoel Ribas. 1054 - Mercês",
+    "NUM": "110035",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "30",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,423931211227",
+    "LON": "-49,291052449074",
+    "NOME": "Alameda Pres. Taunay. 1826 - Mercês",
+    "NUM": "190170",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "31",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,427157483578",
+    "LON": "-49,289513906746",
+    "NOME": "Alameda Pres. Taunay. 1432 - Mercês",
+    "NUM": "190171",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "32",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25.42804152399",
+    "LON": "-49.290816150961",
+    "NOME": "R. Padre Agostinho. 1168 - Bigorrilho",
+    "NUM": "190172",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "33",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,429076024657",
+    "LON": "-49,293428775463",
+    "NOME": "R. Padre Agostinho. 1380 - Bigorrilho",
+    "NUM": "190173",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "34",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,429777952575",
+    "LON": "-49,295175851531",
+    "NOME": "Rua Padre Agostinho. 1702 - São Francisco",
+    "NUM": "190048",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "35",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,430755003707",
+    "LON": "-49,295877667494",
+    "NOME": "R. Francisco Rocha. 1711 - Bigorrilho",
+    "NUM": "190174",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "36",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,433904877339",
+    "LON": "-49,29412046627",
+    "NOME": "R. Francisco Rocha. 1362 - Bigorrilho",
+    "NUM": "180037",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "37",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,437100622493",
+    "LON": "-49,292313790178",
+    "NOME": "R. Francisco Rocha. 956 - Bigorrilho",
+    "NUM": "180038",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "38",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,440617266354",
+    "LON": "-49,290334139881",
+    "NOME": "R. Francisco Rocha. 612 - Batel",
+    "NUM": "180039",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "39",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,442672993214",
+    "LON": "-49,288137735075",
+    "NOME": "Av. do Batel. 1614 - Batel",
+    "NUM": "180067",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "40",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,441566099155",
+    "LON": "-49,285130978769",
+    "NOME": "Av. do Batel. 1190 - Batel",
+    "NUM": "180069",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "41",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,442824460903",
+    "LON": "-49,282907143517",
+    "NOME": "Rua Alferes Ângelo Sampaio. 1177 - Batel",
+    "NUM": "180036",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "42",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,446854383581",
+    "LON": "-49,280945364418",
+    "NOME": "Rua Alferes Ângelo Sampaio. 615 - Água Verde",
+    "NUM": "150220",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "43",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,44981",
+    "LON": "-49,27953",
+    "NOME": "Rua Alferes Ângelo Sampaio. 262 - Água Verde",
+    "NUM": "150222",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "44",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,452741835946",
+    "LON": "-49,278116588955",
+    "NOME": "Rua Alferes Ângelo Sampaio. 1 - Água Verde",
+    "NUM": "150223",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "45",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45434",
+    "LON": "-49,27595",
+    "NOME": "Rua Silveira Neto. 349 - Água Verde",
+    "NUM": "150224",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "46",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45555",
+    "LON": "-49,27243",
+    "NOME": "R. Silveira Neto. 686 - Água Verde",
+    "NUM": "150225",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "47",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,454366316417",
+    "LON": "-49,271165800764",
+    "NOME": "Rua Conselheiro Dantas. 1520 - Água Verde",
+    "NUM": "150715",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "48",
+    "TIPO": "Chapéu chinês"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45387",
+    "LON": "-49,26991",
+    "NOME": "Rua Conselheiro Dantas. 1206 - Rebouças",
+    "NUM": "150226",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "49",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45201",
+    "LON": "-49,26525",
+    "NOME": "Rua Conselheiro Dantas. 761 - Rebouças",
+    "NUM": "150227",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "50",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45057968767",
+    "LON": "-49.26169953373",
+    "NOME": "Rua Conselheiro Dantas. 356 - Prado Velho",
+    "NUM": "140053",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "51",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,450261873841",
+    "LON": "-49,259898163195",
+    "NOME": "Rua Rockefeller. 1424 - Prado Velho",
+    "NUM": "140265",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "52",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,45043",
+    "LON": "-49,25676",
+    "NOME": "Rua Comendador Roseira. 260 - Prado Velho",
+    "NUM": "140267",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "53",
+    "TIPO": "Novo mobiliário"
+  },
+  {
+    "GRUPO": "",
+    "LAT": "-25,450967928953",
+    "LON": "-49,254071720238",
+    "NOME": "Rua Iapó. 1158 - Prado Velho",
+    "NUM": "140270",
+    "SENTIDO": "Anti-horário",
+    "SEQ": "54",
+    "TIPO": "Novo mobiliário"
+  }
 ]

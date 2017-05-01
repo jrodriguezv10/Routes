@@ -706,7 +706,7 @@
         "NOME": "Avenida Anita Garibaldi, 5593 - Barreirinha",
         "NUM": "120038",
         "SENTIDO": "Terminal Santa Felicidade",
-        "SEQ": "21",
+        "SEQ": "20",
         "TIPO": "Novo mobiliário"
     },
     {
@@ -1126,7 +1126,7 @@
         "NOME": "Rua Carmelina Cavassim, 1703 - Barreirinha",
         "NUM": "120414",
         "SENTIDO": "Terminal Santa Felicidade",
-        "SEQ": "20",
+        "SEQ": "21",
         "TIPO": "Domus"
     },
     {
