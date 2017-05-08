@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Distance Between Bus Stops</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdWA3FocJiL2gF0tifa3QmcqD6fcUs5pA&libraries=visualization"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="js/mapstyles.js" type="text/javascript"></script>
+    <script src="js/routes.js"></script>
+    <script src="js/caller-routes.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+    <div id="map"></div>
+    <section id="setting-container" style="display: none;">
+        <div class="container" style="">
+            <div id="routes" style="overflow: scroll; height: 600px;"></div>
+        </div>
+
+        <div id="hider" class="hider">
+            <div id="close-settings" onclick="closeSettings(true)"></div>
+            <div id="open-settings" onclick="closeSettings(false)"></div>
+        </div>
+    </section>
+
+    <div id="console" style="margin:15px; display: none;">
+            <img src="http://maps.google.com/mapfiles/ms/icons/green-dot.png" /><div class="txt-legend">Pontos da ida</div><br>
+            <img src="img/point2.png" style="margin: 5px;" /><div class="txt-legend">Shape mais próximo ao ponto</div><br>
+            <img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png" /><div class="txt-legend">Pontos da volta</div><br>
+            <div id="box-green" class="box_legend"></div><div class="txt-legend" id="sentido-go">Loading...</div><br>
+            <div id="box-orange" class="box_legend"></div><div class="txt-legend" id="sentido-back">Loading...</div>
+    </div>
+</body>
+
+</html>
