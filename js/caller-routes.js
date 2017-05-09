@@ -11,5 +11,5 @@ function initialize() {
     }
 
     map = new google.maps.Map(mapCanvas, mapOptions);
-    console.log("initialized");
+    getRouteJson();
 }
