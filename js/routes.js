@@ -1,13 +1,13 @@
 let server = 'https://raw.githubusercontent.com/jrodriguezv10/Routes/master/linhas/route.json';
 var colors = ["#378D3B", "#D22E2E", "#2F3E9E",
-    "#1875D1", "#7A1EA1", "#d35400",
-    "#16a085", "##666666"
+  "#1875D1", "#7A1EA1", "#d35400",
+  "#16a085", "##666666"
 ];
 
 var rutaImg = "https://raw.githubusercontent.com/jrodriguezv10/Routes/master/img/markers";
 var markersUrl = [rutaImg + "/markerVerde.png", rutaImg + "/markerRojo.png", rutaImg + "/markerAzul.png",
-    rutaImg + "/markerCeleste.png", rutaImg + "/markerMorado.png", rutaImg + "/markerNaranja.png",
-    rutaImg + "/markerTurquesa.png", rutaImg + "/markerPlomo.png"
+  rutaImg + "/markerCeleste.png", rutaImg + "/markerMorado.png", rutaImg + "/markerNaranja.png",
+  rutaImg + "/markerTurquesa.png", rutaImg + "/markerPlomo.png"
 ];
 var map;
 var loaderShape = [];
@@ -235,8 +235,7 @@ function getReferentShapePoint(linhasDivided, shapesWithSHP, radiuses) {
 
     console.log("..........................................");
     var recluting = false;
-    //var radius = radiuses[index];
-    var radius = 80;
+    var radius = radiuses[index];
     var distController = radius + 1;
     var indexController = -1;
     var stopsTmp = linhasDivided[index];
@@ -249,17 +248,17 @@ function getReferentShapePoint(linhasDivided, shapesWithSHP, radiuses) {
     var foundFirst = false;
 
 
-    for (var i = 0; i < shapeTmp.length; i++){
+    for (var i = 0; i < shapeTmp.length; i++) {
       var shapePoint = shapeTmp[i];
       var shapePointLoc = new google.maps.LatLng(shapePoint.LAT.replace(",", "."), shapePoint.LON.replace(",", "."));
       var stopLoc = new google.maps.LatLng(stopsTmp[0].LAT, stopsTmp[0].LON);
       let distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
       if (distShapeToStop <= radius) { //radius in meters
-          recluting = true;
-          if (distShapeToStop < distController) {
-              distController = distShapeToStop;
-              indexBegin = i;
-          }
+        recluting = true;
+        if (distShapeToStop < distController) {
+          distController = distShapeToStop;
+          indexBegin = i;
+        }
 
       }
     }
@@ -268,50 +267,44 @@ function getReferentShapePoint(linhasDivided, shapesWithSHP, radiuses) {
     indexController = -1;
     distController = radius + 1;
 
-    for (var i = 0; i < shapeTmp.length; i++){
+    for (var i = 0; i < shapeTmp.length; i++) {
       var shapePoint = shapeTmp[i];
       var shapePointLoc = new google.maps.LatLng(shapePoint.LAT.replace(",", "."), shapePoint.LON.replace(",", "."));
-      var stopLoc = new google.maps.LatLng(stopsTmp[stopsTmp.length-1].LAT, stopsTmp[stopsTmp.length-1].LON);
+      var stopLoc = new google.maps.LatLng(stopsTmp[stopsTmp.length - 1].LAT, stopsTmp[stopsTmp.length - 1].LON);
       let distShapeToStop = distanceBetweenPoints(shapePointLoc, stopLoc); //get distance between shape to next stop (stopsTmp[stopIndex])
 
       if (distShapeToStop <= radius) { //radius in meters
-          recluting = true;
-          if (distShapeToStop < distController) {
-              distController = distShapeToStop;
-              indexEnd = i;
-          }
+        recluting = true;
+        if (distShapeToStop < distController) {
+          distController = distShapeToStop;
+          indexEnd = i;
+        }
 
       }
     }
 
-
-console.log(indexBegin + "->" + indexEnd);
-    for(var i = indexBegin; i<indexEnd; i++){
+    console.log(indexBegin + "->" + indexEnd);
+    for (var i = indexBegin; i < indexEnd; i++) {
       colorsSHP[index].push(shapeTmp[i]);
     }
-
-
-    //console.log("["+stopsTmp[index].SEQ+"]" + stopsTmp[index].SENTIDO);
-    //console.log("["+stopsTmp[stopsTmp.length - 1].SEQ+"]" + stopsTmp[stopsTmp.length - 1].SENTIDO);
-    //colorsSHP[index].push(shapeTmp);
-
-
-
-
 
     for (var i = 0; i < stopsTmp.length; i++) {
       createMarker(stopsTmp[i], index).setMap(map);
     }
 
-
-
   });
 
-console.log(colorsSHP);
+  console.log(colorsSHP);
   $.each(colorsSHP, function(index, shapeTmp) {
     printShape(shapeTmp, index);
   });
 
+  var html = '';
+  $.each(linhasDivided, function(index, linha) {
+    html += '<img src="' + markersUrl[index] + '" /><div id class="txt-legend">Cod Linha: <strong>' +
+      linha[0].CODLINHA + '</strong><br>Sentido: <strong>' + linha[0].SENTIDO + '</strong></div><br>';
+  });
+  $("#console").append(html);
 
 }
 
@@ -467,85 +460,88 @@ function getCustomRadius(linha, radius) {
     case "209":
       console.log("Custom radius for " + linha + ": " + 180 + "m");
       return 180;
+    case "303":
+      console.log("Custom radius for " + linha + ": " + 80 + "m");
+      return 80;
     default:
       return radius;
   }
 }
 
 function createMarker(item, i) {
-    var latLng = new google.maps.LatLng(item.LAT, item.LON);
-    var iconURL = markersUrl[i];
+  var latLng = new google.maps.LatLng(item.LAT, item.LON);
+  var iconURL = markersUrl[i];
 
-    var marker = new google.maps.Marker({
-        position: latLng,
-        icon: iconURL
+  var marker = new google.maps.Marker({
+    position: latLng,
+    icon: iconURL
+  });
+  marker.addListener('click', function() {
+    var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
+      item.SEQ + '<br>' + item.SENTIDO + '<br>';
+    var infowindow = new google.maps.InfoWindow({
+      content: contentString
     });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + item.NOME + '</strong> <br> ' +
-            item.SEQ + '<br>' + item.SENTIDO + '<br>';
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
+    infowindow.open(map, marker);
+  });
 
-    return marker;
+  return marker;
 }
 
 function createMarker2(item, i) {
-    var latLng = new google.maps.LatLng(item.LAT.replace(",", "."), item.LON.replace(",", "."));
-    //var iconURL = markersUrl[i];
+  var latLng = new google.maps.LatLng(item.LAT.replace(",", "."), item.LON.replace(",", "."));
+  //var iconURL = markersUrl[i];
 
-    var marker = new google.maps.Marker({
-        position: latLng
-        //icon: iconURL
+  var marker = new google.maps.Marker({
+    position: latLng
+    //icon: iconURL
+  });
+  marker.addListener('click', function() {
+    var contentString = '<strong>' + i + '</strong>';
+    var infowindow = new google.maps.InfoWindow({
+      content: contentString
     });
-    marker.addListener('click', function() {
-        var contentString = '<strong>' + i + '</strong>';
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-        infowindow.open(map, marker);
-    });
+    infowindow.open(map, marker);
+  });
 
-    return marker;
+  return marker;
 }
 
 /** For test **/
 function printShape(shapeTmp, index) {
-    var routeLine = [];
-    $.each(shapeTmp, function(i, item) {
-        routeLine.push({
-            lat: parseFloat(item.LAT.replace(",", ".")),
-            lng: parseFloat(item.LON.replace(",", "."))
-        });
-        //createMarker2(item, i).setMap(map);
+  var routeLine = [];
+  $.each(shapeTmp, function(i, item) {
+    routeLine.push({
+      lat: parseFloat(item.LAT.replace(",", ".")),
+      lng: parseFloat(item.LON.replace(",", "."))
     });
+    //createMarker2(item, i).setMap(map);
+  });
 
-    var routePath = new google.maps.Polyline({
-        path: routeLine,
-        geodesic: true,
-        strokeColor: colors[index],
-        strokeOpacity: 1.0,
-        strokeWeight: 2
-    });
-    routePath.setMap(map);
+  var routePath = new google.maps.Polyline({
+    path: routeLine,
+    geodesic: true,
+    strokeColor: colors[index],
+    strokeOpacity: 1.0,
+    strokeWeight: 2
+  });
+  routePath.setMap(map);
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
 
 function initialize() {
-    var mapCanvas = document.getElementById('map');
-    var mapOptions = {
-        center: new google.maps.LatLng(-25.383948, -49.246980),
-        zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
-        scrollwheel: false,
-        styles: mapStylesGray
-    }
+  var mapCanvas = document.getElementById('map');
+  var mapOptions = {
+    center: new google.maps.LatLng(-25.383948, -49.246980),
+    zoom: 15,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    scrollwheel: false,
+    styles: mapStylesGray
+  }
 
-    map = new google.maps.Map(mapCanvas, mapOptions);
-    getRouteJson();
+  map = new google.maps.Map(mapCanvas, mapOptions);
+  getRouteJson();
 }
 
 
